@@ -1,0 +1,18 @@
+[2025-12-19 17:42:48.445] [info] HikRobot's daemon thread started.
+[2025-12-19 17:42:48.478] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-19 17:42:48.579] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-19 17:42:48.618] [info] [Aimer] successfully loading shootmode
+[2025-12-19 17:42:49.582] [info] Reset usb successfully :)
+[2025-12-19 17:42:49.600] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-19 17:42:49.700] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-19 17:42:49.828] [info] Reset usb successfully :)
+[2025-12-19 17:42:49.845] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-19 17:42:49.945] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-19 17:42:50.949] [info] Reset usb successfully :)
+[2025-12-19 17:42:50.968] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-19 17:42:51.068] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-19 17:42:51.195] [info] Reset usb successfully :)
+[2025-12-19 17:42:51.212] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-19 17:42:51.312] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-19 17:42:51.789] [info] Reset usb successfully :)
+[2025-12-19 17:42:52.508] [info] HikRobot's capture thread started.

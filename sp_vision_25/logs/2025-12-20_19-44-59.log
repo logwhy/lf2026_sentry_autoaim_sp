@@ -1,0 +1,58 @@
+[2025-12-20 19:44:59.895] [info] [Gimbal] read_thread started.
+[2025-12-20 19:44:59.895] [info] [Gimbal] First q received.
+[2025-12-20 19:44:59.896] [info] HikRobot's daemon thread started.
+[2025-12-20 19:45:00.003] [warning] [Gimbal] read timeout, read 37 / 41 bytes
+[2025-12-20 19:45:00.105] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:00.207] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:00.212] [info] [MultiThreadDetector] initialized !
+[2025-12-20 19:45:00.213] [info] 初始化相机: FRONT
+[2025-12-20 19:45:00.218] [info] HikRobot's capture thread started.
+[2025-12-20 19:45:00.308] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:00.410] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:00.511] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:00.613] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:00.715] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:00.817] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:00.919] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.020] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.122] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.224] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.325] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.427] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.529] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.630] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.732] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.833] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:01.935] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.036] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.137] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.215] [info] HikRobot's daemon thread started.
+[2025-12-20 19:45:02.239] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.340] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.442] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.498] [info] [MultiThreadDetector] initialized !
+[2025-12-20 19:45:02.499] [info] 初始化相机: BACK
+[2025-12-20 19:45:02.534] [info] HikRobot's capture thread started.
+[2025-12-20 19:45:02.544] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.645] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.746] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.848] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:02.950] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.052] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.154] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.255] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.357] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.458] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.560] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.662] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.764] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.866] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:03.967] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:04.069] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:45:32.043] [info] HikRobot's capture thread stopped.
+[2025-12-20 19:45:32.050] [info] HikRobot's daemon thread stopped.
+[2025-12-20 19:45:32.050] [info] HikRobot destructed.
+[2025-12-20 19:45:32.159] [info] HikRobot's capture thread stopped.
+[2025-12-20 19:45:32.169] [info] HikRobot's daemon thread stopped.
+[2025-12-20 19:45:32.171] [info] HikRobot destructed.
+[2025-12-20 19:45:32.175] [info] [Gimbal] read_thread stopped.

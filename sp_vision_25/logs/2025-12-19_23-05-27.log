@@ -1,0 +1,54 @@
+[2025-12-19 23:05:27.165] [info] 正在初始化相机 1...
+[2025-12-19 23:05:27.166] [info] HikRobot's daemon thread started.
+[2025-12-19 23:05:27.485] [info] [MultiThreadDetector] initialized !
+[2025-12-19 23:05:27.486] [info] 等待 USB 总线稳定 (2s)...
+[2025-12-19 23:05:27.500] [info] HikRobot's capture thread started.
+[2025-12-19 23:05:29.486] [info] 正在初始化相机 2...
+[2025-12-19 23:05:29.487] [info] HikRobot's daemon thread started.
+[2025-12-19 23:05:29.768] [info] [MultiThreadDetector] initialized !
+[2025-12-19 23:05:29.769] [info] [Aimer] successfully loading shootmode
+[2025-12-19 23:05:29.770] [info] 所有模块初始化成功！
+[2025-12-19 23:05:29.773] [info] HikRobot's capture thread started.
+[2025-12-19 23:05:40.558] [debug] [Target] r=0.050, l=0.000
+[2025-12-19 23:05:40.558] [debug] [Tracker] Target diverged!
+[2025-12-19 23:05:41.782] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:41.856] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:41.871] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.029] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.101] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.185] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.187] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.316] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.318] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.482] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.484] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.616] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.616] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:42.863] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:44.002] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:44.127] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:44.508] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:44.907] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:45.238] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:45.597] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:45.730] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:45.780] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:45.782] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:46.088] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:46.265] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:46.890] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:46.985] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:47.065] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:47.140] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:47.270] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:47.619] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:47.631] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:47.869] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:50.047] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:53.264] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 23:05:53.396] [info] HikRobot's capture thread stopped.
+[2025-12-19 23:05:53.403] [info] HikRobot's daemon thread stopped.
+[2025-12-19 23:05:53.404] [info] HikRobot destructed.
+[2025-12-19 23:05:53.425] [info] HikRobot's capture thread stopped.
+[2025-12-19 23:05:53.432] [info] HikRobot's daemon thread stopped.
+[2025-12-19 23:05:53.434] [info] HikRobot destructed.

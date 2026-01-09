@@ -1,0 +1,90 @@
+[2025-12-18 20:07:55.721] [info] 正在初始化相机 1...
+[2025-12-18 20:07:55.721] [info] HikRobot's daemon thread started.
+[2025-12-18 20:07:55.739] [warning] Not found camera!
+[2025-12-18 20:07:55.839] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:55.839] [warning] Unable to open usb!
+[2025-12-18 20:07:55.839] [warning] Not found camera!
+[2025-12-18 20:07:55.939] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:55.939] [warning] Unable to open usb!
+[2025-12-18 20:07:55.940] [warning] Not found camera!
+[2025-12-18 20:07:56.037] [info] [MultiThreadDetector] initialized !
+[2025-12-18 20:07:56.039] [info] 等待 USB 总线稳定 (2s)...
+[2025-12-18 20:07:56.040] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.040] [warning] Unable to open usb!
+[2025-12-18 20:07:56.040] [warning] Not found camera!
+[2025-12-18 20:07:56.140] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.140] [warning] Unable to open usb!
+[2025-12-18 20:07:56.140] [warning] Not found camera!
+[2025-12-18 20:07:56.241] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.241] [warning] Unable to open usb!
+[2025-12-18 20:07:56.241] [warning] Not found camera!
+[2025-12-18 20:07:56.341] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.341] [warning] Unable to open usb!
+[2025-12-18 20:07:56.341] [warning] Not found camera!
+[2025-12-18 20:07:56.441] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.441] [warning] Unable to open usb!
+[2025-12-18 20:07:56.442] [warning] Not found camera!
+[2025-12-18 20:07:56.542] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.542] [warning] Unable to open usb!
+[2025-12-18 20:07:56.542] [warning] Not found camera!
+[2025-12-18 20:07:56.642] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.642] [warning] Unable to open usb!
+[2025-12-18 20:07:56.643] [warning] Not found camera!
+[2025-12-18 20:07:56.743] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.743] [warning] Unable to open usb!
+[2025-12-18 20:07:56.743] [warning] Not found camera!
+[2025-12-18 20:07:56.843] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.843] [warning] Unable to open usb!
+[2025-12-18 20:07:56.844] [warning] Not found camera!
+[2025-12-18 20:07:56.944] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:56.944] [warning] Unable to open usb!
+[2025-12-18 20:07:56.944] [warning] Not found camera!
+[2025-12-18 20:07:57.044] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.044] [warning] Unable to open usb!
+[2025-12-18 20:07:57.044] [warning] Not found camera!
+[2025-12-18 20:07:57.144] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.145] [warning] Unable to open usb!
+[2025-12-18 20:07:57.145] [warning] Not found camera!
+[2025-12-18 20:07:57.245] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.245] [warning] Unable to open usb!
+[2025-12-18 20:07:57.245] [warning] Not found camera!
+[2025-12-18 20:07:57.345] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.345] [warning] Unable to open usb!
+[2025-12-18 20:07:57.346] [warning] Not found camera!
+[2025-12-18 20:07:57.446] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.446] [warning] Unable to open usb!
+[2025-12-18 20:07:57.446] [warning] Not found camera!
+[2025-12-18 20:07:57.546] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.546] [warning] Unable to open usb!
+[2025-12-18 20:07:57.547] [warning] Not found camera!
+[2025-12-18 20:07:57.647] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.647] [warning] Unable to open usb!
+[2025-12-18 20:07:57.647] [warning] Not found camera!
+[2025-12-18 20:07:57.747] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.747] [warning] Unable to open usb!
+[2025-12-18 20:07:57.748] [warning] Not found camera!
+[2025-12-18 20:07:57.848] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.848] [warning] Unable to open usb!
+[2025-12-18 20:07:57.848] [warning] Not found camera!
+[2025-12-18 20:07:57.948] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:57.948] [warning] Unable to open usb!
+[2025-12-18 20:07:57.949] [warning] Not found camera!
+[2025-12-18 20:07:58.039] [info] 正在初始化相机 2...
+[2025-12-18 20:07:58.040] [info] HikRobot's daemon thread started.
+[2025-12-18 20:07:58.040] [warning] Not found camera!
+[2025-12-18 20:07:58.049] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:58.049] [warning] Unable to open usb!
+[2025-12-18 20:07:58.049] [warning] Not found camera!
+[2025-12-18 20:07:58.078] [error] 初始化异常: bad conversion
+[2025-12-18 20:07:58.140] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:58.141] [warning] Unable to open usb!
+[2025-12-18 20:07:58.141] [warning] Not found camera!
+[2025-12-18 20:07:58.141] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:58.141] [info] HikRobot's daemon thread stopped.
+[2025-12-18 20:07:58.141] [info] HikRobot destructed.
+[2025-12-18 20:07:58.149] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:58.149] [warning] Unable to open usb!
+[2025-12-18 20:07:58.149] [warning] Not found camera!
+[2025-12-18 20:07:58.149] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 20:07:58.149] [info] HikRobot's daemon thread stopped.
+[2025-12-18 20:07:58.149] [info] HikRobot destructed.

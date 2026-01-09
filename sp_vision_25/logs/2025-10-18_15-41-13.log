@@ -1,0 +1,849 @@
+[2025-10-18 15:41:13.730] [info] [Gimbal] read_thread started.
+[2025-10-18 15:41:13.816] [info] [Gimbal] First q received.
+[2025-10-18 15:41:13.816] [info] [Main] Gimbal test (no fire) started.
+[2025-10-18 15:41:13.816] [info] Write
+[2025-10-18 15:41:13.995] [info] Write
+[2025-10-18 15:41:14.070] [info] Write
+[2025-10-18 15:41:14.146] [info] Write
+[2025-10-18 15:41:14.221] [info] Write
+[2025-10-18 15:41:14.295] [info] Write
+[2025-10-18 15:41:14.371] [info] Write
+[2025-10-18 15:41:14.445] [info] Write
+[2025-10-18 15:41:14.520] [info] Write
+[2025-10-18 15:41:14.595] [info] Write
+[2025-10-18 15:41:14.670] [info] Write
+[2025-10-18 15:41:14.746] [info] Write
+[2025-10-18 15:41:14.821] [info] Write
+[2025-10-18 15:41:14.896] [info] Write
+[2025-10-18 15:41:14.971] [info] Write
+[2025-10-18 15:41:15.045] [info] Write
+[2025-10-18 15:41:15.120] [info] Write
+[2025-10-18 15:41:15.196] [info] Write
+[2025-10-18 15:41:15.271] [info] Write
+[2025-10-18 15:41:15.346] [info] Write
+[2025-10-18 15:41:15.421] [info] Write
+[2025-10-18 15:41:15.496] [info] Write
+[2025-10-18 15:41:15.570] [info] Write
+[2025-10-18 15:41:15.645] [info] Write
+[2025-10-18 15:41:15.720] [info] Write
+[2025-10-18 15:41:15.796] [info] Write
+[2025-10-18 15:41:15.870] [info] Write
+[2025-10-18 15:41:15.945] [info] Write
+[2025-10-18 15:41:16.020] [info] Write
+[2025-10-18 15:41:16.096] [info] Write
+[2025-10-18 15:41:16.170] [info] Write
+[2025-10-18 15:41:16.245] [info] Write
+[2025-10-18 15:41:16.320] [info] Write
+[2025-10-18 15:41:16.396] [info] Write
+[2025-10-18 15:41:16.470] [info] Write
+[2025-10-18 15:41:16.545] [info] Write
+[2025-10-18 15:41:16.620] [info] Write
+[2025-10-18 15:41:16.696] [info] Write
+[2025-10-18 15:41:16.770] [info] Write
+[2025-10-18 15:41:16.846] [info] Write
+[2025-10-18 15:41:16.921] [info] Write
+[2025-10-18 15:41:16.996] [info] Write
+[2025-10-18 15:41:17.070] [info] Write
+[2025-10-18 15:41:17.145] [info] Write
+[2025-10-18 15:41:17.220] [info] Write
+[2025-10-18 15:41:17.296] [info] Write
+[2025-10-18 15:41:17.370] [info] Write
+[2025-10-18 15:41:17.445] [info] Write
+[2025-10-18 15:41:17.520] [info] Write
+[2025-10-18 15:41:17.595] [info] Write
+[2025-10-18 15:41:17.671] [info] Write
+[2025-10-18 15:41:17.745] [info] Write
+[2025-10-18 15:41:17.820] [info] Write
+[2025-10-18 15:41:17.896] [info] Write
+[2025-10-18 15:41:17.970] [info] Write
+[2025-10-18 15:41:18.046] [info] Write
+[2025-10-18 15:41:18.120] [info] Write
+[2025-10-18 15:41:18.196] [info] Write
+[2025-10-18 15:41:18.270] [info] Write
+[2025-10-18 15:41:18.346] [info] Write
+[2025-10-18 15:41:18.421] [info] Write
+[2025-10-18 15:41:18.495] [info] Write
+[2025-10-18 15:41:18.570] [info] Write
+[2025-10-18 15:41:18.646] [info] Write
+[2025-10-18 15:41:18.720] [info] Write
+[2025-10-18 15:41:18.795] [info] Write
+[2025-10-18 15:41:18.871] [info] Write
+[2025-10-18 15:41:18.945] [info] Write
+[2025-10-18 15:41:19.021] [info] Write
+[2025-10-18 15:41:19.095] [info] Write
+[2025-10-18 15:41:19.170] [info] Write
+[2025-10-18 15:41:19.245] [info] Write
+[2025-10-18 15:41:19.320] [info] Write
+[2025-10-18 15:41:19.395] [info] Write
+[2025-10-18 15:41:19.471] [info] Write
+[2025-10-18 15:41:19.545] [info] Write
+[2025-10-18 15:41:19.620] [info] Write
+[2025-10-18 15:41:19.696] [info] Write
+[2025-10-18 15:41:19.770] [info] Write
+[2025-10-18 15:41:19.845] [info] Write
+[2025-10-18 15:41:19.921] [info] Write
+[2025-10-18 15:41:19.996] [info] Write
+[2025-10-18 15:41:20.070] [info] Write
+[2025-10-18 15:41:20.145] [info] Write
+[2025-10-18 15:41:20.220] [info] Write
+[2025-10-18 15:41:20.295] [info] Write
+[2025-10-18 15:41:20.371] [info] Write
+[2025-10-18 15:41:20.446] [info] Write
+[2025-10-18 15:41:20.520] [info] Write
+[2025-10-18 15:41:20.595] [info] Write
+[2025-10-18 15:41:20.671] [info] Write
+[2025-10-18 15:41:20.746] [info] Write
+[2025-10-18 15:41:20.820] [info] Write
+[2025-10-18 15:41:20.896] [info] Write
+[2025-10-18 15:41:20.971] [info] Write
+[2025-10-18 15:41:21.045] [info] Write
+[2025-10-18 15:41:21.121] [info] Write
+[2025-10-18 15:41:21.195] [info] Write
+[2025-10-18 15:41:21.271] [info] Write
+[2025-10-18 15:41:21.346] [info] Write
+[2025-10-18 15:41:21.421] [info] Write
+[2025-10-18 15:41:21.496] [info] Write
+[2025-10-18 15:41:21.570] [info] Write
+[2025-10-18 15:41:21.645] [info] Write
+[2025-10-18 15:41:21.721] [info] Write
+[2025-10-18 15:41:21.795] [info] Write
+[2025-10-18 15:41:21.871] [info] Write
+[2025-10-18 15:41:21.945] [info] Write
+[2025-10-18 15:41:22.021] [info] Write
+[2025-10-18 15:41:22.095] [info] Write
+[2025-10-18 15:41:22.171] [info] Write
+[2025-10-18 15:41:22.246] [info] Write
+[2025-10-18 15:41:22.321] [info] Write
+[2025-10-18 15:41:22.395] [info] Write
+[2025-10-18 15:41:22.471] [info] Write
+[2025-10-18 15:41:22.545] [info] Write
+[2025-10-18 15:41:22.621] [info] Write
+[2025-10-18 15:41:22.695] [info] Write
+[2025-10-18 15:41:22.771] [info] Write
+[2025-10-18 15:41:22.845] [info] Write
+[2025-10-18 15:41:22.921] [info] Write
+[2025-10-18 15:41:22.995] [info] Write
+[2025-10-18 15:41:23.071] [info] Write
+[2025-10-18 15:41:23.145] [info] Write
+[2025-10-18 15:41:23.221] [info] Write
+[2025-10-18 15:41:23.295] [info] Write
+[2025-10-18 15:41:23.370] [info] Write
+[2025-10-18 15:41:23.445] [info] Write
+[2025-10-18 15:41:23.521] [info] Write
+[2025-10-18 15:41:23.595] [info] Write
+[2025-10-18 15:41:23.671] [info] Write
+[2025-10-18 15:41:23.745] [info] Write
+[2025-10-18 15:41:23.821] [info] Write
+[2025-10-18 15:41:23.895] [info] Write
+[2025-10-18 15:41:23.970] [info] Write
+[2025-10-18 15:41:24.045] [info] Write
+[2025-10-18 15:41:24.121] [info] Write
+[2025-10-18 15:41:24.195] [info] Write
+[2025-10-18 15:41:24.270] [info] Write
+[2025-10-18 15:41:24.346] [info] Write
+[2025-10-18 15:41:24.421] [info] Write
+[2025-10-18 15:41:24.496] [info] Write
+[2025-10-18 15:41:24.570] [info] Write
+[2025-10-18 15:41:24.646] [info] Write
+[2025-10-18 15:41:24.720] [info] Write
+[2025-10-18 15:41:24.795] [info] Write
+[2025-10-18 15:41:24.871] [info] Write
+[2025-10-18 15:41:24.946] [info] Write
+[2025-10-18 15:41:25.020] [info] Write
+[2025-10-18 15:41:25.095] [info] Write
+[2025-10-18 15:41:25.171] [info] Write
+[2025-10-18 15:41:25.245] [info] Write
+[2025-10-18 15:41:25.320] [info] Write
+[2025-10-18 15:41:25.396] [info] Write
+[2025-10-18 15:41:25.470] [info] Write
+[2025-10-18 15:41:25.546] [info] Write
+[2025-10-18 15:41:25.620] [info] Write
+[2025-10-18 15:41:25.696] [info] Write
+[2025-10-18 15:41:25.770] [info] Write
+[2025-10-18 15:41:25.845] [info] Write
+[2025-10-18 15:41:25.920] [info] Write
+[2025-10-18 15:41:25.995] [info] Write
+[2025-10-18 15:41:26.070] [info] Write
+[2025-10-18 15:41:26.145] [info] Write
+[2025-10-18 15:41:26.220] [info] Write
+[2025-10-18 15:41:26.295] [info] Write
+[2025-10-18 15:41:26.370] [info] Write
+[2025-10-18 15:41:26.445] [info] Write
+[2025-10-18 15:41:26.521] [info] Write
+[2025-10-18 15:41:26.596] [info] Write
+[2025-10-18 15:41:26.670] [info] Write
+[2025-10-18 15:41:26.745] [info] Write
+[2025-10-18 15:41:26.820] [info] Write
+[2025-10-18 15:41:26.895] [info] Write
+[2025-10-18 15:41:26.971] [info] Write
+[2025-10-18 15:41:27.045] [info] Write
+[2025-10-18 15:41:27.120] [info] Write
+[2025-10-18 15:41:27.196] [info] Write
+[2025-10-18 15:41:27.270] [info] Write
+[2025-10-18 15:41:27.346] [info] Write
+[2025-10-18 15:41:27.421] [info] Write
+[2025-10-18 15:41:27.495] [info] Write
+[2025-10-18 15:41:27.570] [info] Write
+[2025-10-18 15:41:27.645] [info] Write
+[2025-10-18 15:41:27.721] [info] Write
+[2025-10-18 15:41:27.796] [info] Write
+[2025-10-18 15:41:27.871] [info] Write
+[2025-10-18 15:41:27.948] [info] Write
+[2025-10-18 15:41:28.022] [info] Write
+[2025-10-18 15:41:28.098] [info] Write
+[2025-10-18 15:41:28.173] [info] Write
+[2025-10-18 15:41:28.247] [info] Write
+[2025-10-18 15:41:28.322] [info] Write
+[2025-10-18 15:41:28.398] [info] Write
+[2025-10-18 15:41:28.472] [info] Write
+[2025-10-18 15:41:28.547] [info] Write
+[2025-10-18 15:41:28.622] [info] Write
+[2025-10-18 15:41:28.697] [info] Write
+[2025-10-18 15:41:28.773] [info] Write
+[2025-10-18 15:41:28.847] [info] Write
+[2025-10-18 15:41:28.922] [info] Write
+[2025-10-18 15:41:28.998] [info] Write
+[2025-10-18 15:41:29.072] [info] Write
+[2025-10-18 15:41:29.148] [info] Write
+[2025-10-18 15:41:29.222] [info] Write
+[2025-10-18 15:41:29.297] [info] Write
+[2025-10-18 15:41:29.372] [info] Write
+[2025-10-18 15:41:29.447] [info] Write
+[2025-10-18 15:41:29.522] [info] Write
+[2025-10-18 15:41:29.598] [info] Write
+[2025-10-18 15:41:29.673] [info] Write
+[2025-10-18 15:41:29.747] [info] Write
+[2025-10-18 15:41:29.823] [info] Write
+[2025-10-18 15:41:29.898] [info] Write
+[2025-10-18 15:41:29.972] [info] Write
+[2025-10-18 15:41:30.048] [info] Write
+[2025-10-18 15:41:30.122] [info] Write
+[2025-10-18 15:41:30.197] [info] Write
+[2025-10-18 15:41:30.272] [info] Write
+[2025-10-18 15:41:30.348] [info] Write
+[2025-10-18 15:41:30.422] [info] Write
+[2025-10-18 15:41:30.498] [info] Write
+[2025-10-18 15:41:30.572] [info] Write
+[2025-10-18 15:41:30.648] [info] Write
+[2025-10-18 15:41:30.722] [info] Write
+[2025-10-18 15:41:30.798] [info] Write
+[2025-10-18 15:41:30.873] [info] Write
+[2025-10-18 15:41:30.947] [info] Write
+[2025-10-18 15:41:31.023] [info] Write
+[2025-10-18 15:41:31.097] [info] Write
+[2025-10-18 15:41:31.173] [info] Write
+[2025-10-18 15:41:31.247] [info] Write
+[2025-10-18 15:41:31.322] [info] Write
+[2025-10-18 15:41:31.397] [info] Write
+[2025-10-18 15:41:31.473] [info] Write
+[2025-10-18 15:41:31.548] [info] Write
+[2025-10-18 15:41:31.622] [info] Write
+[2025-10-18 15:41:31.697] [info] Write
+[2025-10-18 15:41:31.773] [info] Write
+[2025-10-18 15:41:31.848] [info] Write
+[2025-10-18 15:41:31.922] [info] Write
+[2025-10-18 15:41:31.998] [info] Write
+[2025-10-18 15:41:32.072] [info] Write
+[2025-10-18 15:41:32.147] [info] Write
+[2025-10-18 15:41:32.222] [info] Write
+[2025-10-18 15:41:32.297] [info] Write
+[2025-10-18 15:41:32.373] [info] Write
+[2025-10-18 15:41:32.447] [info] Write
+[2025-10-18 15:41:32.522] [info] Write
+[2025-10-18 15:41:32.598] [info] Write
+[2025-10-18 15:41:32.672] [info] Write
+[2025-10-18 15:41:32.747] [info] Write
+[2025-10-18 15:41:32.823] [info] Write
+[2025-10-18 15:41:32.898] [info] Write
+[2025-10-18 15:41:32.972] [info] Write
+[2025-10-18 15:41:33.048] [info] Write
+[2025-10-18 15:41:33.123] [info] Write
+[2025-10-18 15:41:33.198] [info] Write
+[2025-10-18 15:41:33.272] [info] Write
+[2025-10-18 15:41:33.348] [info] Write
+[2025-10-18 15:41:33.423] [info] Write
+[2025-10-18 15:41:33.497] [info] Write
+[2025-10-18 15:41:33.572] [info] Write
+[2025-10-18 15:41:33.647] [info] Write
+[2025-10-18 15:41:33.723] [info] Write
+[2025-10-18 15:41:33.797] [info] Write
+[2025-10-18 15:41:33.873] [info] Write
+[2025-10-18 15:41:33.947] [info] Write
+[2025-10-18 15:41:34.022] [info] Write
+[2025-10-18 15:41:34.098] [info] Write
+[2025-10-18 15:41:34.172] [info] Write
+[2025-10-18 15:41:34.248] [info] Write
+[2025-10-18 15:41:34.322] [info] Write
+[2025-10-18 15:41:34.398] [info] Write
+[2025-10-18 15:41:34.472] [info] Write
+[2025-10-18 15:41:34.548] [info] Write
+[2025-10-18 15:41:34.622] [info] Write
+[2025-10-18 15:41:34.698] [info] Write
+[2025-10-18 15:41:34.772] [info] Write
+[2025-10-18 15:41:34.848] [info] Write
+[2025-10-18 15:41:34.922] [info] Write
+[2025-10-18 15:41:34.998] [info] Write
+[2025-10-18 15:41:35.073] [info] Write
+[2025-10-18 15:41:35.147] [info] Write
+[2025-10-18 15:41:35.223] [info] Write
+[2025-10-18 15:41:35.298] [info] Write
+[2025-10-18 15:41:35.372] [info] Write
+[2025-10-18 15:41:35.447] [info] Write
+[2025-10-18 15:41:35.523] [info] Write
+[2025-10-18 15:41:35.598] [info] Write
+[2025-10-18 15:41:35.672] [info] Write
+[2025-10-18 15:41:35.747] [info] Write
+[2025-10-18 15:41:35.823] [info] Write
+[2025-10-18 15:41:35.897] [info] Write
+[2025-10-18 15:41:35.973] [info] Write
+[2025-10-18 15:41:36.048] [info] Write
+[2025-10-18 15:41:36.123] [info] Write
+[2025-10-18 15:41:36.197] [info] Write
+[2025-10-18 15:41:36.272] [info] Write
+[2025-10-18 15:41:36.347] [info] Write
+[2025-10-18 15:41:36.422] [info] Write
+[2025-10-18 15:41:36.498] [info] Write
+[2025-10-18 15:41:36.572] [info] Write
+[2025-10-18 15:41:36.647] [info] Write
+[2025-10-18 15:41:36.722] [info] Write
+[2025-10-18 15:41:36.798] [info] Write
+[2025-10-18 15:41:36.872] [info] Write
+[2025-10-18 15:41:36.948] [info] Write
+[2025-10-18 15:41:37.022] [info] Write
+[2025-10-18 15:41:37.098] [info] Write
+[2025-10-18 15:41:37.172] [info] Write
+[2025-10-18 15:41:37.248] [info] Write
+[2025-10-18 15:41:37.322] [info] Write
+[2025-10-18 15:41:37.397] [info] Write
+[2025-10-18 15:41:37.473] [info] Write
+[2025-10-18 15:41:37.548] [info] Write
+[2025-10-18 15:41:37.622] [info] Write
+[2025-10-18 15:41:37.697] [info] Write
+[2025-10-18 15:41:37.772] [info] Write
+[2025-10-18 15:41:37.847] [info] Write
+[2025-10-18 15:41:37.922] [info] Write
+[2025-10-18 15:41:37.997] [info] Write
+[2025-10-18 15:41:38.073] [info] Write
+[2025-10-18 15:41:38.147] [info] Write
+[2025-10-18 15:41:38.222] [info] Write
+[2025-10-18 15:41:38.298] [info] Write
+[2025-10-18 15:41:38.372] [info] Write
+[2025-10-18 15:41:38.447] [info] Write
+[2025-10-18 15:41:38.523] [info] Write
+[2025-10-18 15:41:38.597] [info] Write
+[2025-10-18 15:41:38.672] [info] Write
+[2025-10-18 15:41:38.748] [info] Write
+[2025-10-18 15:41:38.822] [info] Write
+[2025-10-18 15:41:38.897] [info] Write
+[2025-10-18 15:41:38.973] [info] Write
+[2025-10-18 15:41:39.048] [info] Write
+[2025-10-18 15:41:39.123] [info] Write
+[2025-10-18 15:41:39.197] [info] Write
+[2025-10-18 15:41:39.273] [info] Write
+[2025-10-18 15:41:39.347] [info] Write
+[2025-10-18 15:41:39.423] [info] Write
+[2025-10-18 15:41:39.497] [info] Write
+[2025-10-18 15:41:39.573] [info] Write
+[2025-10-18 15:41:39.648] [info] Write
+[2025-10-18 15:41:39.722] [info] Write
+[2025-10-18 15:41:39.797] [info] Write
+[2025-10-18 15:41:39.873] [info] Write
+[2025-10-18 15:41:39.948] [info] Write
+[2025-10-18 15:41:40.023] [info] Write
+[2025-10-18 15:41:40.097] [info] Write
+[2025-10-18 15:41:40.172] [info] Write
+[2025-10-18 15:41:40.247] [info] Write
+[2025-10-18 15:41:40.323] [info] Write
+[2025-10-18 15:41:40.398] [info] Write
+[2025-10-18 15:41:40.472] [info] Write
+[2025-10-18 15:41:40.548] [info] Write
+[2025-10-18 15:41:40.622] [info] Write
+[2025-10-18 15:41:40.697] [info] Write
+[2025-10-18 15:41:40.773] [info] Write
+[2025-10-18 15:41:40.847] [info] Write
+[2025-10-18 15:41:40.922] [info] Write
+[2025-10-18 15:41:40.997] [info] Write
+[2025-10-18 15:41:41.072] [info] Write
+[2025-10-18 15:41:41.148] [info] Write
+[2025-10-18 15:41:41.223] [info] Write
+[2025-10-18 15:41:41.297] [info] Write
+[2025-10-18 15:41:41.372] [info] Write
+[2025-10-18 15:41:41.448] [info] Write
+[2025-10-18 15:41:41.523] [info] Write
+[2025-10-18 15:41:41.597] [info] Write
+[2025-10-18 15:41:41.672] [info] Write
+[2025-10-18 15:41:41.748] [info] Write
+[2025-10-18 15:41:41.822] [info] Write
+[2025-10-18 15:41:41.898] [info] Write
+[2025-10-18 15:41:41.972] [info] Write
+[2025-10-18 15:41:42.048] [info] Write
+[2025-10-18 15:41:42.122] [info] Write
+[2025-10-18 15:41:42.197] [info] Write
+[2025-10-18 15:41:42.273] [info] Write
+[2025-10-18 15:41:42.348] [info] Write
+[2025-10-18 15:41:42.422] [info] Write
+[2025-10-18 15:41:42.498] [info] Write
+[2025-10-18 15:41:42.573] [info] Write
+[2025-10-18 15:41:42.648] [info] Write
+[2025-10-18 15:41:42.722] [info] Write
+[2025-10-18 15:41:42.798] [info] Write
+[2025-10-18 15:41:42.872] [info] Write
+[2025-10-18 15:41:42.947] [info] Write
+[2025-10-18 15:41:43.022] [info] Write
+[2025-10-18 15:41:43.098] [info] Write
+[2025-10-18 15:41:43.172] [info] Write
+[2025-10-18 15:41:43.248] [info] Write
+[2025-10-18 15:41:43.322] [info] Write
+[2025-10-18 15:41:43.398] [info] Write
+[2025-10-18 15:41:43.473] [info] Write
+[2025-10-18 15:41:43.547] [info] Write
+[2025-10-18 15:41:43.622] [info] Write
+[2025-10-18 15:41:43.698] [info] Write
+[2025-10-18 15:41:43.772] [info] Write
+[2025-10-18 15:41:43.848] [info] Write
+[2025-10-18 15:41:43.922] [info] Write
+[2025-10-18 15:41:43.997] [info] Write
+[2025-10-18 15:41:44.072] [info] Write
+[2025-10-18 15:41:44.147] [info] Write
+[2025-10-18 15:41:44.222] [info] Write
+[2025-10-18 15:41:44.298] [info] Write
+[2025-10-18 15:41:44.372] [info] Write
+[2025-10-18 15:41:44.447] [info] Write
+[2025-10-18 15:41:44.522] [info] Write
+[2025-10-18 15:41:44.597] [info] Write
+[2025-10-18 15:41:44.672] [info] Write
+[2025-10-18 15:41:44.748] [info] Write
+[2025-10-18 15:41:44.822] [info] Write
+[2025-10-18 15:41:44.897] [info] Write
+[2025-10-18 15:41:44.973] [info] Write
+[2025-10-18 15:41:45.047] [info] Write
+[2025-10-18 15:41:45.122] [info] Write
+[2025-10-18 15:41:45.198] [info] Write
+[2025-10-18 15:41:45.272] [info] Write
+[2025-10-18 15:41:45.347] [info] Write
+[2025-10-18 15:41:45.423] [info] Write
+[2025-10-18 15:41:45.497] [info] Write
+[2025-10-18 15:41:45.568] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:45.670] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:45.772] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:45.874] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:45.975] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.076] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.179] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.280] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.381] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.483] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.585] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.687] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.789] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.890] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:46.992] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:47.093] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:47.195] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:47.296] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:47.398] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:47.499] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:47.600] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:47.701] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:47.803] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:47.904] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.006] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.107] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.209] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.310] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.412] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.513] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.615] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.717] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.819] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:48.921] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.023] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.125] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.226] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.327] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.429] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.530] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.632] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.733] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.835] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:49.936] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.038] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.139] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.240] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.342] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.444] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.546] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.647] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.749] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.851] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:50.952] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.053] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.155] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.256] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.358] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.460] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.561] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.663] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.765] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.867] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:51.969] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.071] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.173] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.275] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.376] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.478] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.580] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.682] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.784] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.886] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:52.987] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:53.089] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:53.190] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:53.291] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:53.393] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:53.495] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:53.597] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:53.699] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:53.800] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:53.902] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.004] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.106] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.207] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.308] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.409] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.511] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.613] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.715] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.817] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:54.919] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.020] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.121] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.223] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.324] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.426] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.528] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.629] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.731] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.833] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:55.934] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.037] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.138] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.239] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.341] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.443] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.545] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.647] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.749] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.850] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:56.951] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.054] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.156] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.258] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.359] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.460] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.561] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.663] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.765] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.867] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:57.969] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.070] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.172] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.274] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.376] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.478] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.579] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.680] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.781] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.883] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:58.984] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:59.085] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:59.187] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:59.288] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:59.390] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:59.491] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:59.593] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:59.694] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:59.796] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:41:59.898] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.000] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.102] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.204] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.306] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.408] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.510] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.611] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.713] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.814] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:00.916] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.019] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.121] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.222] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.324] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.426] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.528] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.630] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.732] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.834] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:01.935] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.037] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.138] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.240] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.341] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.443] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.544] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.646] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.747] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.848] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:02.950] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.051] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.152] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.254] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.356] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.458] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.560] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.661] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.762] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.864] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:03.965] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:04.068] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:04.170] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:04.271] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:04.372] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:04.474] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:04.576] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:04.705] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:04.806] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:04.908] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.010] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.112] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.214] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.315] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.416] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.517] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.619] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.721] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.823] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:05.926] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.028] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.129] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.231] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.333] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.435] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.537] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.638] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.739] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.840] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:06.942] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.044] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.145] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.246] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.349] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.450] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.552] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.654] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.755] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.857] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:07.959] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.061] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.162] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.264] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.366] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.467] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.569] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.670] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.772] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.873] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:08.976] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.078] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.179] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.280] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.382] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.483] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.585] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.686] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.787] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.888] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:09.990] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:10.092] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:10.194] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:10.295] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:10.396] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:10.498] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:10.600] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:10.701] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:10.802] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:10.904] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.006] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.108] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.210] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.312] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.414] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.515] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.617] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.719] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.821] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:11.923] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.024] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.126] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.228] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.330] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.432] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.533] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.635] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.737] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.839] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:12.941] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.043] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.145] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.247] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.348] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.450] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.552] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.653] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.755] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.857] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:13.959] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.060] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.162] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.263] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.365] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.467] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.568] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.669] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.771] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.874] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:14.975] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.076] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.177] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.279] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.381] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.483] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.584] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.686] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.787] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.889] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:15.990] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:16.092] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:16.194] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:16.296] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:16.398] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:16.500] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:16.602] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:16.704] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:16.806] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:16.908] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.010] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.111] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.212] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.314] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.415] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.517] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.619] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.721] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.823] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:17.925] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.026] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.128] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.229] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.330] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.432] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.533] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.635] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.737] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.838] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:18.940] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.041] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.142] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.244] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.346] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.448] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.549] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.650] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.752] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.854] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:19.956] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.058] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.160] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.261] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.363] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.465] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.567] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.668] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.770] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.871] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:20.973] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.075] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.176] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.278] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.379] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.481] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.583] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.685] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.786] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.888] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:21.989] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:22.091] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:22.193] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:22.294] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:22.395] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:22.497] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:22.600] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:22.701] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:22.802] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:22.904] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.005] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.107] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.208] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.310] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.413] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.514] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.615] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.717] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.818] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:23.920] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.022] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.124] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.226] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.328] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.429] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.530] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.632] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.734] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.835] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:24.936] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.038] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.139] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.241] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.342] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.445] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.547] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.648] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.750] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.852] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:25.954] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.056] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.157] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.259] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.360] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.462] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.564] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.666] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.768] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.869] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:26.971] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.072] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.174] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.276] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.377] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.479] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.581] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.683] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.785] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.886] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:27.987] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:28.089] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:28.191] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:28.292] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:28.393] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:28.494] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-18 15:42:28.596] [warning] [Gimbal] read timeout, read 0 / 2 bytes

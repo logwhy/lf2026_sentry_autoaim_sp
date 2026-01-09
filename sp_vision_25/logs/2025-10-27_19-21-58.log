@@ -1,0 +1,114 @@
+[2025-10-27 19:21:58.877] [info] [0] yolo: 81.0ms, tracker: 0.0ms, aimer: 0.0ms
+[2025-10-27 19:21:58.971] [debug] [Aimer] Unsolvable trajectory0: 27.00 1476.46 25786.86
+[2025-10-27 19:21:58.971] [info] [1] yolo: 49.4ms, tracker: 1.1ms, aimer: 0.1ms
+[2025-10-27 19:21:59.040] [info] [2] yolo: 57.8ms, tracker: 0.0ms, aimer: 0.0ms
+[2025-10-27 19:21:59.159] [debug] [Aimer] Unsolvable trajectory0: 27.00 7627.29 53536.47
+[2025-10-27 19:21:59.159] [info] [3] yolo: 38.5ms, tracker: 1.0ms, aimer: 0.1ms
+[2025-10-27 19:21:59.241] [debug] [Target] r=31.273, l=0.000
+[2025-10-27 19:21:59.241] [debug] [Tracker] Target diverged!
+[2025-10-27 19:21:59.241] [info] [4] yolo: 40.6ms, tracker: 1.6ms, aimer: 0.0ms
+[2025-10-27 19:21:59.333] [debug] [Aimer] Unsolvable trajectory0: 27.00 8020.66 53801.11
+[2025-10-27 19:21:59.333] [info] [5] yolo: 47.6ms, tracker: 1.0ms, aimer: 0.1ms
+[2025-10-27 19:21:59.415] [debug] [Target] r=-2.753, l=0.000
+[2025-10-27 19:21:59.415] [debug] [Tracker] Target diverged!
+[2025-10-27 19:21:59.415] [info] [6] yolo: 37.5ms, tracker: 1.2ms, aimer: 0.0ms
+[2025-10-27 19:21:59.520] [debug] [Aimer] Unsolvable trajectory0: 27.00 7553.81 53444.57
+[2025-10-27 19:21:59.520] [info] [7] yolo: 59.4ms, tracker: 1.0ms, aimer: 0.1ms
+[2025-10-27 19:21:59.609] [debug] [Target] r=3.135, l=0.000
+[2025-10-27 19:21:59.609] [debug] [Tracker] Target diverged!
+[2025-10-27 19:21:59.609] [info] [8] yolo: 46.2ms, tracker: 1.9ms, aimer: 0.0ms
+[2025-10-27 19:21:59.707] [debug] [Aimer] Unsolvable trajectory0: 27.00 7204.86 51873.39
+[2025-10-27 19:21:59.707] [info] [9] yolo: 52.8ms, tracker: 1.4ms, aimer: 0.1ms
+[2025-10-27 19:21:59.806] [debug] [Target] r=-4.285, l=0.000
+[2025-10-27 19:21:59.806] [debug] [Tracker] Target diverged!
+[2025-10-27 19:21:59.806] [info] [10] yolo: 54.3ms, tracker: 1.1ms, aimer: 0.0ms
+[2025-10-27 19:21:59.896] [debug] [Aimer] Unsolvable trajectory0: 27.00 6731.52 47705.22
+[2025-10-27 19:21:59.896] [info] [11] yolo: 44.9ms, tracker: 0.9ms, aimer: 0.1ms
+[2025-10-27 19:21:59.999] [debug] [Target] r=3.994, l=0.000
+[2025-10-27 19:21:59.999] [debug] [Tracker] Target diverged!
+[2025-10-27 19:21:59.999] [info] [12] yolo: 61.6ms, tracker: 1.0ms, aimer: 0.0ms
+[2025-10-27 19:22:00.084] [debug] [Aimer] Unsolvable trajectory0: 27.00 7206.29 44940.86
+[2025-10-27 19:22:00.084] [info] [13] yolo: 39.5ms, tracker: 2.3ms, aimer: 0.3ms
+[2025-10-27 19:22:00.173] [debug] [Target] r=8.127, l=0.000
+[2025-10-27 19:22:00.173] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:00.173] [info] [14] yolo: 47.0ms, tracker: 1.1ms, aimer: 0.2ms
+[2025-10-27 19:22:00.274] [debug] [Aimer] Unsolvable trajectory0: 27.00 9332.97 49259.45
+[2025-10-27 19:22:00.274] [info] [15] yolo: 56.6ms, tracker: 0.9ms, aimer: 0.1ms
+[2025-10-27 19:22:00.379] [debug] [Target] r=10.005, l=0.000
+[2025-10-27 19:22:00.379] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:00.379] [info] [16] yolo: 60.1ms, tracker: 1.1ms, aimer: 0.0ms
+[2025-10-27 19:22:00.495] [debug] [Aimer] Unsolvable trajectory0: 27.00 10637.26 49902.03
+[2025-10-27 19:22:00.496] [info] [17] yolo: 71.0ms, tracker: 2.5ms, aimer: 0.1ms
+[2025-10-27 19:22:00.592] [debug] [Target] r=-1.625, l=0.000
+[2025-10-27 19:22:00.593] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:00.593] [info] [18] yolo: 49.9ms, tracker: 1.1ms, aimer: 0.0ms
+[2025-10-27 19:22:00.679] [debug] [Aimer] Unsolvable trajectory0: 27.00 11394.32 49331.80
+[2025-10-27 19:22:00.679] [info] [19] yolo: 43.2ms, tracker: 1.0ms, aimer: 0.1ms
+[2025-10-27 19:22:00.779] [debug] [Target] r=-0.945, l=0.000
+[2025-10-27 19:22:00.779] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:00.779] [info] [20] yolo: 55.7ms, tracker: 1.1ms, aimer: 0.0ms
+[2025-10-27 19:22:00.871] [debug] [Aimer] Unsolvable trajectory0: 27.00 12246.26 48298.80
+[2025-10-27 19:22:00.871] [info] [21] yolo: 46.1ms, tracker: 0.9ms, aimer: 0.1ms
+[2025-10-27 19:22:00.947] [debug] [Target] r=3.555, l=0.000
+[2025-10-27 19:22:00.947] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:00.947] [info] [22] yolo: 34.9ms, tracker: 1.1ms, aimer: 0.0ms
+[2025-10-27 19:22:01.040] [debug] [Aimer] Unsolvable trajectory0: 27.00 12577.93 45005.49
+[2025-10-27 19:22:01.040] [info] [23] yolo: 47.2ms, tracker: 1.7ms, aimer: 0.2ms
+[2025-10-27 19:22:01.124] [debug] [Target] r=-1.510, l=0.000
+[2025-10-27 19:22:01.124] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:01.124] [info] [24] yolo: 38.4ms, tracker: 1.5ms, aimer: 0.0ms
+[2025-10-27 19:22:01.208] [debug] [Aimer] Unsolvable trajectory0: 27.00 14536.26 45395.37
+[2025-10-27 19:22:01.208] [info] [25] yolo: 40.7ms, tracker: 0.9ms, aimer: 0.1ms
+[2025-10-27 19:22:01.302] [debug] [Target] r=-0.857, l=0.000
+[2025-10-27 19:22:01.302] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:01.302] [info] [26] yolo: 47.0ms, tracker: 1.2ms, aimer: 0.0ms
+[2025-10-27 19:22:01.396] [debug] [Aimer] Unsolvable trajectory0: 27.00 17756.71 49350.01
+[2025-10-27 19:22:01.396] [info] [27] yolo: 47.2ms, tracker: 1.0ms, aimer: 0.1ms
+[2025-10-27 19:22:01.497] [debug] [Target] r=-20.657, l=0.000
+[2025-10-27 19:22:01.497] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:01.497] [info] [28] yolo: 56.9ms, tracker: 1.4ms, aimer: 0.0ms
+[2025-10-27 19:22:01.578] [debug] [Aimer] Unsolvable trajectory0: 27.00 21544.86 55481.47
+[2025-10-27 19:22:01.578] [info] [29] yolo: 32.8ms, tracker: 0.9ms, aimer: 0.1ms
+[2025-10-27 19:22:01.677] [debug] [Target] r=49.607, l=0.000
+[2025-10-27 19:22:01.677] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:01.677] [info] [30] yolo: 54.5ms, tracker: 1.3ms, aimer: 0.0ms
+[2025-10-27 19:22:01.764] [debug] [Aimer] Unsolvable trajectory0: 27.00 15437.00 47528.02
+[2025-10-27 19:22:01.764] [info] [31] yolo: 39.6ms, tracker: 1.3ms, aimer: 0.3ms
+[2025-10-27 19:22:01.857] [debug] [Target] r=1.057, l=0.000
+[2025-10-27 19:22:01.857] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:01.857] [info] [32] yolo: 51.3ms, tracker: 1.4ms, aimer: 0.0ms
+[2025-10-27 19:22:01.948] [debug] [Aimer] Unsolvable trajectory0: 27.00 13751.85 48385.45
+[2025-10-27 19:22:01.948] [info] [33] yolo: 45.9ms, tracker: 0.9ms, aimer: 0.1ms
+[2025-10-27 19:22:02.033] [debug] [Target] r=2.672, l=0.000
+[2025-10-27 19:22:02.034] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:02.034] [info] [34] yolo: 41.5ms, tracker: 2.7ms, aimer: 0.0ms
+[2025-10-27 19:22:02.123] [debug] [Aimer] Unsolvable trajectory0: 27.00 10929.07 45812.38
+[2025-10-27 19:22:02.124] [info] [35] yolo: 45.8ms, tracker: 1.2ms, aimer: 0.2ms
+[2025-10-27 19:22:02.207] [debug] [Target] r=-5.027, l=0.000
+[2025-10-27 19:22:02.207] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:02.207] [info] [36] yolo: 38.1ms, tracker: 1.3ms, aimer: 0.0ms
+[2025-10-27 19:22:02.342] [debug] [Aimer] Unsolvable trajectory0: 27.00 6666.50 39221.31
+[2025-10-27 19:22:02.342] [info] [37] yolo: 90.5ms, tracker: 1.6ms, aimer: 0.1ms
+[2025-10-27 19:22:02.457] [debug] [Target] r=-1.560, l=0.000
+[2025-10-27 19:22:02.457] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:02.457] [info] [38] yolo: 67.6ms, tracker: 1.2ms, aimer: 0.0ms
+[2025-10-27 19:22:02.545] [debug] [Aimer] Unsolvable trajectory0: 27.00 5208.75 37841.26
+[2025-10-27 19:22:02.545] [info] [39] yolo: 40.8ms, tracker: 1.1ms, aimer: 0.1ms
+[2025-10-27 19:22:02.640] [debug] [Target] r=1.706, l=0.000
+[2025-10-27 19:22:02.640] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:02.640] [info] [40] yolo: 48.6ms, tracker: 1.6ms, aimer: 0.0ms
+[2025-10-27 19:22:02.736] [debug] [Aimer] Unsolvable trajectory0: 27.00 4131.77 37941.45
+[2025-10-27 19:22:02.736] [info] [41] yolo: 52.5ms, tracker: 0.9ms, aimer: 0.1ms
+[2025-10-27 19:22:02.834] [debug] [Target] r=-0.635, l=0.000
+[2025-10-27 19:22:02.834] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:02.834] [info] [42] yolo: 55.1ms, tracker: 1.3ms, aimer: 0.0ms
+[2025-10-27 19:22:02.947] [debug] [Aimer] Unsolvable trajectory0: 27.00 3398.41 36095.59
+[2025-10-27 19:22:02.947] [info] [43] yolo: 68.2ms, tracker: 1.0ms, aimer: 0.1ms
+[2025-10-27 19:22:03.062] [debug] [Target] r=-4.882, l=0.000
+[2025-10-27 19:22:03.062] [debug] [Tracker] Target diverged!
+[2025-10-27 19:22:03.063] [info] [44] yolo: 71.1ms, tracker: 2.6ms, aimer: 0.0ms
+[2025-10-27 19:22:03.145] [info] [45] yolo: 36.3ms, tracker: 0.0ms, aimer: 0.0ms
+[2025-10-27 19:22:03.235] [debug] [Aimer] Unsolvable trajectory0: 27.00 3925.46 38664.59
+[2025-10-27 19:22:03.235] [info] [46] yolo: 36.6ms, tracker: 1.0ms, aimer: 0.1ms
+[2025-10-27 19:22:03.310] [debug] [Aimer] Unsolvable trajectory0: 27.00 3920.90 38619.97
+[2025-10-27 19:22:03.310] [info] [47] yolo: 29.5ms, tracker: 1.2ms, aimer: 0.1ms

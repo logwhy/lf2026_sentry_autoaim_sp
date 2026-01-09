@@ -1,0 +1,6 @@
+build/
+install/
+log/
+pb2025_sentry_nav/point_lio/PCD/scans.pcd
+sp_vision_25.tar.gz
+sp_vision_25/assets/demo/demo.avi

@@ -1,0 +1,774 @@
+[2025-10-21 20:51:48.655] [info] Mindvision opened.
+[2025-10-21 20:51:48.661] [info] [Gimbal] read_thread started.
+[2025-10-21 20:51:48.795] [info] [Gimbal] First q received.
+[2025-10-21 20:51:50.003] [info] [MultiThreadDetector] initialized !
+[2025-10-21 20:51:50.056] [info] Write
+[2025-10-21 20:51:50.142] [info] Write
+[2025-10-21 20:51:50.175] [info] Write
+[2025-10-21 20:51:50.221] [info] Write
+[2025-10-21 20:51:50.295] [info] Write
+[2025-10-21 20:51:50.371] [info] Write
+[2025-10-21 20:51:50.445] [info] Write
+[2025-10-21 20:51:50.521] [info] Write
+[2025-10-21 20:51:50.596] [info] Write
+[2025-10-21 20:51:50.671] [info] Write
+[2025-10-21 20:51:50.745] [info] Write
+[2025-10-21 20:51:50.820] [info] Write
+[2025-10-21 20:51:50.896] [info] Write
+[2025-10-21 20:51:50.970] [info] Write
+[2025-10-21 20:51:51.045] [info] Write
+[2025-10-21 20:51:51.122] [info] Write
+[2025-10-21 20:51:51.196] [info] Write
+[2025-10-21 20:51:51.270] [info] Write
+[2025-10-21 20:51:51.347] [info] Write
+[2025-10-21 20:51:51.349] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:51.421] [info] Write
+[2025-10-21 20:51:51.468] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:51.495] [info] Write
+[2025-10-21 20:51:51.566] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:51.570] [info] Write
+[2025-10-21 20:51:51.646] [info] Write
+[2025-10-21 20:51:51.647] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:51.720] [info] Write
+[2025-10-21 20:51:51.740] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:51.795] [info] Write
+[2025-10-21 20:51:51.843] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:51.870] [info] Write
+[2025-10-21 20:51:51.927] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:51.945] [info] Write
+[2025-10-21 20:51:52.016] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.021] [info] Write
+[2025-10-21 20:51:52.086] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.098] [info] Write
+[2025-10-21 20:51:52.169] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.171] [info] Write
+[2025-10-21 20:51:52.229] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.245] [info] Write
+[2025-10-21 20:51:52.288] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.320] [info] Write
+[2025-10-21 20:51:52.377] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.396] [info] Write
+[2025-10-21 20:51:52.468] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.472] [info] Write
+[2025-10-21 20:51:52.527] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.553] [info] Write
+[2025-10-21 20:51:52.620] [info] Write
+[2025-10-21 20:51:52.699] [info] Write
+[2025-10-21 20:51:52.752] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.770] [info] Write
+[2025-10-21 20:51:52.845] [info] Write
+[2025-10-21 20:51:52.900] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:52.920] [info] Write
+[2025-10-21 20:51:52.995] [info] Write
+[2025-10-21 20:51:53.071] [info] Write
+[2025-10-21 20:51:53.082] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.146] [info] Write
+[2025-10-21 20:51:53.187] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.221] [info] Write
+[2025-10-21 20:51:53.247] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.295] [info] Write
+[2025-10-21 20:51:53.338] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.371] [info] Write
+[2025-10-21 20:51:53.446] [info] Write
+[2025-10-21 20:51:53.446] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.521] [info] Write
+[2025-10-21 20:51:53.537] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.595] [info] Write
+[2025-10-21 20:51:53.639] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.671] [info] Write
+[2025-10-21 20:51:53.727] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.745] [info] Write
+[2025-10-21 20:51:53.789] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.820] [info] Write
+[2025-10-21 20:51:53.891] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:53.896] [info] Write
+[2025-10-21 20:51:53.971] [info] Write
+[2025-10-21 20:51:54.001] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.046] [info] Write
+[2025-10-21 20:51:54.100] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.120] [info] Write
+[2025-10-21 20:51:54.196] [info] Write
+[2025-10-21 20:51:54.210] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.270] [info] Write
+[2025-10-21 20:51:54.297] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.345] [info] Write
+[2025-10-21 20:51:54.388] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.420] [info] Write
+[2025-10-21 20:51:54.478] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.498] [info] Write
+[2025-10-21 20:51:54.567] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.570] [info] Write
+[2025-10-21 20:51:54.627] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.646] [info] Write
+[2025-10-21 20:51:54.717] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.720] [info] Write
+[2025-10-21 20:51:54.779] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.796] [info] Write
+[2025-10-21 20:51:54.839] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.870] [info] Write
+[2025-10-21 20:51:54.929] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:54.945] [info] Write
+[2025-10-21 20:51:55.017] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.020] [info] Write
+[2025-10-21 20:51:55.095] [info] Write
+[2025-10-21 20:51:55.170] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.170] [info] Write
+[2025-10-21 20:51:55.245] [info] Write
+[2025-10-21 20:51:55.259] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.321] [info] Write
+[2025-10-21 20:51:55.321] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.378] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.395] [info] Write
+[2025-10-21 20:51:55.468] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.470] [info] Write
+[2025-10-21 20:51:55.529] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.546] [info] Write
+[2025-10-21 20:51:55.617] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.620] [info] Write
+[2025-10-21 20:51:55.678] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.695] [info] Write
+[2025-10-21 20:51:55.771] [info] Write
+[2025-10-21 20:51:55.819] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.845] [info] Write
+[2025-10-21 20:51:55.920] [info] Write
+[2025-10-21 20:51:55.927] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.991] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:55.995] [info] Write
+[2025-10-21 20:51:56.040] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.070] [info] Write
+[2025-10-21 20:51:56.127] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.145] [info] Write
+[2025-10-21 20:51:56.217] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.220] [info] Write
+[2025-10-21 20:51:56.283] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.295] [info] Write
+[2025-10-21 20:51:56.370] [info] Write
+[2025-10-21 20:51:56.401] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.445] [info] Write
+[2025-10-21 20:51:56.511] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.520] [info] Write
+[2025-10-21 20:51:56.595] [info] Write
+[2025-10-21 20:51:56.596] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.670] [info] Write
+[2025-10-21 20:51:56.708] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.745] [info] Write
+[2025-10-21 20:51:56.820] [info] Write
+[2025-10-21 20:51:56.827] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.895] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:56.895] [info] Write
+[2025-10-21 20:51:56.970] [info] Write
+[2025-10-21 20:51:57.001] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.045] [info] Write
+[2025-10-21 20:51:57.088] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.120] [info] Write
+[2025-10-21 20:51:57.148] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.195] [info] Write
+[2025-10-21 20:51:57.240] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.270] [info] Write
+[2025-10-21 20:51:57.300] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.345] [info] Write
+[2025-10-21 20:51:57.391] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.420] [info] Write
+[2025-10-21 20:51:57.478] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.496] [info] Write
+[2025-10-21 20:51:57.570] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.571] [info] Write
+[2025-10-21 20:51:57.646] [info] Write
+[2025-10-21 20:51:57.721] [info] Write
+[2025-10-21 20:51:57.728] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.795] [info] Write
+[2025-10-21 20:51:57.797] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.870] [info] Write
+[2025-10-21 20:51:57.913] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:57.944] [info] Write
+[2025-10-21 20:51:58.014] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:58.020] [info] Write
+[2025-10-21 20:51:58.095] [info] Write
+[2025-10-21 20:51:58.135] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:58.170] [info] Write
+[2025-10-21 20:51:58.228] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:58.245] [info] Write
+[2025-10-21 20:51:58.320] [info] Write
+[2025-10-21 20:51:58.394] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:58.395] [info] Write
+[2025-10-21 20:51:58.470] [info] Write
+[2025-10-21 20:51:58.546] [info] Write
+[2025-10-21 20:51:58.562] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:58.621] [info] Write
+[2025-10-21 20:51:58.621] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:58.695] [info] Write
+[2025-10-21 20:51:58.723] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:58.770] [info] Write
+[2025-10-21 20:51:58.799] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:58.845] [info] Write
+[2025-10-21 20:51:58.907] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:58.920] [info] Write
+[2025-10-21 20:51:58.995] [info] Write
+[2025-10-21 20:51:59.034] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.070] [info] Write
+[2025-10-21 20:51:59.142] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.145] [info] Write
+[2025-10-21 20:51:59.220] [info] Write
+[2025-10-21 20:51:59.248] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.295] [info] Write
+[2025-10-21 20:51:59.368] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.370] [info] Write
+[2025-10-21 20:51:59.445] [info] Write
+[2025-10-21 20:51:59.460] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.520] [info] Write
+[2025-10-21 20:51:59.548] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.595] [info] Write
+[2025-10-21 20:51:59.638] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.670] [info] Write
+[2025-10-21 20:51:59.730] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.745] [info] Write
+[2025-10-21 20:51:59.790] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.821] [info] Write
+[2025-10-21 20:51:59.895] [info] Write
+[2025-10-21 20:51:59.923] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:51:59.970] [info] Write
+[2025-10-21 20:52:00.029] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:00.044] [info] Write
+[2025-10-21 20:52:00.120] [info] Write
+[2025-10-21 20:52:00.149] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:00.195] [info] Write
+[2025-10-21 20:52:00.270] [info] Write
+[2025-10-21 20:52:00.283] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:00.345] [info] Write
+[2025-10-21 20:52:00.360] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:00.420] [info] Write
+[2025-10-21 20:52:00.489] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:00.495] [info] Write
+[2025-10-21 20:52:00.569] [info] Write
+[2025-10-21 20:52:00.616] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:00.645] [info] Write
+[2025-10-21 20:52:00.720] [info] Write
+[2025-10-21 20:52:00.721] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:00.779] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:00.796] [info] Write
+[2025-10-21 20:52:00.869] [info] Write
+[2025-10-21 20:52:00.895] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:00.945] [info] Write
+[2025-10-21 20:52:00.989] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.020] [info] Write
+[2025-10-21 20:52:01.050] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.095] [info] Write
+[2025-10-21 20:52:01.170] [info] Write
+[2025-10-21 20:52:01.176] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.235] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.248] [info] Write
+[2025-10-21 20:52:01.320] [info] Write
+[2025-10-21 20:52:01.353] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.395] [info] Write
+[2025-10-21 20:52:01.441] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.470] [info] Write
+[2025-10-21 20:52:01.530] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.545] [info] Write
+[2025-10-21 20:52:01.620] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.620] [info] Write
+[2025-10-21 20:52:01.679] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.694] [info] Write
+[2025-10-21 20:52:01.768] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.770] [info] Write
+[2025-10-21 20:52:01.829] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.845] [info] Write
+[2025-10-21 20:52:01.921] [info] Write
+[2025-10-21 20:52:01.972] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:01.995] [info] Write
+[2025-10-21 20:52:02.068] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:02.070] [info] Write
+[2025-10-21 20:52:02.146] [info] Write
+[2025-10-21 20:52:02.220] [info] Write
+[2025-10-21 20:52:02.233] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:02.295] [info] Write
+[2025-10-21 20:52:02.370] [info] Write
+[2025-10-21 20:52:02.374] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:02.445] [info] Write
+[2025-10-21 20:52:02.483] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:02.521] [info] Write
+[2025-10-21 20:52:02.586] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:02.594] [info] Write
+[2025-10-21 20:52:02.670] [info] Write
+[2025-10-21 20:52:02.671] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:02.745] [info] Write
+[2025-10-21 20:52:02.778] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:02.819] [info] Write
+[2025-10-21 20:52:02.895] [info] Write
+[2025-10-21 20:52:02.914] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:02.970] [info] Write
+[2025-10-21 20:52:03.030] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:03.045] [info] Write
+[2025-10-21 20:52:03.119] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:03.120] [info] Write
+[2025-10-21 20:52:03.181] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:03.195] [info] Write
+[2025-10-21 20:52:03.269] [info] Write
+[2025-10-21 20:52:03.332] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:03.344] [info] Write
+[2025-10-21 20:52:03.420] [info] Write
+[2025-10-21 20:52:03.448] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:03.495] [info] Write
+[2025-10-21 20:52:03.539] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:03.570] [info] Write
+[2025-10-21 20:52:03.645] [info] Write
+[2025-10-21 20:52:03.707] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:03.721] [info] Write
+[2025-10-21 20:52:03.794] [info] Write
+[2025-10-21 20:52:03.795] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:03.870] [info] Write
+[2025-10-21 20:52:03.914] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:03.945] [info] Write
+[2025-10-21 20:52:04.019] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:04.020] [info] Write
+[2025-10-21 20:52:04.095] [info] Write
+[2025-10-21 20:52:04.168] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:04.170] [info] Write
+[2025-10-21 20:52:04.245] [info] Write
+[2025-10-21 20:52:04.276] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:04.321] [info] Write
+[2025-10-21 20:52:04.382] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:04.395] [info] Write
+[2025-10-21 20:52:04.470] [info] Write
+[2025-10-21 20:52:04.471] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:04.545] [info] Write
+[2025-10-21 20:52:04.620] [info] Write
+[2025-10-21 20:52:04.620] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:04.695] [info] Write
+[2025-10-21 20:52:04.724] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:04.770] [info] Write
+[2025-10-21 20:52:04.800] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:04.844] [info] Write
+[2025-10-21 20:52:04.880] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:04.919] [info] Write
+[2025-10-21 20:52:04.995] [info] Write
+[2025-10-21 20:52:05.029] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.070] [info] Write
+[2025-10-21 20:52:05.137] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.144] [info] Write
+[2025-10-21 20:52:05.220] [info] Write
+[2025-10-21 20:52:05.245] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.294] [info] Write
+[2025-10-21 20:52:05.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.366] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.370] [info] Write
+[2025-10-21 20:52:05.445] [info] Write
+[2025-10-21 20:52:05.465] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.520] [info] Write
+[2025-10-21 20:52:05.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.595] [info] Write
+[2025-10-21 20:52:05.669] [info] Write
+[2025-10-21 20:52:05.678] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.741] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.744] [info] Write
+[2025-10-21 20:52:05.819] [info] Write
+[2025-10-21 20:52:05.895] [info] Write
+[2025-10-21 20:52:05.920] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:05.970] [info] Write
+[2025-10-21 20:52:06.002] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.045] [info] Write
+[2025-10-21 20:52:06.090] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.120] [info] Write
+[2025-10-21 20:52:06.180] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.195] [info] Write
+[2025-10-21 20:52:06.270] [info] Write
+[2025-10-21 20:52:06.271] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.345] [info] Write
+[2025-10-21 20:52:06.419] [info] Write
+[2025-10-21 20:52:06.443] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.495] [info] Write
+[2025-10-21 20:52:06.511] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.570] [info] Write
+[2025-10-21 20:52:06.600] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.645] [info] Write
+[2025-10-21 20:52:06.689] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.722] [info] Write
+[2025-10-21 20:52:06.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.796] [info] Write
+[2025-10-21 20:52:06.840] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.869] [info] Write
+[2025-10-21 20:52:06.933] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:06.945] [info] Write
+[2025-10-21 20:52:07.020] [info] Write
+[2025-10-21 20:52:07.020] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.095] [info] Write
+[2025-10-21 20:52:07.169] [info] Write
+[2025-10-21 20:52:07.189] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.244] [info] Write
+[2025-10-21 20:52:07.294] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.319] [info] Write
+[2025-10-21 20:52:07.380] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.394] [info] Write
+[2025-10-21 20:52:07.469] [info] Write
+[2025-10-21 20:52:07.470] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.545] [info] Write
+[2025-10-21 20:52:07.620] [info] Write
+[2025-10-21 20:52:07.626] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.694] [info] Write
+[2025-10-21 20:52:07.695] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.740] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.769] [info] Write
+[2025-10-21 20:52:07.831] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.845] [info] Write
+[2025-10-21 20:52:07.920] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:07.920] [info] Write
+[2025-10-21 20:52:07.995] [info] Write
+[2025-10-21 20:52:08.069] [info] Write
+[2025-10-21 20:52:08.084] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:08.144] [info] Write
+[2025-10-21 20:52:08.164] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:08.219] [info] Write
+[2025-10-21 20:52:08.252] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:08.295] [info] Write
+[2025-10-21 20:52:08.340] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:08.370] [info] Write
+[2025-10-21 20:52:08.438] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:08.444] [info] Write
+[2025-10-21 20:52:08.520] [info] Write
+[2025-10-21 20:52:08.522] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:08.595] [info] Write
+[2025-10-21 20:52:08.670] [info] Write
+[2025-10-21 20:52:08.708] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:08.744] [info] Write
+[2025-10-21 20:52:08.796] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:08.821] [info] Write
+[2025-10-21 20:52:08.881] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:08.895] [info] Write
+[2025-10-21 20:52:08.970] [info] Write
+[2025-10-21 20:52:08.970] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.045] [info] Write
+[2025-10-21 20:52:09.119] [info] Write
+[2025-10-21 20:52:09.131] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.194] [info] Write
+[2025-10-21 20:52:09.212] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.270] [info] Write
+[2025-10-21 20:52:09.300] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.344] [info] Write
+[2025-10-21 20:52:09.391] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.446] [warning] [Gimbal] read timeout, read 1 / 2 bytes
+[2025-10-21 20:52:09.455] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.505] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.548] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:09.568] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.608] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.649] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:09.676] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.721] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.751] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:09.775] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.821] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.852] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:09.882] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.925] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:09.954] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:09.986] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.046] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.056] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:10.113] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.158] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:10.184] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.255] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.260] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:10.321] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.361] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:10.384] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.448] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.463] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:10.509] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.556] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.565] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:10.592] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.666] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.666] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:10.716] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.768] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:10.778] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.831] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.870] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:10.891] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.946] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:10.972] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.022] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.069] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.074] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.137] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.176] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.185] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.242] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.278] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.298] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.358] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.379] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.402] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.452] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.481] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.499] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.544] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.583] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.594] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.638] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.684] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.695] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.742] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.785] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.817] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.863] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.887] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:11.912] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.959] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:11.989] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.009] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.063] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.091] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.112] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.164] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.192] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.207] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.268] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.294] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.363] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.395] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.405] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.449] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.491] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.497] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.532] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.589] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.599] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.642] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.694] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.700] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.760] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.802] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.803] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.850] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.894] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.903] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:12.938] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:12.991] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.005] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.042] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.096] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.106] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.143] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.198] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.208] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.274] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.306] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.309] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.340] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.416] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.416] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.453] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.517] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.523] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.565] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.618] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.631] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.697] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.720] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.757] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.801] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.822] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.847] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.916] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:13.924] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:13.964] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.025] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.035] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.114] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.127] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.178] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.228] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.231] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.272] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.315] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.330] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.364] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.429] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.431] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.469] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.527] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.532] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.570] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.632] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.634] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.675] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.736] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.742] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.781] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.824] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.838] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.866] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.921] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:14.940] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:14.965] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.021] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.043] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.080] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.129] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.144] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.186] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.232] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.245] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.284] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.347] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.386] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.438] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.448] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.481] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.547] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.549] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.614] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.651] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.680] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.729] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.753] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.791] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.843] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.854] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.909] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:15.956] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:15.956] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:16.003] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:16.058] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:16.065] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:16.111] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:16.159] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:16.161] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:16.217] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:16.261] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:16.299] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:16.352] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:16.363] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:16.400] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:52:16.465] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:16.567] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:16.669] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:16.770] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:16.871] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:16.973] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.074] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.176] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.277] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.379] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.480] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.582] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.683] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.785] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.886] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:17.987] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:18.089] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:18.191] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:18.293] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:18.395] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:18.497] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:18.598] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:18.700] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:18.801] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:18.903] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.004] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.106] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.208] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.310] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.412] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.514] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.615] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.717] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.819] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:19.920] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.021] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.123] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.224] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.327] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.428] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.530] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.631] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.732] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.834] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:20.936] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.037] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.138] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.241] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.342] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.443] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.545] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.647] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.748] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.850] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:21.951] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.053] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.154] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.256] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.358] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.460] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.562] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.663] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.764] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.866] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:22.968] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.069] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.171] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.273] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.375] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.476] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.578] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.681] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.782] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.883] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:23.985] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:24.087] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:24.189] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:24.290] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:24.392] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:24.495] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:24.596] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:24.698] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:24.800] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:24.901] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.003] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.105] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.206] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.308] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.409] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.511] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.613] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.714] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.816] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:25.917] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.019] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.121] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.222] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.324] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.425] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.527] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.629] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.730] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.832] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:26.933] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.034] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.136] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.238] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.340] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.441] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.543] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.644] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.746] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.848] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:27.950] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.052] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.153] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.255] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.357] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.459] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.561] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.663] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.765] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.866] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:28.967] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:29.068] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:29.170] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:29.271] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:29.373] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:52:29.475] [warning] [Gimbal] read timeout, read 0 / 2 bytes

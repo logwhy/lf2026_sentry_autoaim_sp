@@ -1,0 +1,1027 @@
+[2025-12-19 21:37:38.287] [info] [Gimbal] read_thread started.
+[2025-12-19 21:37:38.288] [info] [Gimbal] First q received.
+[2025-12-19 21:37:38.289] [info] HikRobot's daemon thread started.
+[2025-12-19 21:37:38.389] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:38.490] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:38.592] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:38.610] [info] [MultiThreadDetector] initialized !
+[2025-12-19 21:37:38.611] [info] 初始化相机: FRONT ...
+[2025-12-19 21:37:38.694] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:38.796] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:38.897] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:38.999] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:39.100] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:39.202] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:39.303] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:39.404] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:39.506] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:39.510] [info] HikRobot's capture thread started.
+[2025-12-19 21:37:39.607] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:39.709] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:39.811] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:39.913] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.014] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.116] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.217] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.319] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.421] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.522] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.613] [info] HikRobot's daemon thread started.
+[2025-12-19 21:37:40.624] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.726] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.827] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:40.892] [info] [MultiThreadDetector] initialized !
+[2025-12-19 21:37:40.893] [info] 初始化相机: BACK ...
+[2025-12-19 21:37:40.928] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.030] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.132] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.233] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.334] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.436] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.538] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.640] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.741] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.821] [info] HikRobot's capture thread started.
+[2025-12-19 21:37:41.842] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:41.944] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.045] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.147] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.249] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.350] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.452] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.553] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.655] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.757] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.858] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:42.959] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.061] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.064] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.066] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.083] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.084] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.092] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.119] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.127] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.129] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.145] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.145] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.163] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.163] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.164] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.173] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.203] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.212] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.213] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.222] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.251] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.260] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.260] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.265] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.277] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.277] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.295] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.295] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.304] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.335] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.344] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.344] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.353] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.366] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.382] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.391] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.391] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.407] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.409] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.424] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.425] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.434] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.462] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.467] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.471] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.474] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.480] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.515] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.519] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.526] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.531] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.543] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.546] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.554] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.562] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.569] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.579] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.588] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.594] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.598] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.634] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.640] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.643] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.655] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.660] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.671] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.671] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.674] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.682] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.708] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.717] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.719] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.725] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.761] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.766] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.771] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.772] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.779] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.787] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.796] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.800] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.809] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.831] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.840] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.845] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.849] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.873] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:43.886] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.889] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.895] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.901] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.913] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.917] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.923] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.933] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.949] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.958] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.966] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.966] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:43.975] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.010] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.011] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.021] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.024] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.036] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.040] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.046] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.054] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.074] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.077] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.083] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.089] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.092] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.133] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.136] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.142] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.150] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.159] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.166] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.171] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.178] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.179] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.202] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.212] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.214] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.222] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.248] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.257] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.259] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.275] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.276] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.279] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.293] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.295] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.302] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.334] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.343] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.344] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.353] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.380] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.381] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.390] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.391] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.408] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.409] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.425] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.425] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.433] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.464] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.472] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.473] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.482] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.483] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.508] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.516] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.518] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.531] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.537] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.548] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.551] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.558] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.585] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.594] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.601] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.603] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.613] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.637] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.647] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.648] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.665] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.666] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.682] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.682] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.687] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.690] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.723] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.731] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.732] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.741] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.766] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.775] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.775] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.788] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.792] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.793] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.808] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.809] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.817] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.850] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.858] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.860] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.870] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.890] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.891] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.899] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.902] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.916] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.921] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.932] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.936] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.941] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.981] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.984] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.990] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:44.992] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:44.999] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.015] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.023] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.030] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.035] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.047] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.050] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.057] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.058] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.094] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:45.107] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.107] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.117] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.127] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.131] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.140] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.149] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.154] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.162] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.166] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.172] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.175] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.195] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:45.217] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.221] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.230] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.240] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.242] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.251] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.260] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.262] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.277] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.277] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.286] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.287] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.297] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:45.332] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.334] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.343] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.353] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.357] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.365] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.375] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.377] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.389] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.391] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.397] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.399] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:45.402] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.444] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.447] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.456] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.466] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.467] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.475] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.484] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.489] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.495] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.501] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:45.501] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.506] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.510] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.551] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.554] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.563] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.571] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.576] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.585] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.594] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.596] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.602] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:45.611] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.612] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.620] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.621] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.669] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.670] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.679] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.689] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.698] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.703] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:45.706] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.715] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.716] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.730] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.731] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.739] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.740] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.788] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.789] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.797] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.805] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:45.806] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.815] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.823] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.833] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.833] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.849] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.850] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.858] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.858] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.907] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:45.908] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.909] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.917] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.925] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.937] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.945] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.954] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.954] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.970] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.970] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.979] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:45.979] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.009] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.028] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.029] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.037] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.046] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.058] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.067] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.075] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.078] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.091] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.093] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.101] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.104] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.110] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.148] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.150] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.157] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.165] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.179] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.188] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.194] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.200] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.211] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.212] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.216] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.221] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.225] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.268] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.272] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.276] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.285] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.306] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.313] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.315] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.318] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.330] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.335] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.346] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.350] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.354] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.397] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.399] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.406] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.415] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.415] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.430] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.440] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.445] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.454] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.462] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.470] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.475] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.480] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.516] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.520] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.524] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.529] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.538] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.554] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.563] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.568] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.578] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.585] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.594] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.599] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.603] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.617] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.644] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.647] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.654] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.662] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.679] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.688] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.693] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.699] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.710] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.715] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.719] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.721] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.723] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.770] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.771] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.779] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.789] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.800] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.809] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.818] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.820] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.821] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.833] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.835] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.843] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.845] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.890] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.893] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.900] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.908] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.923] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:46.924] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.932] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.938] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.946] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.954] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.962] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.967] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:46.971] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.015] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.017] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.024] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.024] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.033] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.049] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.057] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.064] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.071] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.081] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.088] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.094] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.097] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.126] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.141] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.144] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.151] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.160] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.175] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.184] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.191] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.195] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.208] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.210] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.220] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.220] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.228] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.269] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.270] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.279] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.288] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.296] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.304] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.314] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.315] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.329] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.331] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.332] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.340] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.341] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.390] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.390] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.398] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.409] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.417] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.426] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.431] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.436] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.437] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.453] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.454] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.462] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.463] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.510] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.511] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.520] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.528] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.533] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.539] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.548] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.557] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.557] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.573] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.573] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.582] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.582] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.629] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.631] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.634] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.639] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.648] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.656] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.664] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.673] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.675] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.689] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.690] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.699] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.699] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.735] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.749] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.750] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.758] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.768] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.774] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.783] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.793] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.795] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.807] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.809] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.817] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.820] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.837] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.867] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.867] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.876] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.884] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.898] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.907] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.915] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.917] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.931] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.933] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.939] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:47.940] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.942] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.989] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.990] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:47.999] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.007] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.017] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.026] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.035] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.037] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.040] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.050] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.053] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.060] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.062] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.109] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.110] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.119] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.128] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.135] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.142] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.144] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.153] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.154] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.171] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.171] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.179] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.181] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.228] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.228] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.237] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.244] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.246] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.257] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.266] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.274] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.277] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.291] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.292] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.301] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.301] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.346] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.351] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.351] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.360] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.369] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.377] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.386] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.395] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.397] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.412] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.413] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.422] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.422] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.447] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.470] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.471] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.479] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.487] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.501] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.510] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.517] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.520] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.532] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.535] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.543] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.544] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.549] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.589] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.592] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.599] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.608] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.621] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.630] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.637] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.639] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.651] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.654] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.654] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.662] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.664] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.710] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.711] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.720] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.729] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.739] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.748] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.752] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.757] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.758] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.772] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.773] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.782] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.783] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.828] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.831] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.838] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.847] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.853] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.859] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.868] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.876] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.877] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.893] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.893] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.903] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.905] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.952] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.953] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.955] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:48.962] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.971] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.980] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.989] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.998] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:48.998] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.013] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.014] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.022] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.024] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.057] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.070] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.071] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.080] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.088] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.099] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.108] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.116] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.117] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.132] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.133] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.141] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.141] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.159] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.190] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.191] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.199] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.207] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.219] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.229] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.236] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.240] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.251] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.255] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.260] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.263] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.264] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.310] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.312] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.318] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.326] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.343] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.352] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.358] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.362] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.364] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.374] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.380] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.386] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.389] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.431] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.436] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.440] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.449] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.464] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.469] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.477] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.480] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.491] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.497] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.507] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.511] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.516] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.557] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.559] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.565] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.567] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.577] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.585] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.594] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.603] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.604] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.618] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.621] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.628] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.630] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.667] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.675] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.678] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.687] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.697] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.700] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.709] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.717] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.722] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.730] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.735] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.740] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.744] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.769] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.787] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.789] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.798] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.807] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.816] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.825] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.834] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.836] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.850] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.851] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.860] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.861] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.870] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.910] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.910] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.920] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.928] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.940] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.949] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.957] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.959] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.972] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:49.973] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.974] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.983] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:49.983] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.032] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.033] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.042] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.051] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.057] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.067] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.074] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.075] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.078] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.089] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.092] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.099] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.101] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.148] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.148] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.158] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.167] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.174] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.175] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.183] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.192] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.194] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.207] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.209] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.216] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.218] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.262] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.264] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.272] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.277] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.281] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.292] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.300] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.309] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.310] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.324] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.325] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.334] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.334] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.379] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.383] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.384] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.393] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.402] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.409] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.419] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.428] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.428] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.444] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.444] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.452] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.454] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.481] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.500] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.501] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.510] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.518] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.529] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.539] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.547] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.548] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.564] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.565] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.573] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.574] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.582] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.622] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.623] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.631] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.640] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.653] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.662] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.669] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.673] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.683] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.685] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.689] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.696] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.699] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.745] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.747] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.755] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.763] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.776] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.785] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.785] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.792] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.795] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.808] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.810] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.819] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.820] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.866] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.869] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.875] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.884] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.886] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.902] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.912] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.916] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.927] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.932] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.943] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.947] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.952] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.988] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:50.993] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:50.996] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.002] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.011] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.028] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.038] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.042] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.050] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.059] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.066] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.073] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.076] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.091] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:51.122] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.123] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.131] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.140] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.152] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.162] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.169] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.172] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.183] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.188] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.193] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:51.194] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.197] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.241] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.244] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.250] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.259] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.277] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.286] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.292] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.294] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:51.297] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.308] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.312] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.319] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.321] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.365] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.369] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.374] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.383] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.395] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:51.398] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.408] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.415] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.419] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.430] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.436] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.442] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.445] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.488] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.490] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.496] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.497] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:51.505] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.519] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.528] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.535] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.542] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.552] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.557] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.563] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.566] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.599] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:51.610] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.612] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.620] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.629] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.639] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.648] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.656] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.659] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.671] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.675] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.681] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.684] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.701] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:51.729] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.730] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.739] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.748] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.763] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.771] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.779] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.783] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.794] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.799] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.802] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:51.805] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.809] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.850] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.854] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.859] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.869] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.882] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.891] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.897] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.903] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.903] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 21:37:51.913] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.918] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.926] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.928] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.974] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.975] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.984] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:51.992] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:52.002] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:37:52.005] [warning] [Gimbal] read timeout, read 0 / 2 bytes

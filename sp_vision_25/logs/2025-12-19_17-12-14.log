@@ -1,0 +1,563 @@
+[2025-12-19 17:12:14.275] [info] 正在初始化相机 1...
+[2025-12-19 17:12:14.276] [info] HikRobot's daemon thread started.
+[2025-12-19 17:12:14.586] [info] [MultiThreadDetector] initialized !
+[2025-12-19 17:12:14.587] [info] 等待 USB 总线稳定 (2s)...
+[2025-12-19 17:12:14.594] [info] HikRobot's capture thread started.
+[2025-12-19 17:12:16.587] [info] 正在初始化相机 2...
+[2025-12-19 17:12:16.588] [info] HikRobot's daemon thread started.
+[2025-12-19 17:12:16.595] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:16.695] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:16.701] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:16.801] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:16.802] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:16.874] [info] [MultiThreadDetector] initialized !
+[2025-12-19 17:12:16.875] [info] [Aimer] successfully loading shootmode
+[2025-12-19 17:12:16.875] [info] 所有模块初始化成功！
+[2025-12-19 17:12:16.903] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:16.904] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.005] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.007] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.048] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.068] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.078] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.102] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.107] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.110] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.112] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.120] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.129] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.152] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.160] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.183] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.193] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.201] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.210] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.211] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.212] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.234] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.242] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.266] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.276] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.284] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.293] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.312] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.315] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.324] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.334] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.347] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.356] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.365] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.375] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.398] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.408] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.431] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.434] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.440] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.441] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.449] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.458] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.481] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.489] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.511] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.521] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.530] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.540] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.540] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.541] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.562] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.571] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.594] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.603] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.612] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.622] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.641] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.644] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.653] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.653] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.676] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.685] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.694] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.704] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.728] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.736] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.753] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.759] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.759] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.769] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.777] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.787] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.808] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.818] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.841] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.851] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.859] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.859] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.860] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.869] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.893] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.901] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.924] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.933] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.941] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.951] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.960] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:17.972] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:17.974] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:17.982] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.004] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.013] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.023] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.033] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.057] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.065] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.072] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:18.078] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:18.087] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.096] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.105] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.116] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.138] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:18.178] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:18.179] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:18.279] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:18.282] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:18.382] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:18.384] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:18.484] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:18.486] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:18.586] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:18.589] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:18.689] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:18.692] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:18.792] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:18.820] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:18.920] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:18.925] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.025] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.033] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.133] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.134] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.234] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.250] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.350] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.353] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.453] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.455] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.555] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.558] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.658] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.660] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.760] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.762] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.863] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.866] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:19.966] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:19.968] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:20.068] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:20.070] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:20.170] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:20.173] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:20.273] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:20.275] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:20.375] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:20.377] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:20.478] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:20.490] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:20.590] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:20.604] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:20.704] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:20.735] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:20.835] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:20.842] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:20.942] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:20.943] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.043] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.046] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.146] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.148] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.248] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.254] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.354] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.355] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.455] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.460] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.560] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.562] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.662] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.664] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.764] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.768] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.868] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.870] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:21.970] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:21.973] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:22.073] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:22.087] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:22.187] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:22.195] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:22.295] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:22.301] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:22.401] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:22.402] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:22.502] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:22.506] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:22.606] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:22.608] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:22.708] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:22.710] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:22.810] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:22.813] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:22.913] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:22.940] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.040] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.041] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.141] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.143] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.243] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.245] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.346] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.348] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.448] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.451] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.552] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.554] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.654] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.656] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.756] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.771] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.871] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.874] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:23.974] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:23.976] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:24.076] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:24.079] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:24.179] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:24.180] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:24.280] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:24.282] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:24.383] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:24.386] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:24.486] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:24.488] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:24.588] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:24.611] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:24.711] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:24.717] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:24.817] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:24.819] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:24.919] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:24.921] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.021] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.023] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.123] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.135] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.235] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.251] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.351] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.364] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.464] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.466] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.566] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.568] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.668] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.670] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.770] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.773] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.873] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.875] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:25.975] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:25.991] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:26.091] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:26.094] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:26.194] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:26.196] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:26.296] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:26.297] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:26.397] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:26.400] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:26.500] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:26.503] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:26.603] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:26.606] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:26.706] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:26.710] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:26.810] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:26.811] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:26.912] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:26.914] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.014] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.016] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.116] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.132] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.233] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.246] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.346] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.359] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.459] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.466] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.566] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.574] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.674] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.676] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.776] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.778] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.879] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.880] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:27.980] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:27.985] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:28.085] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:28.087] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:28.188] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:28.190] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:28.291] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:28.292] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:28.392] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:28.394] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:28.494] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:28.497] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:28.597] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:28.600] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:28.700] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:28.703] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:28.803] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:28.805] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:28.905] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:28.909] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.009] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.010] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.111] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.113] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.213] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.216] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.316] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.318] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.418] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.434] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.535] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.537] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.637] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.639] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.739] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.742] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.842] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.844] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:29.944] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:29.947] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:30.047] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:30.049] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:30.149] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:30.152] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:30.252] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:30.254] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:30.355] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:30.357] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:30.457] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:30.460] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:30.560] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:30.596] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:30.696] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:30.699] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:30.799] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:30.811] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:30.911] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:30.913] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.013] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.017] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.117] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.119] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.220] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.221] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.321] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.323] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.423] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.455] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.555] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.572] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.672] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.674] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.774] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.775] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.876] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.878] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:31.978] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:31.993] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:32.093] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:32.102] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:32.202] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:32.215] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:32.315] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:32.322] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:32.422] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:32.423] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:32.523] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:32.525] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:32.625] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:32.638] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:32.738] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:32.741] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:32.841] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:32.867] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:32.968] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:32.975] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:33.075] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:33.082] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:33.182] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:33.184] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:33.284] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:33.286] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:33.386] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:33.389] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:33.489] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:33.504] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:33.604] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:33.606] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:33.706] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:33.708] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:33.809] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:33.811] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:33.911] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:33.914] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.014] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.015] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.115] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.138] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.238] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.265] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.365] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.368] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.468] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.470] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.570] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.584] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.684] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.686] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.786] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.789] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.889] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.890] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:34.990] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:34.992] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:35.092] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:35.095] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:35.195] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:35.210] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:35.310] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:35.313] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:35.413] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:35.415] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:35.515] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:35.517] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:35.617] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:35.619] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:35.719] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:35.721] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:35.821] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:35.824] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:35.924] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:35.937] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.037] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.053] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.153] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.155] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.255] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.257] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.357] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.359] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.459] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.462] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.562] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.564] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.665] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.690] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.790] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.793] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.893] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.895] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:36.995] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:36.998] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:37.098] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:37.099] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:37.199] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:37.214] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:37.314] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:37.317] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:37.417] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:37.419] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:37.519] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:37.521] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:37.621] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:37.623] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:37.723] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:37.738] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:37.838] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:37.848] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:37.948] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:37.959] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:38.059] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:38.067] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:38.167] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:38.177] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:38.277] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:38.299] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:38.399] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:38.403] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:38.504] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:38.507] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:38.607] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:38.622] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:38.722] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:38.724] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:38.824] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:38.825] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:38.926] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:38.928] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.028] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.041] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.141] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.144] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.244] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.246] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.346] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.349] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.449] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.453] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.553] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.556] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.656] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.659] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.759] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.760] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.860] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.876] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:39.976] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:39.978] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:40.078] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:40.079] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:40.179] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:40.210] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:40.310] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:40.317] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:40.417] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:40.418] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:40.518] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:40.534] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:40.634] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:40.635] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:40.736] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:40.737] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:40.837] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:40.859] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:40.959] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:40.965] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:41.065] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:41.067] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:41.167] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:41.168] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:41.268] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:41.284] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:41.384] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:41.387] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:41.487] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:41.489] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:41.589] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:41.598] [error] 找不到标识符为 00DA5751514 的相机!

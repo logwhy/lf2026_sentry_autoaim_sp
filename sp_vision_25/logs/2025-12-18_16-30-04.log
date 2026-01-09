@@ -1,0 +1,22 @@
+[2025-12-18 16:30:04.068] [info] 正在初始化相机 1...
+[2025-12-18 16:30:04.069] [info] HikRobot's daemon thread started.
+[2025-12-18 16:30:04.387] [info] [MultiThreadDetector] initialized !
+[2025-12-18 16:30:04.388] [info] 等待 USB 总线稳定 (2s)...
+[2025-12-18 16:30:04.389] [info] HikRobot's capture thread started.
+[2025-12-18 16:30:06.388] [info] 正在初始化相机 2...
+[2025-12-18 16:30:06.389] [info] HikRobot's daemon thread started.
+[2025-12-18 16:30:06.394] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:30:06.433] [error] 初始化异常: bad conversion
+[2025-12-18 16:30:06.494] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:30:06.592] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:30:06.592] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:30:07.501] [info] Reset usb successfully :)
+[2025-12-18 16:30:07.506] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:30:07.506] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:30:07.506] [info] HikRobot's daemon thread stopped.
+[2025-12-18 16:30:07.506] [info] HikRobot destructed.
+[2025-12-18 16:30:07.733] [info] Reset usb successfully :)
+[2025-12-18 16:30:07.973] [info] HikRobot's capture thread started.
+[2025-12-18 16:30:07.973] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:30:07.980] [info] HikRobot's daemon thread stopped.
+[2025-12-18 16:30:07.980] [info] HikRobot destructed.

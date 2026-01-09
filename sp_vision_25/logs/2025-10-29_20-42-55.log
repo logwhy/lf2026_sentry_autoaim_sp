@@ -1,0 +1,1735 @@
+[2025-10-29 20:42:55.498] [info] Mindvision opened.
+[2025-10-29 20:42:55.669] [info] [Gimbal] read_thread started.
+[2025-10-29 20:42:55.669] [info] [Gimbal] First q received.
+[2025-10-29 20:42:55.979] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:55.979] [info] Write
+[2025-10-29 20:42:55.979] [info] yolo: 46.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:55.979] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.62°
+[2025-10-29 20:42:56.020] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.020] [info] Write
+[2025-10-29 20:42:56.020] [info] yolo: 12.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.020] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:56.094] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.094] [info] Write
+[2025-10-29 20:42:56.094] [info] yolo: 11.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.094] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.59°
+[2025-10-29 20:42:56.164] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.164] [info] Write
+[2025-10-29 20:42:56.164] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.164] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:56.242] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.242] [info] Write
+[2025-10-29 20:42:56.242] [info] yolo: 9.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.242] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.60°
+[2025-10-29 20:42:56.315] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.315] [info] Write
+[2025-10-29 20:42:56.315] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.315] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.61°
+[2025-10-29 20:42:56.391] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.391] [info] Write
+[2025-10-29 20:42:56.391] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.391] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:56.465] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.465] [info] Write
+[2025-10-29 20:42:56.465] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.465] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:56.542] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.542] [info] Write
+[2025-10-29 20:42:56.542] [info] yolo: 9.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.542] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.59°
+[2025-10-29 20:42:56.615] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.616] [info] Write
+[2025-10-29 20:42:56.616] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.616] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.61°
+[2025-10-29 20:42:56.692] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.692] [info] Write
+[2025-10-29 20:42:56.692] [info] Current FPS: 10.8
+[2025-10-29 20:42:56.692] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.692] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:56.767] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.767] [info] Write
+[2025-10-29 20:42:56.767] [info] yolo: 10.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.767] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:56.841] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.841] [info] Write
+[2025-10-29 20:42:56.841] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.841] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.59°
+[2025-10-29 20:42:56.914] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.914] [info] Write
+[2025-10-29 20:42:56.914] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.914] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.59°
+[2025-10-29 20:42:56.988] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:56.988] [info] Write
+[2025-10-29 20:42:56.988] [info] yolo: 6.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:56.988] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.59°
+[2025-10-29 20:42:57.067] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.067] [info] Write
+[2025-10-29 20:42:57.067] [info] yolo: 10.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.067] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:57.142] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.142] [info] Write
+[2025-10-29 20:42:57.142] [info] yolo: 9.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.142] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:57.215] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.215] [info] Write
+[2025-10-29 20:42:57.215] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.215] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:57.291] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.291] [info] Write
+[2025-10-29 20:42:57.291] [info] yolo: 9.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.291] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:57.365] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.365] [info] Write
+[2025-10-29 20:42:57.365] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.365] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:57.442] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.442] [info] Write
+[2025-10-29 20:42:57.442] [info] yolo: 10.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.442] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.59°
+[2025-10-29 20:42:57.515] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.515] [info] Write
+[2025-10-29 20:42:57.515] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.515] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.59°
+[2025-10-29 20:42:57.592] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.592] [info] Write
+[2025-10-29 20:42:57.592] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.592] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.60°
+[2025-10-29 20:42:57.670] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.670] [info] Write
+[2025-10-29 20:42:57.670] [info] yolo: 12.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.670] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.59°
+[2025-10-29 20:42:57.740] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.740] [info] Write
+[2025-10-29 20:42:57.740] [info] Current FPS: 13.4
+[2025-10-29 20:42:57.740] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.740] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.59°
+[2025-10-29 20:42:57.816] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.817] [info] Write
+[2025-10-29 20:42:57.817] [info] yolo: 9.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.817] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.59°
+[2025-10-29 20:42:57.889] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.889] [info] Write
+[2025-10-29 20:42:57.889] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.889] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.60°
+[2025-10-29 20:42:57.969] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:57.969] [info] Write
+[2025-10-29 20:42:57.969] [info] yolo: 12.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:57.969] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.59°
+[2025-10-29 20:42:58.042] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.043] [info] Write
+[2025-10-29 20:42:58.043] [info] yolo: 10.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.043] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.59°
+[2025-10-29 20:42:58.117] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.117] [info] Write
+[2025-10-29 20:42:58.117] [info] yolo: 9.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.117] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.59°
+[2025-10-29 20:42:58.191] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.191] [info] Write
+[2025-10-29 20:42:58.191] [info] yolo: 9.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.191] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:42:58.269] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.269] [info] Write
+[2025-10-29 20:42:58.269] [info] yolo: 12.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.269] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:42:58.342] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.342] [info] Write
+[2025-10-29 20:42:58.342] [info] yolo: 9.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.342] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:42:58.414] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.414] [info] Write
+[2025-10-29 20:42:58.414] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.414] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.58°
+[2025-10-29 20:42:58.492] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.492] [info] Write
+[2025-10-29 20:42:58.492] [info] yolo: 10.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.492] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.59°
+[2025-10-29 20:42:58.566] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.566] [info] Write
+[2025-10-29 20:42:58.566] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.566] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.59°
+[2025-10-29 20:42:58.639] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.639] [info] Write
+[2025-10-29 20:42:58.639] [info] yolo: 6.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.639] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.59°
+[2025-10-29 20:42:58.715] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.715] [info] Write
+[2025-10-29 20:42:58.715] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.715] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:42:58.791] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.791] [info] Write
+[2025-10-29 20:42:58.791] [info] Current FPS: 13.3
+[2025-10-29 20:42:58.791] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.2ms
+[2025-10-29 20:42:58.791] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:42:58.866] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.866] [info] Write
+[2025-10-29 20:42:58.866] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.866] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:42:58.941] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:58.941] [info] Write
+[2025-10-29 20:42:58.941] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:58.941] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:42:59.015] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.015] [info] Write
+[2025-10-29 20:42:59.015] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.015] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:42:59.090] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.091] [info] Write
+[2025-10-29 20:42:59.091] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.091] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.58°
+[2025-10-29 20:42:59.164] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.164] [info] Write
+[2025-10-29 20:42:59.164] [info] yolo: 6.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.164] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.59°
+[2025-10-29 20:42:59.240] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.241] [info] Write
+[2025-10-29 20:42:59.241] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.241] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.60°
+[2025-10-29 20:42:59.313] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.313] [info] Write
+[2025-10-29 20:42:59.313] [info] yolo: 6.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.313] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:42:59.391] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.391] [info] Write
+[2025-10-29 20:42:59.391] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.391] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.60°
+[2025-10-29 20:42:59.464] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.464] [info] Write
+[2025-10-29 20:42:59.464] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.464] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:42:59.539] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.539] [info] Write
+[2025-10-29 20:42:59.539] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.539] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.60°
+[2025-10-29 20:42:59.615] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.615] [info] Write
+[2025-10-29 20:42:59.615] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.615] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:42:59.690] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.690] [info] Write
+[2025-10-29 20:42:59.690] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.690] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.60°
+[2025-10-29 20:42:59.765] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.765] [info] Write
+[2025-10-29 20:42:59.765] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.765] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.60°
+[2025-10-29 20:42:59.839] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.839] [info] Write
+[2025-10-29 20:42:59.839] [info] Current FPS: 13.4
+[2025-10-29 20:42:59.839] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.839] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.60°
+[2025-10-29 20:42:59.913] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.913] [info] Write
+[2025-10-29 20:42:59.913] [info] yolo: 6.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.913] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.60°
+[2025-10-29 20:42:59.990] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:42:59.990] [info] Write
+[2025-10-29 20:42:59.990] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:42:59.990] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.60°
+[2025-10-29 20:43:00.065] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.065] [info] Write
+[2025-10-29 20:43:00.065] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.065] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.61°
+[2025-10-29 20:43:00.140] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.140] [info] Write
+[2025-10-29 20:43:00.140] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.140] [info] Received gimbal angles - yaw: 0.41°, pitch: 1.61°
+[2025-10-29 20:43:00.215] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.215] [info] Write
+[2025-10-29 20:43:00.215] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.215] [info] Received gimbal angles - yaw: 0.41°, pitch: 1.61°
+[2025-10-29 20:43:00.291] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.291] [info] Write
+[2025-10-29 20:43:00.291] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.291] [info] Received gimbal angles - yaw: 0.41°, pitch: 1.61°
+[2025-10-29 20:43:00.365] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.365] [info] Write
+[2025-10-29 20:43:00.365] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.365] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.61°
+[2025-10-29 20:43:00.439] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.439] [info] Write
+[2025-10-29 20:43:00.439] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.439] [info] Received gimbal angles - yaw: 0.41°, pitch: 1.63°
+[2025-10-29 20:43:00.516] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.516] [info] Write
+[2025-10-29 20:43:00.516] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.516] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.62°
+[2025-10-29 20:43:00.589] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.589] [info] Write
+[2025-10-29 20:43:00.589] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.589] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.62°
+[2025-10-29 20:43:00.667] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.667] [info] Write
+[2025-10-29 20:43:00.667] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.667] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.61°
+[2025-10-29 20:43:00.740] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.740] [info] Write
+[2025-10-29 20:43:00.740] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.740] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.61°
+[2025-10-29 20:43:00.814] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.815] [info] Write
+[2025-10-29 20:43:00.815] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.815] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.61°
+[2025-10-29 20:43:00.891] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.891] [info] Write
+[2025-10-29 20:43:00.891] [info] Current FPS: 13.3
+[2025-10-29 20:43:00.891] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.891] [info] Received gimbal angles - yaw: 0.41°, pitch: 1.62°
+[2025-10-29 20:43:00.965] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:00.965] [info] Write
+[2025-10-29 20:43:00.965] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:00.965] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.62°
+[2025-10-29 20:43:01.040] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.040] [info] Write
+[2025-10-29 20:43:01.040] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.040] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.61°
+[2025-10-29 20:43:01.114] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.115] [info] Write
+[2025-10-29 20:43:01.115] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.115] [info] Received gimbal angles - yaw: 0.41°, pitch: 1.61°
+[2025-10-29 20:43:01.189] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.189] [info] Write
+[2025-10-29 20:43:01.189] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.189] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.61°
+[2025-10-29 20:43:01.265] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.265] [info] Write
+[2025-10-29 20:43:01.265] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.265] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.61°
+[2025-10-29 20:43:01.341] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.341] [info] Write
+[2025-10-29 20:43:01.341] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.341] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.60°
+[2025-10-29 20:43:01.414] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.414] [info] Write
+[2025-10-29 20:43:01.414] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.414] [info] Received gimbal angles - yaw: 0.40°, pitch: 1.59°
+[2025-10-29 20:43:01.490] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.490] [info] Write
+[2025-10-29 20:43:01.490] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.490] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:43:01.565] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.565] [info] Write
+[2025-10-29 20:43:01.565] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.565] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:43:01.639] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.639] [info] Write
+[2025-10-29 20:43:01.639] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.639] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.59°
+[2025-10-29 20:43:01.714] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.714] [info] Write
+[2025-10-29 20:43:01.714] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.714] [info] Received gimbal angles - yaw: 0.39°, pitch: 1.60°
+[2025-10-29 20:43:01.790] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.790] [info] Write
+[2025-10-29 20:43:01.790] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.790] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.58°
+[2025-10-29 20:43:01.865] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.866] [info] Write
+[2025-10-29 20:43:01.866] [info] yolo: 8.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.866] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.58°
+[2025-10-29 20:43:01.939] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:01.939] [info] Write
+[2025-10-29 20:43:01.939] [info] Current FPS: 13.4
+[2025-10-29 20:43:01.939] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:01.939] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:43:02.014] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.014] [info] Write
+[2025-10-29 20:43:02.014] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.014] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.59°
+[2025-10-29 20:43:02.089] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.089] [info] Write
+[2025-10-29 20:43:02.089] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.089] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.59°
+[2025-10-29 20:43:02.164] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.164] [info] Write
+[2025-10-29 20:43:02.164] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.164] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.59°
+[2025-10-29 20:43:02.240] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.240] [info] Write
+[2025-10-29 20:43:02.240] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.240] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.59°
+[2025-10-29 20:43:02.314] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.315] [info] Write
+[2025-10-29 20:43:02.315] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.315] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.59°
+[2025-10-29 20:43:02.390] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.390] [info] Write
+[2025-10-29 20:43:02.390] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.390] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:43:02.464] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.464] [info] Write
+[2025-10-29 20:43:02.464] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.464] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.57°
+[2025-10-29 20:43:02.542] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.542] [info] Write
+[2025-10-29 20:43:02.542] [info] yolo: 9.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.542] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.57°
+[2025-10-29 20:43:02.615] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.615] [info] Write
+[2025-10-29 20:43:02.615] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.615] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.57°
+[2025-10-29 20:43:02.689] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.690] [info] Write
+[2025-10-29 20:43:02.690] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.690] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.56°
+[2025-10-29 20:43:02.765] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.765] [info] Write
+[2025-10-29 20:43:02.765] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.765] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.57°
+[2025-10-29 20:43:02.840] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.840] [info] Write
+[2025-10-29 20:43:02.840] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.840] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.57°
+[2025-10-29 20:43:02.915] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.915] [info] Write
+[2025-10-29 20:43:02.915] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.915] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.56°
+[2025-10-29 20:43:02.990] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:02.990] [info] Write
+[2025-10-29 20:43:02.990] [info] Current FPS: 13.3
+[2025-10-29 20:43:02.990] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:02.990] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.55°
+[2025-10-29 20:43:03.066] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.066] [info] Write
+[2025-10-29 20:43:03.066] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.066] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.56°
+[2025-10-29 20:43:03.139] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.139] [info] Write
+[2025-10-29 20:43:03.139] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.139] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.56°
+[2025-10-29 20:43:03.215] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.215] [info] Write
+[2025-10-29 20:43:03.215] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.215] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.56°
+[2025-10-29 20:43:03.290] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.290] [info] Write
+[2025-10-29 20:43:03.290] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.290] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.56°
+[2025-10-29 20:43:03.364] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.364] [info] Write
+[2025-10-29 20:43:03.364] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.364] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:43:03.439] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.439] [info] Write
+[2025-10-29 20:43:03.439] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.439] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:43:03.514] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.514] [info] Write
+[2025-10-29 20:43:03.514] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.514] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:43:03.591] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.591] [info] Write
+[2025-10-29 20:43:03.591] [info] yolo: 9.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.591] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.58°
+[2025-10-29 20:43:03.667] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.667] [info] Write
+[2025-10-29 20:43:03.667] [info] yolo: 9.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.667] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.57°
+[2025-10-29 20:43:03.739] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.739] [info] Write
+[2025-10-29 20:43:03.739] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.739] [info] Received gimbal angles - yaw: 0.38°, pitch: 1.57°
+[2025-10-29 20:43:03.815] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.815] [info] Write
+[2025-10-29 20:43:03.815] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.815] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.57°
+[2025-10-29 20:43:03.891] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.891] [info] Write
+[2025-10-29 20:43:03.891] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.891] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:43:03.964] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:03.964] [info] Write
+[2025-10-29 20:43:03.964] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:03.964] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.57°
+[2025-10-29 20:43:04.041] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.041] [info] Write
+[2025-10-29 20:43:04.041] [info] Current FPS: 13.3
+[2025-10-29 20:43:04.041] [info] yolo: 8.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.041] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:43:04.115] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.115] [info] Write
+[2025-10-29 20:43:04.115] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.115] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:43:04.191] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.191] [info] Write
+[2025-10-29 20:43:04.191] [info] yolo: 9.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.191] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.58°
+[2025-10-29 20:43:04.266] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.266] [info] Write
+[2025-10-29 20:43:04.266] [info] yolo: 9.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.266] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.57°
+[2025-10-29 20:43:04.339] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.339] [info] Write
+[2025-10-29 20:43:04.339] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.339] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.57°
+[2025-10-29 20:43:04.414] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.414] [info] Write
+[2025-10-29 20:43:04.414] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.414] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.58°
+[2025-10-29 20:43:04.489] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.489] [info] Write
+[2025-10-29 20:43:04.489] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.489] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.57°
+[2025-10-29 20:43:04.564] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.564] [info] Write
+[2025-10-29 20:43:04.564] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.564] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.59°
+[2025-10-29 20:43:04.639] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.639] [info] Write
+[2025-10-29 20:43:04.639] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.639] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.58°
+[2025-10-29 20:43:04.715] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.715] [info] Write
+[2025-10-29 20:43:04.715] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.715] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.60°
+[2025-10-29 20:43:04.790] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.790] [info] Write
+[2025-10-29 20:43:04.790] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.790] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.60°
+[2025-10-29 20:43:04.866] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.866] [info] Write
+[2025-10-29 20:43:04.866] [info] yolo: 9.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.866] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.60°
+[2025-10-29 20:43:04.939] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:04.939] [info] Write
+[2025-10-29 20:43:04.939] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:04.939] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.60°
+[2025-10-29 20:43:05.014] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.014] [info] Write
+[2025-10-29 20:43:05.014] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.014] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.60°
+[2025-10-29 20:43:05.090] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.090] [info] Write
+[2025-10-29 20:43:05.090] [info] Current FPS: 13.3
+[2025-10-29 20:43:05.090] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.090] [info] Received gimbal angles - yaw: 0.37°, pitch: 1.60°
+[2025-10-29 20:43:05.164] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.164] [info] Write
+[2025-10-29 20:43:05.164] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.164] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.60°
+[2025-10-29 20:43:05.240] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.240] [info] Write
+[2025-10-29 20:43:05.240] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.240] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.61°
+[2025-10-29 20:43:05.315] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.315] [info] Write
+[2025-10-29 20:43:05.315] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.315] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.61°
+[2025-10-29 20:43:05.391] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.391] [info] Write
+[2025-10-29 20:43:05.391] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.391] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.61°
+[2025-10-29 20:43:05.464] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.464] [info] Write
+[2025-10-29 20:43:05.464] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.464] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.61°
+[2025-10-29 20:43:05.540] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.540] [info] Write
+[2025-10-29 20:43:05.540] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.540] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.62°
+[2025-10-29 20:43:05.615] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.615] [info] Write
+[2025-10-29 20:43:05.615] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.615] [info] Received gimbal angles - yaw: 0.36°, pitch: 1.62°
+[2025-10-29 20:43:05.689] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.689] [info] Write
+[2025-10-29 20:43:05.689] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.689] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.62°
+[2025-10-29 20:43:05.765] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.765] [info] Write
+[2025-10-29 20:43:05.765] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.765] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.62°
+[2025-10-29 20:43:05.840] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.841] [info] Write
+[2025-10-29 20:43:05.841] [info] yolo: 8.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.841] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.62°
+[2025-10-29 20:43:05.914] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.914] [info] Write
+[2025-10-29 20:43:05.914] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.914] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.62°
+[2025-10-29 20:43:05.990] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:05.990] [info] Write
+[2025-10-29 20:43:05.990] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:05.990] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.63°
+[2025-10-29 20:43:06.070] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.070] [info] Write
+[2025-10-29 20:43:06.070] [info] yolo: 12.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.070] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.62°
+[2025-10-29 20:43:06.139] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.139] [info] Write
+[2025-10-29 20:43:06.139] [info] Current FPS: 13.3
+[2025-10-29 20:43:06.139] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.139] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.63°
+[2025-10-29 20:43:06.214] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.214] [info] Write
+[2025-10-29 20:43:06.214] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.214] [info] Received gimbal angles - yaw: 0.35°, pitch: 1.63°
+[2025-10-29 20:43:06.290] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.291] [info] Write
+[2025-10-29 20:43:06.291] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.291] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.62°
+[2025-10-29 20:43:06.365] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.365] [info] Write
+[2025-10-29 20:43:06.365] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.365] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.62°
+[2025-10-29 20:43:06.442] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.442] [info] Write
+[2025-10-29 20:43:06.442] [info] yolo: 10.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.442] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.62°
+[2025-10-29 20:43:06.515] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.515] [info] Write
+[2025-10-29 20:43:06.515] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.515] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.62°
+[2025-10-29 20:43:06.592] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.592] [info] Write
+[2025-10-29 20:43:06.592] [info] yolo: 10.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.592] [info] Received gimbal angles - yaw: 0.34°, pitch: 1.62°
+[2025-10-29 20:43:06.668] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.668] [info] Write
+[2025-10-29 20:43:06.668] [info] yolo: 11.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.668] [info] Received gimbal angles - yaw: 0.33°, pitch: 1.62°
+[2025-10-29 20:43:06.740] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.740] [info] Write
+[2025-10-29 20:43:06.740] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.740] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:06.814] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.814] [info] Write
+[2025-10-29 20:43:06.814] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.815] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.61°
+[2025-10-29 20:43:06.891] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.891] [info] Write
+[2025-10-29 20:43:06.891] [info] yolo: 10.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.891] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:06.964] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:06.964] [info] Write
+[2025-10-29 20:43:06.964] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:06.964] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:07.039] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.039] [info] Write
+[2025-10-29 20:43:07.039] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.039] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:07.117] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.117] [info] Write
+[2025-10-29 20:43:07.117] [info] yolo: 10.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.117] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:07.190] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.190] [info] Write
+[2025-10-29 20:43:07.190] [info] Current FPS: 13.3
+[2025-10-29 20:43:07.190] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.190] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.63°
+[2025-10-29 20:43:07.267] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.267] [info] Write
+[2025-10-29 20:43:07.267] [info] yolo: 10.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.267] [info] Received gimbal angles - yaw: 0.33°, pitch: 1.62°
+[2025-10-29 20:43:07.339] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.339] [info] Write
+[2025-10-29 20:43:07.339] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.339] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.63°
+[2025-10-29 20:43:07.417] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.417] [info] Write
+[2025-10-29 20:43:07.417] [info] yolo: 10.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.417] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.61°
+[2025-10-29 20:43:07.491] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.491] [info] Write
+[2025-10-29 20:43:07.491] [info] yolo: 9.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.491] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.60°
+[2025-10-29 20:43:07.565] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.565] [info] Write
+[2025-10-29 20:43:07.565] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.565] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:07.639] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.639] [info] Write
+[2025-10-29 20:43:07.639] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.639] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:07.717] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.717] [info] Write
+[2025-10-29 20:43:07.717] [info] yolo: 10.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.717] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:07.790] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.790] [info] Write
+[2025-10-29 20:43:07.790] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.790] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:07.864] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.864] [info] Write
+[2025-10-29 20:43:07.864] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.864] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:07.942] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:07.942] [info] Write
+[2025-10-29 20:43:07.942] [info] yolo: 10.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:07.942] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:08.014] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.014] [info] Write
+[2025-10-29 20:43:08.014] [info] yolo: 6.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.014] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:08.090] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.090] [info] Write
+[2025-10-29 20:43:08.090] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.090] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:08.164] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.164] [info] Write
+[2025-10-29 20:43:08.164] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.164] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:08.240] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.240] [info] Write
+[2025-10-29 20:43:08.240] [info] Current FPS: 13.3
+[2025-10-29 20:43:08.240] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.240] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:08.316] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.316] [info] Write
+[2025-10-29 20:43:08.316] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.316] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:08.390] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.390] [info] Write
+[2025-10-29 20:43:08.390] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.390] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:08.467] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.467] [info] Write
+[2025-10-29 20:43:08.467] [info] yolo: 10.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.467] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:08.542] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.542] [info] Write
+[2025-10-29 20:43:08.542] [info] yolo: 11.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.542] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.60°
+[2025-10-29 20:43:08.617] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.617] [info] Write
+[2025-10-29 20:43:08.617] [info] yolo: 10.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.617] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.61°
+[2025-10-29 20:43:08.689] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.689] [info] Write
+[2025-10-29 20:43:08.689] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.689] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:08.766] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.766] [info] Write
+[2025-10-29 20:43:08.766] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.766] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:08.839] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.840] [info] Write
+[2025-10-29 20:43:08.840] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.840] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.59°
+[2025-10-29 20:43:08.916] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.916] [info] Write
+[2025-10-29 20:43:08.916] [info] yolo: 9.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.916] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:08.989] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:08.989] [info] Write
+[2025-10-29 20:43:08.989] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:08.989] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.59°
+[2025-10-29 20:43:09.065] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.065] [info] Write
+[2025-10-29 20:43:09.065] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.065] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.59°
+[2025-10-29 20:43:09.139] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.139] [info] Write
+[2025-10-29 20:43:09.139] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.139] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.59°
+[2025-10-29 20:43:09.214] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.214] [info] Write
+[2025-10-29 20:43:09.214] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.214] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.59°
+[2025-10-29 20:43:09.290] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.290] [info] Write
+[2025-10-29 20:43:09.290] [info] Current FPS: 13.3
+[2025-10-29 20:43:09.290] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.290] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.60°
+[2025-10-29 20:43:09.364] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.364] [info] Write
+[2025-10-29 20:43:09.364] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.364] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.60°
+[2025-10-29 20:43:09.441] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.441] [info] Write
+[2025-10-29 20:43:09.441] [info] yolo: 10.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.441] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.61°
+[2025-10-29 20:43:09.517] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.517] [info] Write
+[2025-10-29 20:43:09.517] [info] yolo: 10.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.517] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.61°
+[2025-10-29 20:43:09.590] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.590] [info] Write
+[2025-10-29 20:43:09.590] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.590] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.62°
+[2025-10-29 20:43:09.667] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.667] [info] Write
+[2025-10-29 20:43:09.667] [info] yolo: 10.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.667] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:09.740] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.740] [info] Write
+[2025-10-29 20:43:09.740] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.740] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:09.815] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.815] [info] Write
+[2025-10-29 20:43:09.815] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.816] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:09.890] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.890] [info] Write
+[2025-10-29 20:43:09.890] [info] yolo: 8.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.890] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:09.964] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:09.965] [info] Write
+[2025-10-29 20:43:09.965] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:09.965] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:10.040] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.040] [info] Write
+[2025-10-29 20:43:10.040] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.040] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:10.116] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.116] [info] Write
+[2025-10-29 20:43:10.116] [info] yolo: 9.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.116] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:10.191] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.191] [info] Write
+[2025-10-29 20:43:10.191] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.191] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:10.267] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.267] [info] Write
+[2025-10-29 20:43:10.267] [info] yolo: 9.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.267] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:10.339] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.339] [info] Write
+[2025-10-29 20:43:10.339] [info] Current FPS: 13.3
+[2025-10-29 20:43:10.339] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.339] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:10.417] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.417] [info] Write
+[2025-10-29 20:43:10.417] [info] yolo: 10.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.417] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:10.490] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.490] [info] Write
+[2025-10-29 20:43:10.490] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.490] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:10.566] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.566] [info] Write
+[2025-10-29 20:43:10.566] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.566] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:10.640] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.640] [info] Write
+[2025-10-29 20:43:10.640] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.640] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:10.717] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.718] [info] Write
+[2025-10-29 20:43:10.718] [info] yolo: 10.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.718] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:10.790] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.790] [info] Write
+[2025-10-29 20:43:10.790] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.790] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:10.865] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.865] [info] Write
+[2025-10-29 20:43:10.865] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.865] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:10.938] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:10.938] [info] Write
+[2025-10-29 20:43:10.938] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:10.938] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:11.014] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.014] [info] Write
+[2025-10-29 20:43:11.014] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.014] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:11.088] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.089] [info] Write
+[2025-10-29 20:43:11.089] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.089] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:11.166] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.166] [info] Write
+[2025-10-29 20:43:11.166] [info] yolo: 10.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.166] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:11.240] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.240] [info] Write
+[2025-10-29 20:43:11.240] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.240] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:11.314] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.314] [info] Write
+[2025-10-29 20:43:11.314] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.314] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:11.390] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.390] [info] Write
+[2025-10-29 20:43:11.390] [info] Current FPS: 13.3
+[2025-10-29 20:43:11.390] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.390] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:11.464] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.464] [info] Write
+[2025-10-29 20:43:11.464] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.464] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:11.540] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.540] [info] Write
+[2025-10-29 20:43:11.540] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.540] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:11.614] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.614] [info] Write
+[2025-10-29 20:43:11.614] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.614] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:11.691] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.691] [info] Write
+[2025-10-29 20:43:11.691] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.691] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:11.764] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.764] [info] Write
+[2025-10-29 20:43:11.764] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.764] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:11.842] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.842] [info] Write
+[2025-10-29 20:43:11.842] [info] yolo: 10.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.842] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:11.915] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.916] [info] Write
+[2025-10-29 20:43:11.916] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.916] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:11.990] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:11.990] [info] Write
+[2025-10-29 20:43:11.990] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:11.990] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:12.064] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.064] [info] Write
+[2025-10-29 20:43:12.065] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.065] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:12.140] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.140] [info] Write
+[2025-10-29 20:43:12.140] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.140] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.61°
+[2025-10-29 20:43:12.215] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.215] [info] Write
+[2025-10-29 20:43:12.215] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.215] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:12.289] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.289] [info] Write
+[2025-10-29 20:43:12.289] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.289] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.61°
+[2025-10-29 20:43:12.367] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.367] [info] Write
+[2025-10-29 20:43:12.367] [info] yolo: 10.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.367] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:12.443] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.443] [info] Write
+[2025-10-29 20:43:12.443] [info] Current FPS: 13.3
+[2025-10-29 20:43:12.443] [info] yolo: 11.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.443] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:12.516] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.516] [info] Write
+[2025-10-29 20:43:12.516] [info] yolo: 10.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.516] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:12.593] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.593] [info] Write
+[2025-10-29 20:43:12.593] [info] yolo: 11.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.593] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.60°
+[2025-10-29 20:43:12.665] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.665] [info] Write
+[2025-10-29 20:43:12.665] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.665] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.61°
+[2025-10-29 20:43:12.739] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.739] [info] Write
+[2025-10-29 20:43:12.739] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.739] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:12.815] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.816] [info] Write
+[2025-10-29 20:43:12.816] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.816] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:12.890] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.890] [info] Write
+[2025-10-29 20:43:12.890] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.890] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:12.966] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:12.966] [info] Write
+[2025-10-29 20:43:12.966] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:12.966] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:13.041] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.041] [info] Write
+[2025-10-29 20:43:13.041] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.041] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:13.114] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.114] [info] Write
+[2025-10-29 20:43:13.114] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.2ms
+[2025-10-29 20:43:13.114] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:13.189] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.189] [info] Write
+[2025-10-29 20:43:13.189] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.189] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:13.266] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.266] [info] Write
+[2025-10-29 20:43:13.266] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.266] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:13.339] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.339] [info] Write
+[2025-10-29 20:43:13.339] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.339] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.61°
+[2025-10-29 20:43:13.416] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.416] [info] Write
+[2025-10-29 20:43:13.416] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.416] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:13.490] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.490] [info] Write
+[2025-10-29 20:43:13.490] [info] Current FPS: 13.4
+[2025-10-29 20:43:13.490] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.490] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.60°
+[2025-10-29 20:43:13.564] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.564] [info] Write
+[2025-10-29 20:43:13.564] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.564] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.60°
+[2025-10-29 20:43:13.640] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.640] [info] Write
+[2025-10-29 20:43:13.640] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.640] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:13.717] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.717] [info] Write
+[2025-10-29 20:43:13.717] [info] yolo: 10.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.717] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.60°
+[2025-10-29 20:43:13.789] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.789] [info] Write
+[2025-10-29 20:43:13.789] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.789] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.61°
+[2025-10-29 20:43:13.864] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.864] [info] Write
+[2025-10-29 20:43:13.864] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.864] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:13.939] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:13.939] [info] Write
+[2025-10-29 20:43:13.939] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:13.939] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:14.018] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.018] [info] Write
+[2025-10-29 20:43:14.018] [info] yolo: 11.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.018] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:14.090] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.090] [info] Write
+[2025-10-29 20:43:14.090] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.090] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:14.165] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.165] [info] Write
+[2025-10-29 20:43:14.165] [info] yolo: 8.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.165] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:14.241] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.241] [info] Write
+[2025-10-29 20:43:14.241] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.241] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.60°
+[2025-10-29 20:43:14.315] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.315] [info] Write
+[2025-10-29 20:43:14.315] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.315] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.60°
+[2025-10-29 20:43:14.390] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.390] [info] Write
+[2025-10-29 20:43:14.390] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.390] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:14.464] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.465] [info] Write
+[2025-10-29 20:43:14.465] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.465] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:14.540] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.540] [info] Write
+[2025-10-29 20:43:14.541] [info] Current FPS: 13.3
+[2025-10-29 20:43:14.541] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.2ms
+[2025-10-29 20:43:14.541] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.60°
+[2025-10-29 20:43:14.613] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.614] [info] Write
+[2025-10-29 20:43:14.614] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.6ms
+[2025-10-29 20:43:14.614] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:14.690] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.690] [info] Write
+[2025-10-29 20:43:14.690] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.690] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:14.765] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.765] [info] Write
+[2025-10-29 20:43:14.765] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.765] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:14.840] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.840] [info] Write
+[2025-10-29 20:43:14.840] [info] yolo: 8.9ms, tracker: 0.0ms, aimer: 0.0ms
+[2025-10-29 20:43:14.840] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.61°
+[2025-10-29 20:43:14.914] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.914] [info] Write
+[2025-10-29 20:43:14.914] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.914] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.61°
+[2025-10-29 20:43:14.989] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:14.990] [info] Write
+[2025-10-29 20:43:14.990] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:14.990] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:15.065] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.065] [info] Write
+[2025-10-29 20:43:15.065] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.065] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:15.139] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.140] [info] Write
+[2025-10-29 20:43:15.140] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.140] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:15.214] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.214] [info] Write
+[2025-10-29 20:43:15.214] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.214] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:15.289] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.289] [info] Write
+[2025-10-29 20:43:15.289] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.289] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:15.365] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.365] [info] Write
+[2025-10-29 20:43:15.365] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.365] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.62°
+[2025-10-29 20:43:15.439] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.439] [info] Write
+[2025-10-29 20:43:15.439] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.439] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:15.513] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.513] [info] Write
+[2025-10-29 20:43:15.513] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.513] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:15.590] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.590] [info] Write
+[2025-10-29 20:43:15.590] [info] Current FPS: 13.3
+[2025-10-29 20:43:15.590] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.590] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:15.665] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.665] [info] Write
+[2025-10-29 20:43:15.665] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.665] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:15.739] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.739] [info] Write
+[2025-10-29 20:43:15.739] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.739] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.63°
+[2025-10-29 20:43:15.812] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.812] [info] Write
+[2025-10-29 20:43:15.812] [info] yolo: 6.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.812] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:15.890] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.890] [info] Write
+[2025-10-29 20:43:15.890] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.890] [info] Received gimbal angles - yaw: 0.32°, pitch: 1.63°
+[2025-10-29 20:43:15.965] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:15.965] [info] Write
+[2025-10-29 20:43:15.965] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:15.965] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.62°
+[2025-10-29 20:43:16.040] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.040] [info] Write
+[2025-10-29 20:43:16.040] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.040] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:16.114] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.114] [info] Write
+[2025-10-29 20:43:16.114] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.114] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:16.188] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.188] [info] Write
+[2025-10-29 20:43:16.188] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.188] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:16.263] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.264] [info] Write
+[2025-10-29 20:43:16.264] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.264] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:16.338] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.338] [info] Write
+[2025-10-29 20:43:16.338] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.338] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:16.413] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.414] [info] Write
+[2025-10-29 20:43:16.414] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.414] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:16.489] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.489] [info] Write
+[2025-10-29 20:43:16.489] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.489] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:16.566] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.566] [info] Write
+[2025-10-29 20:43:16.566] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.566] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:16.639] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.639] [info] Write
+[2025-10-29 20:43:16.639] [info] Current FPS: 13.3
+[2025-10-29 20:43:16.639] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.639] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.62°
+[2025-10-29 20:43:16.713] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.713] [info] Write
+[2025-10-29 20:43:16.713] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.713] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:16.789] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.789] [info] Write
+[2025-10-29 20:43:16.789] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.789] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:16.864] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.864] [info] Write
+[2025-10-29 20:43:16.864] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.864] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:16.939] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:16.939] [info] Write
+[2025-10-29 20:43:16.939] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:16.939] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:17.015] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.015] [info] Write
+[2025-10-29 20:43:17.015] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.015] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:17.088] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.088] [info] Write
+[2025-10-29 20:43:17.088] [info] yolo: 6.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.088] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:17.164] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.164] [info] Write
+[2025-10-29 20:43:17.164] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.164] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:17.239] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.239] [info] Write
+[2025-10-29 20:43:17.239] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.239] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:17.313] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.313] [info] Write
+[2025-10-29 20:43:17.313] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.313] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.62°
+[2025-10-29 20:43:17.390] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.390] [info] Write
+[2025-10-29 20:43:17.390] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.390] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:17.468] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.468] [info] Write
+[2025-10-29 20:43:17.468] [info] yolo: 11.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.468] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:17.538] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.538] [info] Write
+[2025-10-29 20:43:17.538] [info] yolo: 6.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.538] [info] Received gimbal angles - yaw: 0.31°, pitch: 1.63°
+[2025-10-29 20:43:17.614] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.614] [info] Write
+[2025-10-29 20:43:17.614] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.614] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:17.690] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.690] [info] Write
+[2025-10-29 20:43:17.690] [info] Current FPS: 13.3
+[2025-10-29 20:43:17.690] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.690] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:17.765] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.765] [info] Write
+[2025-10-29 20:43:17.765] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.765] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:17.840] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.840] [info] Write
+[2025-10-29 20:43:17.840] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.840] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:17.913] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.913] [info] Write
+[2025-10-29 20:43:17.913] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.913] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:17.990] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:17.990] [info] Write
+[2025-10-29 20:43:17.990] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:17.990] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.63°
+[2025-10-29 20:43:18.063] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.064] [info] Write
+[2025-10-29 20:43:18.064] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.064] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:18.140] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.140] [info] Write
+[2025-10-29 20:43:18.140] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.140] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.64°
+[2025-10-29 20:43:18.215] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.215] [info] Write
+[2025-10-29 20:43:18.215] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.215] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.62°
+[2025-10-29 20:43:18.290] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.290] [info] Write
+[2025-10-29 20:43:18.290] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.290] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.63°
+[2025-10-29 20:43:18.364] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.364] [info] Write
+[2025-10-29 20:43:18.364] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.364] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.63°
+[2025-10-29 20:43:18.439] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.439] [info] Write
+[2025-10-29 20:43:18.439] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.439] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.62°
+[2025-10-29 20:43:18.513] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.513] [info] Write
+[2025-10-29 20:43:18.513] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.513] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.63°
+[2025-10-29 20:43:18.589] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.589] [info] Write
+[2025-10-29 20:43:18.589] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.589] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.62°
+[2025-10-29 20:43:18.670] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.670] [info] Write
+[2025-10-29 20:43:18.670] [info] yolo: 12.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.670] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.64°
+[2025-10-29 20:43:18.744] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.744] [info] Write
+[2025-10-29 20:43:18.744] [info] Current FPS: 13.3
+[2025-10-29 20:43:18.744] [info] yolo: 12.9ms, tracker: 0.0ms, aimer: 0.6ms
+[2025-10-29 20:43:18.744] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.64°
+[2025-10-29 20:43:18.814] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.814] [info] Write
+[2025-10-29 20:43:18.814] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.814] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:18.889] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.889] [info] Write
+[2025-10-29 20:43:18.889] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.889] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:18.966] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:18.966] [info] Write
+[2025-10-29 20:43:18.966] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:18.966] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.63°
+[2025-10-29 20:43:19.039] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.039] [info] Write
+[2025-10-29 20:43:19.039] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.039] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:19.113] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.113] [info] Write
+[2025-10-29 20:43:19.113] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.113] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.62°
+[2025-10-29 20:43:19.191] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.191] [info] Write
+[2025-10-29 20:43:19.191] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.191] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.62°
+[2025-10-29 20:43:19.265] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.265] [info] Write
+[2025-10-29 20:43:19.265] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.265] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.63°
+[2025-10-29 20:43:19.338] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.338] [info] Write
+[2025-10-29 20:43:19.338] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.338] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.62°
+[2025-10-29 20:43:19.414] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.414] [info] Write
+[2025-10-29 20:43:19.414] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.414] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.62°
+[2025-10-29 20:43:19.492] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.492] [info] Write
+[2025-10-29 20:43:19.492] [info] yolo: 10.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.492] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.62°
+[2025-10-29 20:43:19.567] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.567] [info] Write
+[2025-10-29 20:43:19.568] [info] yolo: 10.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.568] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.62°
+[2025-10-29 20:43:19.639] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.639] [info] Write
+[2025-10-29 20:43:19.639] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.639] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.62°
+[2025-10-29 20:43:19.715] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.715] [info] Write
+[2025-10-29 20:43:19.715] [info] yolo: 8.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.715] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.62°
+[2025-10-29 20:43:19.789] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.789] [info] Write
+[2025-10-29 20:43:19.789] [info] Current FPS: 13.4
+[2025-10-29 20:43:19.789] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.789] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.62°
+[2025-10-29 20:43:19.863] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.863] [info] Write
+[2025-10-29 20:43:19.863] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.863] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.62°
+[2025-10-29 20:43:19.939] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:19.939] [info] Write
+[2025-10-29 20:43:19.939] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:19.939] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.62°
+[2025-10-29 20:43:20.014] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.014] [info] Write
+[2025-10-29 20:43:20.014] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.014] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:20.090] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.090] [info] Write
+[2025-10-29 20:43:20.090] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.090] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:20.164] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.164] [info] Write
+[2025-10-29 20:43:20.164] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.164] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:20.239] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.239] [info] Write
+[2025-10-29 20:43:20.239] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.239] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:20.315] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.315] [info] Write
+[2025-10-29 20:43:20.315] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.315] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:20.389] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.389] [info] Write
+[2025-10-29 20:43:20.389] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.389] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:20.464] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.464] [info] Write
+[2025-10-29 20:43:20.464] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.464] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.62°
+[2025-10-29 20:43:20.538] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.538] [info] Write
+[2025-10-29 20:43:20.538] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.538] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:20.614] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.614] [info] Write
+[2025-10-29 20:43:20.614] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.614] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:20.690] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.690] [info] Write
+[2025-10-29 20:43:20.690] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.690] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.64°
+[2025-10-29 20:43:20.765] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.765] [info] Write
+[2025-10-29 20:43:20.765] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.765] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.64°
+[2025-10-29 20:43:20.839] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.839] [info] Write
+[2025-10-29 20:43:20.839] [info] Current FPS: 13.3
+[2025-10-29 20:43:20.839] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.839] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.64°
+[2025-10-29 20:43:20.914] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.914] [info] Write
+[2025-10-29 20:43:20.914] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.914] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.64°
+[2025-10-29 20:43:20.989] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:20.989] [info] Write
+[2025-10-29 20:43:20.989] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:20.989] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.64°
+[2025-10-29 20:43:21.062] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.063] [info] Write
+[2025-10-29 20:43:21.063] [info] yolo: 6.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.063] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.64°
+[2025-10-29 20:43:21.138] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.139] [info] Write
+[2025-10-29 20:43:21.139] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.139] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:21.215] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.215] [info] Write
+[2025-10-29 20:43:21.215] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.215] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:21.290] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.290] [info] Write
+[2025-10-29 20:43:21.290] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.290] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.65°
+[2025-10-29 20:43:21.366] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.366] [info] Write
+[2025-10-29 20:43:21.366] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.366] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.66°
+[2025-10-29 20:43:21.439] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.439] [info] Write
+[2025-10-29 20:43:21.439] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.439] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:21.514] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.514] [info] Write
+[2025-10-29 20:43:21.514] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.514] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:21.589] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.589] [info] Write
+[2025-10-29 20:43:21.589] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.589] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:21.662] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.662] [info] Write
+[2025-10-29 20:43:21.662] [info] yolo: 6.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.662] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.65°
+[2025-10-29 20:43:21.739] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.739] [info] Write
+[2025-10-29 20:43:21.739] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.739] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:21.814] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.814] [info] Write
+[2025-10-29 20:43:21.814] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.814] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.66°
+[2025-10-29 20:43:21.891] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.891] [info] Write
+[2025-10-29 20:43:21.891] [info] Current FPS: 13.3
+[2025-10-29 20:43:21.891] [info] yolo: 9.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.891] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.66°
+[2025-10-29 20:43:21.966] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:21.966] [info] Write
+[2025-10-29 20:43:21.966] [info] yolo: 9.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:21.966] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.66°
+[2025-10-29 20:43:22.039] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.039] [info] Write
+[2025-10-29 20:43:22.039] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.039] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.66°
+[2025-10-29 20:43:22.114] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.114] [info] Write
+[2025-10-29 20:43:22.114] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.114] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.66°
+[2025-10-29 20:43:22.189] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.189] [info] Write
+[2025-10-29 20:43:22.189] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.189] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.66°
+[2025-10-29 20:43:22.263] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.263] [info] Write
+[2025-10-29 20:43:22.263] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.263] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.66°
+[2025-10-29 20:43:22.338] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.338] [info] Write
+[2025-10-29 20:43:22.338] [info] yolo: 6.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.338] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:22.413] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.413] [info] Write
+[2025-10-29 20:43:22.413] [info] yolo: 6.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.413] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.66°
+[2025-10-29 20:43:22.491] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.491] [info] Write
+[2025-10-29 20:43:22.491] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.491] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.66°
+[2025-10-29 20:43:22.566] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.566] [info] Write
+[2025-10-29 20:43:22.566] [info] yolo: 9.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.566] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.66°
+[2025-10-29 20:43:22.638] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.638] [info] Write
+[2025-10-29 20:43:22.638] [info] yolo: 6.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.638] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.65°
+[2025-10-29 20:43:22.713] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.713] [info] Write
+[2025-10-29 20:43:22.713] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.713] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:22.790] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.790] [info] Write
+[2025-10-29 20:43:22.790] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.790] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.66°
+[2025-10-29 20:43:22.865] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.865] [info] Write
+[2025-10-29 20:43:22.865] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.865] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.66°
+[2025-10-29 20:43:22.941] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:22.941] [info] Write
+[2025-10-29 20:43:22.941] [info] Current FPS: 13.3
+[2025-10-29 20:43:22.941] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:22.941] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.66°
+[2025-10-29 20:43:23.017] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.017] [info] Write
+[2025-10-29 20:43:23.017] [info] yolo: 11.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.017] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:23.090] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.090] [info] Write
+[2025-10-29 20:43:23.090] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.090] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:23.167] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.167] [info] Write
+[2025-10-29 20:43:23.167] [info] yolo: 10.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.167] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.65°
+[2025-10-29 20:43:23.239] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.239] [info] Write
+[2025-10-29 20:43:23.239] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.239] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:23.314] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.314] [info] Write
+[2025-10-29 20:43:23.314] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.314] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:23.389] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.389] [info] Write
+[2025-10-29 20:43:23.389] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.389] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:23.464] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.464] [info] Write
+[2025-10-29 20:43:23.464] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.464] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:23.543] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.543] [info] Write
+[2025-10-29 20:43:23.543] [info] yolo: 11.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.543] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:23.615] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.615] [info] Write
+[2025-10-29 20:43:23.615] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.615] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:23.694] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.694] [info] Write
+[2025-10-29 20:43:23.694] [info] yolo: 12.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.694] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:23.764] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.764] [info] Write
+[2025-10-29 20:43:23.764] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.764] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.65°
+[2025-10-29 20:43:23.839] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.839] [info] Write
+[2025-10-29 20:43:23.839] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.839] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.64°
+[2025-10-29 20:43:23.913] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.913] [info] Write
+[2025-10-29 20:43:23.913] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.913] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.64°
+[2025-10-29 20:43:23.990] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:23.990] [info] Write
+[2025-10-29 20:43:23.990] [info] Current FPS: 13.3
+[2025-10-29 20:43:23.990] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:23.990] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.64°
+[2025-10-29 20:43:24.065] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.066] [info] Write
+[2025-10-29 20:43:24.066] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.066] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:24.139] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.139] [info] Write
+[2025-10-29 20:43:24.139] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.139] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:24.214] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.215] [info] Write
+[2025-10-29 20:43:24.215] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.215] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.64°
+[2025-10-29 20:43:24.290] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.290] [info] Write
+[2025-10-29 20:43:24.290] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.290] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:24.363] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.363] [info] Write
+[2025-10-29 20:43:24.363] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.363] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:24.438] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.438] [info] Write
+[2025-10-29 20:43:24.438] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.438] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:24.516] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.516] [info] Write
+[2025-10-29 20:43:24.516] [info] yolo: 10.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.516] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.64°
+[2025-10-29 20:43:24.589] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.590] [info] Write
+[2025-10-29 20:43:24.590] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.590] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:24.665] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.665] [info] Write
+[2025-10-29 20:43:24.665] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.665] [info] Received gimbal angles - yaw: 0.30°, pitch: 1.65°
+[2025-10-29 20:43:24.739] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.739] [info] Write
+[2025-10-29 20:43:24.739] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.739] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:24.816] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.816] [info] Write
+[2025-10-29 20:43:24.816] [info] yolo: 10.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.816] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:24.889] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.889] [info] Write
+[2025-10-29 20:43:24.889] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.889] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:24.964] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:24.964] [info] Write
+[2025-10-29 20:43:24.964] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:24.964] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.65°
+[2025-10-29 20:43:25.038] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.038] [info] Write
+[2025-10-29 20:43:25.038] [info] Current FPS: 13.4
+[2025-10-29 20:43:25.038] [info] yolo: 6.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.038] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:25.115] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.115] [info] Write
+[2025-10-29 20:43:25.115] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.115] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:25.191] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.191] [info] Write
+[2025-10-29 20:43:25.191] [info] yolo: 10.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.191] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:25.265] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.266] [info] Write
+[2025-10-29 20:43:25.266] [info] yolo: 9.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.266] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:25.339] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.339] [info] Write
+[2025-10-29 20:43:25.339] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.339] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.63°
+[2025-10-29 20:43:25.413] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.413] [info] Write
+[2025-10-29 20:43:25.413] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.413] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:25.490] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.490] [info] Write
+[2025-10-29 20:43:25.490] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.2ms
+[2025-10-29 20:43:25.490] [info] Received gimbal angles - yaw: 0.29°, pitch: 1.64°
+[2025-10-29 20:43:25.570] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.570] [info] Write
+[2025-10-29 20:43:25.570] [info] yolo: 13.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.570] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.63°
+[2025-10-29 20:43:25.640] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.640] [info] Write
+[2025-10-29 20:43:25.640] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.640] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:25.714] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.714] [info] Write
+[2025-10-29 20:43:25.715] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.715] [info] Received gimbal angles - yaw: 0.28°, pitch: 1.64°
+[2025-10-29 20:43:25.790] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.790] [info] Write
+[2025-10-29 20:43:25.790] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.790] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.64°
+[2025-10-29 20:43:25.863] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.863] [info] Write
+[2025-10-29 20:43:25.863] [info] yolo: 6.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.863] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.64°
+[2025-10-29 20:43:25.937] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:25.937] [info] Write
+[2025-10-29 20:43:25.937] [info] yolo: 6.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:25.937] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.63°
+[2025-10-29 20:43:26.015] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.015] [info] Write
+[2025-10-29 20:43:26.015] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.015] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.64°
+[2025-10-29 20:43:26.090] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.090] [info] Write
+[2025-10-29 20:43:26.090] [info] Current FPS: 13.3
+[2025-10-29 20:43:26.090] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.090] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.64°
+[2025-10-29 20:43:26.163] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.163] [info] Write
+[2025-10-29 20:43:26.163] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.164] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.64°
+[2025-10-29 20:43:26.240] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.240] [info] Write
+[2025-10-29 20:43:26.240] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.240] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.64°
+[2025-10-29 20:43:26.314] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.314] [info] Write
+[2025-10-29 20:43:26.314] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.314] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.65°
+[2025-10-29 20:43:26.388] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.388] [info] Write
+[2025-10-29 20:43:26.388] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.388] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.65°
+[2025-10-29 20:43:26.465] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.465] [info] Write
+[2025-10-29 20:43:26.465] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.465] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.65°
+[2025-10-29 20:43:26.540] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.540] [info] Write
+[2025-10-29 20:43:26.540] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.540] [info] Received gimbal angles - yaw: 0.27°, pitch: 1.65°
+[2025-10-29 20:43:26.612] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.612] [info] Write
+[2025-10-29 20:43:26.613] [info] yolo: 6.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.613] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.64°
+[2025-10-29 20:43:26.691] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.691] [info] Write
+[2025-10-29 20:43:26.691] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.691] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.66°
+[2025-10-29 20:43:26.763] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.763] [info] Write
+[2025-10-29 20:43:26.763] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.763] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.64°
+[2025-10-29 20:43:26.838] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.839] [info] Write
+[2025-10-29 20:43:26.839] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.839] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.64°
+[2025-10-29 20:43:26.914] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.914] [info] Write
+[2025-10-29 20:43:26.914] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.914] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.65°
+[2025-10-29 20:43:26.991] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:26.991] [info] Write
+[2025-10-29 20:43:26.991] [info] yolo: 9.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:26.991] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.65°
+[2025-10-29 20:43:27.064] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.064] [info] Write
+[2025-10-29 20:43:27.064] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.064] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.65°
+[2025-10-29 20:43:27.140] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.140] [info] Write
+[2025-10-29 20:43:27.140] [info] Current FPS: 13.3
+[2025-10-29 20:43:27.140] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.140] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.66°
+[2025-10-29 20:43:27.213] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.213] [info] Write
+[2025-10-29 20:43:27.213] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.213] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.65°
+[2025-10-29 20:43:27.289] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.289] [info] Write
+[2025-10-29 20:43:27.289] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.289] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.66°
+[2025-10-29 20:43:27.365] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.365] [info] Write
+[2025-10-29 20:43:27.365] [info] yolo: 9.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.365] [info] Received gimbal angles - yaw: 0.24°, pitch: 1.66°
+[2025-10-29 20:43:27.439] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.439] [info] Write
+[2025-10-29 20:43:27.439] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.439] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.67°
+[2025-10-29 20:43:27.514] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.514] [info] Write
+[2025-10-29 20:43:27.514] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.514] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.66°
+[2025-10-29 20:43:27.589] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.589] [info] Write
+[2025-10-29 20:43:27.590] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.590] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.66°
+[2025-10-29 20:43:27.665] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.665] [info] Write
+[2025-10-29 20:43:27.666] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.666] [info] Received gimbal angles - yaw: 0.25°, pitch: 1.67°
+[2025-10-29 20:43:27.742] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-29 20:43:27.742] [info] Write
+[2025-10-29 20:43:27.742] [info] yolo: 10.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-29 20:43:27.742] [info] Received gimbal angles - yaw: 0.26°, pitch: 1.67°
+[2025-10-29 20:43:27.806] [info] [Gimbal] read_thread stopped.
+[2025-10-29 20:43:27.888] [info] Mindvision destructed.

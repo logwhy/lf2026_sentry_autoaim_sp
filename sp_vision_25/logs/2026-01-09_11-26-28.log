@@ -1,0 +1,49 @@
+[2026-01-09 11:26:28.120] [info] HikRobot's daemon thread started.
+[2026-01-09 11:26:29.412] [info] HikRobot's capture thread started.
+[2026-01-09 11:26:29.513] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2026-01-09 11:26:29.513] [info] HikRobot's capture thread stopped.
+[2026-01-09 11:26:30.260] [info] HikRobot's daemon thread started.
+[2026-01-09 11:26:31.281] [info] Reset usb successfully :)
+[2026-01-09 11:26:31.499] [info] HikRobot's capture thread started.
+[2026-01-09 11:26:34.414] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:34.524] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:34.656] [info] Reset usb successfully :)
+[2026-01-09 11:26:36.798] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:36.908] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:37.038] [info] Reset usb successfully :)
+[2026-01-09 11:26:39.184] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:39.294] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:39.425] [info] Reset usb successfully :)
+[2026-01-09 11:26:41.569] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:41.679] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:41.810] [info] Reset usb successfully :)
+[2026-01-09 11:26:43.956] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:44.066] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:44.195] [info] Reset usb successfully :)
+[2026-01-09 11:26:46.336] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:46.446] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:46.579] [info] Reset usb successfully :)
+[2026-01-09 11:26:48.730] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:48.840] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:48.970] [info] Reset usb successfully :)
+[2026-01-09 11:26:51.111] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:51.221] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:51.353] [info] Reset usb successfully :)
+[2026-01-09 11:26:53.499] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:53.609] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:53.738] [info] Reset usb successfully :)
+[2026-01-09 11:26:55.885] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:55.996] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:56.125] [info] Reset usb successfully :)
+[2026-01-09 11:26:58.266] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:26:58.376] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:26:58.505] [info] Reset usb successfully :)
+[2026-01-09 11:27:00.646] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:27:00.756] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:27:00.888] [info] Reset usb successfully :)
+[2026-01-09 11:27:03.037] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:27:03.147] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:27:03.279] [info] Reset usb successfully :)
+[2026-01-09 11:27:05.419] [warning] MV_CC_OpenDevice failed: 0x80000301
+[2026-01-09 11:27:05.529] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-09 11:27:05.661] [info] Reset usb successfully :)

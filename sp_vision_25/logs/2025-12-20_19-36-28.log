@@ -1,0 +1,17 @@
+[2025-12-20 19:36:28.547] [info] 正在初始化相机 1...
+[2025-12-20 19:36:28.548] [info] HikRobot's daemon thread started.
+[2025-12-20 19:36:28.870] [info] [MultiThreadDetector] initialized !
+[2025-12-20 19:36:28.871] [info] 等待 USB 总线稳定 (2s)...
+[2025-12-20 19:36:28.871] [info] HikRobot's capture thread started.
+[2025-12-20 19:36:30.871] [info] 正在初始化相机 2...
+[2025-12-20 19:36:30.872] [info] HikRobot's daemon thread started.
+[2025-12-20 19:36:31.152] [info] [MultiThreadDetector] initialized !
+[2025-12-20 19:36:31.154] [info] [Aimer] successfully loading shootmode
+[2025-12-20 19:36:31.154] [info] 所有模块初始化成功！
+[2025-12-20 19:36:31.163] [info] HikRobot's capture thread started.
+[2025-12-20 19:37:44.518] [info] HikRobot's capture thread stopped.
+[2025-12-20 19:37:44.528] [info] HikRobot's daemon thread stopped.
+[2025-12-20 19:37:44.528] [info] HikRobot destructed.
+[2025-12-20 19:37:44.631] [info] HikRobot's capture thread stopped.
+[2025-12-20 19:37:44.640] [info] HikRobot's daemon thread stopped.
+[2025-12-20 19:37:44.643] [info] HikRobot destructed.

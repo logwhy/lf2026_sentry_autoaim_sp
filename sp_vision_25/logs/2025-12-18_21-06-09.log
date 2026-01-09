@@ -1,0 +1,15 @@
+[2025-12-18 21:06:09.068] [info] 正在初始化相机 1...
+[2025-12-18 21:06:09.069] [info] HikRobot's daemon thread started.
+[2025-12-18 21:06:09.382] [info] [MultiThreadDetector] initialized !
+[2025-12-18 21:06:09.383] [info] 等待 USB 总线稳定 (2s)...
+[2025-12-18 21:06:09.402] [info] HikRobot's capture thread started.
+[2025-12-18 21:06:11.383] [info] 正在初始化相机 2...
+[2025-12-18 21:06:11.384] [info] HikRobot's daemon thread started.
+[2025-12-18 21:06:11.424] [error] 初始化异常: bad conversion
+[2025-12-18 21:06:11.669] [info] HikRobot's capture thread started.
+[2025-12-18 21:06:11.669] [info] HikRobot's capture thread stopped.
+[2025-12-18 21:06:11.676] [info] HikRobot's daemon thread stopped.
+[2025-12-18 21:06:11.677] [info] HikRobot destructed.
+[2025-12-18 21:06:11.710] [info] HikRobot's capture thread stopped.
+[2025-12-18 21:06:11.724] [info] HikRobot's daemon thread stopped.
+[2025-12-18 21:06:11.727] [info] HikRobot destructed.

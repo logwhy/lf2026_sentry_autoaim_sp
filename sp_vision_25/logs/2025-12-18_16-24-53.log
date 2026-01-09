@@ -1,0 +1,122 @@
+[2025-12-18 16:24:53.245] [info] 正在初始化相机 1...
+[2025-12-18 16:24:53.245] [info] HikRobot's daemon thread started.
+[2025-12-18 16:24:53.562] [info] HikRobot's capture thread started.
+[2025-12-18 16:24:53.564] [info] [MultiThreadDetector] initialized !
+[2025-12-18 16:24:53.565] [info] 正在初始化相机 2...
+[2025-12-18 16:24:53.566] [info] HikRobot's daemon thread started.
+[2025-12-18 16:24:53.569] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:53.669] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:53.762] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:24:53.762] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:24:53.847] [info] [MultiThreadDetector] initialized !
+[2025-12-18 16:24:53.848] [info] 正在初始化 Aimer...
+[2025-12-18 16:24:53.848] [info] [Aimer] successfully loading shootmode
+[2025-12-18 16:24:53.848] [info] 所有模块初始化成功！
+[2025-12-18 16:24:53.848] [info] 双相机异步自瞄测试启动。按 '1'/'2' 切换单显，'b' 并排，'q' 退出。
+[2025-12-18 16:24:54.677] [info] Reset usb successfully :)
+[2025-12-18 16:24:54.680] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:54.780] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:54.909] [info] Reset usb successfully :)
+[2025-12-18 16:24:55.040] [info] Reset usb successfully :)
+[2025-12-18 16:24:55.191] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:55.291] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:55.420] [info] Reset usb successfully :)
+[2025-12-18 16:24:55.424] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:55.515] [info] HikRobot's capture thread started.
+[2025-12-18 16:24:55.524] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:55.616] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:24:55.616] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:24:56.531] [info] Reset usb successfully :)
+[2025-12-18 16:24:56.535] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:56.635] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:56.760] [info] Reset usb successfully :)
+[2025-12-18 16:24:56.889] [info] Reset usb successfully :)
+[2025-12-18 16:24:57.041] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:57.114] [info] HikRobot's capture thread started.
+[2025-12-18 16:24:57.141] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:57.241] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:24:57.241] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:24:57.272] [info] Reset usb successfully :)
+[2025-12-18 16:24:57.289] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:57.389] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:57.481] [info] Reset usb successfully :)
+[2025-12-18 16:24:57.611] [info] Reset usb successfully :)
+[2025-12-18 16:24:57.762] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:57.831] [info] HikRobot's capture thread started.
+[2025-12-18 16:24:57.862] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:57.959] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:24:57.959] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:24:58.869] [info] Reset usb successfully :)
+[2025-12-18 16:24:58.872] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:58.972] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:59.101] [info] Reset usb successfully :)
+[2025-12-18 16:24:59.230] [info] Reset usb successfully :)
+[2025-12-18 16:24:59.381] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:24:59.452] [info] HikRobot's capture thread started.
+[2025-12-18 16:24:59.481] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:24:59.580] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:24:59.580] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:25:00.488] [info] Reset usb successfully :)
+[2025-12-18 16:25:00.492] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:00.592] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:00.717] [info] Reset usb successfully :)
+[2025-12-18 16:25:00.847] [info] Reset usb successfully :)
+[2025-12-18 16:25:01.001] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:01.101] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:01.232] [info] Reset usb successfully :)
+[2025-12-18 16:25:01.236] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:01.324] [info] HikRobot's capture thread started.
+[2025-12-18 16:25:01.336] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:01.425] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:25:01.425] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:25:02.343] [info] Reset usb successfully :)
+[2025-12-18 16:25:02.347] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:02.447] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:02.575] [info] Reset usb successfully :)
+[2025-12-18 16:25:02.705] [info] Reset usb successfully :)
+[2025-12-18 16:25:02.858] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:02.958] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:03.088] [info] Reset usb successfully :)
+[2025-12-18 16:25:03.092] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:03.180] [info] HikRobot's capture thread started.
+[2025-12-18 16:25:03.192] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:03.281] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:25:03.281] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:25:04.200] [info] Reset usb successfully :)
+[2025-12-18 16:25:04.203] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:04.304] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:04.430] [info] Reset usb successfully :)
+[2025-12-18 16:25:04.560] [info] Reset usb successfully :)
+[2025-12-18 16:25:04.713] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:04.813] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:04.943] [info] Reset usb successfully :)
+[2025-12-18 16:25:04.948] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:05.037] [info] HikRobot's capture thread started.
+[2025-12-18 16:25:05.048] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:05.138] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:25:05.138] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:25:06.055] [info] Reset usb successfully :)
+[2025-12-18 16:25:06.059] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:06.159] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:06.285] [info] Reset usb successfully :)
+[2025-12-18 16:25:06.415] [info] Reset usb successfully :)
+[2025-12-18 16:25:06.566] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:06.636] [info] HikRobot's capture thread started.
+[2025-12-18 16:25:06.667] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:06.671] [info] FPS - Cam1: 0.1, Cam2: 0.1
+[2025-12-18 16:25:06.690] [info] 正在停止线程...
+[2025-12-18 16:25:06.763] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2025-12-18 16:25:06.763] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:25:07.673] [info] Reset usb successfully :)
+[2025-12-18 16:25:07.680] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:07.780] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:07.904] [info] Reset usb successfully :)
+[2025-12-18 16:25:08.033] [info] Reset usb successfully :)
+[2025-12-18 16:25:08.189] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 16:25:08.189] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 16:25:08.189] [info] HikRobot's daemon thread stopped.
+[2025-12-18 16:25:08.189] [info] HikRobot destructed.
+[2025-12-18 16:25:08.348] [info] HikRobot's capture thread started.
+[2025-12-18 16:25:08.348] [info] HikRobot's capture thread stopped.
+[2025-12-18 16:25:08.354] [info] HikRobot's daemon thread stopped.
+[2025-12-18 16:25:08.355] [info] HikRobot destructed.

@@ -1,0 +1,85 @@
+[2025-12-20 19:51:10.916] [info] [Gimbal] read_thread started.
+[2025-12-20 19:51:10.916] [info] [Gimbal] First q received.
+[2025-12-20 19:51:10.917] [info] HikRobot's daemon thread started.
+[2025-12-20 19:51:11.231] [info] [MultiThreadDetector] initialized !
+[2025-12-20 19:51:11.232] [info] 初始化相机: FRONT
+[2025-12-20 19:51:11.264] [info] HikRobot's capture thread started.
+[2025-12-20 19:51:13.233] [info] HikRobot's daemon thread started.
+[2025-12-20 19:51:13.515] [info] [MultiThreadDetector] initialized !
+[2025-12-20 19:51:13.517] [info] 初始化相机: BACK
+[2025-12-20 19:51:13.539] [info] HikRobot's capture thread started.
+[2025-12-20 19:52:10.411] [debug] [Target] r=0.529, l=0.000
+[2025-12-20 19:52:10.411] [debug] [Tracker] Target diverged!
+[2025-12-20 19:52:20.238] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:20.340] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:20.442] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:20.544] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:20.645] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:20.746] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:20.848] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:20.950] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.052] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.154] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.256] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.357] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.458] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.560] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.661] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.763] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.864] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:21.966] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.068] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.170] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.271] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.373] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.474] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.576] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.677] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.779] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.880] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:22.982] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:23.084] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:23.186] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:23.288] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:23.390] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:23.491] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:23.593] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:23.694] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:23.796] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:23.898] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.000] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.101] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.203] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.304] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.406] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.507] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.609] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.711] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.812] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:24.914] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.015] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.117] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.219] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.321] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.422] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.524] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.626] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.727] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.828] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:25.930] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.031] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.132] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.234] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.336] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.438] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.540] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.641] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.743] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.844] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:26.945] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:27.047] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:27.149] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:27.250] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:27.352] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:27.454] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-20 19:52:27.556] [warning] [Gimbal] read timeout, read 0 / 2 bytes

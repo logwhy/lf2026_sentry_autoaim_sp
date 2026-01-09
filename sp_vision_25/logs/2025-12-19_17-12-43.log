@@ -1,0 +1,105 @@
+[2025-12-19 17:12:43.646] [info] 正在初始化相机 1...
+[2025-12-19 17:12:43.646] [info] HikRobot's daemon thread started.
+[2025-12-19 17:12:43.953] [info] [MultiThreadDetector] initialized !
+[2025-12-19 17:12:43.954] [info] 等待 USB 总线稳定 (2s)...
+[2025-12-19 17:12:44.855] [info] HikRobot's capture thread started.
+[2025-12-19 17:12:45.955] [info] 正在初始化相机 2...
+[2025-12-19 17:12:45.956] [info] HikRobot's daemon thread started.
+[2025-12-19 17:12:45.962] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.062] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:46.072] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.172] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:46.177] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.245] [info] [MultiThreadDetector] initialized !
+[2025-12-19 17:12:46.247] [info] [Aimer] successfully loading shootmode
+[2025-12-19 17:12:46.247] [info] 所有模块初始化成功！
+[2025-12-19 17:12:46.277] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:46.288] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.388] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:46.394] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.415] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.436] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.444] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.469] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.479] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.488] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.494] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:46.496] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.509] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.518] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.526] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.549] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.558] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.567] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.577] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.602] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.609] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:46.610] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.611] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.635] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.644] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.653] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.661] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.683] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.691] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.710] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:46.712] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.713] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.722] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.732] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.742] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.764] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.773] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.796] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.805] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.812] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:46.814] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.816] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.824] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.848] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.856] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.877] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.886] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.897] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.906] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.916] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:46.917] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:46.927] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.938] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.959] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.968] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.978] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:46.989] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.008] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.016] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.017] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:47.039] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:47.041] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.051] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.061] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.071] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.094] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.103] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.125] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.135] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.139] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:47.143] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.146] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:47.153] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.177] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.185] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.208] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.216] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.225] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.235] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.247] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:47.248] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:47.258] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 17:12:47.348] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:47.349] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:47.449] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:47.452] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:47.552] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:47.573] [error] 找不到标识符为 00DA5751514 的相机!
+[2025-12-19 17:12:47.673] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-19 17:12:48.033] [info] HikRobot's capture thread started.

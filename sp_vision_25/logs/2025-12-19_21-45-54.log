@@ -1,0 +1,400 @@
+[2025-12-19 21:45:54.590] [info] [Gimbal] read_thread started.
+[2025-12-19 21:45:54.590] [info] [Gimbal] First q received.
+[2025-12-19 21:45:54.591] [info] HikRobot's daemon thread started.
+[2025-12-19 21:45:54.911] [info] [MultiThreadDetector] initialized !
+[2025-12-19 21:45:54.913] [info] 初始化相机: FRONT ...
+[2025-12-19 21:45:55.810] [info] HikRobot's capture thread started.
+[2025-12-19 21:45:56.914] [info] HikRobot's daemon thread started.
+[2025-12-19 21:45:57.187] [info] [MultiThreadDetector] initialized !
+[2025-12-19 21:45:57.188] [info] 初始化相机: BACK ...
+[2025-12-19 21:45:58.006] [info] HikRobot's capture thread started.
+[2025-12-19 21:45:59.213] [info] Write
+[2025-12-19 21:45:59.213] [info] Active Cam: NONE | Yaw: 0.00 | Shoot: false
+[2025-12-19 21:45:59.231] [info] Write
+[2025-12-19 21:45:59.231] [info] Active Cam: NONE | Yaw: 0.00 | Shoot: false
+[2025-12-19 21:45:59.291] [info] Write
+[2025-12-19 21:45:59.291] [info] Active Cam: NONE | Yaw: 0.00 | Shoot: false
+[2025-12-19 21:45:59.351] [info] Write
+[2025-12-19 21:45:59.351] [info] Active Cam: NONE | Yaw: 0.00 | Shoot: false
+[2025-12-19 21:45:59.407] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.411] [info] Write
+[2025-12-19 21:45:59.411] [info] Active Cam: NONE | Yaw: 0.00 | Shoot: false
+[2025-12-19 21:45:59.413] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.425] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.429] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.472] [info] Write
+[2025-12-19 21:45:59.472] [info] Active Cam: NONE | Yaw: 0.00 | Shoot: false
+[2025-12-19 21:45:59.472] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.476] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.488] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.491] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.498] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.502] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.513] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.532] [info] Write
+[2025-12-19 21:45:59.532] [info] Active Cam: NONE | Yaw: 0.00 | Shoot: false
+[2025-12-19 21:45:59.538] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.548] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.556] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.561] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.575] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.586] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.592] [info] Write
+[2025-12-19 21:45:59.592] [info] Active Cam: NONE | Yaw: 0.00 | Shoot: false
+[2025-12-19 21:45:59.599] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.604] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.611] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.616] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.650] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.653] [info] Write
+[2025-12-19 21:45:59.660] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.668] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.671] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.682] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.685] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.698] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.700] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.708] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.712] [info] Write
+[2025-12-19 21:45:59.749] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.756] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.766] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.766] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.774] [info] Write
+[2025-12-19 21:45:59.777] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.784] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.787] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.794] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.818] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.826] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.831] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.833] [info] Write
+[2025-12-19 21:45:59.846] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.847] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.856] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.858] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.873] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.887] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.893] [info] Write
+[2025-12-19 21:45:59.904] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.915] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.921] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.930] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.939] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.948] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.948] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.954] [info] Write
+[2025-12-19 21:45:59.956] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.965] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.979] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:45:59.989] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.000] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.006] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.014] [info] Write
+[2025-12-19 21:46:00.014] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.030] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.032] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.046] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.048] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.064] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.071] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.074] [info] Write
+[2025-12-19 21:46:00.089] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.100] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.103] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.113] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.124] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.133] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.134] [info] Write
+[2025-12-19 21:46:00.142] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.152] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.154] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.180] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.181] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.194] [info] Write
+[2025-12-19 21:46:00.204] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.206] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.220] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.220] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.232] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.254] [info] Write
+[2025-12-19 21:46:00.267] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.270] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.279] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.301] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.309] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.314] [info] Write
+[2025-12-19 21:46:00.325] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.331] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.334] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.343] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.367] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.375] [info] Write
+[2025-12-19 21:46:00.382] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.386] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.398] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.406] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.414] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.434] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.435] [info] Write
+[2025-12-19 21:46:00.442] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.446] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.452] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.467] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.469] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.482] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.484] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.495] [info] Write
+[2025-12-19 21:46:00.524] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.539] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.541] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.555] [info] Write
+[2025-12-19 21:46:00.556] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.557] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.567] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.572] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.582] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.590] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.600] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.613] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.615] [info] Write
+[2025-12-19 21:46:00.623] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.633] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.637] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.647] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.654] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.659] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.676] [info] Write
+[2025-12-19 21:46:00.680] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.688] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.693] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.703] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.714] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.723] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.736] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.736] [info] Write
+[2025-12-19 21:46:00.740] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.746] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.765] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.775] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.782] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.790] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.796] [info] Write
+[2025-12-19 21:46:00.807] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.813] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.820] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.833] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.839] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.856] [info] Write
+[2025-12-19 21:46:00.863] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.865] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.875] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.884] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.888] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.897] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.906] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.911] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.917] [info] Write
+[2025-12-19 21:46:00.921] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.925] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.935] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.967] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.970] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.976] [info] Write
+[2025-12-19 21:46:00.977] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.986] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:00.996] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.001] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.008] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.014] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.031] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.036] [info] Write
+[2025-12-19 21:46:01.048] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.056] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.065] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.072] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.081] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.090] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.096] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.097] [info] Write
+[2025-12-19 21:46:01.106] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.110] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.156] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.157] [info] Write
+[2025-12-19 21:46:01.168] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.171] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.194] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.199] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.203] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.208] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.218] [info] Write
+[2025-12-19 21:46:01.219] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.243] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.246] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.256] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.262] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.277] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.277] [info] Write
+[2025-12-19 21:46:01.284] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.295] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.296] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.337] [info] Write
+[2025-12-19 21:46:01.351] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.353] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.363] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.383] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.391] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.394] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.397] [info] Write
+[2025-12-19 21:46:01.408] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.417] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.418] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.425] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.441] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.447] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.450] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.458] [info] Write
+[2025-12-19 21:46:01.496] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.501] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.514] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.518] [info] Write
+[2025-12-19 21:46:01.523] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.531] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.532] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.541] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.542] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.558] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.568] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.579] [info] Write
+[2025-12-19 21:46:01.593] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.595] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.602] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.609] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.618] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.620] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.633] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.634] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.638] [info] Write
+[2025-12-19 21:46:01.682] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.685] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.692] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.698] [info] Write
+[2025-12-19 21:46:01.706] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.710] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.717] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.723] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.729] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.743] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.753] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.758] [info] Write
+[2025-12-19 21:46:01.763] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.774] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.778] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.788] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.798] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.805] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.818] [info] Write
+[2025-12-19 21:46:01.821] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.824] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.834] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.843] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.847] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.855] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.864] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.873] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.877] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.879] [info] Write
+[2025-12-19 21:46:01.890] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.891] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.899] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.908] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.916] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.926] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.928] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.936] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.939] [info] Write
+[2025-12-19 21:46:01.940] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.955] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.966] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.979] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.980] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.991] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:01.999] [info] Write
+[2025-12-19 21:46:02.000] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.014] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.023] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.024] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.035] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.045] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.056] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.059] [info] Write
+[2025-12-19 21:46:02.064] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.074] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.076] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.083] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.086] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.096] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.107] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.113] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.117] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.119] [info] Write
+[2025-12-19 21:46:02.123] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.134] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.144] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.148] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.165] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.174] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.175] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.179] [info] Write
+[2025-12-19 21:46:02.192] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.200] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.209] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.226] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.232] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.236] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.240] [info] Write
+[2025-12-19 21:46:02.247] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.251] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.261] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.271] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.278] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.282] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.301] [info] Write
+[2025-12-19 21:46:02.303] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.312] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.324] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.328] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.341] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.353] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.360] [info] Write
+[2025-12-19 21:46:02.364] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.370] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.373] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.394] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.401] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.407] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.411] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.421] [info] Write
+[2025-12-19 21:46:02.422] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.425] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.436] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.446] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.462] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.472] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.480] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.481] [info] Write
+[2025-12-19 21:46:02.487] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.497] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.503] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.511] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.521] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.536] [debug] [MultiThreadDetector] queue is full!
+[2025-12-19 21:46:02.542] [info] Write
+[2025-12-19 21:46:02.602] [info] Write
+[2025-12-19 21:46:02.722] [info] HikRobot's capture thread stopped.
+[2025-12-19 21:46:02.729] [info] HikRobot's daemon thread stopped.
+[2025-12-19 21:46:02.729] [info] HikRobot destructed.
+[2025-12-19 21:46:02.811] [info] HikRobot's capture thread stopped.
+[2025-12-19 21:46:02.821] [info] HikRobot's daemon thread stopped.
+[2025-12-19 21:46:02.823] [info] HikRobot destructed.
+[2025-12-19 21:46:02.843] [info] [Gimbal] read_thread stopped.

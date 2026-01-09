@@ -1,0 +1,1190 @@
+[2025-10-30 21:05:18.221] [info] Mindvision opened.
+[2025-10-30 21:05:18.222] [info] [Gimbal] read_thread started.
+[2025-10-30 21:05:18.222] [info] [Gimbal] First q received.
+[2025-10-30 21:05:18.633] [info] [MultiThreadDetector] initialized !
+[2025-10-30 21:05:18.647] [info] Target lost 1/8, using prediction
+[2025-10-30 21:05:18.647] [info] Write
+[2025-10-30 21:05:18.647] [info] Send cmd - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 1/8
+[2025-10-30 21:05:18.647] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:18.733] [info] Target lost 2/8, using prediction
+[2025-10-30 21:05:18.733] [info] Write
+[2025-10-30 21:05:18.733] [info] Send cmd - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 2/8
+[2025-10-30 21:05:18.807] [info] Target lost 3/8, using prediction
+[2025-10-30 21:05:18.807] [info] Write
+[2025-10-30 21:05:18.807] [info] Send cmd - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 3/8
+[2025-10-30 21:05:18.882] [info] Target lost 4/8, using prediction
+[2025-10-30 21:05:18.882] [info] Write
+[2025-10-30 21:05:18.882] [info] Send cmd - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 4/8
+[2025-10-30 21:05:18.957] [info] Target lost 5/8, using prediction
+[2025-10-30 21:05:18.957] [info] Write
+[2025-10-30 21:05:18.957] [info] Send cmd - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 5/8
+[2025-10-30 21:05:19.032] [info] Target lost 6/8, using prediction
+[2025-10-30 21:05:19.032] [info] Write
+[2025-10-30 21:05:19.032] [info] Send cmd - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 6/8
+[2025-10-30 21:05:19.032] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:19.092] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.107] [info] Target lost 7/8, using prediction
+[2025-10-30 21:05:19.107] [info] Write
+[2025-10-30 21:05:19.107] [info] Send cmd - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 7/8
+[2025-10-30 21:05:19.132] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.150] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.170] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.183] [info] Target lost 8/8, using prediction
+[2025-10-30 21:05:19.183] [info] Write
+[2025-10-30 21:05:19.183] [info] Send cmd - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 8/8
+[2025-10-30 21:05:19.210] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.235] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.250] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.258] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.258] [info] Write
+[2025-10-30 21:05:19.258] [info] No control - state: lost, lost: 9/8
+[2025-10-30 21:05:19.290] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.332] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.332] [info] Write
+[2025-10-30 21:05:19.332] [info] No control - state: lost, lost: 10/8
+[2025-10-30 21:05:19.334] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.370] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.390] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.408] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.408] [info] Write
+[2025-10-30 21:05:19.408] [info] No control - state: lost, lost: 11/8
+[2025-10-30 21:05:19.408] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:19.431] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.455] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.478] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.482] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.482] [info] Write
+[2025-10-30 21:05:19.482] [info] No control - state: lost, lost: 12/8
+[2025-10-30 21:05:19.512] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.530] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.558] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.558] [info] Write
+[2025-10-30 21:05:19.558] [info] No control - state: lost, lost: 13/8
+[2025-10-30 21:05:19.590] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.611] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.631] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.633] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.633] [info] Write
+[2025-10-30 21:05:19.633] [info] No control - state: lost, lost: 14/8
+[2025-10-30 21:05:19.636] [info] Current FPS: 14.0, State: lost
+[2025-10-30 21:05:19.670] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.694] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.707] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.707] [info] Write
+[2025-10-30 21:05:19.707] [info] No control - state: lost, lost: 15/8
+[2025-10-30 21:05:19.730] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.751] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.771] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.782] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.782] [info] Write
+[2025-10-30 21:05:19.782] [info] No control - state: lost, lost: 16/8
+[2025-10-30 21:05:19.782] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:19.811] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.834] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.851] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.857] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.857] [info] Write
+[2025-10-30 21:05:19.857] [info] No control - state: lost, lost: 17/8
+[2025-10-30 21:05:19.891] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.910] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.932] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:19.932] [info] Write
+[2025-10-30 21:05:19.932] [info] No control - state: lost, lost: 18/8
+[2025-10-30 21:05:19.935] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.970] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:19.990] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.008] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.008] [info] Write
+[2025-10-30 21:05:20.008] [info] No control - state: lost, lost: 19/8
+[2025-10-30 21:05:20.010] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.050] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.074] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.082] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.082] [info] Write
+[2025-10-30 21:05:20.082] [info] No control - state: lost, lost: 20/8
+[2025-10-30 21:05:20.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.131] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.151] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.157] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.157] [info] Write
+[2025-10-30 21:05:20.157] [info] No control - state: lost, lost: 21/8
+[2025-10-30 21:05:20.157] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:20.191] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.211] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.231] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.232] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.232] [info] Write
+[2025-10-30 21:05:20.232] [info] No control - state: lost, lost: 22/8
+[2025-10-30 21:05:20.272] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.296] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.308] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.308] [info] Write
+[2025-10-30 21:05:20.308] [info] No control - state: lost, lost: 23/8
+[2025-10-30 21:05:20.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.351] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.371] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.382] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.382] [info] Write
+[2025-10-30 21:05:20.382] [info] No control - state: lost, lost: 24/8
+[2025-10-30 21:05:20.410] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.434] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.450] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.457] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.457] [info] Write
+[2025-10-30 21:05:20.457] [info] No control - state: lost, lost: 25/8
+[2025-10-30 21:05:20.490] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.510] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.533] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.533] [info] Write
+[2025-10-30 21:05:20.533] [info] No control - state: lost, lost: 26/8
+[2025-10-30 21:05:20.533] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:20.534] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.570] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.590] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.608] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.608] [info] Write
+[2025-10-30 21:05:20.608] [info] No control - state: lost, lost: 27/8
+[2025-10-30 21:05:20.631] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.654] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.678] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.683] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.683] [info] Write
+[2025-10-30 21:05:20.683] [info] No control - state: lost, lost: 28/8
+[2025-10-30 21:05:20.685] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:20.711] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.731] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.757] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.757] [info] Write
+[2025-10-30 21:05:20.757] [info] No control - state: lost, lost: 29/8
+[2025-10-30 21:05:20.790] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.810] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.832] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.832] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.832] [info] Write
+[2025-10-30 21:05:20.832] [info] No control - state: lost, lost: 30/8
+[2025-10-30 21:05:20.870] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.894] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.907] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.907] [info] Write
+[2025-10-30 21:05:20.907] [info] No control - state: lost, lost: 31/8
+[2025-10-30 21:05:20.907] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:20.930] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.950] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.970] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:20.982] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:20.982] [info] Write
+[2025-10-30 21:05:20.982] [info] No control - state: lost, lost: 32/8
+[2025-10-30 21:05:21.011] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.032] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.050] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.057] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.057] [info] Write
+[2025-10-30 21:05:21.057] [info] No control - state: lost, lost: 33/8
+[2025-10-30 21:05:21.092] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.132] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.132] [info] Write
+[2025-10-30 21:05:21.132] [info] No control - state: lost, lost: 34/8
+[2025-10-30 21:05:21.150] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.170] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.190] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.207] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.207] [info] Write
+[2025-10-30 21:05:21.207] [info] No control - state: lost, lost: 35/8
+[2025-10-30 21:05:21.230] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.255] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.278] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.282] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.282] [info] Write
+[2025-10-30 21:05:21.282] [info] No control - state: lost, lost: 36/8
+[2025-10-30 21:05:21.282] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:21.312] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.350] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.358] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.358] [info] Write
+[2025-10-30 21:05:21.358] [info] No control - state: lost, lost: 37/8
+[2025-10-30 21:05:21.390] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.410] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.431] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.433] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.433] [info] Write
+[2025-10-30 21:05:21.433] [info] No control - state: lost, lost: 38/8
+[2025-10-30 21:05:21.471] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.494] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.507] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.507] [info] Write
+[2025-10-30 21:05:21.507] [info] No control - state: lost, lost: 39/8
+[2025-10-30 21:05:21.531] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.552] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.571] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.583] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.583] [info] Write
+[2025-10-30 21:05:21.583] [info] No control - state: lost, lost: 40/8
+[2025-10-30 21:05:21.611] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.632] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.651] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.658] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.658] [info] Write
+[2025-10-30 21:05:21.658] [info] No control - state: lost, lost: 41/8
+[2025-10-30 21:05:21.658] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:21.690] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.711] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.732] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.732] [info] Write
+[2025-10-30 21:05:21.732] [info] No control - state: lost, lost: 42/8
+[2025-10-30 21:05:21.734] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:21.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.770] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.790] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.807] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.807] [info] Write
+[2025-10-30 21:05:21.807] [info] No control - state: lost, lost: 43/8
+[2025-10-30 21:05:21.830] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.854] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.876] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.882] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.882] [info] Write
+[2025-10-30 21:05:21.882] [info] No control - state: lost, lost: 44/8
+[2025-10-30 21:05:21.910] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.931] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.950] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:21.957] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:21.958] [info] Write
+[2025-10-30 21:05:21.958] [info] No control - state: lost, lost: 45/8
+[2025-10-30 21:05:21.990] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.011] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.031] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.032] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.032] [info] Write
+[2025-10-30 21:05:22.032] [info] No control - state: lost, lost: 46/8
+[2025-10-30 21:05:22.032] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:22.070] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.094] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.108] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.108] [info] Write
+[2025-10-30 21:05:22.108] [info] No control - state: lost, lost: 47/8
+[2025-10-30 21:05:22.131] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.151] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.171] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.182] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.182] [info] Write
+[2025-10-30 21:05:22.182] [info] No control - state: lost, lost: 48/8
+[2025-10-30 21:05:22.211] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.234] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.250] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.257] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.257] [info] Write
+[2025-10-30 21:05:22.257] [info] No control - state: lost, lost: 49/8
+[2025-10-30 21:05:22.291] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.311] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.332] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.332] [info] Write
+[2025-10-30 21:05:22.332] [info] No control - state: lost, lost: 50/8
+[2025-10-30 21:05:22.351] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.371] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.391] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.408] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.408] [info] Write
+[2025-10-30 21:05:22.408] [info] No control - state: lost, lost: 51/8
+[2025-10-30 21:05:22.408] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:22.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.455] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.478] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.482] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.482] [info] Write
+[2025-10-30 21:05:22.482] [info] No control - state: lost, lost: 52/8
+[2025-10-30 21:05:22.510] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.530] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.557] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.557] [info] Write
+[2025-10-30 21:05:22.557] [info] No control - state: lost, lost: 53/8
+[2025-10-30 21:05:22.591] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.611] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.630] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.632] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.632] [info] Write
+[2025-10-30 21:05:22.632] [info] No control - state: lost, lost: 54/8
+[2025-10-30 21:05:22.670] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.694] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.707] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.708] [info] Write
+[2025-10-30 21:05:22.708] [info] No control - state: lost, lost: 55/8
+[2025-10-30 21:05:22.731] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.751] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.771] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.783] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.783] [info] Write
+[2025-10-30 21:05:22.783] [info] No control - state: lost, lost: 56/8
+[2025-10-30 21:05:22.783] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:22.785] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:22.813] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.834] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.850] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.858] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.858] [info] Write
+[2025-10-30 21:05:22.858] [info] No control - state: lost, lost: 57/8
+[2025-10-30 21:05:22.891] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.910] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.932] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:22.932] [info] Write
+[2025-10-30 21:05:22.932] [info] No control - state: lost, lost: 58/8
+[2025-10-30 21:05:22.934] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.971] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:22.991] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.008] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.008] [info] Write
+[2025-10-30 21:05:23.008] [info] No control - state: lost, lost: 59/8
+[2025-10-30 21:05:23.030] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.054] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.077] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.083] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.083] [info] Write
+[2025-10-30 21:05:23.083] [info] No control - state: lost, lost: 60/8
+[2025-10-30 21:05:23.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.131] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.151] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.157] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.157] [info] Write
+[2025-10-30 21:05:23.157] [info] No control - state: lost, lost: 61/8
+[2025-10-30 21:05:23.157] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:23.190] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.210] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.230] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.233] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.233] [info] Write
+[2025-10-30 21:05:23.233] [info] No control - state: lost, lost: 62/8
+[2025-10-30 21:05:23.270] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.294] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.308] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.308] [info] Write
+[2025-10-30 21:05:23.308] [info] No control - state: lost, lost: 63/8
+[2025-10-30 21:05:23.331] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.351] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.370] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.382] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.382] [info] Write
+[2025-10-30 21:05:23.382] [info] No control - state: lost, lost: 64/8
+[2025-10-30 21:05:23.410] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.433] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.450] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.457] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.457] [info] Write
+[2025-10-30 21:05:23.457] [info] No control - state: lost, lost: 65/8
+[2025-10-30 21:05:23.490] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.510] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.532] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.532] [info] Write
+[2025-10-30 21:05:23.532] [info] No control - state: lost, lost: 66/8
+[2025-10-30 21:05:23.532] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:23.534] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.571] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.590] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.607] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.607] [info] Write
+[2025-10-30 21:05:23.607] [info] No control - state: lost, lost: 67/8
+[2025-10-30 21:05:23.630] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.654] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.677] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.682] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.683] [info] Write
+[2025-10-30 21:05:23.683] [info] No control - state: lost, lost: 68/8
+[2025-10-30 21:05:23.710] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.730] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.758] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.758] [info] Write
+[2025-10-30 21:05:23.758] [info] No control - state: lost, lost: 69/8
+[2025-10-30 21:05:23.790] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.810] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.832] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.833] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.833] [info] Write
+[2025-10-30 21:05:23.833] [info] No control - state: lost, lost: 70/8
+[2025-10-30 21:05:23.836] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:23.870] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.894] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.908] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.908] [info] Write
+[2025-10-30 21:05:23.908] [info] No control - state: lost, lost: 71/8
+[2025-10-30 21:05:23.908] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:23.931] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.950] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.970] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:23.983] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:23.983] [info] Write
+[2025-10-30 21:05:23.983] [info] No control - state: lost, lost: 72/8
+[2025-10-30 21:05:24.010] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.032] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.050] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.057] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.057] [info] Write
+[2025-10-30 21:05:24.057] [info] No control - state: lost, lost: 73/8
+[2025-10-30 21:05:24.090] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.133] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.133] [info] Write
+[2025-10-30 21:05:24.133] [info] No control - state: lost, lost: 74/8
+[2025-10-30 21:05:24.134] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.170] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.190] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.207] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.207] [info] Write
+[2025-10-30 21:05:24.207] [info] No control - state: lost, lost: 75/8
+[2025-10-30 21:05:24.230] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.255] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.278] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.282] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.282] [info] Write
+[2025-10-30 21:05:24.283] [info] No control - state: lost, lost: 76/8
+[2025-10-30 21:05:24.283] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:24.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.351] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.357] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.357] [info] Write
+[2025-10-30 21:05:24.357] [info] No control - state: lost, lost: 77/8
+[2025-10-30 21:05:24.390] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.410] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.432] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.432] [info] Write
+[2025-10-30 21:05:24.432] [info] No control - state: lost, lost: 78/8
+[2025-10-30 21:05:24.470] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.494] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.507] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.507] [info] Write
+[2025-10-30 21:05:24.507] [info] No control - state: lost, lost: 79/8
+[2025-10-30 21:05:24.530] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.570] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.583] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.583] [info] Write
+[2025-10-30 21:05:24.583] [info] No control - state: lost, lost: 80/8
+[2025-10-30 21:05:24.610] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.632] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.650] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.657] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.657] [info] Write
+[2025-10-30 21:05:24.657] [info] No control - state: lost, lost: 81/8
+[2025-10-30 21:05:24.657] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:24.691] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.711] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.732] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.732] [info] Write
+[2025-10-30 21:05:24.732] [info] No control - state: lost, lost: 82/8
+[2025-10-30 21:05:24.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.770] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.790] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.807] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.807] [info] Write
+[2025-10-30 21:05:24.807] [info] No control - state: lost, lost: 83/8
+[2025-10-30 21:05:24.830] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.854] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.877] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.883] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.883] [info] Write
+[2025-10-30 21:05:24.883] [info] No control - state: lost, lost: 84/8
+[2025-10-30 21:05:24.885] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:24.910] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.930] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.950] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:24.958] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:24.958] [info] Write
+[2025-10-30 21:05:24.958] [info] No control - state: lost, lost: 85/8
+[2025-10-30 21:05:24.992] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.010] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.030] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.032] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.032] [info] Write
+[2025-10-30 21:05:25.032] [info] No control - state: lost, lost: 86/8
+[2025-10-30 21:05:25.032] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:25.070] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.093] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.107] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.107] [info] Write
+[2025-10-30 21:05:25.107] [info] No control - state: lost, lost: 87/8
+[2025-10-30 21:05:25.131] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.150] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.171] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.183] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.183] [info] Write
+[2025-10-30 21:05:25.183] [info] No control - state: lost, lost: 88/8
+[2025-10-30 21:05:25.210] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.230] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.252] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.258] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.258] [info] Write
+[2025-10-30 21:05:25.258] [info] No control - state: lost, lost: 89/8
+[2025-10-30 21:05:25.290] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.332] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.332] [info] Write
+[2025-10-30 21:05:25.332] [info] No control - state: lost, lost: 90/8
+[2025-10-30 21:05:25.350] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.372] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.390] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.407] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.407] [info] Write
+[2025-10-30 21:05:25.407] [info] No control - state: lost, lost: 91/8
+[2025-10-30 21:05:25.407] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:25.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.455] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.470] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.482] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.482] [info] Write
+[2025-10-30 21:05:25.482] [info] No control - state: lost, lost: 92/8
+[2025-10-30 21:05:25.510] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.530] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.557] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.557] [info] Write
+[2025-10-30 21:05:25.557] [info] No control - state: lost, lost: 93/8
+[2025-10-30 21:05:25.590] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.613] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.630] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.632] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.632] [info] Write
+[2025-10-30 21:05:25.632] [info] No control - state: lost, lost: 94/8
+[2025-10-30 21:05:25.671] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.694] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.707] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.707] [info] Write
+[2025-10-30 21:05:25.707] [info] No control - state: lost, lost: 95/8
+[2025-10-30 21:05:25.730] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.770] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.782] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.782] [info] Write
+[2025-10-30 21:05:25.782] [info] No control - state: lost, lost: 96/8
+[2025-10-30 21:05:25.782] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:25.810] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.830] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.853] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.857] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.858] [info] Write
+[2025-10-30 21:05:25.858] [info] No control - state: lost, lost: 97/8
+[2025-10-30 21:05:25.890] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.910] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.933] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:25.933] [info] Write
+[2025-10-30 21:05:25.933] [info] No control - state: lost, lost: 98/8
+[2025-10-30 21:05:25.934] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.935] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:25.970] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:25.990] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.007] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.007] [info] Write
+[2025-10-30 21:05:26.007] [info] No control - state: lost, lost: 99/8
+[2025-10-30 21:05:26.031] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.054] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.070] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.082] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.082] [info] Write
+[2025-10-30 21:05:26.082] [info] No control - state: lost, lost: 100/8
+[2025-10-30 21:05:26.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.130] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.150] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.158] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.158] [info] Write
+[2025-10-30 21:05:26.158] [info] No control - state: lost, lost: 101/8
+[2025-10-30 21:05:26.158] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:26.190] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.214] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.230] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.232] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.232] [info] Write
+[2025-10-30 21:05:26.232] [info] No control - state: lost, lost: 102/8
+[2025-10-30 21:05:26.271] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.294] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.307] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.307] [info] Write
+[2025-10-30 21:05:26.307] [info] No control - state: lost, lost: 103/8
+[2025-10-30 21:05:26.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.350] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.370] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.383] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.383] [info] Write
+[2025-10-30 21:05:26.383] [info] No control - state: lost, lost: 104/8
+[2025-10-30 21:05:26.410] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.453] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.457] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.457] [info] Write
+[2025-10-30 21:05:26.457] [info] No control - state: lost, lost: 105/8
+[2025-10-30 21:05:26.490] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.510] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.532] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.532] [info] Write
+[2025-10-30 21:05:26.532] [info] No control - state: lost, lost: 106/8
+[2025-10-30 21:05:26.532] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:26.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.573] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.590] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.607] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.607] [info] Write
+[2025-10-30 21:05:26.607] [info] No control - state: lost, lost: 107/8
+[2025-10-30 21:05:26.630] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.653] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.670] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.682] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.682] [info] Write
+[2025-10-30 21:05:26.682] [info] No control - state: lost, lost: 108/8
+[2025-10-30 21:05:26.710] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.730] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.757] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.757] [info] Write
+[2025-10-30 21:05:26.757] [info] No control - state: lost, lost: 109/8
+[2025-10-30 21:05:26.790] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.813] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.830] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.832] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.832] [info] Write
+[2025-10-30 21:05:26.832] [info] No control - state: lost, lost: 110/8
+[2025-10-30 21:05:26.870] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.893] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.907] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.907] [info] Write
+[2025-10-30 21:05:26.907] [info] No control - state: lost, lost: 111/8
+[2025-10-30 21:05:26.907] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:26.931] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.950] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.970] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:26.982] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:26.982] [info] Write
+[2025-10-30 21:05:26.982] [info] No control - state: lost, lost: 112/8
+[2025-10-30 21:05:26.984] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:27.010] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.030] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.053] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.057] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.057] [info] Write
+[2025-10-30 21:05:27.057] [info] No control - state: lost, lost: 113/8
+[2025-10-30 21:05:27.090] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.132] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.133] [info] Write
+[2025-10-30 21:05:27.133] [info] No control - state: lost, lost: 114/8
+[2025-10-30 21:05:27.134] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.170] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.191] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.208] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.208] [info] Write
+[2025-10-30 21:05:27.208] [info] No control - state: lost, lost: 115/8
+[2025-10-30 21:05:27.230] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.253] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.270] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.282] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.282] [info] Write
+[2025-10-30 21:05:27.282] [info] No control - state: lost, lost: 116/8
+[2025-10-30 21:05:27.282] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:27.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.350] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.358] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.358] [info] Write
+[2025-10-30 21:05:27.358] [info] No control - state: lost, lost: 117/8
+[2025-10-30 21:05:27.390] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.413] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.432] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.432] [info] Write
+[2025-10-30 21:05:27.432] [info] No control - state: lost, lost: 118/8
+[2025-10-30 21:05:27.470] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.494] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.507] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.507] [info] Write
+[2025-10-30 21:05:27.507] [info] No control - state: lost, lost: 119/8
+[2025-10-30 21:05:27.530] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.551] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.570] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.582] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.582] [info] Write
+[2025-10-30 21:05:27.582] [info] No control - state: lost, lost: 120/8
+[2025-10-30 21:05:27.611] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.630] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.653] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.657] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.657] [info] Write
+[2025-10-30 21:05:27.657] [info] No control - state: lost, lost: 121/8
+[2025-10-30 21:05:27.657] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:27.690] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.710] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.732] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.732] [info] Write
+[2025-10-30 21:05:27.732] [info] No control - state: lost, lost: 122/8
+[2025-10-30 21:05:27.733] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.770] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.791] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.808] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.808] [info] Write
+[2025-10-30 21:05:27.808] [info] No control - state: lost, lost: 123/8
+[2025-10-30 21:05:27.830] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.854] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.870] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.883] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.883] [info] Write
+[2025-10-30 21:05:27.883] [info] No control - state: lost, lost: 124/8
+[2025-10-30 21:05:27.910] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.930] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.950] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:27.957] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:27.957] [info] Write
+[2025-10-30 21:05:27.957] [info] No control - state: lost, lost: 125/8
+[2025-10-30 21:05:27.990] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.014] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.031] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.032] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.032] [info] Write
+[2025-10-30 21:05:28.032] [info] No control - state: lost, lost: 126/8
+[2025-10-30 21:05:28.032] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:28.034] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:28.070] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.094] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.107] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.107] [info] Write
+[2025-10-30 21:05:28.107] [info] No control - state: lost, lost: 127/8
+[2025-10-30 21:05:28.130] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.150] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.170] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.182] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.182] [info] Write
+[2025-10-30 21:05:28.182] [info] No control - state: lost, lost: 128/8
+[2025-10-30 21:05:28.211] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.230] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.256] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.257] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.257] [info] Write
+[2025-10-30 21:05:28.257] [info] No control - state: lost, lost: 129/8
+[2025-10-30 21:05:28.290] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.332] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.332] [info] Write
+[2025-10-30 21:05:28.332] [info] No control - state: lost, lost: 130/8
+[2025-10-30 21:05:28.334] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.370] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.391] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.407] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.407] [info] Write
+[2025-10-30 21:05:28.407] [info] No control - state: lost, lost: 131/8
+[2025-10-30 21:05:28.407] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:28.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.454] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.470] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.482] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.482] [info] Write
+[2025-10-30 21:05:28.482] [info] No control - state: lost, lost: 132/8
+[2025-10-30 21:05:28.510] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.530] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.557] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.557] [info] Write
+[2025-10-30 21:05:28.557] [info] No control - state: lost, lost: 133/8
+[2025-10-30 21:05:28.590] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.614] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.630] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.632] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.632] [info] Write
+[2025-10-30 21:05:28.632] [info] No control - state: lost, lost: 134/8
+[2025-10-30 21:05:28.670] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.693] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.708] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.708] [info] Write
+[2025-10-30 21:05:28.708] [info] No control - state: lost, lost: 135/8
+[2025-10-30 21:05:28.730] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.770] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.782] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.782] [info] Write
+[2025-10-30 21:05:28.782] [info] No control - state: lost, lost: 136/8
+[2025-10-30 21:05:28.782] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:28.811] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.830] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.852] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.858] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.858] [info] Write
+[2025-10-30 21:05:28.858] [info] No control - state: lost, lost: 137/8
+[2025-10-30 21:05:28.890] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.910] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.932] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:28.932] [info] Write
+[2025-10-30 21:05:28.932] [info] No control - state: lost, lost: 138/8
+[2025-10-30 21:05:28.934] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.970] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:28.990] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.007] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.008] [info] Write
+[2025-10-30 21:05:29.008] [info] No control - state: lost, lost: 139/8
+[2025-10-30 21:05:29.030] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.054] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.070] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.082] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.083] [info] Write
+[2025-10-30 21:05:29.083] [info] No control - state: lost, lost: 140/8
+[2025-10-30 21:05:29.085] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:29.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.130] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.150] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.157] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.157] [info] Write
+[2025-10-30 21:05:29.157] [info] No control - state: lost, lost: 141/8
+[2025-10-30 21:05:29.157] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:29.190] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.213] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.229] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.232] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.232] [info] Write
+[2025-10-30 21:05:29.232] [info] No control - state: lost, lost: 142/8
+[2025-10-30 21:05:29.270] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.294] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.307] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.307] [info] Write
+[2025-10-30 21:05:29.307] [info] No control - state: lost, lost: 143/8
+[2025-10-30 21:05:29.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.350] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.371] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.383] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.383] [info] Write
+[2025-10-30 21:05:29.383] [info] No control - state: lost, lost: 144/8
+[2025-10-30 21:05:29.410] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.453] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.458] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.458] [info] Write
+[2025-10-30 21:05:29.458] [info] No control - state: lost, lost: 145/8
+[2025-10-30 21:05:29.490] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.511] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.532] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.532] [info] Write
+[2025-10-30 21:05:29.532] [info] No control - state: lost, lost: 146/8
+[2025-10-30 21:05:29.532] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:29.551] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.574] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.590] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.607] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.607] [info] Write
+[2025-10-30 21:05:29.607] [info] No control - state: lost, lost: 147/8
+[2025-10-30 21:05:29.631] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.656] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.670] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.682] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.682] [info] Write
+[2025-10-30 21:05:29.682] [info] No control - state: lost, lost: 148/8
+[2025-10-30 21:05:29.710] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.730] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.757] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.757] [info] Write
+[2025-10-30 21:05:29.757] [info] No control - state: lost, lost: 149/8
+[2025-10-30 21:05:29.790] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.813] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.831] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.832] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.832] [info] Write
+[2025-10-30 21:05:29.832] [info] No control - state: lost, lost: 150/8
+[2025-10-30 21:05:29.870] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.893] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.907] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.907] [info] Write
+[2025-10-30 21:05:29.907] [info] No control - state: lost, lost: 151/8
+[2025-10-30 21:05:29.907] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:29.930] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.951] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.970] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:29.982] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:29.982] [info] Write
+[2025-10-30 21:05:29.982] [info] No control - state: lost, lost: 152/8
+[2025-10-30 21:05:30.010] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.030] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.051] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.057] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.057] [info] Write
+[2025-10-30 21:05:30.057] [info] No control - state: lost, lost: 153/8
+[2025-10-30 21:05:30.090] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.132] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.132] [info] Write
+[2025-10-30 21:05:30.132] [info] No control - state: lost, lost: 154/8
+[2025-10-30 21:05:30.134] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:30.150] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.172] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.191] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.207] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.207] [info] Write
+[2025-10-30 21:05:30.207] [info] No control - state: lost, lost: 155/8
+[2025-10-30 21:05:30.231] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.255] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.270] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.282] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.282] [info] Write
+[2025-10-30 21:05:30.282] [info] No control - state: lost, lost: 156/8
+[2025-10-30 21:05:30.282] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:30.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.350] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.357] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.357] [info] Write
+[2025-10-30 21:05:30.357] [info] No control - state: lost, lost: 157/8
+[2025-10-30 21:05:30.390] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.413] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.432] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.432] [info] Write
+[2025-10-30 21:05:30.432] [info] No control - state: lost, lost: 158/8
+[2025-10-30 21:05:30.471] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.494] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.507] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.507] [info] Write
+[2025-10-30 21:05:30.507] [info] No control - state: lost, lost: 159/8
+[2025-10-30 21:05:30.530] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.570] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.582] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.582] [info] Write
+[2025-10-30 21:05:30.582] [info] No control - state: lost, lost: 160/8
+[2025-10-30 21:05:30.610] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.630] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.652] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.657] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.657] [info] Write
+[2025-10-30 21:05:30.657] [info] No control - state: lost, lost: 161/8
+[2025-10-30 21:05:30.657] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:30.690] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.710] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.732] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.732] [info] Write
+[2025-10-30 21:05:30.732] [info] No control - state: lost, lost: 162/8
+[2025-10-30 21:05:30.734] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.770] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.791] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.807] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.807] [info] Write
+[2025-10-30 21:05:30.807] [info] No control - state: lost, lost: 163/8
+[2025-10-30 21:05:30.830] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.855] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.870] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.882] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.882] [info] Write
+[2025-10-30 21:05:30.882] [info] No control - state: lost, lost: 164/8
+[2025-10-30 21:05:30.910] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.930] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.950] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:30.957] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:30.957] [info] Write
+[2025-10-30 21:05:30.957] [info] No control - state: lost, lost: 165/8
+[2025-10-30 21:05:30.991] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.014] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.030] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.032] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.032] [info] Write
+[2025-10-30 21:05:31.032] [info] No control - state: lost, lost: 166/8
+[2025-10-30 21:05:31.032] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:31.070] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.094] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.107] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.107] [info] Write
+[2025-10-30 21:05:31.107] [info] No control - state: lost, lost: 167/8
+[2025-10-30 21:05:31.130] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.150] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.171] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.182] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.182] [info] Write
+[2025-10-30 21:05:31.182] [info] No control - state: lost, lost: 168/8
+[2025-10-30 21:05:31.184] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:31.210] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.230] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.253] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.257] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.257] [info] Write
+[2025-10-30 21:05:31.257] [info] No control - state: lost, lost: 169/8
+[2025-10-30 21:05:31.290] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.333] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.333] [info] Write
+[2025-10-30 21:05:31.333] [info] No control - state: lost, lost: 170/8
+[2025-10-30 21:05:31.334] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.370] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.390] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.407] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.408] [info] Write
+[2025-10-30 21:05:31.408] [info] No control - state: lost, lost: 171/8
+[2025-10-30 21:05:31.408] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:31.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.454] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.470] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.483] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.483] [info] Write
+[2025-10-30 21:05:31.483] [info] No control - state: lost, lost: 172/8
+[2025-10-30 21:05:31.510] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.530] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.558] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.558] [info] Write
+[2025-10-30 21:05:31.558] [info] No control - state: lost, lost: 173/8
+[2025-10-30 21:05:31.591] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.619] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.630] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.632] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.632] [info] Write
+[2025-10-30 21:05:31.632] [info] No control - state: lost, lost: 174/8
+[2025-10-30 21:05:31.670] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.692] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.707] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.707] [info] Write
+[2025-10-30 21:05:31.707] [info] No control - state: lost, lost: 175/8
+[2025-10-30 21:05:31.731] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.770] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.782] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.782] [info] Write
+[2025-10-30 21:05:31.782] [info] No control - state: lost, lost: 176/8
+[2025-10-30 21:05:31.782] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:31.810] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.830] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.854] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.857] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.857] [info] Write
+[2025-10-30 21:05:31.857] [info] No control - state: lost, lost: 177/8
+[2025-10-30 21:05:31.890] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.910] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.933] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:31.933] [info] Write
+[2025-10-30 21:05:31.933] [info] No control - state: lost, lost: 178/8
+[2025-10-30 21:05:31.949] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.973] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:31.990] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.007] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.007] [info] Write
+[2025-10-30 21:05:32.007] [info] No control - state: lost, lost: 179/8
+[2025-10-30 21:05:32.030] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.053] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.070] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.082] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.083] [info] Write
+[2025-10-30 21:05:32.083] [info] No control - state: lost, lost: 180/8
+[2025-10-30 21:05:32.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.130] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.150] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.158] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.158] [info] Write
+[2025-10-30 21:05:32.158] [info] No control - state: lost, lost: 181/8
+[2025-10-30 21:05:32.158] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:32.190] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.214] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.230] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.232] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.232] [info] Write
+[2025-10-30 21:05:32.232] [info] No control - state: lost, lost: 182/8
+[2025-10-30 21:05:32.234] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:32.270] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.293] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.307] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.307] [info] Write
+[2025-10-30 21:05:32.307] [info] No control - state: lost, lost: 183/8
+[2025-10-30 21:05:32.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.350] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.370] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.382] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.382] [info] Write
+[2025-10-30 21:05:32.382] [info] No control - state: lost, lost: 184/8
+[2025-10-30 21:05:32.410] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.431] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.453] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.457] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.457] [info] Write
+[2025-10-30 21:05:32.457] [info] No control - state: lost, lost: 185/8
+[2025-10-30 21:05:32.490] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.511] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.532] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.532] [info] Write
+[2025-10-30 21:05:32.532] [info] No control - state: lost, lost: 186/8
+[2025-10-30 21:05:32.532] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:32.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.573] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.590] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.607] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.607] [info] Write
+[2025-10-30 21:05:32.607] [info] No control - state: lost, lost: 187/8
+[2025-10-30 21:05:32.630] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.655] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.670] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.682] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.682] [info] Write
+[2025-10-30 21:05:32.682] [info] No control - state: lost, lost: 188/8
+[2025-10-30 21:05:32.709] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.730] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.750] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.757] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.757] [info] Write
+[2025-10-30 21:05:32.757] [info] No control - state: lost, lost: 189/8
+[2025-10-30 21:05:32.789] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.812] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.829] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.833] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.833] [info] Write
+[2025-10-30 21:05:32.833] [info] No control - state: lost, lost: 190/8
+[2025-10-30 21:05:32.870] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.893] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.907] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.907] [info] Write
+[2025-10-30 21:05:32.907] [info] No control - state: lost, lost: 191/8
+[2025-10-30 21:05:32.907] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:32.930] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.951] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.970] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:32.982] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:32.982] [info] Write
+[2025-10-30 21:05:32.982] [info] No control - state: lost, lost: 192/8
+[2025-10-30 21:05:33.011] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.029] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.052] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.057] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:33.057] [info] Write
+[2025-10-30 21:05:33.057] [info] No control - state: lost, lost: 193/8
+[2025-10-30 21:05:33.089] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.110] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.132] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:33.132] [info] Write
+[2025-10-30 21:05:33.132] [info] No control - state: lost, lost: 194/8
+[2025-10-30 21:05:33.133] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.169] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.190] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.207] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:33.207] [info] Write
+[2025-10-30 21:05:33.208] [info] No control - state: lost, lost: 195/8
+[2025-10-30 21:05:33.229] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.253] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.270] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.282] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:33.282] [info] Write
+[2025-10-30 21:05:33.282] [info] No control - state: lost, lost: 196/8
+[2025-10-30 21:05:33.282] [info] tracker: 0.0ms, aimer: 0.1ms, state: lost
+[2025-10-30 21:05:33.284] [info] Current FPS: 13.3, State: lost
+[2025-10-30 21:05:33.309] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.330] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.350] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.357] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:33.357] [info] Write
+[2025-10-30 21:05:33.357] [info] No control - state: lost, lost: 197/8
+[2025-10-30 21:05:33.390] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.410] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.430] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.432] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:33.432] [info] Write
+[2025-10-30 21:05:33.432] [info] No control - state: lost, lost: 198/8
+[2025-10-30 21:05:33.470] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.493] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.507] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:33.507] [info] Write
+[2025-10-30 21:05:33.507] [info] No control - state: lost, lost: 199/8
+[2025-10-30 21:05:33.531] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.550] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.569] [debug] [MultiThreadDetector] queue is full!
+[2025-10-30 21:05:33.582] [warning] Target completely lost, stopping control
+[2025-10-30 21:05:33.582] [info] Write
+[2025-10-30 21:05:33.582] [info] No control - state: lost, lost: 200/8

@@ -1,0 +1,645 @@
+[2025-10-19 20:42:55.044] [info] HikRobot's daemon thread started.
+[2025-10-19 20:42:55.045] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:55.145] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:55.252] [info] Reset usb successfully :)
+[2025-10-19 20:42:55.253] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:55.354] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:55.468] [info] Reset usb successfully :)
+[2025-10-19 20:42:55.469] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:55.569] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:55.682] [info] Reset usb successfully :)
+[2025-10-19 20:42:55.683] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:55.783] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:55.892] [info] Reset usb successfully :)
+[2025-10-19 20:42:55.893] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:55.993] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:56.112] [info] Reset usb successfully :)
+[2025-10-19 20:42:56.113] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:56.213] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:56.328] [info] Reset usb successfully :)
+[2025-10-19 20:42:56.329] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:56.429] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:56.544] [info] Reset usb successfully :)
+[2025-10-19 20:42:56.545] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:56.645] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:56.764] [info] Reset usb successfully :)
+[2025-10-19 20:42:56.765] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:56.865] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:56.980] [info] Reset usb successfully :)
+[2025-10-19 20:42:56.981] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:57.081] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:57.192] [info] Reset usb successfully :)
+[2025-10-19 20:42:57.193] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:57.293] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:57.404] [info] Reset usb successfully :)
+[2025-10-19 20:42:57.405] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:57.505] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:57.617] [info] Reset usb successfully :)
+[2025-10-19 20:42:57.617] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:57.718] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:57.824] [info] Reset usb successfully :)
+[2025-10-19 20:42:57.825] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:57.925] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:58.036] [info] Reset usb successfully :)
+[2025-10-19 20:42:58.037] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:58.137] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:58.248] [info] Reset usb successfully :)
+[2025-10-19 20:42:58.249] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:58.349] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:58.460] [info] Reset usb successfully :)
+[2025-10-19 20:42:58.461] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:58.561] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:58.676] [info] Reset usb successfully :)
+[2025-10-19 20:42:58.677] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:58.777] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:58.884] [info] Reset usb successfully :)
+[2025-10-19 20:42:58.885] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:58.985] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:59.100] [info] Reset usb successfully :)
+[2025-10-19 20:42:59.101] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:59.201] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:59.312] [info] Reset usb successfully :)
+[2025-10-19 20:42:59.313] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:59.413] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:59.528] [info] Reset usb successfully :)
+[2025-10-19 20:42:59.529] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:59.629] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:59.744] [info] Reset usb successfully :)
+[2025-10-19 20:42:59.745] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:42:59.845] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:42:59.961] [info] Reset usb successfully :)
+[2025-10-19 20:42:59.970] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:00.070] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:00.188] [info] Reset usb successfully :)
+[2025-10-19 20:43:00.189] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:00.289] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:00.404] [info] Reset usb successfully :)
+[2025-10-19 20:43:00.405] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:00.505] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:00.613] [info] Reset usb successfully :)
+[2025-10-19 20:43:00.613] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:00.713] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:00.828] [info] Reset usb successfully :)
+[2025-10-19 20:43:00.829] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:00.929] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:01.044] [info] Reset usb successfully :)
+[2025-10-19 20:43:01.045] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:01.145] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:01.253] [info] Reset usb successfully :)
+[2025-10-19 20:43:01.253] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:01.353] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:01.460] [info] Reset usb successfully :)
+[2025-10-19 20:43:01.461] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:01.561] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:01.672] [info] Reset usb successfully :)
+[2025-10-19 20:43:01.673] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:01.773] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:01.893] [info] Reset usb successfully :)
+[2025-10-19 20:43:01.894] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:01.994] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:02.116] [info] Reset usb successfully :)
+[2025-10-19 20:43:02.117] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:02.217] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:02.333] [info] Reset usb successfully :)
+[2025-10-19 20:43:02.333] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:02.433] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:02.544] [info] Reset usb successfully :)
+[2025-10-19 20:43:02.545] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:02.645] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:02.765] [info] Reset usb successfully :)
+[2025-10-19 20:43:02.765] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:02.866] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:02.976] [info] Reset usb successfully :)
+[2025-10-19 20:43:02.977] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:03.077] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:03.184] [info] Reset usb successfully :)
+[2025-10-19 20:43:03.185] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:03.285] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:03.396] [info] Reset usb successfully :)
+[2025-10-19 20:43:03.397] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:03.497] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:03.605] [info] Reset usb successfully :)
+[2025-10-19 20:43:03.605] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:03.705] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:03.816] [info] Reset usb successfully :)
+[2025-10-19 20:43:03.817] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:03.917] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:04.032] [info] Reset usb successfully :)
+[2025-10-19 20:43:04.033] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:04.133] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:04.248] [info] Reset usb successfully :)
+[2025-10-19 20:43:04.249] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:04.349] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:04.461] [info] Reset usb successfully :)
+[2025-10-19 20:43:04.461] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:04.561] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:04.677] [info] Reset usb successfully :)
+[2025-10-19 20:43:04.677] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:04.777] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:04.888] [info] Reset usb successfully :)
+[2025-10-19 20:43:04.889] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:04.989] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:05.105] [info] Reset usb successfully :)
+[2025-10-19 20:43:05.105] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:05.206] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:05.320] [info] Reset usb successfully :)
+[2025-10-19 20:43:05.321] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:05.421] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:05.532] [info] Reset usb successfully :)
+[2025-10-19 20:43:05.533] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:05.633] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:05.740] [info] Reset usb successfully :)
+[2025-10-19 20:43:05.741] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:05.841] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:05.957] [info] Reset usb successfully :)
+[2025-10-19 20:43:05.957] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:06.057] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:06.168] [info] Reset usb successfully :)
+[2025-10-19 20:43:06.169] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:06.269] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:06.376] [info] Reset usb successfully :)
+[2025-10-19 20:43:06.377] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:06.477] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:06.584] [info] Reset usb successfully :)
+[2025-10-19 20:43:06.585] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:06.685] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:06.796] [info] Reset usb successfully :)
+[2025-10-19 20:43:06.797] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:06.897] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:07.016] [info] Reset usb successfully :)
+[2025-10-19 20:43:07.017] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:07.117] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:07.232] [info] Reset usb successfully :)
+[2025-10-19 20:43:07.233] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:07.333] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:07.440] [info] Reset usb successfully :)
+[2025-10-19 20:43:07.441] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:07.541] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:07.653] [info] Reset usb successfully :)
+[2025-10-19 20:43:07.653] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:07.753] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:07.869] [info] Reset usb successfully :)
+[2025-10-19 20:43:07.869] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:07.969] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:08.085] [info] Reset usb successfully :)
+[2025-10-19 20:43:08.085] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:08.185] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:08.297] [info] Reset usb successfully :)
+[2025-10-19 20:43:08.298] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:08.398] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:08.504] [info] Reset usb successfully :)
+[2025-10-19 20:43:08.505] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:08.605] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:08.720] [info] Reset usb successfully :)
+[2025-10-19 20:43:08.721] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:08.821] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:08.936] [info] Reset usb successfully :)
+[2025-10-19 20:43:08.937] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:09.037] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:09.157] [info] Reset usb successfully :)
+[2025-10-19 20:43:09.158] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:09.258] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:09.377] [info] Reset usb successfully :)
+[2025-10-19 20:43:09.377] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:09.477] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:09.592] [info] Reset usb successfully :)
+[2025-10-19 20:43:09.593] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:09.693] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:09.804] [info] Reset usb successfully :)
+[2025-10-19 20:43:09.805] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:09.905] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:10.017] [info] Reset usb successfully :)
+[2025-10-19 20:43:10.026] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:10.126] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:10.233] [info] Reset usb successfully :)
+[2025-10-19 20:43:10.233] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:10.334] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:10.448] [info] Reset usb successfully :)
+[2025-10-19 20:43:10.449] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:10.549] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:10.656] [info] Reset usb successfully :)
+[2025-10-19 20:43:10.657] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:10.757] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:10.872] [info] Reset usb successfully :)
+[2025-10-19 20:43:10.873] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:10.973] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:11.088] [info] Reset usb successfully :)
+[2025-10-19 20:43:11.089] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:11.189] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:11.304] [info] Reset usb successfully :)
+[2025-10-19 20:43:11.305] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:11.405] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:11.516] [info] Reset usb successfully :)
+[2025-10-19 20:43:11.517] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:11.617] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:11.729] [info] Reset usb successfully :)
+[2025-10-19 20:43:11.729] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:11.829] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:11.936] [info] Reset usb successfully :)
+[2025-10-19 20:43:11.937] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:12.037] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:12.144] [info] Reset usb successfully :)
+[2025-10-19 20:43:12.145] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:12.245] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:12.352] [info] Reset usb successfully :)
+[2025-10-19 20:43:12.353] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:12.453] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:12.564] [info] Reset usb successfully :)
+[2025-10-19 20:43:12.565] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:12.665] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:12.781] [info] Reset usb successfully :)
+[2025-10-19 20:43:12.781] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:12.881] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:12.992] [info] Reset usb successfully :)
+[2025-10-19 20:43:12.993] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:13.093] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:13.205] [info] Reset usb successfully :)
+[2025-10-19 20:43:13.206] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:13.306] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:13.412] [info] Reset usb successfully :)
+[2025-10-19 20:43:13.413] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:13.513] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:13.624] [info] Reset usb successfully :)
+[2025-10-19 20:43:13.625] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:13.725] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:13.832] [info] Reset usb successfully :)
+[2025-10-19 20:43:13.833] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:13.933] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:14.040] [info] Reset usb successfully :)
+[2025-10-19 20:43:14.041] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:14.141] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:14.258] [info] Reset usb successfully :)
+[2025-10-19 20:43:14.258] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:14.358] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:14.468] [info] Reset usb successfully :)
+[2025-10-19 20:43:14.469] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:14.569] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:14.676] [info] Reset usb successfully :)
+[2025-10-19 20:43:14.677] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:14.777] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:14.888] [info] Reset usb successfully :)
+[2025-10-19 20:43:14.889] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:14.990] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:15.096] [info] Reset usb successfully :)
+[2025-10-19 20:43:15.097] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:15.197] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:15.308] [info] Reset usb successfully :)
+[2025-10-19 20:43:15.309] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:15.409] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:15.524] [info] Reset usb successfully :)
+[2025-10-19 20:43:15.525] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:15.625] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:15.732] [info] Reset usb successfully :)
+[2025-10-19 20:43:15.733] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:15.833] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:15.949] [info] Reset usb successfully :)
+[2025-10-19 20:43:15.949] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:16.049] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:16.160] [info] Reset usb successfully :)
+[2025-10-19 20:43:16.161] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:16.261] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:16.376] [info] Reset usb successfully :)
+[2025-10-19 20:43:16.377] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:16.477] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:16.588] [info] Reset usb successfully :)
+[2025-10-19 20:43:16.589] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:16.689] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:16.796] [info] Reset usb successfully :)
+[2025-10-19 20:43:16.797] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:16.897] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:17.004] [info] Reset usb successfully :)
+[2025-10-19 20:43:17.005] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:17.105] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:17.221] [info] Reset usb successfully :)
+[2025-10-19 20:43:17.224] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:17.325] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:17.440] [info] Reset usb successfully :)
+[2025-10-19 20:43:17.441] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:17.541] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:17.656] [info] Reset usb successfully :)
+[2025-10-19 20:43:17.657] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:17.758] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:17.864] [info] Reset usb successfully :)
+[2025-10-19 20:43:17.865] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:17.965] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:18.076] [info] Reset usb successfully :)
+[2025-10-19 20:43:18.077] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:18.177] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:18.288] [info] Reset usb successfully :)
+[2025-10-19 20:43:18.289] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:18.389] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:18.500] [info] Reset usb successfully :)
+[2025-10-19 20:43:18.501] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:18.601] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:18.713] [info] Reset usb successfully :)
+[2025-10-19 20:43:18.713] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:18.813] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:18.924] [info] Reset usb successfully :)
+[2025-10-19 20:43:18.925] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:19.025] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:19.133] [info] Reset usb successfully :)
+[2025-10-19 20:43:19.133] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:19.233] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:19.340] [info] Reset usb successfully :)
+[2025-10-19 20:43:19.341] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:19.441] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:19.556] [info] Reset usb successfully :)
+[2025-10-19 20:43:19.557] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:19.657] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:19.768] [info] Reset usb successfully :)
+[2025-10-19 20:43:19.769] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:19.869] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:19.980] [info] Reset usb successfully :)
+[2025-10-19 20:43:19.981] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:20.081] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:20.192] [info] Reset usb successfully :)
+[2025-10-19 20:43:20.193] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:20.293] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:20.408] [info] Reset usb successfully :)
+[2025-10-19 20:43:20.409] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:20.509] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:20.616] [info] Reset usb successfully :)
+[2025-10-19 20:43:20.617] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:20.717] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:20.828] [info] Reset usb successfully :)
+[2025-10-19 20:43:20.829] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:20.929] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:21.044] [info] Reset usb successfully :)
+[2025-10-19 20:43:21.045] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:21.145] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:21.264] [info] Reset usb successfully :)
+[2025-10-19 20:43:21.265] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:21.365] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:21.476] [info] Reset usb successfully :)
+[2025-10-19 20:43:21.477] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:21.577] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:21.684] [info] Reset usb successfully :)
+[2025-10-19 20:43:21.685] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:21.785] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:21.900] [info] Reset usb successfully :)
+[2025-10-19 20:43:21.901] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:22.001] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:22.117] [info] Reset usb successfully :)
+[2025-10-19 20:43:22.117] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:22.217] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:22.332] [info] Reset usb successfully :)
+[2025-10-19 20:43:22.333] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:22.433] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:22.548] [info] Reset usb successfully :)
+[2025-10-19 20:43:22.549] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:22.649] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:22.769] [info] Reset usb successfully :)
+[2025-10-19 20:43:22.769] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:22.869] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:22.976] [info] Reset usb successfully :)
+[2025-10-19 20:43:22.977] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:23.077] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:23.188] [info] Reset usb successfully :)
+[2025-10-19 20:43:23.189] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:23.289] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:23.408] [info] Reset usb successfully :)
+[2025-10-19 20:43:23.409] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:23.509] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:23.617] [info] Reset usb successfully :)
+[2025-10-19 20:43:23.617] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:23.717] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:23.825] [info] Reset usb successfully :)
+[2025-10-19 20:43:23.825] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:23.925] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:24.040] [info] Reset usb successfully :)
+[2025-10-19 20:43:24.041] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:24.141] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:24.256] [info] Reset usb successfully :)
+[2025-10-19 20:43:24.257] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:24.357] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:24.468] [info] Reset usb successfully :)
+[2025-10-19 20:43:24.469] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:24.569] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:24.676] [info] Reset usb successfully :)
+[2025-10-19 20:43:24.677] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:24.777] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:24.893] [info] Reset usb successfully :)
+[2025-10-19 20:43:24.893] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:24.993] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:25.108] [info] Reset usb successfully :)
+[2025-10-19 20:43:25.109] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:25.209] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:25.328] [info] Reset usb successfully :)
+[2025-10-19 20:43:25.329] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:25.429] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:25.536] [info] Reset usb successfully :)
+[2025-10-19 20:43:25.537] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:25.637] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:25.748] [info] Reset usb successfully :)
+[2025-10-19 20:43:25.749] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:25.849] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:25.964] [info] Reset usb successfully :)
+[2025-10-19 20:43:25.965] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:26.065] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:26.180] [info] Reset usb successfully :)
+[2025-10-19 20:43:26.181] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:26.281] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:26.396] [info] Reset usb successfully :)
+[2025-10-19 20:43:26.397] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:26.497] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:26.616] [info] Reset usb successfully :)
+[2025-10-19 20:43:26.617] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:26.717] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:26.832] [info] Reset usb successfully :)
+[2025-10-19 20:43:26.833] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:26.933] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:27.044] [info] Reset usb successfully :)
+[2025-10-19 20:43:27.045] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:27.145] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:27.260] [info] Reset usb successfully :)
+[2025-10-19 20:43:27.261] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:27.361] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:27.476] [info] Reset usb successfully :)
+[2025-10-19 20:43:27.477] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:27.577] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:27.692] [info] Reset usb successfully :)
+[2025-10-19 20:43:27.693] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:27.793] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:27.914] [info] Reset usb successfully :)
+[2025-10-19 20:43:27.915] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:28.015] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:28.125] [info] Reset usb successfully :)
+[2025-10-19 20:43:28.125] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:28.225] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:28.337] [info] Reset usb successfully :)
+[2025-10-19 20:43:28.337] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:28.437] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:28.544] [info] Reset usb successfully :)
+[2025-10-19 20:43:28.545] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:28.645] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:28.752] [info] Reset usb successfully :)
+[2025-10-19 20:43:28.753] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:28.853] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:28.968] [info] Reset usb successfully :)
+[2025-10-19 20:43:28.969] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:29.069] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:29.184] [info] Reset usb successfully :)
+[2025-10-19 20:43:29.185] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:29.285] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:29.397] [info] Reset usb successfully :)
+[2025-10-19 20:43:29.397] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:29.497] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:29.616] [info] Reset usb successfully :)
+[2025-10-19 20:43:29.617] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:29.717] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:29.824] [info] Reset usb successfully :)
+[2025-10-19 20:43:29.825] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:29.925] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:30.032] [info] Reset usb successfully :)
+[2025-10-19 20:43:30.033] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:30.133] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:30.248] [info] Reset usb successfully :)
+[2025-10-19 20:43:30.249] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:30.349] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:30.461] [info] Reset usb successfully :)
+[2025-10-19 20:43:30.462] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:30.562] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:30.680] [info] Reset usb successfully :)
+[2025-10-19 20:43:30.681] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:30.781] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:30.892] [info] Reset usb successfully :)
+[2025-10-19 20:43:30.893] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:30.993] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:31.104] [info] Reset usb successfully :)
+[2025-10-19 20:43:31.105] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:31.205] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:31.324] [info] Reset usb successfully :)
+[2025-10-19 20:43:31.325] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:31.425] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:31.548] [info] Reset usb successfully :)
+[2025-10-19 20:43:31.550] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:31.651] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:31.756] [info] Reset usb successfully :)
+[2025-10-19 20:43:31.757] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:31.857] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:31.973] [info] Reset usb successfully :)
+[2025-10-19 20:43:31.973] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:32.073] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:32.184] [info] Reset usb successfully :)
+[2025-10-19 20:43:32.185] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:32.285] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:32.400] [info] Reset usb successfully :)
+[2025-10-19 20:43:32.401] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:32.501] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:32.616] [info] Reset usb successfully :)
+[2025-10-19 20:43:32.617] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:32.717] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:32.832] [info] Reset usb successfully :)
+[2025-10-19 20:43:32.833] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:32.933] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:33.049] [info] Reset usb successfully :)
+[2025-10-19 20:43:33.049] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:33.149] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:33.256] [info] Reset usb successfully :)
+[2025-10-19 20:43:33.257] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:33.357] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:33.464] [info] Reset usb successfully :)
+[2025-10-19 20:43:33.465] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:33.565] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:33.677] [info] Reset usb successfully :)
+[2025-10-19 20:43:33.677] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:33.778] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:33.893] [info] Reset usb successfully :)
+[2025-10-19 20:43:33.893] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:33.993] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:34.108] [info] Reset usb successfully :)
+[2025-10-19 20:43:34.109] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:34.209] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:34.328] [info] Reset usb successfully :)
+[2025-10-19 20:43:34.329] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:34.429] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:34.544] [info] Reset usb successfully :)
+[2025-10-19 20:43:34.545] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:34.645] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:34.761] [info] Reset usb successfully :)
+[2025-10-19 20:43:34.762] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:34.862] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:34.980] [info] Reset usb successfully :)
+[2025-10-19 20:43:34.981] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:35.081] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:35.192] [info] Reset usb successfully :)
+[2025-10-19 20:43:35.193] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:35.293] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:35.405] [info] Reset usb successfully :)
+[2025-10-19 20:43:35.405] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:35.506] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:35.617] [info] Reset usb successfully :)
+[2025-10-19 20:43:35.617] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:35.717] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:35.832] [info] Reset usb successfully :)
+[2025-10-19 20:43:35.833] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:35.933] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:36.048] [info] Reset usb successfully :)
+[2025-10-19 20:43:36.049] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:36.149] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:36.264] [info] Reset usb successfully :)
+[2025-10-19 20:43:36.265] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:36.365] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:36.476] [info] Reset usb successfully :)
+[2025-10-19 20:43:36.477] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:36.577] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:36.692] [info] Reset usb successfully :)
+[2025-10-19 20:43:36.693] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:36.793] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:36.909] [info] Reset usb successfully :)
+[2025-10-19 20:43:36.909] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:37.010] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:37.116] [info] Reset usb successfully :)
+[2025-10-19 20:43:37.117] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:37.217] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:37.332] [info] Reset usb successfully :)
+[2025-10-19 20:43:37.333] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:37.433] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:37.544] [info] Reset usb successfully :)
+[2025-10-19 20:43:37.545] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:37.645] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:37.758] [info] Reset usb successfully :)
+[2025-10-19 20:43:37.759] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:37.859] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:37.965] [info] Reset usb successfully :)
+[2025-10-19 20:43:37.965] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:38.066] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:38.181] [info] Reset usb successfully :)
+[2025-10-19 20:43:38.181] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:38.282] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:38.393] [info] Reset usb successfully :)
+[2025-10-19 20:43:38.393] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:38.493] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:38.604] [info] Reset usb successfully :)
+[2025-10-19 20:43:38.605] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:38.705] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:38.812] [info] Reset usb successfully :)
+[2025-10-19 20:43:38.813] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:38.913] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:39.028] [info] Reset usb successfully :)
+[2025-10-19 20:43:39.029] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:39.129] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:39.249] [info] Reset usb successfully :)
+[2025-10-19 20:43:39.249] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:39.350] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:39.456] [info] Reset usb successfully :)
+[2025-10-19 20:43:39.457] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:39.557] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:39.669] [info] Reset usb successfully :)
+[2025-10-19 20:43:39.669] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:39.769] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:39.884] [info] Reset usb successfully :)
+[2025-10-19 20:43:39.885] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:39.985] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:40.096] [info] Reset usb successfully :)
+[2025-10-19 20:43:40.097] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:40.197] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:40.308] [info] Reset usb successfully :)
+[2025-10-19 20:43:40.309] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:40.409] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:40.520] [info] Reset usb successfully :)
+[2025-10-19 20:43:40.521] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:40.621] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-19 20:43:40.740] [info] Reset usb successfully :)
+[2025-10-19 20:43:40.741] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-19 20:43:40.841] [warning] MV_CC_StopGrabbing failed: 0x80000000

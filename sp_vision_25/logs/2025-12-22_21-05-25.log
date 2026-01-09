@@ -1,0 +1,13 @@
+[2025-12-22 21:05:25.468] [info] [Gimbal] read_thread started.
+[2025-12-22 21:05:25.468] [info] [Gimbal] First q received.
+[2025-12-22 21:05:25.639] [info] HikRobot's daemon thread started.
+[2025-12-22 21:05:25.951] [info] HikRobot's capture thread started.
+[2025-12-22 21:05:27.777] [info] HikRobot's daemon thread started.
+[2025-12-22 21:05:28.071] [info] HikRobot's capture thread started.
+[2025-12-22 21:05:37.060] [info] HikRobot's capture thread stopped.
+[2025-12-22 21:05:37.068] [info] HikRobot's daemon thread stopped.
+[2025-12-22 21:05:37.068] [info] HikRobot destructed.
+[2025-12-22 21:05:37.080] [info] HikRobot's capture thread stopped.
+[2025-12-22 21:05:37.086] [info] HikRobot's daemon thread stopped.
+[2025-12-22 21:05:37.087] [info] HikRobot destructed.
+[2025-12-22 21:05:37.088] [info] [Gimbal] read_thread stopped.

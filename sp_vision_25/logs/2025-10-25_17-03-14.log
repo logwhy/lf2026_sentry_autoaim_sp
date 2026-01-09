@@ -1,0 +1,33 @@
+[2025-10-25 17:03:14.987] [info] [Gimbal] read_thread started.
+[2025-10-25 17:03:15.096] [info] [Gimbal] First q received.
+[2025-10-25 17:03:17.081] [info] Mindvision opened.
+[2025-10-25 17:03:17.182] [warning] Camera dropped!
+[2025-10-25 17:03:17.700] [warning] Unable to open usb!
+[2025-10-25 17:03:19.645] [info] Mindvision opened.
+[2025-10-25 17:03:19.747] [warning] Camera dropped!
+[2025-10-25 17:03:20.369] [warning] Unable to open usb!
+[2025-10-25 17:03:22.512] [info] Mindvision opened.
+[2025-10-25 17:03:22.613] [warning] Camera dropped!
+[2025-10-25 17:03:23.135] [warning] Unable to open usb!
+[2025-10-25 17:03:25.295] [info] Mindvision opened.
+[2025-10-25 17:03:25.396] [warning] Camera dropped!
+[2025-10-25 17:03:26.210] [warning] Unable to open usb!
+[2025-10-25 17:03:26.411] [warning] Not found camera!
+[2025-10-25 17:03:26.511] [warning] Unable to open usb!
+[2025-10-25 17:03:26.712] [warning] Not found camera!
+[2025-10-25 17:03:26.813] [warning] Unable to open usb!
+[2025-10-25 17:03:27.014] [warning] Not found camera!
+[2025-10-25 17:03:27.114] [warning] Unable to open usb!
+[2025-10-25 17:03:27.515] [warning] Not found camera!
+[2025-10-25 17:03:27.615] [warning] Unable to open usb!
+[2025-10-25 17:03:27.816] [warning] Not found camera!
+[2025-10-25 17:03:27.917] [warning] Unable to open usb!
+[2025-10-25 17:03:28.118] [warning] Not found camera!
+[2025-10-25 17:03:28.218] [warning] Unable to open usb!
+[2025-10-25 17:03:28.419] [warning] Not found camera!
+[2025-10-25 17:03:28.519] [warning] Unable to open usb!
+[2025-10-25 17:03:28.720] [warning] Not found camera!
+[2025-10-25 17:03:28.821] [warning] Unable to open usb!
+[2025-10-25 17:03:29.558] [info] Mindvision opened.
+[2025-10-25 17:04:43.277] [info] Mindvision destructed.
+[2025-10-25 17:04:43.293] [info] [Gimbal] read_thread stopped.

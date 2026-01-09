@@ -1,0 +1,1 @@
+[2026-01-07 21:44:37.663] [error] [Gimbal] Failed to open serial: IO Exception (2): No such file or directory, file /home/luojiafox/pb2025_sentry_ws/src/sp_vision_25/io/serial/src/impl/unix.cc, line 151.

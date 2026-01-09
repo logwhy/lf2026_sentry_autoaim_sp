@@ -1,0 +1,12 @@
+[2025-12-21 14:28:49.760] [info] HikRobot's daemon thread started.
+[2025-12-21 14:28:49.934] [info] [Aimer] successfully loading shootmode
+[2025-12-21 14:28:50.075] [info] HikRobot's capture thread started.
+[2025-12-21 14:29:17.687] [warning] [Tracker] Large dt: 2.384s
+[2025-12-21 14:29:23.682] [warning] [Tracker] Large dt: 3.063s
+[2025-12-21 14:29:34.051] [debug] [Target] r=0.178, l=-0.298
+[2025-12-21 14:29:34.051] [debug] [Tracker] Target diverged!
+[2025-12-21 14:29:38.526] [debug] [Target] r=0.050, l=0.000
+[2025-12-21 14:29:38.526] [debug] [Tracker] Target diverged!
+[2025-12-21 14:29:55.436] [warning] [Tracker] Large dt: 1.624s
+[2025-12-21 14:29:59.516] [warning] [Tracker] Large dt: 1.048s
+[2025-12-21 14:30:06.006] [warning] [Tracker] Large dt: 1.696s

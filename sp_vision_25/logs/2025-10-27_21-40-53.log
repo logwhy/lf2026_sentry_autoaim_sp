@@ -1,0 +1,987 @@
+[2025-10-27 21:40:53.599] [info] HikRobot's daemon thread started.
+[2025-10-27 21:40:53.599] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:53.699] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:53.699] [warning] Unable to open usb!
+[2025-10-27 21:40:53.699] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:53.786] [info] [Aimer] successfully loading shootmode
+[2025-10-27 21:40:53.799] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:53.799] [warning] Unable to open usb!
+[2025-10-27 21:40:53.799] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:53.900] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:53.900] [warning] Unable to open usb!
+[2025-10-27 21:40:53.900] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.000] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.000] [warning] Unable to open usb!
+[2025-10-27 21:40:54.000] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.100] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.100] [warning] Unable to open usb!
+[2025-10-27 21:40:54.100] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.200] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.200] [warning] Unable to open usb!
+[2025-10-27 21:40:54.201] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.301] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.301] [warning] Unable to open usb!
+[2025-10-27 21:40:54.301] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.401] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.401] [warning] Unable to open usb!
+[2025-10-27 21:40:54.401] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.501] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.501] [warning] Unable to open usb!
+[2025-10-27 21:40:54.501] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.601] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.601] [warning] Unable to open usb!
+[2025-10-27 21:40:54.602] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.702] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.702] [warning] Unable to open usb!
+[2025-10-27 21:40:54.702] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.802] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.802] [warning] Unable to open usb!
+[2025-10-27 21:40:54.802] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:54.902] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:54.902] [warning] Unable to open usb!
+[2025-10-27 21:40:54.903] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.003] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.003] [warning] Unable to open usb!
+[2025-10-27 21:40:55.003] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.103] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.103] [warning] Unable to open usb!
+[2025-10-27 21:40:55.103] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.203] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.203] [warning] Unable to open usb!
+[2025-10-27 21:40:55.203] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.304] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.304] [warning] Unable to open usb!
+[2025-10-27 21:40:55.304] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.404] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.404] [warning] Unable to open usb!
+[2025-10-27 21:40:55.404] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.504] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.504] [warning] Unable to open usb!
+[2025-10-27 21:40:55.504] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.604] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.605] [warning] Unable to open usb!
+[2025-10-27 21:40:55.605] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.705] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.705] [warning] Unable to open usb!
+[2025-10-27 21:40:55.705] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.805] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.805] [warning] Unable to open usb!
+[2025-10-27 21:40:55.806] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:55.906] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:55.906] [warning] Unable to open usb!
+[2025-10-27 21:40:55.906] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.006] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.006] [warning] Unable to open usb!
+[2025-10-27 21:40:56.007] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.107] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.107] [warning] Unable to open usb!
+[2025-10-27 21:40:56.107] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.207] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.207] [warning] Unable to open usb!
+[2025-10-27 21:40:56.207] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.307] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.308] [warning] Unable to open usb!
+[2025-10-27 21:40:56.308] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.408] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.408] [warning] Unable to open usb!
+[2025-10-27 21:40:56.408] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.508] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.509] [warning] Unable to open usb!
+[2025-10-27 21:40:56.509] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.609] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.609] [warning] Unable to open usb!
+[2025-10-27 21:40:56.609] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.709] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.709] [warning] Unable to open usb!
+[2025-10-27 21:40:56.709] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.809] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.809] [warning] Unable to open usb!
+[2025-10-27 21:40:56.810] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:56.910] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:56.910] [warning] Unable to open usb!
+[2025-10-27 21:40:56.910] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.010] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.010] [warning] Unable to open usb!
+[2025-10-27 21:40:57.010] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.110] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.110] [warning] Unable to open usb!
+[2025-10-27 21:40:57.110] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.210] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.210] [warning] Unable to open usb!
+[2025-10-27 21:40:57.211] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.311] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.311] [warning] Unable to open usb!
+[2025-10-27 21:40:57.311] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.411] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.411] [warning] Unable to open usb!
+[2025-10-27 21:40:57.411] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.511] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.511] [warning] Unable to open usb!
+[2025-10-27 21:40:57.511] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.612] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.612] [warning] Unable to open usb!
+[2025-10-27 21:40:57.612] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.712] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.712] [warning] Unable to open usb!
+[2025-10-27 21:40:57.712] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.812] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.812] [warning] Unable to open usb!
+[2025-10-27 21:40:57.812] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:57.912] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:57.912] [warning] Unable to open usb!
+[2025-10-27 21:40:57.913] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.013] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.013] [warning] Unable to open usb!
+[2025-10-27 21:40:58.013] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.113] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.113] [warning] Unable to open usb!
+[2025-10-27 21:40:58.113] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.213] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.213] [warning] Unable to open usb!
+[2025-10-27 21:40:58.213] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.314] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.314] [warning] Unable to open usb!
+[2025-10-27 21:40:58.314] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.414] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.414] [warning] Unable to open usb!
+[2025-10-27 21:40:58.414] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.514] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.514] [warning] Unable to open usb!
+[2025-10-27 21:40:58.514] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.614] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.614] [warning] Unable to open usb!
+[2025-10-27 21:40:58.615] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.715] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.715] [warning] Unable to open usb!
+[2025-10-27 21:40:58.715] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.815] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.815] [warning] Unable to open usb!
+[2025-10-27 21:40:58.815] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:58.915] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:58.915] [warning] Unable to open usb!
+[2025-10-27 21:40:58.915] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.015] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.016] [warning] Unable to open usb!
+[2025-10-27 21:40:59.016] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.116] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.116] [warning] Unable to open usb!
+[2025-10-27 21:40:59.116] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.216] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.216] [warning] Unable to open usb!
+[2025-10-27 21:40:59.216] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.316] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.316] [warning] Unable to open usb!
+[2025-10-27 21:40:59.317] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.417] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.417] [warning] Unable to open usb!
+[2025-10-27 21:40:59.417] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.517] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.517] [warning] Unable to open usb!
+[2025-10-27 21:40:59.517] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.617] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.617] [warning] Unable to open usb!
+[2025-10-27 21:40:59.617] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.718] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.718] [warning] Unable to open usb!
+[2025-10-27 21:40:59.718] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.818] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.818] [warning] Unable to open usb!
+[2025-10-27 21:40:59.818] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:40:59.918] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:40:59.918] [warning] Unable to open usb!
+[2025-10-27 21:40:59.919] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.019] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.019] [warning] Unable to open usb!
+[2025-10-27 21:41:00.019] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.119] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.119] [warning] Unable to open usb!
+[2025-10-27 21:41:00.119] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.219] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.219] [warning] Unable to open usb!
+[2025-10-27 21:41:00.219] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.319] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.320] [warning] Unable to open usb!
+[2025-10-27 21:41:00.320] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.420] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.420] [warning] Unable to open usb!
+[2025-10-27 21:41:00.420] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.520] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.520] [warning] Unable to open usb!
+[2025-10-27 21:41:00.521] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.621] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.621] [warning] Unable to open usb!
+[2025-10-27 21:41:00.621] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.721] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.721] [warning] Unable to open usb!
+[2025-10-27 21:41:00.721] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.821] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.821] [warning] Unable to open usb!
+[2025-10-27 21:41:00.822] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:00.922] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:00.922] [warning] Unable to open usb!
+[2025-10-27 21:41:00.922] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.022] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.022] [warning] Unable to open usb!
+[2025-10-27 21:41:01.023] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.123] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.123] [warning] Unable to open usb!
+[2025-10-27 21:41:01.123] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.223] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.223] [warning] Unable to open usb!
+[2025-10-27 21:41:01.223] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.323] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.323] [warning] Unable to open usb!
+[2025-10-27 21:41:01.324] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.424] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.424] [warning] Unable to open usb!
+[2025-10-27 21:41:01.424] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.524] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.524] [warning] Unable to open usb!
+[2025-10-27 21:41:01.524] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.624] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.624] [warning] Unable to open usb!
+[2025-10-27 21:41:01.625] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.725] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.725] [warning] Unable to open usb!
+[2025-10-27 21:41:01.725] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.825] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.825] [warning] Unable to open usb!
+[2025-10-27 21:41:01.825] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:01.925] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:01.925] [warning] Unable to open usb!
+[2025-10-27 21:41:01.925] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.026] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.026] [warning] Unable to open usb!
+[2025-10-27 21:41:02.026] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.126] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.126] [warning] Unable to open usb!
+[2025-10-27 21:41:02.126] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.226] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.226] [warning] Unable to open usb!
+[2025-10-27 21:41:02.226] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.326] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.327] [warning] Unable to open usb!
+[2025-10-27 21:41:02.327] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.427] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.427] [warning] Unable to open usb!
+[2025-10-27 21:41:02.427] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.527] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.527] [warning] Unable to open usb!
+[2025-10-27 21:41:02.527] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.627] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.627] [warning] Unable to open usb!
+[2025-10-27 21:41:02.628] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.728] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.728] [warning] Unable to open usb!
+[2025-10-27 21:41:02.728] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.828] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.828] [warning] Unable to open usb!
+[2025-10-27 21:41:02.828] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:02.928] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:02.928] [warning] Unable to open usb!
+[2025-10-27 21:41:02.929] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.029] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.029] [warning] Unable to open usb!
+[2025-10-27 21:41:03.029] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.129] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.129] [warning] Unable to open usb!
+[2025-10-27 21:41:03.129] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.229] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.229] [warning] Unable to open usb!
+[2025-10-27 21:41:03.230] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.330] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.330] [warning] Unable to open usb!
+[2025-10-27 21:41:03.330] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.430] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.430] [warning] Unable to open usb!
+[2025-10-27 21:41:03.431] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.531] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.531] [warning] Unable to open usb!
+[2025-10-27 21:41:03.531] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.631] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.631] [warning] Unable to open usb!
+[2025-10-27 21:41:03.631] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.732] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.732] [warning] Unable to open usb!
+[2025-10-27 21:41:03.732] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.832] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.832] [warning] Unable to open usb!
+[2025-10-27 21:41:03.833] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:03.933] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:03.933] [warning] Unable to open usb!
+[2025-10-27 21:41:03.933] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.033] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.033] [warning] Unable to open usb!
+[2025-10-27 21:41:04.033] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.133] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.133] [warning] Unable to open usb!
+[2025-10-27 21:41:04.134] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.234] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.234] [warning] Unable to open usb!
+[2025-10-27 21:41:04.234] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.334] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.334] [warning] Unable to open usb!
+[2025-10-27 21:41:04.334] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.434] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.434] [warning] Unable to open usb!
+[2025-10-27 21:41:04.435] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.535] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.535] [warning] Unable to open usb!
+[2025-10-27 21:41:04.535] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.635] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.635] [warning] Unable to open usb!
+[2025-10-27 21:41:04.635] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.735] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.735] [warning] Unable to open usb!
+[2025-10-27 21:41:04.736] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.836] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.836] [warning] Unable to open usb!
+[2025-10-27 21:41:04.836] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:04.936] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:04.936] [warning] Unable to open usb!
+[2025-10-27 21:41:04.936] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.036] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.036] [warning] Unable to open usb!
+[2025-10-27 21:41:05.037] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.137] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.137] [warning] Unable to open usb!
+[2025-10-27 21:41:05.137] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.237] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.237] [warning] Unable to open usb!
+[2025-10-27 21:41:05.237] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.337] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.337] [warning] Unable to open usb!
+[2025-10-27 21:41:05.338] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.438] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.438] [warning] Unable to open usb!
+[2025-10-27 21:41:05.438] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.538] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.538] [warning] Unable to open usb!
+[2025-10-27 21:41:05.538] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.638] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.639] [warning] Unable to open usb!
+[2025-10-27 21:41:05.639] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.739] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.739] [warning] Unable to open usb!
+[2025-10-27 21:41:05.739] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.839] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.839] [warning] Unable to open usb!
+[2025-10-27 21:41:05.840] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:05.940] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:05.940] [warning] Unable to open usb!
+[2025-10-27 21:41:05.940] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.040] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.040] [warning] Unable to open usb!
+[2025-10-27 21:41:06.040] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.141] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.141] [warning] Unable to open usb!
+[2025-10-27 21:41:06.141] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.241] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.241] [warning] Unable to open usb!
+[2025-10-27 21:41:06.241] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.341] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.341] [warning] Unable to open usb!
+[2025-10-27 21:41:06.342] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.442] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.442] [warning] Unable to open usb!
+[2025-10-27 21:41:06.442] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.542] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.542] [warning] Unable to open usb!
+[2025-10-27 21:41:06.542] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.642] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.642] [warning] Unable to open usb!
+[2025-10-27 21:41:06.643] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.743] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.743] [warning] Unable to open usb!
+[2025-10-27 21:41:06.743] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.843] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.843] [warning] Unable to open usb!
+[2025-10-27 21:41:06.843] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:06.943] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:06.944] [warning] Unable to open usb!
+[2025-10-27 21:41:06.944] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.044] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.044] [warning] Unable to open usb!
+[2025-10-27 21:41:07.044] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.144] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.144] [warning] Unable to open usb!
+[2025-10-27 21:41:07.144] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.244] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.244] [warning] Unable to open usb!
+[2025-10-27 21:41:07.245] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.345] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.345] [warning] Unable to open usb!
+[2025-10-27 21:41:07.345] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.445] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.445] [warning] Unable to open usb!
+[2025-10-27 21:41:07.445] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.545] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.545] [warning] Unable to open usb!
+[2025-10-27 21:41:07.546] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.646] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.646] [warning] Unable to open usb!
+[2025-10-27 21:41:07.646] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.746] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.746] [warning] Unable to open usb!
+[2025-10-27 21:41:07.746] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.846] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.846] [warning] Unable to open usb!
+[2025-10-27 21:41:07.847] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:07.947] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:07.947] [warning] Unable to open usb!
+[2025-10-27 21:41:07.947] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.047] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.047] [warning] Unable to open usb!
+[2025-10-27 21:41:08.047] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.147] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.147] [warning] Unable to open usb!
+[2025-10-27 21:41:08.148] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.248] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.248] [warning] Unable to open usb!
+[2025-10-27 21:41:08.248] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.348] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.348] [warning] Unable to open usb!
+[2025-10-27 21:41:08.348] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.448] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.448] [warning] Unable to open usb!
+[2025-10-27 21:41:08.448] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.549] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.549] [warning] Unable to open usb!
+[2025-10-27 21:41:08.549] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.649] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.649] [warning] Unable to open usb!
+[2025-10-27 21:41:08.649] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.749] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.749] [warning] Unable to open usb!
+[2025-10-27 21:41:08.749] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.850] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.850] [warning] Unable to open usb!
+[2025-10-27 21:41:08.850] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:08.950] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:08.950] [warning] Unable to open usb!
+[2025-10-27 21:41:08.950] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.050] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.050] [warning] Unable to open usb!
+[2025-10-27 21:41:09.050] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.150] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.150] [warning] Unable to open usb!
+[2025-10-27 21:41:09.151] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.251] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.251] [warning] Unable to open usb!
+[2025-10-27 21:41:09.251] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.351] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.351] [warning] Unable to open usb!
+[2025-10-27 21:41:09.351] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.451] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.451] [warning] Unable to open usb!
+[2025-10-27 21:41:09.452] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.552] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.552] [warning] Unable to open usb!
+[2025-10-27 21:41:09.552] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.652] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.652] [warning] Unable to open usb!
+[2025-10-27 21:41:09.652] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.752] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.752] [warning] Unable to open usb!
+[2025-10-27 21:41:09.753] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.853] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.853] [warning] Unable to open usb!
+[2025-10-27 21:41:09.853] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:09.953] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:09.953] [warning] Unable to open usb!
+[2025-10-27 21:41:09.953] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.053] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.054] [warning] Unable to open usb!
+[2025-10-27 21:41:10.054] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.154] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.154] [warning] Unable to open usb!
+[2025-10-27 21:41:10.155] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.255] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.255] [warning] Unable to open usb!
+[2025-10-27 21:41:10.255] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.355] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.355] [warning] Unable to open usb!
+[2025-10-27 21:41:10.356] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.456] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.456] [warning] Unable to open usb!
+[2025-10-27 21:41:10.456] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.556] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.556] [warning] Unable to open usb!
+[2025-10-27 21:41:10.556] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.656] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.657] [warning] Unable to open usb!
+[2025-10-27 21:41:10.657] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.757] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.757] [warning] Unable to open usb!
+[2025-10-27 21:41:10.757] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.857] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.857] [warning] Unable to open usb!
+[2025-10-27 21:41:10.858] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:10.958] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:10.958] [warning] Unable to open usb!
+[2025-10-27 21:41:10.958] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.058] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.058] [warning] Unable to open usb!
+[2025-10-27 21:41:11.058] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.158] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.158] [warning] Unable to open usb!
+[2025-10-27 21:41:11.159] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.259] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.259] [warning] Unable to open usb!
+[2025-10-27 21:41:11.259] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.359] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.359] [warning] Unable to open usb!
+[2025-10-27 21:41:11.359] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.459] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.459] [warning] Unable to open usb!
+[2025-10-27 21:41:11.459] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.559] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.559] [warning] Unable to open usb!
+[2025-10-27 21:41:11.560] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.660] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.660] [warning] Unable to open usb!
+[2025-10-27 21:41:11.660] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.760] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.760] [warning] Unable to open usb!
+[2025-10-27 21:41:11.760] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.860] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.860] [warning] Unable to open usb!
+[2025-10-27 21:41:11.861] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:11.961] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:11.961] [warning] Unable to open usb!
+[2025-10-27 21:41:11.961] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.061] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.061] [warning] Unable to open usb!
+[2025-10-27 21:41:12.061] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.161] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.161] [warning] Unable to open usb!
+[2025-10-27 21:41:12.161] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.262] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.262] [warning] Unable to open usb!
+[2025-10-27 21:41:12.262] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.362] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.362] [warning] Unable to open usb!
+[2025-10-27 21:41:12.362] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.462] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.462] [warning] Unable to open usb!
+[2025-10-27 21:41:12.463] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.563] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.563] [warning] Unable to open usb!
+[2025-10-27 21:41:12.563] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.663] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.663] [warning] Unable to open usb!
+[2025-10-27 21:41:12.663] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.763] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.763] [warning] Unable to open usb!
+[2025-10-27 21:41:12.763] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.863] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.863] [warning] Unable to open usb!
+[2025-10-27 21:41:12.864] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:12.964] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:12.964] [warning] Unable to open usb!
+[2025-10-27 21:41:12.964] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.064] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.064] [warning] Unable to open usb!
+[2025-10-27 21:41:13.064] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.164] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.164] [warning] Unable to open usb!
+[2025-10-27 21:41:13.165] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.265] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.265] [warning] Unable to open usb!
+[2025-10-27 21:41:13.265] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.365] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.365] [warning] Unable to open usb!
+[2025-10-27 21:41:13.365] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.465] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.465] [warning] Unable to open usb!
+[2025-10-27 21:41:13.465] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.566] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.566] [warning] Unable to open usb!
+[2025-10-27 21:41:13.566] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.666] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.666] [warning] Unable to open usb!
+[2025-10-27 21:41:13.666] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.766] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.766] [warning] Unable to open usb!
+[2025-10-27 21:41:13.766] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.866] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.866] [warning] Unable to open usb!
+[2025-10-27 21:41:13.867] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:13.967] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:13.967] [warning] Unable to open usb!
+[2025-10-27 21:41:13.967] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.067] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.067] [warning] Unable to open usb!
+[2025-10-27 21:41:14.067] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.167] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.167] [warning] Unable to open usb!
+[2025-10-27 21:41:14.168] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.268] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.268] [warning] Unable to open usb!
+[2025-10-27 21:41:14.268] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.368] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.368] [warning] Unable to open usb!
+[2025-10-27 21:41:14.368] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.468] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.468] [warning] Unable to open usb!
+[2025-10-27 21:41:14.468] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.568] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.569] [warning] Unable to open usb!
+[2025-10-27 21:41:14.569] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.669] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.669] [warning] Unable to open usb!
+[2025-10-27 21:41:14.669] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.769] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.769] [warning] Unable to open usb!
+[2025-10-27 21:41:14.769] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.869] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.869] [warning] Unable to open usb!
+[2025-10-27 21:41:14.869] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:14.969] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:14.969] [warning] Unable to open usb!
+[2025-10-27 21:41:14.970] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.070] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.070] [warning] Unable to open usb!
+[2025-10-27 21:41:15.070] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.170] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.170] [warning] Unable to open usb!
+[2025-10-27 21:41:15.170] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.270] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.270] [warning] Unable to open usb!
+[2025-10-27 21:41:15.270] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.371] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.371] [warning] Unable to open usb!
+[2025-10-27 21:41:15.371] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.471] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.471] [warning] Unable to open usb!
+[2025-10-27 21:41:15.471] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.571] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.571] [warning] Unable to open usb!
+[2025-10-27 21:41:15.571] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.671] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.671] [warning] Unable to open usb!
+[2025-10-27 21:41:15.672] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.772] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.772] [warning] Unable to open usb!
+[2025-10-27 21:41:15.772] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.872] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.872] [warning] Unable to open usb!
+[2025-10-27 21:41:15.872] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:15.972] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:15.972] [warning] Unable to open usb!
+[2025-10-27 21:41:15.973] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.073] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.073] [warning] Unable to open usb!
+[2025-10-27 21:41:16.073] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.173] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.173] [warning] Unable to open usb!
+[2025-10-27 21:41:16.173] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.273] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.273] [warning] Unable to open usb!
+[2025-10-27 21:41:16.274] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.374] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.374] [warning] Unable to open usb!
+[2025-10-27 21:41:16.374] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.474] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.474] [warning] Unable to open usb!
+[2025-10-27 21:41:16.474] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.574] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.574] [warning] Unable to open usb!
+[2025-10-27 21:41:16.575] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.675] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.675] [warning] Unable to open usb!
+[2025-10-27 21:41:16.675] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.775] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.775] [warning] Unable to open usb!
+[2025-10-27 21:41:16.775] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.875] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.875] [warning] Unable to open usb!
+[2025-10-27 21:41:16.875] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:16.975] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:16.975] [warning] Unable to open usb!
+[2025-10-27 21:41:16.976] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.076] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.076] [warning] Unable to open usb!
+[2025-10-27 21:41:17.076] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.176] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.176] [warning] Unable to open usb!
+[2025-10-27 21:41:17.176] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.276] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.276] [warning] Unable to open usb!
+[2025-10-27 21:41:17.277] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.377] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.377] [warning] Unable to open usb!
+[2025-10-27 21:41:17.377] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.477] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.477] [warning] Unable to open usb!
+[2025-10-27 21:41:17.477] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.577] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.577] [warning] Unable to open usb!
+[2025-10-27 21:41:17.577] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.677] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.677] [warning] Unable to open usb!
+[2025-10-27 21:41:17.678] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.778] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.778] [warning] Unable to open usb!
+[2025-10-27 21:41:17.778] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.878] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.878] [warning] Unable to open usb!
+[2025-10-27 21:41:17.878] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:17.978] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:17.978] [warning] Unable to open usb!
+[2025-10-27 21:41:17.979] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.079] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.079] [warning] Unable to open usb!
+[2025-10-27 21:41:18.079] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.179] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.179] [warning] Unable to open usb!
+[2025-10-27 21:41:18.179] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.279] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.279] [warning] Unable to open usb!
+[2025-10-27 21:41:18.279] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.380] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.380] [warning] Unable to open usb!
+[2025-10-27 21:41:18.380] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.480] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.480] [warning] Unable to open usb!
+[2025-10-27 21:41:18.480] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.580] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.580] [warning] Unable to open usb!
+[2025-10-27 21:41:18.580] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.680] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.680] [warning] Unable to open usb!
+[2025-10-27 21:41:18.681] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.781] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.781] [warning] Unable to open usb!
+[2025-10-27 21:41:18.781] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.881] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.881] [warning] Unable to open usb!
+[2025-10-27 21:41:18.881] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:18.981] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:18.981] [warning] Unable to open usb!
+[2025-10-27 21:41:18.982] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.082] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.082] [warning] Unable to open usb!
+[2025-10-27 21:41:19.082] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.182] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.182] [warning] Unable to open usb!
+[2025-10-27 21:41:19.182] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.282] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.282] [warning] Unable to open usb!
+[2025-10-27 21:41:19.282] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.383] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.383] [warning] Unable to open usb!
+[2025-10-27 21:41:19.383] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.483] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.483] [warning] Unable to open usb!
+[2025-10-27 21:41:19.483] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.583] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.583] [warning] Unable to open usb!
+[2025-10-27 21:41:19.583] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.683] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.684] [warning] Unable to open usb!
+[2025-10-27 21:41:19.684] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.784] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.784] [warning] Unable to open usb!
+[2025-10-27 21:41:19.784] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.884] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.884] [warning] Unable to open usb!
+[2025-10-27 21:41:19.884] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:19.984] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:19.984] [warning] Unable to open usb!
+[2025-10-27 21:41:19.985] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.085] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.085] [warning] Unable to open usb!
+[2025-10-27 21:41:20.085] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.185] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.185] [warning] Unable to open usb!
+[2025-10-27 21:41:20.185] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.285] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.285] [warning] Unable to open usb!
+[2025-10-27 21:41:20.285] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.385] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.385] [warning] Unable to open usb!
+[2025-10-27 21:41:20.386] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.486] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.486] [warning] Unable to open usb!
+[2025-10-27 21:41:20.486] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.586] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.586] [warning] Unable to open usb!
+[2025-10-27 21:41:20.586] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.686] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.686] [warning] Unable to open usb!
+[2025-10-27 21:41:20.686] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.787] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.787] [warning] Unable to open usb!
+[2025-10-27 21:41:20.787] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.887] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.887] [warning] Unable to open usb!
+[2025-10-27 21:41:20.887] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:20.987] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:20.987] [warning] Unable to open usb!
+[2025-10-27 21:41:20.987] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.087] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.087] [warning] Unable to open usb!
+[2025-10-27 21:41:21.088] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.188] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.188] [warning] Unable to open usb!
+[2025-10-27 21:41:21.188] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.288] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.288] [warning] Unable to open usb!
+[2025-10-27 21:41:21.288] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.388] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.388] [warning] Unable to open usb!
+[2025-10-27 21:41:21.388] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.488] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.489] [warning] Unable to open usb!
+[2025-10-27 21:41:21.489] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.589] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.589] [warning] Unable to open usb!
+[2025-10-27 21:41:21.589] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.689] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.689] [warning] Unable to open usb!
+[2025-10-27 21:41:21.689] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.789] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.789] [warning] Unable to open usb!
+[2025-10-27 21:41:21.790] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.890] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.890] [warning] Unable to open usb!
+[2025-10-27 21:41:21.890] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:21.990] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:21.990] [warning] Unable to open usb!
+[2025-10-27 21:41:21.990] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.090] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.090] [warning] Unable to open usb!
+[2025-10-27 21:41:22.090] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.191] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.191] [warning] Unable to open usb!
+[2025-10-27 21:41:22.191] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.291] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.291] [warning] Unable to open usb!
+[2025-10-27 21:41:22.291] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.391] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.391] [warning] Unable to open usb!
+[2025-10-27 21:41:22.391] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.491] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.491] [warning] Unable to open usb!
+[2025-10-27 21:41:22.492] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.592] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.592] [warning] Unable to open usb!
+[2025-10-27 21:41:22.592] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.692] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.692] [warning] Unable to open usb!
+[2025-10-27 21:41:22.692] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.792] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.792] [warning] Unable to open usb!
+[2025-10-27 21:41:22.792] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.893] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.893] [warning] Unable to open usb!
+[2025-10-27 21:41:22.893] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:22.993] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:22.993] [warning] Unable to open usb!
+[2025-10-27 21:41:22.993] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.093] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.093] [warning] Unable to open usb!
+[2025-10-27 21:41:23.093] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.193] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.193] [warning] Unable to open usb!
+[2025-10-27 21:41:23.194] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.294] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.294] [warning] Unable to open usb!
+[2025-10-27 21:41:23.294] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.394] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.394] [warning] Unable to open usb!
+[2025-10-27 21:41:23.394] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.494] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.494] [warning] Unable to open usb!
+[2025-10-27 21:41:23.494] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.595] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.595] [warning] Unable to open usb!
+[2025-10-27 21:41:23.595] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.695] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.695] [warning] Unable to open usb!
+[2025-10-27 21:41:23.695] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.795] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.795] [warning] Unable to open usb!
+[2025-10-27 21:41:23.795] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.895] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.895] [warning] Unable to open usb!
+[2025-10-27 21:41:23.896] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:23.996] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:23.996] [warning] Unable to open usb!
+[2025-10-27 21:41:23.996] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.096] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.096] [warning] Unable to open usb!
+[2025-10-27 21:41:24.096] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.196] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.196] [warning] Unable to open usb!
+[2025-10-27 21:41:24.196] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.297] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.297] [warning] Unable to open usb!
+[2025-10-27 21:41:24.297] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.397] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.397] [warning] Unable to open usb!
+[2025-10-27 21:41:24.397] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.497] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.497] [warning] Unable to open usb!
+[2025-10-27 21:41:24.497] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.597] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.597] [warning] Unable to open usb!
+[2025-10-27 21:41:24.598] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.698] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.698] [warning] Unable to open usb!
+[2025-10-27 21:41:24.698] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.798] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.798] [warning] Unable to open usb!
+[2025-10-27 21:41:24.798] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.899] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.899] [warning] Unable to open usb!
+[2025-10-27 21:41:24.899] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:24.999] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:24.999] [warning] Unable to open usb!
+[2025-10-27 21:41:24.999] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:25.099] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:25.099] [warning] Unable to open usb!
+[2025-10-27 21:41:25.099] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:25.199] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:25.199] [warning] Unable to open usb!
+[2025-10-27 21:41:25.200] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:25.300] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:25.300] [warning] Unable to open usb!
+[2025-10-27 21:41:25.300] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:25.400] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:25.400] [warning] Unable to open usb!
+[2025-10-27 21:41:25.400] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:25.500] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:25.500] [warning] Unable to open usb!
+[2025-10-27 21:41:25.501] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:25.601] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:25.601] [warning] Unable to open usb!
+[2025-10-27 21:41:25.601] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:25.701] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:25.701] [warning] Unable to open usb!
+[2025-10-27 21:41:25.701] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:25.801] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:25.801] [warning] Unable to open usb!
+[2025-10-27 21:41:25.801] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:25.902] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:25.902] [warning] Unable to open usb!
+[2025-10-27 21:41:25.902] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:26.002] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:26.002] [warning] Unable to open usb!
+[2025-10-27 21:41:26.002] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:26.102] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:26.102] [warning] Unable to open usb!
+[2025-10-27 21:41:26.102] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:26.202] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:26.202] [warning] Unable to open usb!
+[2025-10-27 21:41:26.202] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:26.302] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:26.302] [warning] Unable to open usb!
+[2025-10-27 21:41:26.303] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:26.403] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:26.403] [warning] Unable to open usb!
+[2025-10-27 21:41:26.403] [warning] MV_CC_EnumDevices failed: 0x80000006
+[2025-10-27 21:41:26.503] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 21:41:26.503] [warning] Unable to open usb!
+[2025-10-27 21:41:26.503] [warning] MV_CC_EnumDevices failed: 0x80000006

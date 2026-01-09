@@ -1,0 +1,10 @@
+[2025-10-25 15:18:50.210] [info] 棋盘格尺寸为6列8行 (内部角点5×7)，30mm方格
+[2025-10-25 15:18:50.210] [info] 开始采集标定数据...
+[2025-10-25 15:18:50.215] [info] [Gimbal] read_thread started.
+[2025-10-25 15:18:50.352] [info] [Gimbal] First q received.
+[2025-10-25 15:18:51.093] [info] Mindvision opened.
+[2025-10-25 15:19:42.231] [info] [1] Saved in assets/img_with_q
+[2025-10-25 15:20:09.547] [info] Mindvision destructed.
+[2025-10-25 15:20:09.560] [info] [Gimbal] read_thread stopped.
+[2025-10-25 15:20:09.563] [warning] 注意四元数输出顺序为wxyz
+[2025-10-25 15:20:09.563] [info] 程序结束

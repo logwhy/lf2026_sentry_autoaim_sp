@@ -1,0 +1,30 @@
+[2026-01-08 21:37:21.967] [info] 棋盘格尺寸为6列8行 (内部角点5×7)，30mm方格
+[2026-01-08 21:37:21.967] [info] 开始采集标定数据...
+[2026-01-08 21:37:21.986] [info] HikRobot's daemon thread started.
+[2026-01-08 21:37:22.240] [info] HikRobot's capture thread started.
+[2026-01-08 21:39:24.738] [info] [1] Saved in assets/img_with_q
+[2026-01-08 21:40:01.724] [info] [2] Saved in assets/img_with_q
+[2026-01-08 21:40:08.460] [info] [3] Saved in assets/img_with_q
+[2026-01-08 21:40:20.657] [info] [4] Saved in assets/img_with_q
+[2026-01-08 21:40:30.330] [info] [5] Saved in assets/img_with_q
+[2026-01-08 21:40:37.757] [info] [6] Saved in assets/img_with_q
+[2026-01-08 21:40:45.388] [info] [7] Saved in assets/img_with_q
+[2026-01-08 21:41:05.474] [info] [8] Saved in assets/img_with_q
+[2026-01-08 21:41:09.441] [info] [9] Saved in assets/img_with_q
+[2026-01-08 21:41:12.501] [info] [10] Saved in assets/img_with_q
+[2026-01-08 21:41:14.620] [info] [11] Saved in assets/img_with_q
+[2026-01-08 21:41:25.202] [info] [12] Saved in assets/img_with_q
+[2026-01-08 21:41:34.222] [info] [13] Saved in assets/img_with_q
+[2026-01-08 21:41:36.464] [info] [14] Saved in assets/img_with_q
+[2026-01-08 21:41:38.943] [info] [15] Saved in assets/img_with_q
+[2026-01-08 21:41:42.778] [info] [16] Saved in assets/img_with_q
+[2026-01-08 21:41:44.340] [info] [17] Saved in assets/img_with_q
+[2026-01-08 21:41:49.131] [info] [18] Saved in assets/img_with_q
+[2026-01-08 21:42:03.182] [info] [19] Saved in assets/img_with_q
+[2026-01-08 21:42:07.061] [info] [20] Saved in assets/img_with_q
+[2026-01-08 21:42:08.415] [info] [21] Saved in assets/img_with_q
+[2026-01-08 21:42:10.703] [info] [22] Saved in assets/img_with_q
+[2026-01-08 21:42:13.000] [info] [23] Saved in assets/img_with_q
+[2026-01-08 21:42:19.423] [info] HikRobot's capture thread stopped.
+[2026-01-08 21:42:21.369] [info] HikRobot's daemon thread stopped.
+[2026-01-08 21:42:21.370] [info] HikRobot destructed.

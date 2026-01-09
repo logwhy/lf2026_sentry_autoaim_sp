@@ -1,0 +1,19 @@
+[2025-12-20 19:10:09.723] [info] [Gimbal] read_thread started.
+[2025-12-20 19:10:09.723] [info] [Gimbal] First q received.
+[2025-12-20 19:10:09.724] [info] HikRobot's daemon thread started.
+[2025-12-20 19:10:10.041] [info] [MultiThreadDetector] initialized !
+[2025-12-20 19:10:10.042] [info] 初始化相机: FRONT
+[2025-12-20 19:10:10.060] [info] HikRobot's capture thread started.
+[2025-12-20 19:10:12.043] [info] HikRobot's daemon thread started.
+[2025-12-20 19:10:12.336] [info] [MultiThreadDetector] initialized !
+[2025-12-20 19:10:12.336] [info] 初始化相机: BACK
+[2025-12-20 19:10:12.365] [info] HikRobot's capture thread started.
+[2025-12-20 19:10:23.764] [debug] [Target] r=0.502, l=0.000
+[2025-12-20 19:10:23.764] [debug] [Tracker] Target diverged!
+[2025-12-20 19:10:43.693] [info] HikRobot's capture thread stopped.
+[2025-12-20 19:10:43.701] [info] HikRobot's daemon thread stopped.
+[2025-12-20 19:10:43.701] [info] HikRobot destructed.
+[2025-12-20 19:10:43.788] [info] HikRobot's capture thread stopped.
+[2025-12-20 19:10:43.796] [info] HikRobot's daemon thread stopped.
+[2025-12-20 19:10:43.797] [info] HikRobot destructed.
+[2025-12-20 19:10:43.803] [info] [Gimbal] read_thread stopped.

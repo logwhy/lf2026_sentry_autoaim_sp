@@ -1,0 +1,175 @@
+[2025-12-19 23:39:07.354] [info] [Gimbal] read_thread started.
+[2025-12-19 23:39:07.354] [info] [Gimbal] First q received.
+[2025-12-19 23:39:07.355] [info] HikRobot's daemon thread started.
+[2025-12-19 23:39:07.671] [info] [MultiThreadDetector] initialized !
+[2025-12-19 23:39:07.672] [info] 初始化相机: 
+[2025-12-19 23:39:08.573] [info] HikRobot's capture thread started.
+[2025-12-19 23:39:09.673] [info] HikRobot's daemon thread started.
+[2025-12-19 23:39:09.947] [info] [MultiThreadDetector] initialized !
+[2025-12-19 23:39:09.948] [info] 初始化相机: 
+[2025-12-19 23:39:10.861] [info] HikRobot's capture thread started.
+[2025-12-19 23:39:11.948] [info] Write
+[2025-12-19 23:39:11.950] [info] Write
+[2025-12-19 23:39:11.951] [info] Write
+[2025-12-19 23:39:11.952] [info] Write
+[2025-12-19 23:39:11.978] [info] Write
+[2025-12-19 23:39:12.084] [info] Write
+[2025-12-19 23:39:12.215] [info] Write
+[2025-12-19 23:39:12.566] [info] Write
+[2025-12-19 23:39:12.690] [info] Write
+[2025-12-19 23:39:12.848] [info] Write
+[2025-12-19 23:39:13.107] [info] Write
+[2025-12-19 23:39:13.288] [info] Write
+[2025-12-19 23:39:13.504] [info] Write
+[2025-12-19 23:39:13.589] [info] Write
+[2025-12-19 23:39:13.831] [info] Write
+[2025-12-19 23:39:14.100] [info] Write
+[2025-12-19 23:39:14.281] [info] Write
+[2025-12-19 23:39:14.341] [info] Write
+[2025-12-19 23:39:14.641] [info] Write
+[2025-12-19 23:39:14.822] [info] Write
+[2025-12-19 23:39:15.004] [info] Write
+[2025-12-19 23:39:15.275] [info] Write
+[2025-12-19 23:39:15.554] [info] Write
+[2025-12-19 23:39:15.756] [info] Write
+[2025-12-19 23:39:15.935] [info] Write
+[2025-12-19 23:39:16.086] [info] Write
+[2025-12-19 23:39:16.176] [info] Write
+[2025-12-19 23:39:16.266] [info] Write
+[2025-12-19 23:39:16.387] [info] Write
+[2025-12-19 23:39:16.570] [info] Write
+[2025-12-19 23:39:16.688] [info] Write
+[2025-12-19 23:39:16.777] [info] Write
+[2025-12-19 23:39:16.960] [info] Write
+[2025-12-19 23:39:17.017] [info] Write
+[2025-12-19 23:39:17.084] [info] Write
+[2025-12-19 23:39:17.168] [info] Write
+[2025-12-19 23:39:17.264] [info] Write
+[2025-12-19 23:39:17.444] [info] Write
+[2025-12-19 23:39:17.500] [info] Write
+[2025-12-19 23:39:17.711] [info] Write
+[2025-12-19 23:39:17.778] [info] Write
+[2025-12-19 23:39:17.893] [info] Write
+[2025-12-19 23:39:18.056] [info] Write
+[2025-12-19 23:39:18.225] [info] Write
+[2025-12-19 23:39:18.404] [info] Write
+[2025-12-19 23:39:18.558] [info] Write
+[2025-12-19 23:39:19.005] [info] Write
+[2025-12-19 23:39:19.637] [info] Write
+[2025-12-19 23:39:20.061] [info] Write
+[2025-12-19 23:39:20.210] [info] Write
+[2025-12-19 23:39:20.268] [info] Write
+[2025-12-19 23:39:20.358] [info] Write
+[2025-12-19 23:39:20.511] [info] Write
+[2025-12-19 23:39:20.660] [info] Write
+[2025-12-19 23:39:20.750] [info] Write
+[2025-12-19 23:39:20.810] [info] Write
+[2025-12-19 23:39:20.871] [info] Write
+[2025-12-19 23:39:20.931] [info] Write
+[2025-12-19 23:39:21.021] [info] Write
+[2025-12-19 23:39:21.087] [info] Write
+[2025-12-19 23:39:21.231] [info] Write
+[2025-12-19 23:39:21.382] [info] Write
+[2025-12-19 23:39:21.442] [info] Write
+[2025-12-19 23:39:21.533] [info] Write
+[2025-12-19 23:39:21.602] [info] Write
+[2025-12-19 23:39:21.663] [info] Write
+[2025-12-19 23:39:21.743] [info] Write
+[2025-12-19 23:39:21.955] [info] Write
+[2025-12-19 23:39:22.053] [info] Write
+[2025-12-19 23:39:22.284] [info] Write
+[2025-12-19 23:39:22.556] [info] Write
+[2025-12-19 23:39:22.857] [info] Write
+[2025-12-19 23:39:23.038] [info] Write
+[2025-12-19 23:39:23.411] [info] Write
+[2025-12-19 23:39:23.472] [info] Write
+[2025-12-19 23:39:23.549] [info] Write
+[2025-12-19 23:39:23.610] [info] Write
+[2025-12-19 23:39:23.699] [info] Write
+[2025-12-19 23:39:23.862] [info] Write
+[2025-12-19 23:39:24.031] [info] Write
+[2025-12-19 23:39:24.192] [info] Write
+[2025-12-19 23:39:24.362] [info] Write
+[2025-12-19 23:39:24.482] [info] Write
+[2025-12-19 23:39:24.662] [info] Write
+[2025-12-19 23:39:24.963] [info] Write
+[2025-12-19 23:39:25.179] [info] Write
+[2025-12-19 23:39:25.354] [info] Write
+[2025-12-19 23:39:25.508] [info] Write
+[2025-12-19 23:39:25.685] [info] Write
+[2025-12-19 23:39:25.925] [info] Write
+[2025-12-19 23:39:26.076] [info] Write
+[2025-12-19 23:39:26.287] [info] Write
+[2025-12-19 23:39:26.347] [info] Write
+[2025-12-19 23:39:26.528] [info] Write
+[2025-12-19 23:39:26.652] [info] Write
+[2025-12-19 23:39:26.740] [info] Write
+[2025-12-19 23:39:26.864] [info] Write
+[2025-12-19 23:39:27.099] [info] Write
+[2025-12-19 23:39:27.219] [info] Write
+[2025-12-19 23:39:27.280] [info] Write
+[2025-12-19 23:39:27.341] [info] Write
+[2025-12-19 23:39:27.610] [info] Write
+[2025-12-19 23:39:27.731] [info] Write
+[2025-12-19 23:39:27.792] [info] Write
+[2025-12-19 23:39:27.912] [info] Write
+[2025-12-19 23:39:27.972] [info] Write
+[2025-12-19 23:39:28.243] [info] Write
+[2025-12-19 23:39:28.515] [info] Write
+[2025-12-19 23:39:28.636] [info] Write
+[2025-12-19 23:39:28.907] [info] Write
+[2025-12-19 23:39:29.012] [info] Write
+[2025-12-19 23:39:29.276] [info] Write
+[2025-12-19 23:39:29.448] [info] Write
+[2025-12-19 23:39:29.629] [info] Write
+[2025-12-19 23:39:29.688] [info] Write
+[2025-12-19 23:39:29.841] [info] Write
+[2025-12-19 23:39:29.929] [info] Write
+[2025-12-19 23:39:30.124] [info] Write
+[2025-12-19 23:39:30.187] [info] Write
+[2025-12-19 23:39:30.411] [info] Write
+[2025-12-19 23:39:30.566] [info] Write
+[2025-12-19 23:39:31.204] [info] Write
+[2025-12-19 23:39:31.472] [info] Write
+[2025-12-19 23:39:31.766] [info] Write
+[2025-12-19 23:39:31.932] [info] Write
+[2025-12-19 23:39:32.044] [info] Write
+[2025-12-19 23:39:32.278] [info] Write
+[2025-12-19 23:39:32.489] [info] Write
+[2025-12-19 23:39:32.586] [info] Write
+[2025-12-19 23:39:32.669] [info] Write
+[2025-12-19 23:39:32.729] [info] Write
+[2025-12-19 23:39:32.851] [info] Write
+[2025-12-19 23:39:32.971] [info] Write
+[2025-12-19 23:39:33.127] [info] Write
+[2025-12-19 23:39:33.361] [info] Write
+[2025-12-19 23:39:33.523] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:33.624] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:33.726] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:33.827] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:33.928] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.029] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.131] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.233] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.335] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.436] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.538] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.640] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.741] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.843] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:34.945] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.046] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.148] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.249] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.350] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.451] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.553] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.655] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.756] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.858] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:35.959] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:36.061] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:36.162] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:36.264] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:36.366] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-12-19 23:39:36.467] [warning] [Gimbal] read timeout, read 0 / 2 bytes

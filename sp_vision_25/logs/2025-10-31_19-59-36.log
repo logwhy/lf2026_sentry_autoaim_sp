@@ -1,0 +1,1417 @@
+[2025-10-31 19:59:36.902] [info] Mindvision opened.
+[2025-10-31 19:59:37.078] [info] [Gimbal] read_thread started.
+[2025-10-31 19:59:37.079] [info] [Gimbal] First q received.
+[2025-10-31 19:59:37.423] [info] Target lost 2/8, using prediction
+[2025-10-31 19:59:37.423] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 2/8
+[2025-10-31 19:59:37.423] [info] Write
+[2025-10-31 19:59:37.423] [info] yolo: 60.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:37.449] [info] Target lost 4/8, using prediction
+[2025-10-31 19:59:37.449] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 4/8
+[2025-10-31 19:59:37.449] [info] Write
+[2025-10-31 19:59:37.526] [info] Target lost 6/8, using prediction
+[2025-10-31 19:59:37.526] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 6/8
+[2025-10-31 19:59:37.526] [info] Write
+[2025-10-31 19:59:37.597] [info] Target lost 8/8, using prediction
+[2025-10-31 19:59:37.597] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 8/8
+[2025-10-31 19:59:37.597] [info] Write
+[2025-10-31 19:59:37.671] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:37.671] [info] No control - state: lost, lost: 10/8
+[2025-10-31 19:59:37.671] [info] Write
+[2025-10-31 19:59:37.747] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:37.747] [info] No control - state: lost, lost: 12/8
+[2025-10-31 19:59:37.747] [info] Write
+[2025-10-31 19:59:37.747] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:37.825] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:37.825] [info] No control - state: lost, lost: 14/8
+[2025-10-31 19:59:37.825] [info] Write
+[2025-10-31 19:59:37.897] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:37.897] [info] No control - state: lost, lost: 16/8
+[2025-10-31 19:59:37.897] [info] Write
+[2025-10-31 19:59:37.969] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:37.970] [info] No control - state: lost, lost: 18/8
+[2025-10-31 19:59:37.970] [info] Write
+[2025-10-31 19:59:38.046] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.046] [info] No control - state: lost, lost: 20/8
+[2025-10-31 19:59:38.046] [info] Write
+[2025-10-31 19:59:38.123] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.123] [info] No control - state: lost, lost: 22/8
+[2025-10-31 19:59:38.124] [info] Write
+[2025-10-31 19:59:38.124] [info] Current FPS: 10.5, State: lost
+[2025-10-31 19:59:38.124] [info] yolo: 10.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:38.197] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.197] [info] No control - state: lost, lost: 24/8
+[2025-10-31 19:59:38.197] [info] Write
+[2025-10-31 19:59:38.271] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.271] [info] No control - state: lost, lost: 26/8
+[2025-10-31 19:59:38.271] [info] Write
+[2025-10-31 19:59:38.345] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.345] [info] No control - state: lost, lost: 28/8
+[2025-10-31 19:59:38.345] [info] Write
+[2025-10-31 19:59:38.424] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.424] [info] No control - state: lost, lost: 30/8
+[2025-10-31 19:59:38.424] [info] Write
+[2025-10-31 19:59:38.498] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.498] [info] No control - state: lost, lost: 32/8
+[2025-10-31 19:59:38.498] [info] Write
+[2025-10-31 19:59:38.498] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:38.571] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.571] [info] No control - state: lost, lost: 34/8
+[2025-10-31 19:59:38.571] [info] Write
+[2025-10-31 19:59:38.646] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.646] [info] No control - state: lost, lost: 36/8
+[2025-10-31 19:59:38.646] [info] Write
+[2025-10-31 19:59:38.723] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.723] [info] No control - state: lost, lost: 38/8
+[2025-10-31 19:59:38.723] [info] Write
+[2025-10-31 19:59:38.798] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.798] [info] No control - state: lost, lost: 40/8
+[2025-10-31 19:59:38.798] [info] Write
+[2025-10-31 19:59:38.870] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.871] [info] No control - state: lost, lost: 42/8
+[2025-10-31 19:59:38.871] [info] Write
+[2025-10-31 19:59:38.871] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:38.945] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:38.946] [info] No control - state: lost, lost: 44/8
+[2025-10-31 19:59:38.946] [info] Write
+[2025-10-31 19:59:39.021] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.022] [info] No control - state: lost, lost: 46/8
+[2025-10-31 19:59:39.022] [info] Write
+[2025-10-31 19:59:39.098] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.098] [info] No control - state: lost, lost: 48/8
+[2025-10-31 19:59:39.098] [info] Write
+[2025-10-31 19:59:39.171] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.171] [info] No control - state: lost, lost: 50/8
+[2025-10-31 19:59:39.171] [info] Write
+[2025-10-31 19:59:39.171] [info] Current FPS: 13.4, State: lost
+[2025-10-31 19:59:39.245] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.246] [info] No control - state: lost, lost: 52/8
+[2025-10-31 19:59:39.246] [info] Write
+[2025-10-31 19:59:39.246] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.2ms
+[2025-10-31 19:59:39.320] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.320] [info] No control - state: lost, lost: 54/8
+[2025-10-31 19:59:39.320] [info] Write
+[2025-10-31 19:59:39.396] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.396] [info] No control - state: lost, lost: 56/8
+[2025-10-31 19:59:39.396] [info] Write
+[2025-10-31 19:59:39.475] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.475] [info] No control - state: lost, lost: 58/8
+[2025-10-31 19:59:39.475] [info] Write
+[2025-10-31 19:59:39.547] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.547] [info] No control - state: lost, lost: 60/8
+[2025-10-31 19:59:39.547] [info] Write
+[2025-10-31 19:59:39.621] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.621] [info] No control - state: lost, lost: 62/8
+[2025-10-31 19:59:39.621] [info] Write
+[2025-10-31 19:59:39.621] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:39.697] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.697] [info] No control - state: lost, lost: 64/8
+[2025-10-31 19:59:39.697] [info] Write
+[2025-10-31 19:59:39.772] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.772] [info] No control - state: lost, lost: 66/8
+[2025-10-31 19:59:39.772] [info] Write
+[2025-10-31 19:59:39.849] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.849] [info] No control - state: lost, lost: 68/8
+[2025-10-31 19:59:39.849] [info] Write
+[2025-10-31 19:59:39.922] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.922] [info] No control - state: lost, lost: 70/8
+[2025-10-31 19:59:39.922] [info] Write
+[2025-10-31 19:59:39.998] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:39.998] [info] No control - state: lost, lost: 72/8
+[2025-10-31 19:59:39.998] [info] Write
+[2025-10-31 19:59:39.998] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:40.073] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.073] [info] No control - state: lost, lost: 74/8
+[2025-10-31 19:59:40.073] [info] Write
+[2025-10-31 19:59:40.146] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.146] [info] No control - state: lost, lost: 76/8
+[2025-10-31 19:59:40.146] [info] Write
+[2025-10-31 19:59:40.223] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.224] [info] No control - state: lost, lost: 78/8
+[2025-10-31 19:59:40.224] [info] Write
+[2025-10-31 19:59:40.224] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:40.298] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.299] [info] No control - state: lost, lost: 80/8
+[2025-10-31 19:59:40.299] [info] Write
+[2025-10-31 19:59:40.371] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.371] [info] No control - state: lost, lost: 82/8
+[2025-10-31 19:59:40.371] [info] Write
+[2025-10-31 19:59:40.371] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:40.446] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.446] [info] No control - state: lost, lost: 84/8
+[2025-10-31 19:59:40.446] [info] Write
+[2025-10-31 19:59:40.522] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.522] [info] No control - state: lost, lost: 86/8
+[2025-10-31 19:59:40.522] [info] Write
+[2025-10-31 19:59:40.600] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.600] [info] No control - state: lost, lost: 88/8
+[2025-10-31 19:59:40.600] [info] Write
+[2025-10-31 19:59:40.672] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.672] [info] No control - state: lost, lost: 90/8
+[2025-10-31 19:59:40.673] [info] Write
+[2025-10-31 19:59:40.746] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.746] [info] No control - state: lost, lost: 92/8
+[2025-10-31 19:59:40.746] [info] Write
+[2025-10-31 19:59:40.746] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:40.822] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.822] [info] No control - state: lost, lost: 94/8
+[2025-10-31 19:59:40.822] [info] Write
+[2025-10-31 19:59:40.898] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.898] [info] No control - state: lost, lost: 96/8
+[2025-10-31 19:59:40.898] [info] Write
+[2025-10-31 19:59:40.971] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:40.971] [info] No control - state: lost, lost: 98/8
+[2025-10-31 19:59:40.971] [info] Write
+[2025-10-31 19:59:41.046] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.046] [info] No control - state: lost, lost: 100/8
+[2025-10-31 19:59:41.046] [info] Write
+[2025-10-31 19:59:41.124] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.124] [info] No control - state: lost, lost: 102/8
+[2025-10-31 19:59:41.124] [info] Write
+[2025-10-31 19:59:41.124] [info] yolo: 10.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:41.199] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.200] [info] No control - state: lost, lost: 104/8
+[2025-10-31 19:59:41.200] [info] Write
+[2025-10-31 19:59:41.273] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.273] [info] No control - state: lost, lost: 106/8
+[2025-10-31 19:59:41.273] [info] Write
+[2025-10-31 19:59:41.273] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:41.345] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.346] [info] No control - state: lost, lost: 108/8
+[2025-10-31 19:59:41.346] [info] Write
+[2025-10-31 19:59:41.421] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.421] [info] No control - state: lost, lost: 110/8
+[2025-10-31 19:59:41.421] [info] Write
+[2025-10-31 19:59:41.498] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.498] [info] No control - state: lost, lost: 112/8
+[2025-10-31 19:59:41.498] [info] Write
+[2025-10-31 19:59:41.498] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:41.571] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.571] [info] No control - state: lost, lost: 114/8
+[2025-10-31 19:59:41.571] [info] Write
+[2025-10-31 19:59:41.645] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.645] [info] No control - state: lost, lost: 116/8
+[2025-10-31 19:59:41.645] [info] Write
+[2025-10-31 19:59:41.723] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.723] [info] No control - state: lost, lost: 118/8
+[2025-10-31 19:59:41.723] [info] Write
+[2025-10-31 19:59:41.799] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.800] [info] No control - state: lost, lost: 120/8
+[2025-10-31 19:59:41.800] [info] Write
+[2025-10-31 19:59:41.870] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.870] [info] No control - state: lost, lost: 122/8
+[2025-10-31 19:59:41.870] [info] Write
+[2025-10-31 19:59:41.870] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:41.947] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:41.947] [info] No control - state: lost, lost: 124/8
+[2025-10-31 19:59:41.947] [info] Write
+[2025-10-31 19:59:42.023] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.023] [info] No control - state: lost, lost: 126/8
+[2025-10-31 19:59:42.023] [info] Write
+[2025-10-31 19:59:42.098] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.098] [info] No control - state: lost, lost: 128/8
+[2025-10-31 19:59:42.098] [info] Write
+[2025-10-31 19:59:42.172] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.172] [info] No control - state: lost, lost: 130/8
+[2025-10-31 19:59:42.172] [info] Write
+[2025-10-31 19:59:42.246] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.246] [info] No control - state: lost, lost: 132/8
+[2025-10-31 19:59:42.246] [info] Write
+[2025-10-31 19:59:42.246] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:42.322] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.322] [info] No control - state: lost, lost: 134/8
+[2025-10-31 19:59:42.322] [info] Write
+[2025-10-31 19:59:42.322] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:42.396] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.396] [info] No control - state: lost, lost: 136/8
+[2025-10-31 19:59:42.396] [info] Write
+[2025-10-31 19:59:42.472] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.473] [info] No control - state: lost, lost: 138/8
+[2025-10-31 19:59:42.473] [info] Write
+[2025-10-31 19:59:42.546] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.546] [info] No control - state: lost, lost: 140/8
+[2025-10-31 19:59:42.546] [info] Write
+[2025-10-31 19:59:42.624] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.624] [info] No control - state: lost, lost: 142/8
+[2025-10-31 19:59:42.624] [info] Write
+[2025-10-31 19:59:42.624] [info] yolo: 10.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:42.697] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.697] [info] No control - state: lost, lost: 144/8
+[2025-10-31 19:59:42.697] [info] Write
+[2025-10-31 19:59:42.770] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.770] [info] No control - state: lost, lost: 146/8
+[2025-10-31 19:59:42.770] [info] Write
+[2025-10-31 19:59:42.846] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.846] [info] No control - state: lost, lost: 148/8
+[2025-10-31 19:59:42.846] [info] Write
+[2025-10-31 19:59:42.922] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.922] [info] No control - state: lost, lost: 150/8
+[2025-10-31 19:59:42.922] [info] Write
+[2025-10-31 19:59:42.998] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:42.998] [info] No control - state: lost, lost: 152/8
+[2025-10-31 19:59:42.998] [info] Write
+[2025-10-31 19:59:42.998] [info] yolo: 10.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:43.073] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.073] [info] No control - state: lost, lost: 154/8
+[2025-10-31 19:59:43.073] [info] Write
+[2025-10-31 19:59:43.145] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.145] [info] No control - state: lost, lost: 156/8
+[2025-10-31 19:59:43.145] [info] Write
+[2025-10-31 19:59:43.223] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.223] [info] No control - state: lost, lost: 158/8
+[2025-10-31 19:59:43.223] [info] Write
+[2025-10-31 19:59:43.298] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.298] [info] No control - state: lost, lost: 160/8
+[2025-10-31 19:59:43.298] [info] Write
+[2025-10-31 19:59:43.370] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.370] [info] No control - state: lost, lost: 162/8
+[2025-10-31 19:59:43.370] [info] Write
+[2025-10-31 19:59:43.370] [info] Current FPS: 13.4, State: lost
+[2025-10-31 19:59:43.370] [info] yolo: 6.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:43.448] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.448] [info] No control - state: lost, lost: 164/8
+[2025-10-31 19:59:43.448] [info] Write
+[2025-10-31 19:59:43.522] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.522] [info] No control - state: lost, lost: 166/8
+[2025-10-31 19:59:43.522] [info] Write
+[2025-10-31 19:59:43.597] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.597] [info] No control - state: lost, lost: 168/8
+[2025-10-31 19:59:43.598] [info] Write
+[2025-10-31 19:59:43.671] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.671] [info] No control - state: lost, lost: 170/8
+[2025-10-31 19:59:43.671] [info] Write
+[2025-10-31 19:59:43.745] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.745] [info] No control - state: lost, lost: 172/8
+[2025-10-31 19:59:43.745] [info] Write
+[2025-10-31 19:59:43.745] [info] yolo: 6.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:43.821] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.821] [info] No control - state: lost, lost: 174/8
+[2025-10-31 19:59:43.821] [info] Write
+[2025-10-31 19:59:43.898] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.898] [info] No control - state: lost, lost: 176/8
+[2025-10-31 19:59:43.898] [info] Write
+[2025-10-31 19:59:43.971] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:43.971] [info] No control - state: lost, lost: 178/8
+[2025-10-31 19:59:43.971] [info] Write
+[2025-10-31 19:59:44.046] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.046] [info] No control - state: lost, lost: 180/8
+[2025-10-31 19:59:44.046] [info] Write
+[2025-10-31 19:59:44.122] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.122] [info] No control - state: lost, lost: 182/8
+[2025-10-31 19:59:44.122] [info] Write
+[2025-10-31 19:59:44.122] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:44.198] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.198] [info] No control - state: lost, lost: 184/8
+[2025-10-31 19:59:44.198] [info] Write
+[2025-10-31 19:59:44.270] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.270] [info] No control - state: lost, lost: 186/8
+[2025-10-31 19:59:44.270] [info] Write
+[2025-10-31 19:59:44.345] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.345] [info] No control - state: lost, lost: 188/8
+[2025-10-31 19:59:44.345] [info] Write
+[2025-10-31 19:59:44.421] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.421] [info] No control - state: lost, lost: 190/8
+[2025-10-31 19:59:44.421] [info] Write
+[2025-10-31 19:59:44.421] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:44.497] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.497] [info] No control - state: lost, lost: 192/8
+[2025-10-31 19:59:44.497] [info] Write
+[2025-10-31 19:59:44.497] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:44.572] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.572] [info] No control - state: lost, lost: 194/8
+[2025-10-31 19:59:44.572] [info] Write
+[2025-10-31 19:59:44.646] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.646] [info] No control - state: lost, lost: 196/8
+[2025-10-31 19:59:44.646] [info] Write
+[2025-10-31 19:59:44.722] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.722] [info] No control - state: lost, lost: 198/8
+[2025-10-31 19:59:44.722] [info] Write
+[2025-10-31 19:59:44.799] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.799] [info] No control - state: lost, lost: 200/8
+[2025-10-31 19:59:44.799] [info] Write
+[2025-10-31 19:59:44.870] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.870] [info] No control - state: lost, lost: 202/8
+[2025-10-31 19:59:44.870] [info] Write
+[2025-10-31 19:59:44.870] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:44.946] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:44.946] [info] No control - state: lost, lost: 204/8
+[2025-10-31 19:59:44.946] [info] Write
+[2025-10-31 19:59:45.021] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.021] [info] No control - state: lost, lost: 206/8
+[2025-10-31 19:59:45.021] [info] Write
+[2025-10-31 19:59:45.098] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.098] [info] No control - state: lost, lost: 208/8
+[2025-10-31 19:59:45.098] [info] Write
+[2025-10-31 19:59:45.170] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.170] [info] No control - state: lost, lost: 210/8
+[2025-10-31 19:59:45.170] [info] Write
+[2025-10-31 19:59:45.246] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.246] [info] No control - state: lost, lost: 212/8
+[2025-10-31 19:59:45.246] [info] Write
+[2025-10-31 19:59:45.246] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:45.323] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.323] [info] No control - state: lost, lost: 214/8
+[2025-10-31 19:59:45.323] [info] Write
+[2025-10-31 19:59:45.396] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.396] [info] No control - state: lost, lost: 216/8
+[2025-10-31 19:59:45.396] [info] Write
+[2025-10-31 19:59:45.471] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.471] [info] No control - state: lost, lost: 218/8
+[2025-10-31 19:59:45.471] [info] Write
+[2025-10-31 19:59:45.471] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:45.546] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.546] [info] No control - state: lost, lost: 220/8
+[2025-10-31 19:59:45.546] [info] Write
+[2025-10-31 19:59:45.620] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.620] [info] No control - state: lost, lost: 222/8
+[2025-10-31 19:59:45.620] [info] Write
+[2025-10-31 19:59:45.620] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:45.698] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.698] [info] No control - state: lost, lost: 224/8
+[2025-10-31 19:59:45.698] [info] Write
+[2025-10-31 19:59:45.772] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.772] [info] No control - state: lost, lost: 226/8
+[2025-10-31 19:59:45.772] [info] Write
+[2025-10-31 19:59:45.847] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.847] [info] No control - state: lost, lost: 228/8
+[2025-10-31 19:59:45.847] [info] Write
+[2025-10-31 19:59:45.922] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.922] [info] No control - state: lost, lost: 230/8
+[2025-10-31 19:59:45.922] [info] Write
+[2025-10-31 19:59:45.996] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:45.996] [info] No control - state: lost, lost: 232/8
+[2025-10-31 19:59:45.996] [info] Write
+[2025-10-31 19:59:45.996] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:46.070] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.070] [info] No control - state: lost, lost: 234/8
+[2025-10-31 19:59:46.070] [info] Write
+[2025-10-31 19:59:46.146] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.146] [info] No control - state: lost, lost: 236/8
+[2025-10-31 19:59:46.146] [info] Write
+[2025-10-31 19:59:46.224] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.224] [info] No control - state: lost, lost: 238/8
+[2025-10-31 19:59:46.225] [info] Write
+[2025-10-31 19:59:46.298] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.298] [info] No control - state: lost, lost: 240/8
+[2025-10-31 19:59:46.298] [info] Write
+[2025-10-31 19:59:46.370] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.370] [info] No control - state: lost, lost: 242/8
+[2025-10-31 19:59:46.370] [info] Write
+[2025-10-31 19:59:46.370] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:46.446] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.446] [info] No control - state: lost, lost: 244/8
+[2025-10-31 19:59:46.446] [info] Write
+[2025-10-31 19:59:46.521] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.521] [info] No control - state: lost, lost: 246/8
+[2025-10-31 19:59:46.521] [info] Write
+[2025-10-31 19:59:46.521] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:46.598] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.599] [info] No control - state: lost, lost: 248/8
+[2025-10-31 19:59:46.599] [info] Write
+[2025-10-31 19:59:46.670] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.670] [info] No control - state: lost, lost: 250/8
+[2025-10-31 19:59:46.670] [info] Write
+[2025-10-31 19:59:46.745] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.745] [info] No control - state: lost, lost: 252/8
+[2025-10-31 19:59:46.745] [info] Write
+[2025-10-31 19:59:46.745] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:46.824] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.824] [info] No control - state: lost, lost: 254/8
+[2025-10-31 19:59:46.824] [info] Write
+[2025-10-31 19:59:46.898] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.898] [info] No control - state: lost, lost: 256/8
+[2025-10-31 19:59:46.898] [info] Write
+[2025-10-31 19:59:46.971] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:46.971] [info] No control - state: lost, lost: 258/8
+[2025-10-31 19:59:46.971] [info] Write
+[2025-10-31 19:59:47.046] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.046] [info] No control - state: lost, lost: 260/8
+[2025-10-31 19:59:47.046] [info] Write
+[2025-10-31 19:59:47.120] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.121] [info] No control - state: lost, lost: 262/8
+[2025-10-31 19:59:47.121] [info] Write
+[2025-10-31 19:59:47.121] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:47.197] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.197] [info] No control - state: lost, lost: 264/8
+[2025-10-31 19:59:47.197] [info] Write
+[2025-10-31 19:59:47.270] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.270] [info] No control - state: lost, lost: 266/8
+[2025-10-31 19:59:47.270] [info] Write
+[2025-10-31 19:59:47.345] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.345] [info] No control - state: lost, lost: 268/8
+[2025-10-31 19:59:47.346] [info] Write
+[2025-10-31 19:59:47.421] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.421] [info] No control - state: lost, lost: 270/8
+[2025-10-31 19:59:47.421] [info] Write
+[2025-10-31 19:59:47.499] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.499] [info] No control - state: lost, lost: 272/8
+[2025-10-31 19:59:47.499] [info] Write
+[2025-10-31 19:59:47.499] [info] yolo: 10.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:47.572] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.572] [info] No control - state: lost, lost: 274/8
+[2025-10-31 19:59:47.572] [info] Write
+[2025-10-31 19:59:47.572] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:47.646] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.646] [info] No control - state: lost, lost: 276/8
+[2025-10-31 19:59:47.646] [info] Write
+[2025-10-31 19:59:47.721] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.721] [info] No control - state: lost, lost: 278/8
+[2025-10-31 19:59:47.721] [info] Write
+[2025-10-31 19:59:47.800] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.800] [info] No control - state: lost, lost: 280/8
+[2025-10-31 19:59:47.800] [info] Write
+[2025-10-31 19:59:47.870] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.870] [info] No control - state: lost, lost: 282/8
+[2025-10-31 19:59:47.870] [info] Write
+[2025-10-31 19:59:47.870] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:47.946] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:47.946] [info] No control - state: lost, lost: 284/8
+[2025-10-31 19:59:47.946] [info] Write
+[2025-10-31 19:59:48.023] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.023] [info] No control - state: lost, lost: 286/8
+[2025-10-31 19:59:48.023] [info] Write
+[2025-10-31 19:59:48.097] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.097] [info] No control - state: lost, lost: 288/8
+[2025-10-31 19:59:48.097] [info] Write
+[2025-10-31 19:59:48.171] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.171] [info] No control - state: lost, lost: 290/8
+[2025-10-31 19:59:48.171] [info] Write
+[2025-10-31 19:59:48.246] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.247] [info] No control - state: lost, lost: 292/8
+[2025-10-31 19:59:48.247] [info] Write
+[2025-10-31 19:59:48.247] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:48.321] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.321] [info] No control - state: lost, lost: 294/8
+[2025-10-31 19:59:48.321] [info] Write
+[2025-10-31 19:59:48.399] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.399] [info] No control - state: lost, lost: 296/8
+[2025-10-31 19:59:48.399] [info] Write
+[2025-10-31 19:59:48.469] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.470] [info] No control - state: lost, lost: 298/8
+[2025-10-31 19:59:48.470] [info] Write
+[2025-10-31 19:59:48.547] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.547] [info] No control - state: lost, lost: 300/8
+[2025-10-31 19:59:48.547] [info] Write
+[2025-10-31 19:59:48.621] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.621] [info] No control - state: lost, lost: 302/8
+[2025-10-31 19:59:48.621] [info] Write
+[2025-10-31 19:59:48.621] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:48.621] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:48.699] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.699] [info] No control - state: lost, lost: 304/8
+[2025-10-31 19:59:48.699] [info] Write
+[2025-10-31 19:59:48.770] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.770] [info] No control - state: lost, lost: 306/8
+[2025-10-31 19:59:48.770] [info] Write
+[2025-10-31 19:59:48.845] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.845] [info] No control - state: lost, lost: 308/8
+[2025-10-31 19:59:48.845] [info] Write
+[2025-10-31 19:59:48.923] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.923] [info] No control - state: lost, lost: 310/8
+[2025-10-31 19:59:48.923] [info] Write
+[2025-10-31 19:59:48.999] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:48.999] [info] No control - state: lost, lost: 312/8
+[2025-10-31 19:59:48.999] [info] Write
+[2025-10-31 19:59:48.999] [info] yolo: 10.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:49.070] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.070] [info] No control - state: lost, lost: 314/8
+[2025-10-31 19:59:49.070] [info] Write
+[2025-10-31 19:59:49.147] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.147] [info] No control - state: lost, lost: 316/8
+[2025-10-31 19:59:49.147] [info] Write
+[2025-10-31 19:59:49.223] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.223] [info] No control - state: lost, lost: 318/8
+[2025-10-31 19:59:49.223] [info] Write
+[2025-10-31 19:59:49.298] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.298] [info] No control - state: lost, lost: 320/8
+[2025-10-31 19:59:49.298] [info] Write
+[2025-10-31 19:59:49.370] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.370] [info] No control - state: lost, lost: 322/8
+[2025-10-31 19:59:49.370] [info] Write
+[2025-10-31 19:59:49.370] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:49.444] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.444] [info] No control - state: lost, lost: 324/8
+[2025-10-31 19:59:49.444] [info] Write
+[2025-10-31 19:59:49.521] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.521] [info] No control - state: lost, lost: 326/8
+[2025-10-31 19:59:49.521] [info] Write
+[2025-10-31 19:59:49.599] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.599] [info] No control - state: lost, lost: 328/8
+[2025-10-31 19:59:49.599] [info] Write
+[2025-10-31 19:59:49.671] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.671] [info] No control - state: lost, lost: 330/8
+[2025-10-31 19:59:49.671] [info] Write
+[2025-10-31 19:59:49.671] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:49.745] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.745] [info] No control - state: lost, lost: 332/8
+[2025-10-31 19:59:49.745] [info] Write
+[2025-10-31 19:59:49.745] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:49.820] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.820] [info] No control - state: lost, lost: 334/8
+[2025-10-31 19:59:49.820] [info] Write
+[2025-10-31 19:59:49.899] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.899] [info] No control - state: lost, lost: 336/8
+[2025-10-31 19:59:49.899] [info] Write
+[2025-10-31 19:59:49.971] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:49.971] [info] No control - state: lost, lost: 338/8
+[2025-10-31 19:59:49.971] [info] Write
+[2025-10-31 19:59:50.046] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.046] [info] No control - state: lost, lost: 340/8
+[2025-10-31 19:59:50.046] [info] Write
+[2025-10-31 19:59:50.121] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.121] [info] No control - state: lost, lost: 342/8
+[2025-10-31 19:59:50.121] [info] Write
+[2025-10-31 19:59:50.121] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:50.197] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.197] [info] No control - state: lost, lost: 344/8
+[2025-10-31 19:59:50.197] [info] Write
+[2025-10-31 19:59:50.270] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.270] [info] No control - state: lost, lost: 346/8
+[2025-10-31 19:59:50.270] [info] Write
+[2025-10-31 19:59:50.345] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.345] [info] No control - state: lost, lost: 348/8
+[2025-10-31 19:59:50.345] [info] Write
+[2025-10-31 19:59:50.420] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.420] [info] No control - state: lost, lost: 350/8
+[2025-10-31 19:59:50.420] [info] Write
+[2025-10-31 19:59:50.498] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.498] [info] No control - state: lost, lost: 352/8
+[2025-10-31 19:59:50.498] [info] Write
+[2025-10-31 19:59:50.498] [info] yolo: 10.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:50.571] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.571] [info] No control - state: lost, lost: 354/8
+[2025-10-31 19:59:50.571] [info] Write
+[2025-10-31 19:59:50.646] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.646] [info] No control - state: lost, lost: 356/8
+[2025-10-31 19:59:50.646] [info] Write
+[2025-10-31 19:59:50.720] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.720] [info] No control - state: lost, lost: 358/8
+[2025-10-31 19:59:50.720] [info] Write
+[2025-10-31 19:59:50.720] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:50.797] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.797] [info] No control - state: lost, lost: 360/8
+[2025-10-31 19:59:50.797] [info] Write
+[2025-10-31 19:59:50.871] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.871] [info] No control - state: lost, lost: 362/8
+[2025-10-31 19:59:50.871] [info] Write
+[2025-10-31 19:59:50.871] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:50.946] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:50.946] [info] No control - state: lost, lost: 364/8
+[2025-10-31 19:59:50.946] [info] Write
+[2025-10-31 19:59:51.021] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.021] [info] No control - state: lost, lost: 366/8
+[2025-10-31 19:59:51.021] [info] Write
+[2025-10-31 19:59:51.098] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.098] [info] No control - state: lost, lost: 368/8
+[2025-10-31 19:59:51.098] [info] Write
+[2025-10-31 19:59:51.169] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.169] [info] No control - state: lost, lost: 370/8
+[2025-10-31 19:59:51.169] [info] Write
+[2025-10-31 19:59:51.246] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.246] [info] No control - state: lost, lost: 372/8
+[2025-10-31 19:59:51.246] [info] Write
+[2025-10-31 19:59:51.246] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:51.321] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.321] [info] No control - state: lost, lost: 374/8
+[2025-10-31 19:59:51.321] [info] Write
+[2025-10-31 19:59:51.397] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.397] [info] No control - state: lost, lost: 376/8
+[2025-10-31 19:59:51.397] [info] Write
+[2025-10-31 19:59:51.470] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.470] [info] No control - state: lost, lost: 378/8
+[2025-10-31 19:59:51.470] [info] Write
+[2025-10-31 19:59:51.545] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.545] [info] No control - state: lost, lost: 380/8
+[2025-10-31 19:59:51.545] [info] Write
+[2025-10-31 19:59:51.620] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.620] [info] No control - state: lost, lost: 382/8
+[2025-10-31 19:59:51.620] [info] Write
+[2025-10-31 19:59:51.620] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:51.698] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.698] [info] No control - state: lost, lost: 384/8
+[2025-10-31 19:59:51.698] [info] Write
+[2025-10-31 19:59:51.770] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.770] [info] No control - state: lost, lost: 386/8
+[2025-10-31 19:59:51.770] [info] Write
+[2025-10-31 19:59:51.770] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:51.845] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.845] [info] No control - state: lost, lost: 388/8
+[2025-10-31 19:59:51.845] [info] Write
+[2025-10-31 19:59:51.920] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.920] [info] No control - state: lost, lost: 390/8
+[2025-10-31 19:59:51.920] [info] Write
+[2025-10-31 19:59:51.999] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:51.999] [info] No control - state: lost, lost: 392/8
+[2025-10-31 19:59:51.999] [info] Write
+[2025-10-31 19:59:51.999] [info] yolo: 11.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:52.071] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.071] [info] No control - state: lost, lost: 394/8
+[2025-10-31 19:59:52.071] [info] Write
+[2025-10-31 19:59:52.145] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.145] [info] No control - state: lost, lost: 396/8
+[2025-10-31 19:59:52.145] [info] Write
+[2025-10-31 19:59:52.222] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.222] [info] No control - state: lost, lost: 398/8
+[2025-10-31 19:59:52.222] [info] Write
+[2025-10-31 19:59:52.297] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.297] [info] No control - state: lost, lost: 400/8
+[2025-10-31 19:59:52.297] [info] Write
+[2025-10-31 19:59:52.371] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.371] [info] No control - state: lost, lost: 402/8
+[2025-10-31 19:59:52.371] [info] Write
+[2025-10-31 19:59:52.371] [info] yolo: 8.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:52.445] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.445] [info] No control - state: lost, lost: 404/8
+[2025-10-31 19:59:52.445] [info] Write
+[2025-10-31 19:59:52.520] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.520] [info] No control - state: lost, lost: 406/8
+[2025-10-31 19:59:52.520] [info] Write
+[2025-10-31 19:59:52.598] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.598] [info] No control - state: lost, lost: 408/8
+[2025-10-31 19:59:52.598] [info] Write
+[2025-10-31 19:59:52.669] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.669] [info] No control - state: lost, lost: 410/8
+[2025-10-31 19:59:52.669] [info] Write
+[2025-10-31 19:59:52.745] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.745] [info] No control - state: lost, lost: 412/8
+[2025-10-31 19:59:52.745] [info] Write
+[2025-10-31 19:59:52.745] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:52.820] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.820] [info] No control - state: lost, lost: 414/8
+[2025-10-31 19:59:52.820] [info] Write
+[2025-10-31 19:59:52.820] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:52.898] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.898] [info] No control - state: lost, lost: 416/8
+[2025-10-31 19:59:52.898] [info] Write
+[2025-10-31 19:59:52.970] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:52.970] [info] No control - state: lost, lost: 418/8
+[2025-10-31 19:59:52.970] [info] Write
+[2025-10-31 19:59:53.047] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.047] [info] No control - state: lost, lost: 420/8
+[2025-10-31 19:59:53.047] [info] Write
+[2025-10-31 19:59:53.124] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.124] [info] No control - state: lost, lost: 422/8
+[2025-10-31 19:59:53.124] [info] Write
+[2025-10-31 19:59:53.124] [info] yolo: 10.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:53.198] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.198] [info] No control - state: lost, lost: 424/8
+[2025-10-31 19:59:53.198] [info] Write
+[2025-10-31 19:59:53.270] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.270] [info] No control - state: lost, lost: 426/8
+[2025-10-31 19:59:53.270] [info] Write
+[2025-10-31 19:59:53.345] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.345] [info] No control - state: lost, lost: 428/8
+[2025-10-31 19:59:53.345] [info] Write
+[2025-10-31 19:59:53.420] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.420] [info] No control - state: lost, lost: 430/8
+[2025-10-31 19:59:53.420] [info] Write
+[2025-10-31 19:59:53.498] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.498] [info] No control - state: lost, lost: 432/8
+[2025-10-31 19:59:53.498] [info] Write
+[2025-10-31 19:59:53.498] [info] yolo: 9.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:53.570] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.570] [info] No control - state: lost, lost: 434/8
+[2025-10-31 19:59:53.570] [info] Write
+[2025-10-31 19:59:53.645] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.645] [info] No control - state: lost, lost: 436/8
+[2025-10-31 19:59:53.645] [info] Write
+[2025-10-31 19:59:53.721] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.721] [info] No control - state: lost, lost: 438/8
+[2025-10-31 19:59:53.721] [info] Write
+[2025-10-31 19:59:53.799] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.799] [info] No control - state: lost, lost: 440/8
+[2025-10-31 19:59:53.799] [info] Write
+[2025-10-31 19:59:53.870] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.870] [info] No control - state: lost, lost: 442/8
+[2025-10-31 19:59:53.870] [info] Write
+[2025-10-31 19:59:53.870] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:53.870] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:53.945] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:53.945] [info] No control - state: lost, lost: 444/8
+[2025-10-31 19:59:53.945] [info] Write
+[2025-10-31 19:59:54.021] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.021] [info] No control - state: lost, lost: 446/8
+[2025-10-31 19:59:54.021] [info] Write
+[2025-10-31 19:59:54.099] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.099] [info] No control - state: lost, lost: 448/8
+[2025-10-31 19:59:54.099] [info] Write
+[2025-10-31 19:59:54.171] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.171] [info] No control - state: lost, lost: 450/8
+[2025-10-31 19:59:54.171] [info] Write
+[2025-10-31 19:59:54.246] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.246] [info] No control - state: lost, lost: 452/8
+[2025-10-31 19:59:54.246] [info] Write
+[2025-10-31 19:59:54.246] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:54.321] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.321] [info] No control - state: lost, lost: 454/8
+[2025-10-31 19:59:54.321] [info] Write
+[2025-10-31 19:59:54.397] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.397] [info] No control - state: lost, lost: 456/8
+[2025-10-31 19:59:54.397] [info] Write
+[2025-10-31 19:59:54.469] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.470] [info] No control - state: lost, lost: 458/8
+[2025-10-31 19:59:54.470] [info] Write
+[2025-10-31 19:59:54.546] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.546] [info] No control - state: lost, lost: 460/8
+[2025-10-31 19:59:54.546] [info] Write
+[2025-10-31 19:59:54.621] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.621] [info] No control - state: lost, lost: 462/8
+[2025-10-31 19:59:54.621] [info] Write
+[2025-10-31 19:59:54.621] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:54.698] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.698] [info] No control - state: lost, lost: 464/8
+[2025-10-31 19:59:54.698] [info] Write
+[2025-10-31 19:59:54.769] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.769] [info] No control - state: lost, lost: 466/8
+[2025-10-31 19:59:54.769] [info] Write
+[2025-10-31 19:59:54.845] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.845] [info] No control - state: lost, lost: 468/8
+[2025-10-31 19:59:54.845] [info] Write
+[2025-10-31 19:59:54.920] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.920] [info] No control - state: lost, lost: 470/8
+[2025-10-31 19:59:54.920] [info] Write
+[2025-10-31 19:59:54.920] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:54.998] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:54.998] [info] No control - state: lost, lost: 472/8
+[2025-10-31 19:59:54.998] [info] Write
+[2025-10-31 19:59:54.998] [info] yolo: 10.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:55.070] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.070] [info] No control - state: lost, lost: 474/8
+[2025-10-31 19:59:55.070] [info] Write
+[2025-10-31 19:59:55.145] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.145] [info] No control - state: lost, lost: 476/8
+[2025-10-31 19:59:55.145] [info] Write
+[2025-10-31 19:59:55.221] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.221] [info] No control - state: lost, lost: 478/8
+[2025-10-31 19:59:55.221] [info] Write
+[2025-10-31 19:59:55.298] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.298] [info] No control - state: lost, lost: 480/8
+[2025-10-31 19:59:55.298] [info] Write
+[2025-10-31 19:59:55.369] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.369] [info] No control - state: lost, lost: 482/8
+[2025-10-31 19:59:55.369] [info] Write
+[2025-10-31 19:59:55.369] [info] yolo: 6.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:55.446] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.446] [info] No control - state: lost, lost: 484/8
+[2025-10-31 19:59:55.446] [info] Write
+[2025-10-31 19:59:55.521] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.521] [info] No control - state: lost, lost: 486/8
+[2025-10-31 19:59:55.521] [info] Write
+[2025-10-31 19:59:55.599] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.599] [info] No control - state: lost, lost: 488/8
+[2025-10-31 19:59:55.599] [info] Write
+[2025-10-31 19:59:55.670] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.670] [info] No control - state: lost, lost: 490/8
+[2025-10-31 19:59:55.670] [info] Write
+[2025-10-31 19:59:55.745] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.745] [info] No control - state: lost, lost: 492/8
+[2025-10-31 19:59:55.745] [info] Write
+[2025-10-31 19:59:55.745] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:55.821] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.821] [info] No control - state: lost, lost: 494/8
+[2025-10-31 19:59:55.821] [info] Write
+[2025-10-31 19:59:55.898] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.898] [info] No control - state: lost, lost: 496/8
+[2025-10-31 19:59:55.898] [info] Write
+[2025-10-31 19:59:55.970] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:55.970] [info] No control - state: lost, lost: 498/8
+[2025-10-31 19:59:55.970] [info] Write
+[2025-10-31 19:59:55.970] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:56.045] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.045] [info] No control - state: lost, lost: 500/8
+[2025-10-31 19:59:56.045] [info] Write
+[2025-10-31 19:59:56.122] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.122] [info] No control - state: lost, lost: 502/8
+[2025-10-31 19:59:56.122] [info] Write
+[2025-10-31 19:59:56.122] [info] yolo: 9.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:56.197] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.197] [info] No control - state: lost, lost: 504/8
+[2025-10-31 19:59:56.197] [info] Write
+[2025-10-31 19:59:56.269] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.269] [info] No control - state: lost, lost: 506/8
+[2025-10-31 19:59:56.269] [info] Write
+[2025-10-31 19:59:56.346] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.346] [info] No control - state: lost, lost: 508/8
+[2025-10-31 19:59:56.346] [info] Write
+[2025-10-31 19:59:56.421] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.421] [info] No control - state: lost, lost: 510/8
+[2025-10-31 19:59:56.421] [info] Write
+[2025-10-31 19:59:56.498] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.498] [info] No control - state: lost, lost: 512/8
+[2025-10-31 19:59:56.498] [info] Write
+[2025-10-31 19:59:56.498] [info] yolo: 10.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:56.569] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.569] [info] No control - state: lost, lost: 514/8
+[2025-10-31 19:59:56.569] [info] Write
+[2025-10-31 19:59:56.644] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.644] [info] No control - state: lost, lost: 516/8
+[2025-10-31 19:59:56.644] [info] Write
+[2025-10-31 19:59:56.721] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.722] [info] No control - state: lost, lost: 518/8
+[2025-10-31 19:59:56.722] [info] Write
+[2025-10-31 19:59:56.797] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.797] [info] No control - state: lost, lost: 520/8
+[2025-10-31 19:59:56.797] [info] Write
+[2025-10-31 19:59:56.868] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.868] [info] No control - state: lost, lost: 522/8
+[2025-10-31 19:59:56.868] [info] Write
+[2025-10-31 19:59:56.869] [info] yolo: 6.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:56.945] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:56.945] [info] No control - state: lost, lost: 524/8
+[2025-10-31 19:59:56.945] [info] Write
+[2025-10-31 19:59:57.021] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.021] [info] No control - state: lost, lost: 526/8
+[2025-10-31 19:59:57.021] [info] Write
+[2025-10-31 19:59:57.021] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:57.096] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.096] [info] No control - state: lost, lost: 528/8
+[2025-10-31 19:59:57.096] [info] Write
+[2025-10-31 19:59:57.170] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.170] [info] No control - state: lost, lost: 530/8
+[2025-10-31 19:59:57.170] [info] Write
+[2025-10-31 19:59:57.249] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.249] [info] No control - state: lost, lost: 532/8
+[2025-10-31 19:59:57.249] [info] Write
+[2025-10-31 19:59:57.249] [info] yolo: 11.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:57.324] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.324] [info] No control - state: lost, lost: 534/8
+[2025-10-31 19:59:57.324] [info] Write
+[2025-10-31 19:59:57.395] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.395] [info] No control - state: lost, lost: 536/8
+[2025-10-31 19:59:57.395] [info] Write
+[2025-10-31 19:59:57.473] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.473] [info] No control - state: lost, lost: 538/8
+[2025-10-31 19:59:57.473] [info] Write
+[2025-10-31 19:59:57.546] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.546] [info] No control - state: lost, lost: 540/8
+[2025-10-31 19:59:57.546] [info] Write
+[2025-10-31 19:59:57.622] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.622] [info] No control - state: lost, lost: 542/8
+[2025-10-31 19:59:57.622] [info] Write
+[2025-10-31 19:59:57.622] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:57.696] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.696] [info] No control - state: lost, lost: 544/8
+[2025-10-31 19:59:57.696] [info] Write
+[2025-10-31 19:59:57.772] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.772] [info] No control - state: lost, lost: 546/8
+[2025-10-31 19:59:57.772] [info] Write
+[2025-10-31 19:59:57.845] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.845] [info] No control - state: lost, lost: 548/8
+[2025-10-31 19:59:57.845] [info] Write
+[2025-10-31 19:59:57.919] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.919] [info] No control - state: lost, lost: 550/8
+[2025-10-31 19:59:57.919] [info] Write
+[2025-10-31 19:59:57.998] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:57.998] [info] No control - state: lost, lost: 552/8
+[2025-10-31 19:59:57.998] [info] Write
+[2025-10-31 19:59:57.998] [info] yolo: 10.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:58.073] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.073] [info] No control - state: lost, lost: 554/8
+[2025-10-31 19:59:58.073] [info] Write
+[2025-10-31 19:59:58.073] [info] Current FPS: 13.3, State: lost
+[2025-10-31 19:59:58.146] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.146] [info] No control - state: lost, lost: 556/8
+[2025-10-31 19:59:58.146] [info] Write
+[2025-10-31 19:59:58.223] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.223] [info] No control - state: lost, lost: 558/8
+[2025-10-31 19:59:58.223] [info] Write
+[2025-10-31 19:59:58.297] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.297] [info] No control - state: lost, lost: 560/8
+[2025-10-31 19:59:58.297] [info] Write
+[2025-10-31 19:59:58.374] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.374] [info] No control - state: lost, lost: 562/8
+[2025-10-31 19:59:58.374] [info] Write
+[2025-10-31 19:59:58.374] [info] yolo: 11.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:58.445] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.445] [info] No control - state: lost, lost: 564/8
+[2025-10-31 19:59:58.445] [info] Write
+[2025-10-31 19:59:58.521] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.521] [info] No control - state: lost, lost: 566/8
+[2025-10-31 19:59:58.521] [info] Write
+[2025-10-31 19:59:58.597] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.597] [info] No control - state: lost, lost: 568/8
+[2025-10-31 19:59:58.598] [info] Write
+[2025-10-31 19:59:58.669] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.669] [info] No control - state: lost, lost: 570/8
+[2025-10-31 19:59:58.669] [info] Write
+[2025-10-31 19:59:58.745] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.745] [info] No control - state: lost, lost: 572/8
+[2025-10-31 19:59:58.745] [info] Write
+[2025-10-31 19:59:58.745] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:58.819] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.819] [info] No control - state: lost, lost: 574/8
+[2025-10-31 19:59:58.819] [info] Write
+[2025-10-31 19:59:58.897] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.897] [info] No control - state: lost, lost: 576/8
+[2025-10-31 19:59:58.897] [info] Write
+[2025-10-31 19:59:58.971] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:58.971] [info] No control - state: lost, lost: 578/8
+[2025-10-31 19:59:58.971] [info] Write
+[2025-10-31 19:59:59.046] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.046] [info] No control - state: lost, lost: 580/8
+[2025-10-31 19:59:59.046] [info] Write
+[2025-10-31 19:59:59.121] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.121] [info] No control - state: lost, lost: 582/8
+[2025-10-31 19:59:59.121] [info] Write
+[2025-10-31 19:59:59.121] [info] Current FPS: 13.4, State: lost
+[2025-10-31 19:59:59.121] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:59.196] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.196] [info] No control - state: lost, lost: 584/8
+[2025-10-31 19:59:59.196] [info] Write
+[2025-10-31 19:59:59.274] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.274] [info] No control - state: lost, lost: 586/8
+[2025-10-31 19:59:59.274] [info] Write
+[2025-10-31 19:59:59.345] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.345] [info] No control - state: lost, lost: 588/8
+[2025-10-31 19:59:59.345] [info] Write
+[2025-10-31 19:59:59.419] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.419] [info] No control - state: lost, lost: 590/8
+[2025-10-31 19:59:59.419] [info] Write
+[2025-10-31 19:59:59.497] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.497] [info] No control - state: lost, lost: 592/8
+[2025-10-31 19:59:59.497] [info] Write
+[2025-10-31 19:59:59.497] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:59.570] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.570] [info] No control - state: lost, lost: 594/8
+[2025-10-31 19:59:59.570] [info] Write
+[2025-10-31 19:59:59.646] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.646] [info] No control - state: lost, lost: 596/8
+[2025-10-31 19:59:59.646] [info] Write
+[2025-10-31 19:59:59.721] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.721] [info] No control - state: lost, lost: 598/8
+[2025-10-31 19:59:59.721] [info] Write
+[2025-10-31 19:59:59.796] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.796] [info] No control - state: lost, lost: 600/8
+[2025-10-31 19:59:59.796] [info] Write
+[2025-10-31 19:59:59.872] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.872] [info] No control - state: lost, lost: 602/8
+[2025-10-31 19:59:59.872] [info] Write
+[2025-10-31 19:59:59.872] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 19:59:59.945] [warning] Target completely lost, stopping control
+[2025-10-31 19:59:59.945] [info] No control - state: lost, lost: 604/8
+[2025-10-31 19:59:59.945] [info] Write
+[2025-10-31 20:00:00.020] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.020] [info] No control - state: lost, lost: 606/8
+[2025-10-31 20:00:00.020] [info] Write
+[2025-10-31 20:00:00.097] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.097] [info] No control - state: lost, lost: 608/8
+[2025-10-31 20:00:00.097] [info] Write
+[2025-10-31 20:00:00.170] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.170] [info] No control - state: lost, lost: 610/8
+[2025-10-31 20:00:00.170] [info] Write
+[2025-10-31 20:00:00.170] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:00.245] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.245] [info] No control - state: lost, lost: 612/8
+[2025-10-31 20:00:00.245] [info] Write
+[2025-10-31 20:00:00.245] [info] yolo: 6.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:00.321] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.322] [info] No control - state: lost, lost: 614/8
+[2025-10-31 20:00:00.322] [info] Write
+[2025-10-31 20:00:00.400] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.400] [info] No control - state: lost, lost: 616/8
+[2025-10-31 20:00:00.400] [info] Write
+[2025-10-31 20:00:00.469] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.469] [info] No control - state: lost, lost: 618/8
+[2025-10-31 20:00:00.469] [info] Write
+[2025-10-31 20:00:00.545] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.545] [info] No control - state: lost, lost: 620/8
+[2025-10-31 20:00:00.545] [info] Write
+[2025-10-31 20:00:00.619] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.619] [info] No control - state: lost, lost: 622/8
+[2025-10-31 20:00:00.619] [info] Write
+[2025-10-31 20:00:00.619] [info] yolo: 6.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:00.696] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.697] [info] No control - state: lost, lost: 624/8
+[2025-10-31 20:00:00.697] [info] Write
+[2025-10-31 20:00:00.770] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.770] [info] No control - state: lost, lost: 626/8
+[2025-10-31 20:00:00.770] [info] Write
+[2025-10-31 20:00:00.847] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.847] [info] No control - state: lost, lost: 628/8
+[2025-10-31 20:00:00.847] [info] Write
+[2025-10-31 20:00:00.921] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.921] [info] No control - state: lost, lost: 630/8
+[2025-10-31 20:00:00.921] [info] Write
+[2025-10-31 20:00:00.996] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:00.996] [info] No control - state: lost, lost: 632/8
+[2025-10-31 20:00:00.996] [info] Write
+[2025-10-31 20:00:00.996] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:01.071] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.071] [info] No control - state: lost, lost: 634/8
+[2025-10-31 20:00:01.072] [info] Write
+[2025-10-31 20:00:01.147] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.147] [info] No control - state: lost, lost: 636/8
+[2025-10-31 20:00:01.147] [info] Write
+[2025-10-31 20:00:01.221] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.221] [info] No control - state: lost, lost: 638/8
+[2025-10-31 20:00:01.221] [info] Write
+[2025-10-31 20:00:01.221] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:01.295] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.295] [info] No control - state: lost, lost: 640/8
+[2025-10-31 20:00:01.295] [info] Write
+[2025-10-31 20:00:01.369] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.369] [info] No control - state: lost, lost: 642/8
+[2025-10-31 20:00:01.369] [info] Write
+[2025-10-31 20:00:01.369] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:01.447] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.447] [info] No control - state: lost, lost: 644/8
+[2025-10-31 20:00:01.447] [info] Write
+[2025-10-31 20:00:01.523] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.523] [info] No control - state: lost, lost: 646/8
+[2025-10-31 20:00:01.523] [info] Write
+[2025-10-31 20:00:01.597] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.597] [info] No control - state: lost, lost: 648/8
+[2025-10-31 20:00:01.597] [info] Write
+[2025-10-31 20:00:01.671] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.671] [info] No control - state: lost, lost: 650/8
+[2025-10-31 20:00:01.671] [info] Write
+[2025-10-31 20:00:01.746] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.746] [info] No control - state: lost, lost: 652/8
+[2025-10-31 20:00:01.746] [info] Write
+[2025-10-31 20:00:01.746] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:01.825] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.825] [info] No control - state: lost, lost: 654/8
+[2025-10-31 20:00:01.825] [info] Write
+[2025-10-31 20:00:01.895] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.895] [info] No control - state: lost, lost: 656/8
+[2025-10-31 20:00:01.895] [info] Write
+[2025-10-31 20:00:01.970] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:01.970] [info] No control - state: lost, lost: 658/8
+[2025-10-31 20:00:01.970] [info] Write
+[2025-10-31 20:00:02.048] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.048] [info] No control - state: lost, lost: 660/8
+[2025-10-31 20:00:02.048] [info] Write
+[2025-10-31 20:00:02.119] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.120] [info] No control - state: lost, lost: 662/8
+[2025-10-31 20:00:02.120] [info] Write
+[2025-10-31 20:00:02.120] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:02.195] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.195] [info] No control - state: lost, lost: 664/8
+[2025-10-31 20:00:02.195] [info] Write
+[2025-10-31 20:00:02.271] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.271] [info] No control - state: lost, lost: 666/8
+[2025-10-31 20:00:02.271] [info] Write
+[2025-10-31 20:00:02.271] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:02.349] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.349] [info] No control - state: lost, lost: 668/8
+[2025-10-31 20:00:02.349] [info] Write
+[2025-10-31 20:00:02.423] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.423] [info] No control - state: lost, lost: 670/8
+[2025-10-31 20:00:02.423] [info] Write
+[2025-10-31 20:00:02.500] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.500] [info] No control - state: lost, lost: 672/8
+[2025-10-31 20:00:02.500] [info] Write
+[2025-10-31 20:00:02.500] [info] yolo: 12.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:02.573] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.573] [info] No control - state: lost, lost: 674/8
+[2025-10-31 20:00:02.573] [info] Write
+[2025-10-31 20:00:02.647] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.647] [info] No control - state: lost, lost: 676/8
+[2025-10-31 20:00:02.647] [info] Write
+[2025-10-31 20:00:02.720] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.720] [info] No control - state: lost, lost: 678/8
+[2025-10-31 20:00:02.720] [info] Write
+[2025-10-31 20:00:02.797] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.797] [info] No control - state: lost, lost: 680/8
+[2025-10-31 20:00:02.797] [info] Write
+[2025-10-31 20:00:02.870] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.870] [info] No control - state: lost, lost: 682/8
+[2025-10-31 20:00:02.870] [info] Write
+[2025-10-31 20:00:02.870] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:02.947] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:02.947] [info] No control - state: lost, lost: 684/8
+[2025-10-31 20:00:02.947] [info] Write
+[2025-10-31 20:00:03.020] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.020] [info] No control - state: lost, lost: 686/8
+[2025-10-31 20:00:03.020] [info] Write
+[2025-10-31 20:00:03.095] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.095] [info] No control - state: lost, lost: 688/8
+[2025-10-31 20:00:03.095] [info] Write
+[2025-10-31 20:00:03.170] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.170] [info] No control - state: lost, lost: 690/8
+[2025-10-31 20:00:03.170] [info] Write
+[2025-10-31 20:00:03.246] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.247] [info] No control - state: lost, lost: 692/8
+[2025-10-31 20:00:03.247] [info] Write
+[2025-10-31 20:00:03.247] [info] yolo: 9.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:03.322] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.322] [info] No control - state: lost, lost: 694/8
+[2025-10-31 20:00:03.322] [info] Write
+[2025-10-31 20:00:03.322] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:03.396] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.396] [info] No control - state: lost, lost: 696/8
+[2025-10-31 20:00:03.396] [info] Write
+[2025-10-31 20:00:03.471] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.471] [info] No control - state: lost, lost: 698/8
+[2025-10-31 20:00:03.471] [info] Write
+[2025-10-31 20:00:03.545] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.545] [info] No control - state: lost, lost: 700/8
+[2025-10-31 20:00:03.545] [info] Write
+[2025-10-31 20:00:03.623] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.623] [info] No control - state: lost, lost: 702/8
+[2025-10-31 20:00:03.623] [info] Write
+[2025-10-31 20:00:03.623] [info] yolo: 11.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:03.696] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.696] [info] No control - state: lost, lost: 704/8
+[2025-10-31 20:00:03.696] [info] Write
+[2025-10-31 20:00:03.771] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.771] [info] No control - state: lost, lost: 706/8
+[2025-10-31 20:00:03.771] [info] Write
+[2025-10-31 20:00:03.845] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.845] [info] No control - state: lost, lost: 708/8
+[2025-10-31 20:00:03.845] [info] Write
+[2025-10-31 20:00:03.921] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.921] [info] No control - state: lost, lost: 710/8
+[2025-10-31 20:00:03.921] [info] Write
+[2025-10-31 20:00:03.997] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:03.997] [info] No control - state: lost, lost: 712/8
+[2025-10-31 20:00:03.997] [info] Write
+[2025-10-31 20:00:03.997] [info] yolo: 9.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:04.071] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.071] [info] No control - state: lost, lost: 714/8
+[2025-10-31 20:00:04.071] [info] Write
+[2025-10-31 20:00:04.149] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.149] [info] No control - state: lost, lost: 716/8
+[2025-10-31 20:00:04.149] [info] Write
+[2025-10-31 20:00:04.223] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.224] [info] No control - state: lost, lost: 718/8
+[2025-10-31 20:00:04.224] [info] Write
+[2025-10-31 20:00:04.298] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.298] [info] No control - state: lost, lost: 720/8
+[2025-10-31 20:00:04.298] [info] Write
+[2025-10-31 20:00:04.371] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.371] [info] No control - state: lost, lost: 722/8
+[2025-10-31 20:00:04.371] [info] Write
+[2025-10-31 20:00:04.371] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:04.371] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:04.444] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.444] [info] No control - state: lost, lost: 724/8
+[2025-10-31 20:00:04.444] [info] Write
+[2025-10-31 20:00:04.519] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.519] [info] No control - state: lost, lost: 726/8
+[2025-10-31 20:00:04.519] [info] Write
+[2025-10-31 20:00:04.596] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.596] [info] No control - state: lost, lost: 728/8
+[2025-10-31 20:00:04.596] [info] Write
+[2025-10-31 20:00:04.671] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.671] [info] No control - state: lost, lost: 730/8
+[2025-10-31 20:00:04.671] [info] Write
+[2025-10-31 20:00:04.745] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.745] [info] No control - state: lost, lost: 732/8
+[2025-10-31 20:00:04.745] [info] Write
+[2025-10-31 20:00:04.745] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:04.822] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.822] [info] No control - state: lost, lost: 734/8
+[2025-10-31 20:00:04.822] [info] Write
+[2025-10-31 20:00:04.898] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.898] [info] No control - state: lost, lost: 736/8
+[2025-10-31 20:00:04.898] [info] Write
+[2025-10-31 20:00:04.970] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:04.971] [info] No control - state: lost, lost: 738/8
+[2025-10-31 20:00:04.971] [info] Write
+[2025-10-31 20:00:05.046] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.046] [info] No control - state: lost, lost: 740/8
+[2025-10-31 20:00:05.046] [info] Write
+[2025-10-31 20:00:05.122] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.122] [info] No control - state: lost, lost: 742/8
+[2025-10-31 20:00:05.122] [info] Write
+[2025-10-31 20:00:05.122] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:05.197] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.197] [info] No control - state: lost, lost: 744/8
+[2025-10-31 20:00:05.197] [info] Write
+[2025-10-31 20:00:05.273] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.273] [info] No control - state: lost, lost: 746/8
+[2025-10-31 20:00:05.273] [info] Write
+[2025-10-31 20:00:05.347] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.347] [info] No control - state: lost, lost: 748/8
+[2025-10-31 20:00:05.347] [info] Write
+[2025-10-31 20:00:05.420] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.420] [info] No control - state: lost, lost: 750/8
+[2025-10-31 20:00:05.420] [info] Write
+[2025-10-31 20:00:05.420] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:05.498] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.499] [info] No control - state: lost, lost: 752/8
+[2025-10-31 20:00:05.499] [info] Write
+[2025-10-31 20:00:05.499] [info] yolo: 10.6ms, tracker: 0.0ms, aimer: 0.6ms
+[2025-10-31 20:00:05.570] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.570] [info] No control - state: lost, lost: 754/8
+[2025-10-31 20:00:05.570] [info] Write
+[2025-10-31 20:00:05.646] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.646] [info] No control - state: lost, lost: 756/8
+[2025-10-31 20:00:05.646] [info] Write
+[2025-10-31 20:00:05.723] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.723] [info] No control - state: lost, lost: 758/8
+[2025-10-31 20:00:05.723] [info] Write
+[2025-10-31 20:00:05.797] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.797] [info] No control - state: lost, lost: 760/8
+[2025-10-31 20:00:05.797] [info] Write
+[2025-10-31 20:00:05.869] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.869] [info] No control - state: lost, lost: 762/8
+[2025-10-31 20:00:05.869] [info] Write
+[2025-10-31 20:00:05.869] [info] yolo: 6.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:05.945] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:05.945] [info] No control - state: lost, lost: 764/8
+[2025-10-31 20:00:05.945] [info] Write
+[2025-10-31 20:00:06.021] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:06.021] [info] No control - state: lost, lost: 766/8
+[2025-10-31 20:00:06.021] [info] Write
+[2025-10-31 20:00:06.096] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:06.096] [info] No control - state: lost, lost: 768/8
+[2025-10-31 20:00:06.096] [info] Write
+[2025-10-31 20:00:06.247] [warning] [Gimbal] read timeout, read 25 / 41 bytes
+[2025-10-31 20:00:06.348] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:06.450] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:06.552] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:06.653] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:06.755] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:06.856] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:06.958] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.060] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.161] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.263] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.365] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.466] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.568] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.669] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.771] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.872] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:07.974] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.076] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.178] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.280] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.381] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.483] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.585] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.686] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.788] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.889] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:08.991] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:09.092] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:09.193] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:09.295] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:09.397] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:09.499] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:09.601] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:09.702] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:09.804] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:09.906] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.008] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.110] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.211] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.312] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.414] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.515] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.616] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.718] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.819] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:10.921] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.023] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.125] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.227] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.328] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.430] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.531] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.632] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.734] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.835] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:11.937] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.039] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.140] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.242] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.343] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.445] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.546] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.648] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.749] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.851] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:12.952] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.054] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.155] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.256] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.358] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.460] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.561] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.663] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.764] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.866] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:13.968] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.069] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.171] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.272] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.374] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.475] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.577] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.678] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.780] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.882] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:14.983] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.085] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.186] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.288] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.390] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.491] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.593] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.694] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.796] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.897] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:15.999] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:16.101] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:16.203] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:16.304] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:16.406] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:16.508] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:16.609] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:16.711] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:16.813] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:16.915] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.016] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.117] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.219] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.320] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.422] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.524] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.626] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.728] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.829] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:17.931] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.032] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.134] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.235] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.337] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.438] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.540] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.642] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.743] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.845] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:18.947] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.048] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.150] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.251] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.353] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.455] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.556] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.658] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.760] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.861] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:19.963] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.064] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.166] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.268] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.370] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.472] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.574] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.675] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.777] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.879] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:20.980] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:21.082] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:21.184] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:00:21.220] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:21.220] [info] No control - state: lost, lost: 770/8
+[2025-10-31 20:00:21.220] [info] Write
+[2025-10-31 20:00:21.220] [info] Current FPS: 0.6, State: lost
+[2025-10-31 20:00:21.293] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:21.293] [info] No control - state: lost, lost: 772/8
+[2025-10-31 20:00:21.293] [info] Write
+[2025-10-31 20:00:21.293] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:21.360] [info] [Gimbal] read_thread stopped.
+[2025-10-31 20:00:21.506] [info] Mindvision destructed.

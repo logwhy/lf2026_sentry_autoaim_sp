@@ -1,0 +1,16 @@
+[2025-10-18 20:53:15.207] [warning] Not found camera!
+[2025-10-18 20:53:15.307] [warning] Unable to open usb!
+[2025-10-18 20:53:15.309] [warning] Not found camera!
+[2025-10-18 20:53:15.410] [warning] Unable to open usb!
+[2025-10-18 20:53:15.411] [warning] Not found camera!
+[2025-10-18 20:53:15.511] [warning] Unable to open usb!
+[2025-10-18 20:53:15.512] [warning] Not found camera!
+[2025-10-18 20:53:15.612] [warning] Unable to open usb!
+[2025-10-18 20:53:15.613] [warning] Not found camera!
+[2025-10-18 20:53:15.713] [warning] Unable to open usb!
+[2025-10-18 20:53:15.714] [warning] Not found camera!
+[2025-10-18 20:53:15.814] [warning] Unable to open usb!
+[2025-10-18 20:53:15.815] [warning] Not found camera!
+[2025-10-18 20:53:15.915] [warning] Unable to open usb!
+[2025-10-18 20:53:15.916] [warning] Not found camera!
+[2025-10-18 20:53:15.945] [error] [Gimbal] Failed to open serial: IO Exception (2): No such file or directory, file /home/wheeltec/projects/sp_vision_25-main/io/serial/src/impl/unix.cc, line 151.

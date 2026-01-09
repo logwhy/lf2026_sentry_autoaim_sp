@@ -1,0 +1,2249 @@
+[2025-10-31 20:00:32.024] [info] Mindvision opened.
+[2025-10-31 20:00:32.203] [info] [Gimbal] read_thread started.
+[2025-10-31 20:00:32.203] [info] [Gimbal] First q received.
+[2025-10-31 20:00:32.507] [info] Target lost 2/8, using prediction
+[2025-10-31 20:00:32.507] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 2/8
+[2025-10-31 20:00:32.507] [info] Write
+[2025-10-31 20:00:32.507] [info] yolo: 47.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:32.547] [info] Target lost 4/8, using prediction
+[2025-10-31 20:00:32.547] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 4/8
+[2025-10-31 20:00:32.547] [info] Write
+[2025-10-31 20:00:32.618] [info] Target lost 6/8, using prediction
+[2025-10-31 20:00:32.618] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 6/8
+[2025-10-31 20:00:32.618] [info] Write
+[2025-10-31 20:00:32.694] [info] Target lost 8/8, using prediction
+[2025-10-31 20:00:32.694] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false, state: lost, lost: 8/8
+[2025-10-31 20:00:32.694] [info] Write
+[2025-10-31 20:00:32.769] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:32.769] [info] No control - state: lost, lost: 10/8
+[2025-10-31 20:00:32.769] [info] Write
+[2025-10-31 20:00:32.846] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:32.846] [info] No control - state: lost, lost: 12/8
+[2025-10-31 20:00:32.846] [info] Write
+[2025-10-31 20:00:32.846] [info] yolo: 10.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:32.918] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:32.918] [info] No control - state: lost, lost: 14/8
+[2025-10-31 20:00:32.918] [info] Write
+[2025-10-31 20:00:32.993] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:32.993] [info] No control - state: lost, lost: 16/8
+[2025-10-31 20:00:32.993] [info] Write
+[2025-10-31 20:00:33.071] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.071] [info] No control - state: lost, lost: 18/8
+[2025-10-31 20:00:33.071] [info] Write
+[2025-10-31 20:00:33.144] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.144] [info] No control - state: lost, lost: 20/8
+[2025-10-31 20:00:33.144] [info] Write
+[2025-10-31 20:00:33.217] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.217] [info] No control - state: lost, lost: 22/8
+[2025-10-31 20:00:33.217] [info] Write
+[2025-10-31 20:00:33.217] [info] Current FPS: 10.9, State: lost
+[2025-10-31 20:00:33.217] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:33.292] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.292] [info] No control - state: lost, lost: 24/8
+[2025-10-31 20:00:33.292] [info] Write
+[2025-10-31 20:00:33.371] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.371] [info] No control - state: lost, lost: 26/8
+[2025-10-31 20:00:33.371] [info] Write
+[2025-10-31 20:00:33.445] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.445] [info] No control - state: lost, lost: 28/8
+[2025-10-31 20:00:33.445] [info] Write
+[2025-10-31 20:00:33.518] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.518] [info] No control - state: lost, lost: 30/8
+[2025-10-31 20:00:33.518] [info] Write
+[2025-10-31 20:00:33.592] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.592] [info] No control - state: lost, lost: 32/8
+[2025-10-31 20:00:33.592] [info] Write
+[2025-10-31 20:00:33.592] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:33.669] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.669] [info] No control - state: lost, lost: 34/8
+[2025-10-31 20:00:33.669] [info] Write
+[2025-10-31 20:00:33.745] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.745] [info] No control - state: lost, lost: 36/8
+[2025-10-31 20:00:33.745] [info] Write
+[2025-10-31 20:00:33.817] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.817] [info] No control - state: lost, lost: 38/8
+[2025-10-31 20:00:33.817] [info] Write
+[2025-10-31 20:00:33.892] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.892] [info] No control - state: lost, lost: 40/8
+[2025-10-31 20:00:33.892] [info] Write
+[2025-10-31 20:00:33.967] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:33.967] [info] No control - state: lost, lost: 42/8
+[2025-10-31 20:00:33.967] [info] Write
+[2025-10-31 20:00:33.967] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:34.044] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.044] [info] No control - state: lost, lost: 44/8
+[2025-10-31 20:00:34.044] [info] Write
+[2025-10-31 20:00:34.117] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.117] [info] No control - state: lost, lost: 46/8
+[2025-10-31 20:00:34.117] [info] Write
+[2025-10-31 20:00:34.194] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.194] [info] No control - state: lost, lost: 48/8
+[2025-10-31 20:00:34.194] [info] Write
+[2025-10-31 20:00:34.269] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.269] [info] No control - state: lost, lost: 50/8
+[2025-10-31 20:00:34.269] [info] Write
+[2025-10-31 20:00:34.269] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:34.345] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.345] [info] No control - state: lost, lost: 52/8
+[2025-10-31 20:00:34.345] [info] Write
+[2025-10-31 20:00:34.345] [info] yolo: 10.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:34.419] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.419] [info] No control - state: lost, lost: 54/8
+[2025-10-31 20:00:34.419] [info] Write
+[2025-10-31 20:00:34.493] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.493] [info] No control - state: lost, lost: 56/8
+[2025-10-31 20:00:34.494] [info] Write
+[2025-10-31 20:00:34.567] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.568] [info] No control - state: lost, lost: 58/8
+[2025-10-31 20:00:34.568] [info] Write
+[2025-10-31 20:00:34.643] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.643] [info] No control - state: lost, lost: 60/8
+[2025-10-31 20:00:34.643] [info] Write
+[2025-10-31 20:00:34.718] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.718] [info] No control - state: lost, lost: 62/8
+[2025-10-31 20:00:34.718] [info] Write
+[2025-10-31 20:00:34.718] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:34.793] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.793] [info] No control - state: lost, lost: 64/8
+[2025-10-31 20:00:34.793] [info] Write
+[2025-10-31 20:00:34.867] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.867] [info] No control - state: lost, lost: 66/8
+[2025-10-31 20:00:34.867] [info] Write
+[2025-10-31 20:00:34.943] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:34.943] [info] No control - state: lost, lost: 68/8
+[2025-10-31 20:00:34.943] [info] Write
+[2025-10-31 20:00:35.019] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.019] [info] No control - state: lost, lost: 70/8
+[2025-10-31 20:00:35.019] [info] Write
+[2025-10-31 20:00:35.093] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.093] [info] No control - state: lost, lost: 72/8
+[2025-10-31 20:00:35.093] [info] Write
+[2025-10-31 20:00:35.093] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:35.170] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.170] [info] No control - state: lost, lost: 74/8
+[2025-10-31 20:00:35.170] [info] Write
+[2025-10-31 20:00:35.243] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.243] [info] No control - state: lost, lost: 76/8
+[2025-10-31 20:00:35.243] [info] Write
+[2025-10-31 20:00:35.317] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.317] [info] No control - state: lost, lost: 78/8
+[2025-10-31 20:00:35.317] [info] Write
+[2025-10-31 20:00:35.317] [info] Current FPS: 13.4, State: lost
+[2025-10-31 20:00:35.394] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.394] [info] No control - state: lost, lost: 80/8
+[2025-10-31 20:00:35.394] [info] Write
+[2025-10-31 20:00:35.468] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.468] [info] No control - state: lost, lost: 82/8
+[2025-10-31 20:00:35.468] [info] Write
+[2025-10-31 20:00:35.468] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:35.542] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.542] [info] No control - state: lost, lost: 84/8
+[2025-10-31 20:00:35.542] [info] Write
+[2025-10-31 20:00:35.619] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.619] [info] No control - state: lost, lost: 86/8
+[2025-10-31 20:00:35.619] [info] Write
+[2025-10-31 20:00:35.692] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.692] [info] No control - state: lost, lost: 88/8
+[2025-10-31 20:00:35.692] [info] Write
+[2025-10-31 20:00:35.770] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.770] [info] No control - state: lost, lost: 90/8
+[2025-10-31 20:00:35.770] [info] Write
+[2025-10-31 20:00:35.843] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.843] [info] No control - state: lost, lost: 92/8
+[2025-10-31 20:00:35.843] [info] Write
+[2025-10-31 20:00:35.843] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:35.921] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.921] [info] No control - state: lost, lost: 94/8
+[2025-10-31 20:00:35.921] [info] Write
+[2025-10-31 20:00:35.995] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:35.995] [info] No control - state: lost, lost: 96/8
+[2025-10-31 20:00:35.995] [info] Write
+[2025-10-31 20:00:36.069] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.069] [info] No control - state: lost, lost: 98/8
+[2025-10-31 20:00:36.069] [info] Write
+[2025-10-31 20:00:36.143] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.143] [info] No control - state: lost, lost: 100/8
+[2025-10-31 20:00:36.143] [info] Write
+[2025-10-31 20:00:36.218] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.218] [info] No control - state: lost, lost: 102/8
+[2025-10-31 20:00:36.218] [info] Write
+[2025-10-31 20:00:36.218] [info] yolo: 8.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:36.293] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.293] [info] No control - state: lost, lost: 104/8
+[2025-10-31 20:00:36.293] [info] Write
+[2025-10-31 20:00:36.370] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.370] [info] No control - state: lost, lost: 106/8
+[2025-10-31 20:00:36.370] [info] Write
+[2025-10-31 20:00:36.370] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:36.443] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.443] [info] No control - state: lost, lost: 108/8
+[2025-10-31 20:00:36.443] [info] Write
+[2025-10-31 20:00:36.519] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.519] [info] No control - state: lost, lost: 110/8
+[2025-10-31 20:00:36.519] [info] Write
+[2025-10-31 20:00:36.594] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.594] [info] No control - state: lost, lost: 112/8
+[2025-10-31 20:00:36.594] [info] Write
+[2025-10-31 20:00:36.594] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:36.669] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.669] [info] No control - state: lost, lost: 114/8
+[2025-10-31 20:00:36.669] [info] Write
+[2025-10-31 20:00:36.743] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.744] [info] No control - state: lost, lost: 116/8
+[2025-10-31 20:00:36.744] [info] Write
+[2025-10-31 20:00:36.819] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.819] [info] No control - state: lost, lost: 118/8
+[2025-10-31 20:00:36.819] [info] Write
+[2025-10-31 20:00:36.894] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.894] [info] No control - state: lost, lost: 120/8
+[2025-10-31 20:00:36.894] [info] Write
+[2025-10-31 20:00:36.967] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:36.967] [info] No control - state: lost, lost: 122/8
+[2025-10-31 20:00:36.967] [info] Write
+[2025-10-31 20:00:36.967] [info] yolo: 7.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:37.042] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.042] [info] No control - state: lost, lost: 124/8
+[2025-10-31 20:00:37.042] [info] Write
+[2025-10-31 20:00:37.118] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.118] [info] No control - state: lost, lost: 126/8
+[2025-10-31 20:00:37.118] [info] Write
+[2025-10-31 20:00:37.194] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.194] [info] No control - state: lost, lost: 128/8
+[2025-10-31 20:00:37.194] [info] Write
+[2025-10-31 20:00:37.267] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.267] [info] No control - state: lost, lost: 130/8
+[2025-10-31 20:00:37.267] [info] Write
+[2025-10-31 20:00:37.343] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.343] [info] No control - state: lost, lost: 132/8
+[2025-10-31 20:00:37.343] [info] Write
+[2025-10-31 20:00:37.343] [info] yolo: 7.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:37.421] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.421] [info] No control - state: lost, lost: 134/8
+[2025-10-31 20:00:37.421] [info] Write
+[2025-10-31 20:00:37.421] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:37.494] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.494] [info] No control - state: lost, lost: 136/8
+[2025-10-31 20:00:37.494] [info] Write
+[2025-10-31 20:00:37.566] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.566] [info] No control - state: lost, lost: 138/8
+[2025-10-31 20:00:37.566] [info] Write
+[2025-10-31 20:00:37.643] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.643] [info] No control - state: lost, lost: 140/8
+[2025-10-31 20:00:37.643] [info] Write
+[2025-10-31 20:00:37.718] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.718] [info] No control - state: lost, lost: 142/8
+[2025-10-31 20:00:37.718] [info] Write
+[2025-10-31 20:00:37.718] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:37.795] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.795] [info] No control - state: lost, lost: 144/8
+[2025-10-31 20:00:37.795] [info] Write
+[2025-10-31 20:00:37.869] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.869] [info] No control - state: lost, lost: 146/8
+[2025-10-31 20:00:37.869] [info] Write
+[2025-10-31 20:00:37.943] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:37.943] [info] No control - state: lost, lost: 148/8
+[2025-10-31 20:00:37.943] [info] Write
+[2025-10-31 20:00:38.019] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.019] [info] No control - state: lost, lost: 150/8
+[2025-10-31 20:00:38.019] [info] Write
+[2025-10-31 20:00:38.093] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.093] [info] No control - state: lost, lost: 152/8
+[2025-10-31 20:00:38.093] [info] Write
+[2025-10-31 20:00:38.093] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:38.168] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.168] [info] No control - state: lost, lost: 154/8
+[2025-10-31 20:00:38.168] [info] Write
+[2025-10-31 20:00:38.243] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.243] [info] No control - state: lost, lost: 156/8
+[2025-10-31 20:00:38.243] [info] Write
+[2025-10-31 20:00:38.318] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.318] [info] No control - state: lost, lost: 158/8
+[2025-10-31 20:00:38.318] [info] Write
+[2025-10-31 20:00:38.393] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.393] [info] No control - state: lost, lost: 160/8
+[2025-10-31 20:00:38.393] [info] Write
+[2025-10-31 20:00:38.467] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.467] [info] No control - state: lost, lost: 162/8
+[2025-10-31 20:00:38.467] [info] Write
+[2025-10-31 20:00:38.467] [info] Current FPS: 13.4, State: lost
+[2025-10-31 20:00:38.467] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:38.543] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.543] [info] No control - state: lost, lost: 164/8
+[2025-10-31 20:00:38.543] [info] Write
+[2025-10-31 20:00:38.619] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.619] [info] No control - state: lost, lost: 166/8
+[2025-10-31 20:00:38.619] [info] Write
+[2025-10-31 20:00:38.692] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.692] [info] No control - state: lost, lost: 168/8
+[2025-10-31 20:00:38.692] [info] Write
+[2025-10-31 20:00:38.767] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.767] [info] No control - state: lost, lost: 170/8
+[2025-10-31 20:00:38.768] [info] Write
+[2025-10-31 20:00:38.843] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.844] [info] No control - state: lost, lost: 172/8
+[2025-10-31 20:00:38.844] [info] Write
+[2025-10-31 20:00:38.844] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:38.918] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.918] [info] No control - state: lost, lost: 174/8
+[2025-10-31 20:00:38.918] [info] Write
+[2025-10-31 20:00:38.993] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:38.994] [info] No control - state: lost, lost: 176/8
+[2025-10-31 20:00:38.994] [info] Write
+[2025-10-31 20:00:39.066] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.066] [info] No control - state: lost, lost: 178/8
+[2025-10-31 20:00:39.066] [info] Write
+[2025-10-31 20:00:39.144] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.144] [info] No control - state: lost, lost: 180/8
+[2025-10-31 20:00:39.144] [info] Write
+[2025-10-31 20:00:39.219] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.219] [info] No control - state: lost, lost: 182/8
+[2025-10-31 20:00:39.219] [info] Write
+[2025-10-31 20:00:39.219] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:39.293] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.293] [info] No control - state: lost, lost: 184/8
+[2025-10-31 20:00:39.293] [info] Write
+[2025-10-31 20:00:39.367] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.367] [info] No control - state: lost, lost: 186/8
+[2025-10-31 20:00:39.368] [info] Write
+[2025-10-31 20:00:39.442] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.442] [info] No control - state: lost, lost: 188/8
+[2025-10-31 20:00:39.442] [info] Write
+[2025-10-31 20:00:39.521] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.521] [info] No control - state: lost, lost: 190/8
+[2025-10-31 20:00:39.521] [info] Write
+[2025-10-31 20:00:39.521] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:39.594] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.594] [info] No control - state: lost, lost: 192/8
+[2025-10-31 20:00:39.594] [info] Write
+[2025-10-31 20:00:39.594] [info] yolo: 9.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:39.667] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.667] [info] No control - state: lost, lost: 194/8
+[2025-10-31 20:00:39.667] [info] Write
+[2025-10-31 20:00:39.742] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.743] [info] No control - state: lost, lost: 196/8
+[2025-10-31 20:00:39.743] [info] Write
+[2025-10-31 20:00:39.819] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.819] [info] No control - state: lost, lost: 198/8
+[2025-10-31 20:00:39.819] [info] Write
+[2025-10-31 20:00:39.895] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.895] [info] No control - state: lost, lost: 200/8
+[2025-10-31 20:00:39.895] [info] Write
+[2025-10-31 20:00:39.967] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:39.967] [info] No control - state: lost, lost: 202/8
+[2025-10-31 20:00:39.967] [info] Write
+[2025-10-31 20:00:39.967] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:40.042] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.042] [info] No control - state: lost, lost: 204/8
+[2025-10-31 20:00:40.042] [info] Write
+[2025-10-31 20:00:40.120] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.120] [info] No control - state: lost, lost: 206/8
+[2025-10-31 20:00:40.120] [info] Write
+[2025-10-31 20:00:40.193] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.193] [info] No control - state: lost, lost: 208/8
+[2025-10-31 20:00:40.193] [info] Write
+[2025-10-31 20:00:40.267] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.267] [info] No control - state: lost, lost: 210/8
+[2025-10-31 20:00:40.267] [info] Write
+[2025-10-31 20:00:40.342] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.342] [info] No control - state: lost, lost: 212/8
+[2025-10-31 20:00:40.342] [info] Write
+[2025-10-31 20:00:40.342] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:40.419] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.419] [info] No control - state: lost, lost: 214/8
+[2025-10-31 20:00:40.419] [info] Write
+[2025-10-31 20:00:40.495] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.495] [info] No control - state: lost, lost: 216/8
+[2025-10-31 20:00:40.495] [info] Write
+[2025-10-31 20:00:40.566] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.566] [info] No control - state: lost, lost: 218/8
+[2025-10-31 20:00:40.566] [info] Write
+[2025-10-31 20:00:40.566] [info] Current FPS: 13.4, State: lost
+[2025-10-31 20:00:40.642] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.642] [info] No control - state: lost, lost: 220/8
+[2025-10-31 20:00:40.642] [info] Write
+[2025-10-31 20:00:40.718] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.718] [info] No control - state: lost, lost: 222/8
+[2025-10-31 20:00:40.718] [info] Write
+[2025-10-31 20:00:40.718] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:40.793] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.793] [info] No control - state: lost, lost: 224/8
+[2025-10-31 20:00:40.793] [info] Write
+[2025-10-31 20:00:40.870] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.870] [info] No control - state: lost, lost: 226/8
+[2025-10-31 20:00:40.870] [info] Write
+[2025-10-31 20:00:40.945] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:40.945] [info] No control - state: lost, lost: 228/8
+[2025-10-31 20:00:40.945] [info] Write
+[2025-10-31 20:00:41.018] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.018] [info] No control - state: lost, lost: 230/8
+[2025-10-31 20:00:41.018] [info] Write
+[2025-10-31 20:00:41.093] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.093] [info] No control - state: lost, lost: 232/8
+[2025-10-31 20:00:41.093] [info] Write
+[2025-10-31 20:00:41.093] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:41.167] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.167] [info] No control - state: lost, lost: 234/8
+[2025-10-31 20:00:41.167] [info] Write
+[2025-10-31 20:00:41.242] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.243] [info] No control - state: lost, lost: 236/8
+[2025-10-31 20:00:41.243] [info] Write
+[2025-10-31 20:00:41.319] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.319] [info] No control - state: lost, lost: 238/8
+[2025-10-31 20:00:41.319] [info] Write
+[2025-10-31 20:00:41.393] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.393] [info] No control - state: lost, lost: 240/8
+[2025-10-31 20:00:41.393] [info] Write
+[2025-10-31 20:00:41.467] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.467] [info] No control - state: lost, lost: 242/8
+[2025-10-31 20:00:41.467] [info] Write
+[2025-10-31 20:00:41.467] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:41.543] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.543] [info] No control - state: lost, lost: 244/8
+[2025-10-31 20:00:41.543] [info] Write
+[2025-10-31 20:00:41.618] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.618] [info] No control - state: lost, lost: 246/8
+[2025-10-31 20:00:41.618] [info] Write
+[2025-10-31 20:00:41.618] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:41.694] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.694] [info] No control - state: lost, lost: 248/8
+[2025-10-31 20:00:41.694] [info] Write
+[2025-10-31 20:00:41.767] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.767] [info] No control - state: lost, lost: 250/8
+[2025-10-31 20:00:41.767] [info] Write
+[2025-10-31 20:00:41.842] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.842] [info] No control - state: lost, lost: 252/8
+[2025-10-31 20:00:41.842] [info] Write
+[2025-10-31 20:00:41.842] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:41.918] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.919] [info] No control - state: lost, lost: 254/8
+[2025-10-31 20:00:41.919] [info] Write
+[2025-10-31 20:00:41.995] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:41.995] [info] No control - state: lost, lost: 256/8
+[2025-10-31 20:00:41.995] [info] Write
+[2025-10-31 20:00:42.067] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.067] [info] No control - state: lost, lost: 258/8
+[2025-10-31 20:00:42.067] [info] Write
+[2025-10-31 20:00:42.143] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.143] [info] No control - state: lost, lost: 260/8
+[2025-10-31 20:00:42.143] [info] Write
+[2025-10-31 20:00:42.219] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.219] [info] No control - state: lost, lost: 262/8
+[2025-10-31 20:00:42.219] [info] Write
+[2025-10-31 20:00:42.219] [info] yolo: 9.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:42.294] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.294] [info] No control - state: lost, lost: 264/8
+[2025-10-31 20:00:42.294] [info] Write
+[2025-10-31 20:00:42.367] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.367] [info] No control - state: lost, lost: 266/8
+[2025-10-31 20:00:42.367] [info] Write
+[2025-10-31 20:00:42.442] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.442] [info] No control - state: lost, lost: 268/8
+[2025-10-31 20:00:42.442] [info] Write
+[2025-10-31 20:00:42.519] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.519] [info] No control - state: lost, lost: 270/8
+[2025-10-31 20:00:42.519] [info] Write
+[2025-10-31 20:00:42.595] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.596] [info] No control - state: lost, lost: 272/8
+[2025-10-31 20:00:42.596] [info] Write
+[2025-10-31 20:00:42.596] [info] yolo: 11.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:42.667] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.667] [info] No control - state: lost, lost: 274/8
+[2025-10-31 20:00:42.667] [info] Write
+[2025-10-31 20:00:42.667] [info] Current FPS: 13.4, State: lost
+[2025-10-31 20:00:42.743] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.743] [info] No control - state: lost, lost: 276/8
+[2025-10-31 20:00:42.743] [info] Write
+[2025-10-31 20:00:42.820] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.820] [info] No control - state: lost, lost: 278/8
+[2025-10-31 20:00:42.820] [info] Write
+[2025-10-31 20:00:42.894] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.894] [info] No control - state: lost, lost: 280/8
+[2025-10-31 20:00:42.894] [info] Write
+[2025-10-31 20:00:42.967] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:42.967] [info] No control - state: lost, lost: 282/8
+[2025-10-31 20:00:42.967] [info] Write
+[2025-10-31 20:00:42.967] [info] yolo: 6.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:43.042] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.043] [info] No control - state: lost, lost: 284/8
+[2025-10-31 20:00:43.043] [info] Write
+[2025-10-31 20:00:43.117] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.117] [info] No control - state: lost, lost: 286/8
+[2025-10-31 20:00:43.117] [info] Write
+[2025-10-31 20:00:43.192] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.192] [info] No control - state: lost, lost: 288/8
+[2025-10-31 20:00:43.192] [info] Write
+[2025-10-31 20:00:43.266] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.266] [info] No control - state: lost, lost: 290/8
+[2025-10-31 20:00:43.266] [info] Write
+[2025-10-31 20:00:43.342] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.342] [info] No control - state: lost, lost: 292/8
+[2025-10-31 20:00:43.342] [info] Write
+[2025-10-31 20:00:43.342] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:43.419] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.419] [info] No control - state: lost, lost: 294/8
+[2025-10-31 20:00:43.419] [info] Write
+[2025-10-31 20:00:43.493] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.493] [info] No control - state: lost, lost: 296/8
+[2025-10-31 20:00:43.493] [info] Write
+[2025-10-31 20:00:43.567] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.567] [info] No control - state: lost, lost: 298/8
+[2025-10-31 20:00:43.567] [info] Write
+[2025-10-31 20:00:43.642] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.643] [info] No control - state: lost, lost: 300/8
+[2025-10-31 20:00:43.643] [info] Write
+[2025-10-31 20:00:43.718] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.718] [info] No control - state: lost, lost: 302/8
+[2025-10-31 20:00:43.718] [info] Write
+[2025-10-31 20:00:43.718] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:43.718] [info] yolo: 8.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:43.794] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.794] [info] No control - state: lost, lost: 304/8
+[2025-10-31 20:00:43.794] [info] Write
+[2025-10-31 20:00:43.868] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.868] [info] No control - state: lost, lost: 306/8
+[2025-10-31 20:00:43.868] [info] Write
+[2025-10-31 20:00:43.943] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:43.943] [info] No control - state: lost, lost: 308/8
+[2025-10-31 20:00:43.943] [info] Write
+[2025-10-31 20:00:44.019] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.019] [info] No control - state: lost, lost: 310/8
+[2025-10-31 20:00:44.019] [info] Write
+[2025-10-31 20:00:44.096] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.096] [info] No control - state: lost, lost: 312/8
+[2025-10-31 20:00:44.096] [info] Write
+[2025-10-31 20:00:44.096] [info] yolo: 11.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:44.167] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.167] [info] No control - state: lost, lost: 314/8
+[2025-10-31 20:00:44.167] [info] Write
+[2025-10-31 20:00:44.242] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.242] [info] No control - state: lost, lost: 316/8
+[2025-10-31 20:00:44.242] [info] Write
+[2025-10-31 20:00:44.317] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.317] [info] No control - state: lost, lost: 318/8
+[2025-10-31 20:00:44.317] [info] Write
+[2025-10-31 20:00:44.393] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.393] [info] No control - state: lost, lost: 320/8
+[2025-10-31 20:00:44.393] [info] Write
+[2025-10-31 20:00:44.466] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.466] [info] No control - state: lost, lost: 322/8
+[2025-10-31 20:00:44.466] [info] Write
+[2025-10-31 20:00:44.466] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:44.545] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.545] [info] No control - state: lost, lost: 324/8
+[2025-10-31 20:00:44.545] [info] Write
+[2025-10-31 20:00:44.619] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.619] [info] No control - state: lost, lost: 326/8
+[2025-10-31 20:00:44.619] [info] Write
+[2025-10-31 20:00:44.695] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.695] [info] No control - state: lost, lost: 328/8
+[2025-10-31 20:00:44.695] [info] Write
+[2025-10-31 20:00:44.767] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.767] [info] No control - state: lost, lost: 330/8
+[2025-10-31 20:00:44.767] [info] Write
+[2025-10-31 20:00:44.767] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:44.841] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.841] [info] No control - state: lost, lost: 332/8
+[2025-10-31 20:00:44.841] [info] Write
+[2025-10-31 20:00:44.841] [info] yolo: 7.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:44.918] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.918] [info] No control - state: lost, lost: 334/8
+[2025-10-31 20:00:44.918] [info] Write
+[2025-10-31 20:00:44.993] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:44.993] [info] No control - state: lost, lost: 336/8
+[2025-10-31 20:00:44.993] [info] Write
+[2025-10-31 20:00:45.066] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.066] [info] No control - state: lost, lost: 338/8
+[2025-10-31 20:00:45.066] [info] Write
+[2025-10-31 20:00:45.143] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.143] [info] No control - state: lost, lost: 340/8
+[2025-10-31 20:00:45.143] [info] Write
+[2025-10-31 20:00:45.218] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.218] [info] No control - state: lost, lost: 342/8
+[2025-10-31 20:00:45.218] [info] Write
+[2025-10-31 20:00:45.218] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:45.295] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.296] [info] No control - state: lost, lost: 344/8
+[2025-10-31 20:00:45.296] [info] Write
+[2025-10-31 20:00:45.366] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.366] [info] No control - state: lost, lost: 346/8
+[2025-10-31 20:00:45.366] [info] Write
+[2025-10-31 20:00:45.442] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.442] [info] No control - state: lost, lost: 348/8
+[2025-10-31 20:00:45.442] [info] Write
+[2025-10-31 20:00:45.519] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.519] [info] No control - state: lost, lost: 350/8
+[2025-10-31 20:00:45.519] [info] Write
+[2025-10-31 20:00:45.594] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.594] [info] No control - state: lost, lost: 352/8
+[2025-10-31 20:00:45.594] [info] Write
+[2025-10-31 20:00:45.594] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:45.666] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.666] [info] No control - state: lost, lost: 354/8
+[2025-10-31 20:00:45.666] [info] Write
+[2025-10-31 20:00:45.743] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.743] [info] No control - state: lost, lost: 356/8
+[2025-10-31 20:00:45.743] [info] Write
+[2025-10-31 20:00:45.818] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.818] [info] No control - state: lost, lost: 358/8
+[2025-10-31 20:00:45.818] [info] Write
+[2025-10-31 20:00:45.818] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:45.894] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.894] [info] No control - state: lost, lost: 360/8
+[2025-10-31 20:00:45.894] [info] Write
+[2025-10-31 20:00:45.967] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:45.967] [info] No control - state: lost, lost: 362/8
+[2025-10-31 20:00:45.967] [info] Write
+[2025-10-31 20:00:45.967] [info] yolo: 7.4ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:46.042] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.042] [info] No control - state: lost, lost: 364/8
+[2025-10-31 20:00:46.042] [info] Write
+[2025-10-31 20:00:46.120] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.120] [info] No control - state: lost, lost: 366/8
+[2025-10-31 20:00:46.120] [info] Write
+[2025-10-31 20:00:46.193] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.193] [info] No control - state: lost, lost: 368/8
+[2025-10-31 20:00:46.193] [info] Write
+[2025-10-31 20:00:46.267] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.267] [info] No control - state: lost, lost: 370/8
+[2025-10-31 20:00:46.267] [info] Write
+[2025-10-31 20:00:46.342] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.342] [info] No control - state: lost, lost: 372/8
+[2025-10-31 20:00:46.342] [info] Write
+[2025-10-31 20:00:46.342] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:46.418] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.418] [info] No control - state: lost, lost: 374/8
+[2025-10-31 20:00:46.418] [info] Write
+[2025-10-31 20:00:46.493] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.493] [info] No control - state: lost, lost: 376/8
+[2025-10-31 20:00:46.493] [info] Write
+[2025-10-31 20:00:46.566] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.566] [info] No control - state: lost, lost: 378/8
+[2025-10-31 20:00:46.566] [info] Write
+[2025-10-31 20:00:46.643] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.643] [info] No control - state: lost, lost: 380/8
+[2025-10-31 20:00:46.644] [info] Write
+[2025-10-31 20:00:46.719] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.719] [info] No control - state: lost, lost: 382/8
+[2025-10-31 20:00:46.719] [info] Write
+[2025-10-31 20:00:46.719] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:46.793] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.793] [info] No control - state: lost, lost: 384/8
+[2025-10-31 20:00:46.793] [info] Write
+[2025-10-31 20:00:46.868] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.868] [info] No control - state: lost, lost: 386/8
+[2025-10-31 20:00:46.868] [info] Write
+[2025-10-31 20:00:46.868] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:46.944] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:46.944] [info] No control - state: lost, lost: 388/8
+[2025-10-31 20:00:46.944] [info] Write
+[2025-10-31 20:00:47.021] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.021] [info] No control - state: lost, lost: 390/8
+[2025-10-31 20:00:47.021] [info] Write
+[2025-10-31 20:00:47.093] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.093] [info] No control - state: lost, lost: 392/8
+[2025-10-31 20:00:47.093] [info] Write
+[2025-10-31 20:00:47.093] [info] yolo: 9.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:47.167] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.167] [info] No control - state: lost, lost: 394/8
+[2025-10-31 20:00:47.167] [info] Write
+[2025-10-31 20:00:47.243] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.243] [info] No control - state: lost, lost: 396/8
+[2025-10-31 20:00:47.243] [info] Write
+[2025-10-31 20:00:47.325] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.325] [info] No control - state: lost, lost: 398/8
+[2025-10-31 20:00:47.325] [info] Write
+[2025-10-31 20:00:47.395] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.395] [info] No control - state: lost, lost: 400/8
+[2025-10-31 20:00:47.395] [info] Write
+[2025-10-31 20:00:47.467] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.467] [info] No control - state: lost, lost: 402/8
+[2025-10-31 20:00:47.467] [info] Write
+[2025-10-31 20:00:47.467] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:47.542] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.542] [info] No control - state: lost, lost: 404/8
+[2025-10-31 20:00:47.542] [info] Write
+[2025-10-31 20:00:47.617] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.617] [info] No control - state: lost, lost: 406/8
+[2025-10-31 20:00:47.617] [info] Write
+[2025-10-31 20:00:47.693] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.693] [info] No control - state: lost, lost: 408/8
+[2025-10-31 20:00:47.693] [info] Write
+[2025-10-31 20:00:47.767] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.767] [info] No control - state: lost, lost: 410/8
+[2025-10-31 20:00:47.767] [info] Write
+[2025-10-31 20:00:47.842] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.842] [info] No control - state: lost, lost: 412/8
+[2025-10-31 20:00:47.842] [info] Write
+[2025-10-31 20:00:47.842] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:47.918] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.918] [info] No control - state: lost, lost: 414/8
+[2025-10-31 20:00:47.918] [info] Write
+[2025-10-31 20:00:47.918] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:47.993] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:47.993] [info] No control - state: lost, lost: 416/8
+[2025-10-31 20:00:47.993] [info] Write
+[2025-10-31 20:00:48.067] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.067] [info] No control - state: lost, lost: 418/8
+[2025-10-31 20:00:48.067] [info] Write
+[2025-10-31 20:00:48.142] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.142] [info] No control - state: lost, lost: 420/8
+[2025-10-31 20:00:48.142] [info] Write
+[2025-10-31 20:00:48.219] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.219] [info] No control - state: lost, lost: 422/8
+[2025-10-31 20:00:48.219] [info] Write
+[2025-10-31 20:00:48.219] [info] yolo: 9.9ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:48.293] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.293] [info] No control - state: lost, lost: 424/8
+[2025-10-31 20:00:48.293] [info] Write
+[2025-10-31 20:00:48.367] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.367] [info] No control - state: lost, lost: 426/8
+[2025-10-31 20:00:48.367] [info] Write
+[2025-10-31 20:00:48.442] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.442] [info] No control - state: lost, lost: 428/8
+[2025-10-31 20:00:48.442] [info] Write
+[2025-10-31 20:00:48.518] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.518] [info] No control - state: lost, lost: 430/8
+[2025-10-31 20:00:48.518] [info] Write
+[2025-10-31 20:00:48.598] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.598] [info] No control - state: lost, lost: 432/8
+[2025-10-31 20:00:48.598] [info] Write
+[2025-10-31 20:00:48.598] [info] yolo: 13.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:48.667] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.667] [info] No control - state: lost, lost: 434/8
+[2025-10-31 20:00:48.667] [info] Write
+[2025-10-31 20:00:48.744] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.744] [info] No control - state: lost, lost: 436/8
+[2025-10-31 20:00:48.744] [info] Write
+[2025-10-31 20:00:48.818] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.818] [info] No control - state: lost, lost: 438/8
+[2025-10-31 20:00:48.818] [info] Write
+[2025-10-31 20:00:48.892] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.892] [info] No control - state: lost, lost: 440/8
+[2025-10-31 20:00:48.892] [info] Write
+[2025-10-31 20:00:48.968] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:48.968] [info] No control - state: lost, lost: 442/8
+[2025-10-31 20:00:48.968] [info] Write
+[2025-10-31 20:00:48.968] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:48.968] [info] yolo: 8.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:49.042] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.042] [info] No control - state: lost, lost: 444/8
+[2025-10-31 20:00:49.042] [info] Write
+[2025-10-31 20:00:49.118] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.118] [info] No control - state: lost, lost: 446/8
+[2025-10-31 20:00:49.118] [info] Write
+[2025-10-31 20:00:49.194] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.194] [info] No control - state: lost, lost: 448/8
+[2025-10-31 20:00:49.194] [info] Write
+[2025-10-31 20:00:49.267] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.267] [info] No control - state: lost, lost: 450/8
+[2025-10-31 20:00:49.267] [info] Write
+[2025-10-31 20:00:49.343] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.343] [info] No control - state: lost, lost: 452/8
+[2025-10-31 20:00:49.343] [info] Write
+[2025-10-31 20:00:49.343] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:49.421] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.421] [info] No control - state: lost, lost: 454/8
+[2025-10-31 20:00:49.421] [info] Write
+[2025-10-31 20:00:49.492] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.492] [info] No control - state: lost, lost: 456/8
+[2025-10-31 20:00:49.492] [info] Write
+[2025-10-31 20:00:49.566] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.567] [info] No control - state: lost, lost: 458/8
+[2025-10-31 20:00:49.567] [info] Write
+[2025-10-31 20:00:49.642] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.642] [info] No control - state: lost, lost: 460/8
+[2025-10-31 20:00:49.642] [info] Write
+[2025-10-31 20:00:49.720] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.720] [info] No control - state: lost, lost: 462/8
+[2025-10-31 20:00:49.720] [info] Write
+[2025-10-31 20:00:49.720] [info] yolo: 10.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:49.794] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.794] [info] No control - state: lost, lost: 464/8
+[2025-10-31 20:00:49.794] [info] Write
+[2025-10-31 20:00:49.868] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.868] [info] No control - state: lost, lost: 466/8
+[2025-10-31 20:00:49.868] [info] Write
+[2025-10-31 20:00:49.944] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:49.944] [info] No control - state: lost, lost: 468/8
+[2025-10-31 20:00:49.944] [info] Write
+[2025-10-31 20:00:50.019] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.019] [info] No control - state: lost, lost: 470/8
+[2025-10-31 20:00:50.019] [info] Write
+[2025-10-31 20:00:50.019] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:50.092] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.092] [info] No control - state: lost, lost: 472/8
+[2025-10-31 20:00:50.092] [info] Write
+[2025-10-31 20:00:50.092] [info] yolo: 7.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:50.167] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.167] [info] No control - state: lost, lost: 474/8
+[2025-10-31 20:00:50.167] [info] Write
+[2025-10-31 20:00:50.242] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.242] [info] No control - state: lost, lost: 476/8
+[2025-10-31 20:00:50.242] [info] Write
+[2025-10-31 20:00:50.318] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.318] [info] No control - state: lost, lost: 478/8
+[2025-10-31 20:00:50.318] [info] Write
+[2025-10-31 20:00:50.394] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.394] [info] No control - state: lost, lost: 480/8
+[2025-10-31 20:00:50.394] [info] Write
+[2025-10-31 20:00:50.467] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.467] [info] No control - state: lost, lost: 482/8
+[2025-10-31 20:00:50.467] [info] Write
+[2025-10-31 20:00:50.467] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:50.543] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.543] [info] No control - state: lost, lost: 484/8
+[2025-10-31 20:00:50.543] [info] Write
+[2025-10-31 20:00:50.619] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.619] [info] No control - state: lost, lost: 486/8
+[2025-10-31 20:00:50.619] [info] Write
+[2025-10-31 20:00:50.693] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.693] [info] No control - state: lost, lost: 488/8
+[2025-10-31 20:00:50.693] [info] Write
+[2025-10-31 20:00:50.766] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.766] [info] No control - state: lost, lost: 490/8
+[2025-10-31 20:00:50.766] [info] Write
+[2025-10-31 20:00:50.842] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.842] [info] No control - state: lost, lost: 492/8
+[2025-10-31 20:00:50.842] [info] Write
+[2025-10-31 20:00:50.842] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:50.920] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.920] [info] No control - state: lost, lost: 494/8
+[2025-10-31 20:00:50.920] [info] Write
+[2025-10-31 20:00:50.992] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:50.993] [info] No control - state: lost, lost: 496/8
+[2025-10-31 20:00:50.993] [info] Write
+[2025-10-31 20:00:51.066] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.066] [info] No control - state: lost, lost: 498/8
+[2025-10-31 20:00:51.066] [info] Write
+[2025-10-31 20:00:51.066] [info] Current FPS: 13.4, State: lost
+[2025-10-31 20:00:51.144] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.144] [info] No control - state: lost, lost: 500/8
+[2025-10-31 20:00:51.144] [info] Write
+[2025-10-31 20:00:51.220] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.220] [info] No control - state: lost, lost: 502/8
+[2025-10-31 20:00:51.220] [info] Write
+[2025-10-31 20:00:51.220] [info] yolo: 10.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:51.293] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.293] [info] No control - state: lost, lost: 504/8
+[2025-10-31 20:00:51.293] [info] Write
+[2025-10-31 20:00:51.366] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.366] [info] No control - state: lost, lost: 506/8
+[2025-10-31 20:00:51.366] [info] Write
+[2025-10-31 20:00:51.442] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.442] [info] No control - state: lost, lost: 508/8
+[2025-10-31 20:00:51.442] [info] Write
+[2025-10-31 20:00:51.517] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.517] [info] No control - state: lost, lost: 510/8
+[2025-10-31 20:00:51.517] [info] Write
+[2025-10-31 20:00:51.594] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.594] [info] No control - state: lost, lost: 512/8
+[2025-10-31 20:00:51.594] [info] Write
+[2025-10-31 20:00:51.594] [info] yolo: 10.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:51.667] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.667] [info] No control - state: lost, lost: 514/8
+[2025-10-31 20:00:51.667] [info] Write
+[2025-10-31 20:00:51.742] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.742] [info] No control - state: lost, lost: 516/8
+[2025-10-31 20:00:51.742] [info] Write
+[2025-10-31 20:00:51.818] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.818] [info] No control - state: lost, lost: 518/8
+[2025-10-31 20:00:51.818] [info] Write
+[2025-10-31 20:00:51.892] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.892] [info] No control - state: lost, lost: 520/8
+[2025-10-31 20:00:51.892] [info] Write
+[2025-10-31 20:00:51.967] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:51.967] [info] No control - state: lost, lost: 522/8
+[2025-10-31 20:00:51.967] [info] Write
+[2025-10-31 20:00:51.967] [info] yolo: 7.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:52.043] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.043] [info] No control - state: lost, lost: 524/8
+[2025-10-31 20:00:52.043] [info] Write
+[2025-10-31 20:00:52.120] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.120] [info] No control - state: lost, lost: 526/8
+[2025-10-31 20:00:52.120] [info] Write
+[2025-10-31 20:00:52.120] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:52.193] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.193] [info] No control - state: lost, lost: 528/8
+[2025-10-31 20:00:52.193] [info] Write
+[2025-10-31 20:00:52.266] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.266] [info] No control - state: lost, lost: 530/8
+[2025-10-31 20:00:52.266] [info] Write
+[2025-10-31 20:00:52.343] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.343] [info] No control - state: lost, lost: 532/8
+[2025-10-31 20:00:52.343] [info] Write
+[2025-10-31 20:00:52.343] [info] yolo: 8.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:52.418] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.418] [info] No control - state: lost, lost: 534/8
+[2025-10-31 20:00:52.418] [info] Write
+[2025-10-31 20:00:52.492] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.492] [info] No control - state: lost, lost: 536/8
+[2025-10-31 20:00:52.492] [info] Write
+[2025-10-31 20:00:52.566] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.566] [info] No control - state: lost, lost: 538/8
+[2025-10-31 20:00:52.566] [info] Write
+[2025-10-31 20:00:52.642] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.642] [info] No control - state: lost, lost: 540/8
+[2025-10-31 20:00:52.642] [info] Write
+[2025-10-31 20:00:52.718] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.718] [info] No control - state: lost, lost: 542/8
+[2025-10-31 20:00:52.718] [info] Write
+[2025-10-31 20:00:52.718] [info] yolo: 9.0ms, tracker: 0.0ms, aimer: 0.2ms
+[2025-10-31 20:00:52.794] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.794] [info] No control - state: lost, lost: 544/8
+[2025-10-31 20:00:52.794] [info] Write
+[2025-10-31 20:00:52.866] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.866] [info] No control - state: lost, lost: 546/8
+[2025-10-31 20:00:52.866] [info] Write
+[2025-10-31 20:00:52.942] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:52.942] [info] No control - state: lost, lost: 548/8
+[2025-10-31 20:00:52.942] [info] Write
+[2025-10-31 20:00:53.019] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.019] [info] No control - state: lost, lost: 550/8
+[2025-10-31 20:00:53.019] [info] Write
+[2025-10-31 20:00:53.093] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.093] [info] No control - state: lost, lost: 552/8
+[2025-10-31 20:00:53.093] [info] Write
+[2025-10-31 20:00:53.093] [info] yolo: 8.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:53.167] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.167] [info] No control - state: lost, lost: 554/8
+[2025-10-31 20:00:53.167] [info] Write
+[2025-10-31 20:00:53.167] [info] Current FPS: 13.4, State: lost
+[2025-10-31 20:00:53.242] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.242] [info] No control - state: lost, lost: 556/8
+[2025-10-31 20:00:53.242] [info] Write
+[2025-10-31 20:00:53.320] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.320] [info] No control - state: lost, lost: 558/8
+[2025-10-31 20:00:53.320] [info] Write
+[2025-10-31 20:00:53.394] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.394] [info] No control - state: lost, lost: 560/8
+[2025-10-31 20:00:53.394] [info] Write
+[2025-10-31 20:00:53.467] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.467] [info] No control - state: lost, lost: 562/8
+[2025-10-31 20:00:53.467] [info] Write
+[2025-10-31 20:00:53.467] [info] yolo: 7.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:53.542] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.542] [info] No control - state: lost, lost: 564/8
+[2025-10-31 20:00:53.542] [info] Write
+[2025-10-31 20:00:53.619] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.619] [info] No control - state: lost, lost: 566/8
+[2025-10-31 20:00:53.619] [info] Write
+[2025-10-31 20:00:53.692] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.692] [info] No control - state: lost, lost: 568/8
+[2025-10-31 20:00:53.692] [info] Write
+[2025-10-31 20:00:53.766] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.766] [info] No control - state: lost, lost: 570/8
+[2025-10-31 20:00:53.766] [info] Write
+[2025-10-31 20:00:53.842] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.842] [info] No control - state: lost, lost: 572/8
+[2025-10-31 20:00:53.842] [info] Write
+[2025-10-31 20:00:53.842] [info] yolo: 7.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:53.919] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.919] [info] No control - state: lost, lost: 574/8
+[2025-10-31 20:00:53.919] [info] Write
+[2025-10-31 20:00:53.993] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:53.993] [info] No control - state: lost, lost: 576/8
+[2025-10-31 20:00:53.993] [info] Write
+[2025-10-31 20:00:54.067] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.067] [info] No control - state: lost, lost: 578/8
+[2025-10-31 20:00:54.067] [info] Write
+[2025-10-31 20:00:54.143] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.143] [info] No control - state: lost, lost: 580/8
+[2025-10-31 20:00:54.143] [info] Write
+[2025-10-31 20:00:54.218] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.218] [info] No control - state: lost, lost: 582/8
+[2025-10-31 20:00:54.218] [info] Write
+[2025-10-31 20:00:54.218] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:54.218] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:54.292] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.292] [info] No control - state: lost, lost: 584/8
+[2025-10-31 20:00:54.292] [info] Write
+[2025-10-31 20:00:54.367] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.367] [info] No control - state: lost, lost: 586/8
+[2025-10-31 20:00:54.367] [info] Write
+[2025-10-31 20:00:54.442] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.442] [info] No control - state: lost, lost: 588/8
+[2025-10-31 20:00:54.442] [info] Write
+[2025-10-31 20:00:54.517] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.517] [info] No control - state: lost, lost: 590/8
+[2025-10-31 20:00:54.517] [info] Write
+[2025-10-31 20:00:54.595] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.595] [info] No control - state: lost, lost: 592/8
+[2025-10-31 20:00:54.595] [info] Write
+[2025-10-31 20:00:54.595] [info] yolo: 11.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:54.666] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.666] [info] No control - state: lost, lost: 594/8
+[2025-10-31 20:00:54.666] [info] Write
+[2025-10-31 20:00:54.742] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.742] [info] No control - state: lost, lost: 596/8
+[2025-10-31 20:00:54.742] [info] Write
+[2025-10-31 20:00:54.818] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.818] [info] No control - state: lost, lost: 598/8
+[2025-10-31 20:00:54.818] [info] Write
+[2025-10-31 20:00:54.893] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.893] [info] No control - state: lost, lost: 600/8
+[2025-10-31 20:00:54.893] [info] Write
+[2025-10-31 20:00:54.966] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:54.966] [info] No control - state: lost, lost: 602/8
+[2025-10-31 20:00:54.966] [info] Write
+[2025-10-31 20:00:54.966] [info] yolo: 7.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:55.043] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.043] [info] No control - state: lost, lost: 604/8
+[2025-10-31 20:00:55.043] [info] Write
+[2025-10-31 20:00:55.120] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.120] [info] No control - state: lost, lost: 606/8
+[2025-10-31 20:00:55.120] [info] Write
+[2025-10-31 20:00:55.194] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.194] [info] No control - state: lost, lost: 608/8
+[2025-10-31 20:00:55.194] [info] Write
+[2025-10-31 20:00:55.267] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.267] [info] No control - state: lost, lost: 610/8
+[2025-10-31 20:00:55.267] [info] Write
+[2025-10-31 20:00:55.267] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:55.342] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.342] [info] No control - state: lost, lost: 612/8
+[2025-10-31 20:00:55.342] [info] Write
+[2025-10-31 20:00:55.342] [info] yolo: 8.2ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:55.416] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.416] [info] No control - state: lost, lost: 614/8
+[2025-10-31 20:00:55.416] [info] Write
+[2025-10-31 20:00:55.494] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.494] [info] No control - state: lost, lost: 616/8
+[2025-10-31 20:00:55.494] [info] Write
+[2025-10-31 20:00:55.566] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.566] [info] No control - state: lost, lost: 618/8
+[2025-10-31 20:00:55.566] [info] Write
+[2025-10-31 20:00:55.641] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.641] [info] No control - state: lost, lost: 620/8
+[2025-10-31 20:00:55.641] [info] Write
+[2025-10-31 20:00:55.721] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.721] [info] No control - state: lost, lost: 622/8
+[2025-10-31 20:00:55.721] [info] Write
+[2025-10-31 20:00:55.721] [info] yolo: 11.6ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:55.793] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.794] [info] No control - state: lost, lost: 624/8
+[2025-10-31 20:00:55.794] [info] Write
+[2025-10-31 20:00:55.869] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.869] [info] No control - state: lost, lost: 626/8
+[2025-10-31 20:00:55.869] [info] Write
+[2025-10-31 20:00:55.943] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:55.943] [info] No control - state: lost, lost: 628/8
+[2025-10-31 20:00:55.943] [info] Write
+[2025-10-31 20:00:56.017] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.017] [info] No control - state: lost, lost: 630/8
+[2025-10-31 20:00:56.017] [info] Write
+[2025-10-31 20:00:56.095] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.095] [info] No control - state: lost, lost: 632/8
+[2025-10-31 20:00:56.095] [info] Write
+[2025-10-31 20:00:56.095] [info] yolo: 11.1ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:56.167] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.167] [info] No control - state: lost, lost: 634/8
+[2025-10-31 20:00:56.167] [info] Write
+[2025-10-31 20:00:56.242] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.242] [info] No control - state: lost, lost: 636/8
+[2025-10-31 20:00:56.242] [info] Write
+[2025-10-31 20:00:56.318] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.318] [info] No control - state: lost, lost: 638/8
+[2025-10-31 20:00:56.318] [info] Write
+[2025-10-31 20:00:56.318] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:56.393] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.393] [info] No control - state: lost, lost: 640/8
+[2025-10-31 20:00:56.393] [info] Write
+[2025-10-31 20:00:56.467] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.467] [info] No control - state: lost, lost: 642/8
+[2025-10-31 20:00:56.467] [info] Write
+[2025-10-31 20:00:56.467] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:56.542] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.542] [info] No control - state: lost, lost: 644/8
+[2025-10-31 20:00:56.542] [info] Write
+[2025-10-31 20:00:56.619] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.619] [info] No control - state: lost, lost: 646/8
+[2025-10-31 20:00:56.619] [info] Write
+[2025-10-31 20:00:56.693] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.694] [info] No control - state: lost, lost: 648/8
+[2025-10-31 20:00:56.694] [info] Write
+[2025-10-31 20:00:56.766] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.766] [info] No control - state: lost, lost: 650/8
+[2025-10-31 20:00:56.766] [info] Write
+[2025-10-31 20:00:56.843] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.843] [info] No control - state: lost, lost: 652/8
+[2025-10-31 20:00:56.843] [info] Write
+[2025-10-31 20:00:56.843] [info] yolo: 9.3ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:56.918] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.918] [info] No control - state: lost, lost: 654/8
+[2025-10-31 20:00:56.918] [info] Write
+[2025-10-31 20:00:56.993] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:56.993] [info] No control - state: lost, lost: 656/8
+[2025-10-31 20:00:56.993] [info] Write
+[2025-10-31 20:00:57.067] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.067] [info] No control - state: lost, lost: 658/8
+[2025-10-31 20:00:57.067] [info] Write
+[2025-10-31 20:00:57.144] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.144] [info] No control - state: lost, lost: 660/8
+[2025-10-31 20:00:57.144] [info] Write
+[2025-10-31 20:00:57.220] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.220] [info] No control - state: lost, lost: 662/8
+[2025-10-31 20:00:57.220] [info] Write
+[2025-10-31 20:00:57.220] [info] yolo: 11.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:57.292] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.292] [info] No control - state: lost, lost: 664/8
+[2025-10-31 20:00:57.292] [info] Write
+[2025-10-31 20:00:57.366] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.366] [info] No control - state: lost, lost: 666/8
+[2025-10-31 20:00:57.366] [info] Write
+[2025-10-31 20:00:57.366] [info] Current FPS: 13.4, State: lost
+[2025-10-31 20:00:57.442] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.442] [info] No control - state: lost, lost: 668/8
+[2025-10-31 20:00:57.442] [info] Write
+[2025-10-31 20:00:57.518] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.518] [info] No control - state: lost, lost: 670/8
+[2025-10-31 20:00:57.518] [info] Write
+[2025-10-31 20:00:57.596] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.596] [info] No control - state: lost, lost: 672/8
+[2025-10-31 20:00:57.596] [info] Write
+[2025-10-31 20:00:57.596] [info] yolo: 12.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:57.666] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.666] [info] No control - state: lost, lost: 674/8
+[2025-10-31 20:00:57.666] [info] Write
+[2025-10-31 20:00:57.742] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.742] [info] No control - state: lost, lost: 676/8
+[2025-10-31 20:00:57.742] [info] Write
+[2025-10-31 20:00:57.819] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.819] [info] No control - state: lost, lost: 678/8
+[2025-10-31 20:00:57.819] [info] Write
+[2025-10-31 20:00:57.892] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.892] [info] No control - state: lost, lost: 680/8
+[2025-10-31 20:00:57.892] [info] Write
+[2025-10-31 20:00:57.966] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:57.966] [info] No control - state: lost, lost: 682/8
+[2025-10-31 20:00:57.966] [info] Write
+[2025-10-31 20:00:57.966] [info] yolo: 6.8ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:58.042] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.042] [info] No control - state: lost, lost: 684/8
+[2025-10-31 20:00:58.043] [info] Write
+[2025-10-31 20:00:58.118] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.118] [info] No control - state: lost, lost: 686/8
+[2025-10-31 20:00:58.118] [info] Write
+[2025-10-31 20:00:58.193] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.193] [info] No control - state: lost, lost: 688/8
+[2025-10-31 20:00:58.193] [info] Write
+[2025-10-31 20:00:58.266] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.266] [info] No control - state: lost, lost: 690/8
+[2025-10-31 20:00:58.266] [info] Write
+[2025-10-31 20:00:58.342] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.342] [info] No control - state: lost, lost: 692/8
+[2025-10-31 20:00:58.342] [info] Write
+[2025-10-31 20:00:58.342] [info] yolo: 8.5ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:58.421] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.421] [info] No control - state: lost, lost: 694/8
+[2025-10-31 20:00:58.421] [info] Write
+[2025-10-31 20:00:58.421] [info] Current FPS: 13.3, State: lost
+[2025-10-31 20:00:58.493] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.493] [info] No control - state: lost, lost: 696/8
+[2025-10-31 20:00:58.493] [info] Write
+[2025-10-31 20:00:58.568] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.568] [info] No control - state: lost, lost: 698/8
+[2025-10-31 20:00:58.568] [info] Write
+[2025-10-31 20:00:58.642] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.642] [info] No control - state: lost, lost: 700/8
+[2025-10-31 20:00:58.642] [info] Write
+[2025-10-31 20:00:58.718] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.718] [info] No control - state: lost, lost: 702/8
+[2025-10-31 20:00:58.718] [info] Write
+[2025-10-31 20:00:58.718] [info] yolo: 9.7ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:58.793] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.793] [info] No control - state: lost, lost: 704/8
+[2025-10-31 20:00:58.793] [info] Write
+[2025-10-31 20:00:58.869] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.869] [info] No control - state: lost, lost: 706/8
+[2025-10-31 20:00:58.869] [info] Write
+[2025-10-31 20:00:58.944] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:58.944] [info] No control - state: lost, lost: 708/8
+[2025-10-31 20:00:58.944] [info] Write
+[2025-10-31 20:00:59.018] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:59.018] [info] No control - state: lost, lost: 710/8
+[2025-10-31 20:00:59.018] [info] Write
+[2025-10-31 20:00:59.091] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:59.091] [info] No control - state: lost, lost: 712/8
+[2025-10-31 20:00:59.091] [info] Write
+[2025-10-31 20:00:59.092] [info] yolo: 8.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:59.166] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:59.166] [info] No control - state: lost, lost: 714/8
+[2025-10-31 20:00:59.166] [info] Write
+[2025-10-31 20:00:59.242] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:59.242] [info] No control - state: lost, lost: 716/8
+[2025-10-31 20:00:59.242] [info] Write
+[2025-10-31 20:00:59.318] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:59.318] [info] No control - state: lost, lost: 718/8
+[2025-10-31 20:00:59.318] [info] Write
+[2025-10-31 20:00:59.393] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:59.393] [info] No control - state: lost, lost: 720/8
+[2025-10-31 20:00:59.393] [info] Write
+[2025-10-31 20:00:59.465] [warning] Target completely lost, stopping control
+[2025-10-31 20:00:59.466] [info] No control - state: lost, lost: 722/8
+[2025-10-31 20:00:59.466] [info] Write
+[2025-10-31 20:00:59.466] [info] Current FPS: 13.4, State: lost
+[2025-10-31 20:00:59.466] [info] yolo: 7.0ms, tracker: 0.0ms, aimer: 0.1ms
+[2025-10-31 20:00:59.477] [warning] Camera dropped!
+[2025-10-31 20:00:59.605] [warning] Unable to open usb!
+[2025-10-31 20:01:00.006] [warning] Not found camera!
+[2025-10-31 20:01:00.107] [warning] Unable to open usb!
+[2025-10-31 20:01:00.507] [warning] Not found camera!
+[2025-10-31 20:01:00.607] [warning] Unable to open usb!
+[2025-10-31 20:01:01.008] [warning] Not found camera!
+[2025-10-31 20:01:01.108] [warning] Unable to open usb!
+[2025-10-31 20:01:01.509] [warning] Not found camera!
+[2025-10-31 20:01:01.609] [warning] Unable to open usb!
+[2025-10-31 20:01:02.010] [warning] Not found camera!
+[2025-10-31 20:01:02.110] [warning] Unable to open usb!
+[2025-10-31 20:01:02.511] [warning] Not found camera!
+[2025-10-31 20:01:02.611] [warning] Unable to open usb!
+[2025-10-31 20:01:03.012] [warning] Not found camera!
+[2025-10-31 20:01:03.112] [warning] Unable to open usb!
+[2025-10-31 20:01:03.513] [warning] Not found camera!
+[2025-10-31 20:01:03.613] [warning] Unable to open usb!
+[2025-10-31 20:01:03.814] [warning] Not found camera!
+[2025-10-31 20:01:03.914] [warning] Unable to open usb!
+[2025-10-31 20:01:04.315] [warning] Not found camera!
+[2025-10-31 20:01:04.415] [warning] Unable to open usb!
+[2025-10-31 20:01:05.016] [warning] Not found camera!
+[2025-10-31 20:01:05.116] [warning] Unable to open usb!
+[2025-10-31 20:01:05.517] [warning] Not found camera!
+[2025-10-31 20:01:05.617] [warning] Unable to open usb!
+[2025-10-31 20:01:06.018] [warning] Not found camera!
+[2025-10-31 20:01:06.118] [warning] Unable to open usb!
+[2025-10-31 20:01:06.519] [warning] Not found camera!
+[2025-10-31 20:01:06.619] [warning] Unable to open usb!
+[2025-10-31 20:01:06.896] [warning] [Gimbal] read timeout, read 30 / 41 bytes
+[2025-10-31 20:01:06.997] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:07.020] [warning] Not found camera!
+[2025-10-31 20:01:07.099] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:07.120] [warning] Unable to open usb!
+[2025-10-31 20:01:07.201] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:07.302] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:07.320] [warning] Not found camera!
+[2025-10-31 20:01:07.403] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:07.420] [warning] Unable to open usb!
+[2025-10-31 20:01:07.505] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:07.606] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:07.621] [warning] Not found camera!
+[2025-10-31 20:01:07.708] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:07.721] [warning] Unable to open usb!
+[2025-10-31 20:01:07.809] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:07.911] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.013] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.114] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.122] [warning] Not found camera!
+[2025-10-31 20:01:08.216] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.222] [warning] Unable to open usb!
+[2025-10-31 20:01:08.318] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.419] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.423] [warning] Not found camera!
+[2025-10-31 20:01:08.521] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.523] [warning] Unable to open usb!
+[2025-10-31 20:01:08.622] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.724] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.825] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:08.924] [warning] Not found camera!
+[2025-10-31 20:01:08.927] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.024] [warning] Unable to open usb!
+[2025-10-31 20:01:09.029] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.130] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.232] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.334] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.424] [warning] Not found camera!
+[2025-10-31 20:01:09.435] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.525] [warning] Unable to open usb!
+[2025-10-31 20:01:09.536] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.638] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.739] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.841] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:09.925] [warning] Not found camera!
+[2025-10-31 20:01:09.942] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.025] [warning] Unable to open usb!
+[2025-10-31 20:01:10.044] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.145] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.246] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.348] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.426] [warning] Not found camera!
+[2025-10-31 20:01:10.450] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.526] [warning] Unable to open usb!
+[2025-10-31 20:01:10.551] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.653] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.754] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.856] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:10.927] [warning] Not found camera!
+[2025-10-31 20:01:10.957] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.027] [warning] Unable to open usb!
+[2025-10-31 20:01:11.059] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.160] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.262] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.364] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.428] [warning] Not found camera!
+[2025-10-31 20:01:11.465] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.528] [warning] Unable to open usb!
+[2025-10-31 20:01:11.567] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.668] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.770] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.872] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:11.928] [warning] Not found camera!
+[2025-10-31 20:01:11.974] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.028] [warning] Unable to open usb!
+[2025-10-31 20:01:12.075] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.177] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.279] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.380] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.429] [warning] Not found camera!
+[2025-10-31 20:01:12.482] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.529] [warning] Unable to open usb!
+[2025-10-31 20:01:12.583] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.684] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.786] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.888] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:12.930] [warning] Not found camera!
+[2025-10-31 20:01:12.989] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.030] [warning] Unable to open usb!
+[2025-10-31 20:01:13.091] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.192] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.294] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.395] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.431] [warning] Not found camera!
+[2025-10-31 20:01:13.497] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.531] [warning] Unable to open usb!
+[2025-10-31 20:01:13.599] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.700] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.802] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.904] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:13.932] [warning] Not found camera!
+[2025-10-31 20:01:14.005] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.032] [warning] Unable to open usb!
+[2025-10-31 20:01:14.107] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.208] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.310] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.412] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.433] [warning] Not found camera!
+[2025-10-31 20:01:14.513] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.533] [warning] Unable to open usb!
+[2025-10-31 20:01:14.615] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.716] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.818] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.920] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:14.933] [warning] Not found camera!
+[2025-10-31 20:01:15.021] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:15.033] [warning] Unable to open usb!
+[2025-10-31 20:01:15.123] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:15.225] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:15.326] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:15.428] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:15.434] [warning] Not found camera!
+[2025-10-31 20:01:15.530] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:15.534] [warning] Unable to open usb!
+[2025-10-31 20:01:15.631] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:15.733] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:15.834] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:15.935] [warning] Not found camera!
+[2025-10-31 20:01:15.936] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.035] [warning] Unable to open usb!
+[2025-10-31 20:01:16.037] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.139] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.241] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.342] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.436] [warning] Not found camera!
+[2025-10-31 20:01:16.443] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.536] [warning] Unable to open usb!
+[2025-10-31 20:01:16.545] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.647] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.748] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.850] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:16.937] [warning] Not found camera!
+[2025-10-31 20:01:16.951] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.037] [warning] Unable to open usb!
+[2025-10-31 20:01:17.053] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.154] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.256] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.357] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.437] [warning] Not found camera!
+[2025-10-31 20:01:17.458] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.538] [warning] Unable to open usb!
+[2025-10-31 20:01:17.560] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.661] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.763] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.864] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:17.938] [warning] Not found camera!
+[2025-10-31 20:01:17.966] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.038] [warning] Unable to open usb!
+[2025-10-31 20:01:18.067] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.168] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.270] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.371] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.439] [warning] Not found camera!
+[2025-10-31 20:01:18.473] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.539] [warning] Unable to open usb!
+[2025-10-31 20:01:18.575] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.677] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.778] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.879] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:18.940] [warning] Not found camera!
+[2025-10-31 20:01:18.981] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.040] [warning] Unable to open usb!
+[2025-10-31 20:01:19.082] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.183] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.241] [warning] Not found camera!
+[2025-10-31 20:01:19.285] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.341] [warning] Unable to open usb!
+[2025-10-31 20:01:19.386] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.488] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.590] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.691] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.742] [warning] Not found camera!
+[2025-10-31 20:01:19.793] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.842] [warning] Unable to open usb!
+[2025-10-31 20:01:19.895] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:19.997] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:20.098] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:20.200] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:20.243] [warning] Not found camera!
+[2025-10-31 20:01:20.301] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:20.343] [warning] Unable to open usb!
+[2025-10-31 20:01:20.402] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:20.504] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:20.605] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:20.707] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:20.744] [warning] Not found camera!
+[2025-10-31 20:01:20.809] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:20.844] [warning] Unable to open usb!
+[2025-10-31 20:01:20.910] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.012] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.113] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.215] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.245] [warning] Not found camera!
+[2025-10-31 20:01:21.316] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.345] [warning] Unable to open usb!
+[2025-10-31 20:01:21.418] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.519] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.545] [warning] Not found camera!
+[2025-10-31 20:01:21.621] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.645] [warning] Unable to open usb!
+[2025-10-31 20:01:21.723] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.825] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:21.927] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.028] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.046] [warning] Not found camera!
+[2025-10-31 20:01:22.130] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.146] [warning] Unable to open usb!
+[2025-10-31 20:01:22.232] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.333] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.435] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.536] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.547] [warning] Not found camera!
+[2025-10-31 20:01:22.638] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.647] [warning] Unable to open usb!
+[2025-10-31 20:01:22.739] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.841] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:22.942] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.043] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.048] [warning] Not found camera!
+[2025-10-31 20:01:23.145] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.148] [warning] Unable to open usb!
+[2025-10-31 20:01:23.247] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.348] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.449] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.549] [warning] Not found camera!
+[2025-10-31 20:01:23.551] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.649] [warning] Unable to open usb!
+[2025-10-31 20:01:23.652] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.754] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.855] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:23.956] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.049] [warning] Not found camera!
+[2025-10-31 20:01:24.058] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.150] [warning] Unable to open usb!
+[2025-10-31 20:01:24.159] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.261] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.363] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.464] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.550] [warning] Not found camera!
+[2025-10-31 20:01:24.566] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.650] [warning] Unable to open usb!
+[2025-10-31 20:01:24.667] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.769] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.871] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:24.973] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.051] [warning] Not found camera!
+[2025-10-31 20:01:25.075] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.152] [warning] Unable to open usb!
+[2025-10-31 20:01:25.176] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.277] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.379] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.480] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.552] [warning] Not found camera!
+[2025-10-31 20:01:25.582] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.652] [warning] Unable to open usb!
+[2025-10-31 20:01:25.683] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.784] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.886] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:25.987] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:26.053] [warning] Not found camera!
+[2025-10-31 20:01:26.089] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:26.154] [warning] Unable to open usb!
+[2025-10-31 20:01:26.190] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:26.291] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:26.393] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:26.495] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:26.596] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:26.697] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:26.754] [warning] Not found camera!
+[2025-10-31 20:01:26.799] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:26.855] [warning] Unable to open usb!
+[2025-10-31 20:01:26.900] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.002] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.103] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.204] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.255] [warning] Not found camera!
+[2025-10-31 20:01:27.306] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.355] [warning] Unable to open usb!
+[2025-10-31 20:01:27.408] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.509] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.610] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.712] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.756] [warning] Not found camera!
+[2025-10-31 20:01:27.813] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:27.856] [warning] Unable to open usb!
+[2025-10-31 20:01:27.915] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.016] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.118] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.219] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.257] [warning] Not found camera!
+[2025-10-31 20:01:28.321] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.357] [warning] Unable to open usb!
+[2025-10-31 20:01:28.422] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.524] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.625] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.726] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.758] [warning] Not found camera!
+[2025-10-31 20:01:28.828] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:28.858] [warning] Unable to open usb!
+[2025-10-31 20:01:28.929] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.031] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.132] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.234] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.259] [warning] Not found camera!
+[2025-10-31 20:01:29.335] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.359] [warning] Unable to open usb!
+[2025-10-31 20:01:29.437] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.538] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.640] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.741] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.760] [warning] Not found camera!
+[2025-10-31 20:01:29.843] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:29.860] [warning] Unable to open usb!
+[2025-10-31 20:01:29.944] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.046] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.148] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.250] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.261] [warning] Not found camera!
+[2025-10-31 20:01:30.351] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.361] [warning] Unable to open usb!
+[2025-10-31 20:01:30.452] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.554] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.656] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.757] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.762] [warning] Not found camera!
+[2025-10-31 20:01:30.859] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:30.862] [warning] Unable to open usb!
+[2025-10-31 20:01:30.961] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.063] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.164] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.262] [warning] Not found camera!
+[2025-10-31 20:01:31.266] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.362] [warning] Unable to open usb!
+[2025-10-31 20:01:31.368] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.469] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.571] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.673] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.763] [warning] Not found camera!
+[2025-10-31 20:01:31.774] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.863] [warning] Unable to open usb!
+[2025-10-31 20:01:31.876] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:31.977] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.079] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.180] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.264] [warning] Not found camera!
+[2025-10-31 20:01:32.282] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.364] [warning] Unable to open usb!
+[2025-10-31 20:01:32.383] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.484] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.585] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.687] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.765] [warning] Not found camera!
+[2025-10-31 20:01:32.789] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.865] [warning] Unable to open usb!
+[2025-10-31 20:01:32.891] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:32.992] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:33.094] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:33.195] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:33.266] [warning] Not found camera!
+[2025-10-31 20:01:33.297] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:33.366] [warning] Unable to open usb!
+[2025-10-31 20:01:33.398] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:33.499] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:33.566] [warning] Not found camera!
+[2025-10-31 20:01:33.601] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:33.667] [warning] Unable to open usb!
+[2025-10-31 20:01:33.702] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:33.803] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:33.905] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.006] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.067] [warning] Not found camera!
+[2025-10-31 20:01:34.108] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.167] [warning] Unable to open usb!
+[2025-10-31 20:01:34.210] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.311] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.413] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.515] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.568] [warning] Not found camera!
+[2025-10-31 20:01:34.616] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.668] [warning] Unable to open usb!
+[2025-10-31 20:01:34.718] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.819] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:34.921] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.022] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.069] [warning] Not found camera!
+[2025-10-31 20:01:35.124] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.170] [warning] Unable to open usb!
+[2025-10-31 20:01:35.226] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.327] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.429] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.530] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.570] [warning] Not found camera!
+[2025-10-31 20:01:35.631] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.671] [warning] Unable to open usb!
+[2025-10-31 20:01:35.733] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.835] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:35.937] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.038] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.071] [warning] Not found camera!
+[2025-10-31 20:01:36.139] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.171] [warning] Unable to open usb!
+[2025-10-31 20:01:36.241] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.342] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.443] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.545] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.572] [warning] Not found camera!
+[2025-10-31 20:01:36.646] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.672] [warning] Unable to open usb!
+[2025-10-31 20:01:36.748] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.850] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.873] [warning] Not found camera!
+[2025-10-31 20:01:36.951] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:36.973] [warning] Unable to open usb!
+[2025-10-31 20:01:37.053] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.154] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.255] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.357] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.374] [warning] Not found camera!
+[2025-10-31 20:01:37.459] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.474] [warning] Unable to open usb!
+[2025-10-31 20:01:37.560] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.661] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.763] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.864] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.875] [warning] Not found camera!
+[2025-10-31 20:01:37.965] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:37.975] [warning] Unable to open usb!
+[2025-10-31 20:01:38.067] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:38.168] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:38.270] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:38.371] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:38.375] [warning] Not found camera!
+[2025-10-31 20:01:38.472] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:38.475] [warning] Unable to open usb!
+[2025-10-31 20:01:38.574] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:38.676] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:38.778] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:38.876] [warning] Not found camera!
+[2025-10-31 20:01:38.880] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:38.976] [warning] Unable to open usb!
+[2025-10-31 20:01:38.981] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.083] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.177] [warning] Not found camera!
+[2025-10-31 20:01:39.185] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.277] [warning] Unable to open usb!
+[2025-10-31 20:01:39.286] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.388] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.478] [warning] Not found camera!
+[2025-10-31 20:01:39.489] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.578] [warning] Unable to open usb!
+[2025-10-31 20:01:39.591] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.693] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.794] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.896] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:39.979] [warning] Not found camera!
+[2025-10-31 20:01:39.997] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:40.079] [warning] Unable to open usb!
+[2025-10-31 20:01:40.098] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:40.200] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:40.280] [warning] Not found camera!
+[2025-10-31 20:01:40.301] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:40.380] [warning] Unable to open usb!
+[2025-10-31 20:01:40.402] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:40.504] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:40.605] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:40.706] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:40.781] [warning] Not found camera!
+[2025-10-31 20:01:40.808] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:40.881] [warning] Unable to open usb!
+[2025-10-31 20:01:40.909] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.010] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.111] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.212] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.282] [warning] Not found camera!
+[2025-10-31 20:01:41.314] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.382] [warning] Unable to open usb!
+[2025-10-31 20:01:41.415] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.517] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.582] [warning] Not found camera!
+[2025-10-31 20:01:41.618] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.682] [warning] Unable to open usb!
+[2025-10-31 20:01:41.719] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.820] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:41.922] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.023] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.083] [warning] Not found camera!
+[2025-10-31 20:01:42.124] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.183] [warning] Unable to open usb!
+[2025-10-31 20:01:42.225] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.326] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.384] [warning] Not found camera!
+[2025-10-31 20:01:42.428] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.484] [warning] Unable to open usb!
+[2025-10-31 20:01:42.529] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.630] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.732] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.833] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.885] [warning] Not found camera!
+[2025-10-31 20:01:42.934] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:42.985] [warning] Unable to open usb!
+[2025-10-31 20:01:43.036] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.137] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.238] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.339] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.386] [warning] Not found camera!
+[2025-10-31 20:01:43.440] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.486] [warning] Unable to open usb!
+[2025-10-31 20:01:43.542] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.643] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.744] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.846] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.887] [warning] Not found camera!
+[2025-10-31 20:01:43.947] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:43.987] [warning] Unable to open usb!
+[2025-10-31 20:01:44.048] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.149] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.251] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.352] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.389] [warning] Not found camera!
+[2025-10-31 20:01:44.453] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.489] [warning] Unable to open usb!
+[2025-10-31 20:01:44.554] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.655] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.757] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.858] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.890] [warning] Not found camera!
+[2025-10-31 20:01:44.959] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:44.990] [warning] Unable to open usb!
+[2025-10-31 20:01:45.061] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.162] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.263] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.365] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.391] [warning] Not found camera!
+[2025-10-31 20:01:45.466] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.491] [warning] Unable to open usb!
+[2025-10-31 20:01:45.567] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.668] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.770] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.871] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.892] [warning] Not found camera!
+[2025-10-31 20:01:45.973] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:45.992] [warning] Unable to open usb!
+[2025-10-31 20:01:46.074] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:46.175] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:46.277] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:46.378] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:46.394] [warning] Not found camera!
+[2025-10-31 20:01:46.479] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:46.494] [warning] Unable to open usb!
+[2025-10-31 20:01:46.580] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:46.682] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:46.695] [warning] Not found camera!
+[2025-10-31 20:01:46.784] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:46.795] [warning] Unable to open usb!
+[2025-10-31 20:01:46.885] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:46.987] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.088] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.189] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.196] [warning] Not found camera!
+[2025-10-31 20:01:47.290] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.296] [warning] Unable to open usb!
+[2025-10-31 20:01:47.392] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.493] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.497] [warning] Not found camera!
+[2025-10-31 20:01:47.594] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.597] [warning] Unable to open usb!
+[2025-10-31 20:01:47.695] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.797] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.798] [warning] Not found camera!
+[2025-10-31 20:01:47.898] [warning] Unable to open usb!
+[2025-10-31 20:01:47.898] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:47.999] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:48.101] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:48.202] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:48.299] [warning] Not found camera!
+[2025-10-31 20:01:48.303] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:48.399] [warning] Unable to open usb!
+[2025-10-31 20:01:48.404] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:48.506] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:48.599] [warning] Not found camera!
+[2025-10-31 20:01:48.607] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:48.700] [warning] Unable to open usb!
+[2025-10-31 20:01:48.708] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:48.810] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:48.911] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.012] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.101] [warning] Not found camera!
+[2025-10-31 20:01:49.114] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.201] [warning] Unable to open usb!
+[2025-10-31 20:01:49.216] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.318] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.401] [warning] Not found camera!
+[2025-10-31 20:01:49.419] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.502] [warning] Unable to open usb!
+[2025-10-31 20:01:49.521] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.623] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.724] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.826] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:49.902] [warning] Not found camera!
+[2025-10-31 20:01:49.928] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.003] [warning] Unable to open usb!
+[2025-10-31 20:01:50.030] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.131] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.203] [warning] Not found camera!
+[2025-10-31 20:01:50.233] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.304] [warning] Unable to open usb!
+[2025-10-31 20:01:50.335] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.436] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.538] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.640] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.704] [warning] Not found camera!
+[2025-10-31 20:01:50.741] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.805] [warning] Unable to open usb!
+[2025-10-31 20:01:50.843] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:50.945] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.046] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.148] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.206] [warning] Not found camera!
+[2025-10-31 20:01:51.250] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.306] [warning] Unable to open usb!
+[2025-10-31 20:01:51.351] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.453] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.555] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.657] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.706] [warning] Not found camera!
+[2025-10-31 20:01:51.758] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.806] [warning] Unable to open usb!
+[2025-10-31 20:01:51.860] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:51.961] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.007] [warning] Not found camera!
+[2025-10-31 20:01:52.062] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.107] [warning] Unable to open usb!
+[2025-10-31 20:01:52.164] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.266] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.367] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.469] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.508] [warning] Not found camera!
+[2025-10-31 20:01:52.571] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.608] [warning] Unable to open usb!
+[2025-10-31 20:01:52.673] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.774] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.875] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:52.977] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.009] [warning] Not found camera!
+[2025-10-31 20:01:53.078] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.109] [warning] Unable to open usb!
+[2025-10-31 20:01:53.179] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.280] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.382] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.483] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.510] [warning] Not found camera!
+[2025-10-31 20:01:53.584] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.610] [warning] Unable to open usb!
+[2025-10-31 20:01:53.685] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.786] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.888] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:53.989] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:54.011] [warning] Not found camera!
+[2025-10-31 20:01:54.090] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:54.111] [warning] Unable to open usb!
+[2025-10-31 20:01:54.192] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:54.293] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:54.394] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:54.495] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:54.512] [warning] Not found camera!
+[2025-10-31 20:01:54.596] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:54.612] [warning] Unable to open usb!
+[2025-10-31 20:01:54.698] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:54.800] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:54.902] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.003] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.013] [warning] Not found camera!
+[2025-10-31 20:01:55.104] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.114] [warning] Unable to open usb!
+[2025-10-31 20:01:55.206] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.308] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.410] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.512] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.515] [warning] Not found camera!
+[2025-10-31 20:01:55.613] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.615] [warning] Unable to open usb!
+[2025-10-31 20:01:55.715] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.817] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:55.918] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.016] [warning] Not found camera!
+[2025-10-31 20:01:56.020] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.116] [warning] Unable to open usb!
+[2025-10-31 20:01:56.122] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.224] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.325] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.426] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.518] [warning] Not found camera!
+[2025-10-31 20:01:56.527] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.618] [warning] Unable to open usb!
+[2025-10-31 20:01:56.629] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.730] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.831] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:56.933] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.019] [warning] Not found camera!
+[2025-10-31 20:01:57.034] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.119] [warning] Unable to open usb!
+[2025-10-31 20:01:57.135] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.236] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.338] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.439] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.521] [warning] Not found camera!
+[2025-10-31 20:01:57.540] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.621] [warning] Unable to open usb!
+[2025-10-31 20:01:57.642] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.743] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.844] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:57.946] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.022] [warning] Not found camera!
+[2025-10-31 20:01:58.047] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.123] [warning] Unable to open usb!
+[2025-10-31 20:01:58.148] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.249] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.351] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.452] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.524] [warning] Not found camera!
+[2025-10-31 20:01:58.553] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.624] [warning] Unable to open usb!
+[2025-10-31 20:01:58.655] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.756] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.825] [warning] Not found camera!
+[2025-10-31 20:01:58.858] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:58.925] [warning] Unable to open usb!
+[2025-10-31 20:01:58.960] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.062] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.164] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.265] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.326] [warning] Not found camera!
+[2025-10-31 20:01:59.367] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.426] [warning] Unable to open usb!
+[2025-10-31 20:01:59.469] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.571] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.673] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.774] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.827] [warning] Not found camera!
+[2025-10-31 20:01:59.876] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:01:59.927] [warning] Unable to open usb!
+[2025-10-31 20:01:59.977] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.079] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.180] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.281] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.328] [warning] Not found camera!
+[2025-10-31 20:02:00.382] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.428] [warning] Unable to open usb!
+[2025-10-31 20:02:00.484] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.585] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.687] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.788] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.829] [warning] Not found camera!
+[2025-10-31 20:02:00.890] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:00.929] [warning] Unable to open usb!
+[2025-10-31 20:02:00.992] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.094] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.196] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.297] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.330] [warning] Not found camera!
+[2025-10-31 20:02:01.398] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.430] [warning] Unable to open usb!
+[2025-10-31 20:02:01.500] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.601] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.703] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.804] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.831] [warning] Not found camera!
+[2025-10-31 20:02:01.905] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:01.931] [warning] Unable to open usb!
+[2025-10-31 20:02:02.006] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.108] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.209] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.311] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.332] [warning] Not found camera!
+[2025-10-31 20:02:02.412] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.432] [warning] Unable to open usb!
+[2025-10-31 20:02:02.513] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.615] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.716] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.817] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.833] [warning] Not found camera!
+[2025-10-31 20:02:02.919] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:02.933] [warning] Unable to open usb!
+[2025-10-31 20:02:03.020] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:03.121] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:03.223] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:03.325] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:03.334] [warning] Not found camera!
+[2025-10-31 20:02:03.426] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:03.434] [warning] Unable to open usb!
+[2025-10-31 20:02:03.528] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:03.630] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:03.731] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:03.833] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:03.835] [warning] Not found camera!
+[2025-10-31 20:02:03.935] [warning] Unable to open usb!
+[2025-10-31 20:02:03.935] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.036] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.135] [warning] Not found camera!
+[2025-10-31 20:02:04.138] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.235] [warning] Unable to open usb!
+[2025-10-31 20:02:04.240] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.341] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.443] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.545] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.636] [warning] Not found camera!
+[2025-10-31 20:02:04.646] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.736] [warning] Unable to open usb!
+[2025-10-31 20:02:04.748] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.849] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:04.950] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.052] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.137] [warning] Not found camera!
+[2025-10-31 20:02:05.154] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.237] [warning] Unable to open usb!
+[2025-10-31 20:02:05.256] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.357] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.459] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.560] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.638] [warning] Not found camera!
+[2025-10-31 20:02:05.662] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.738] [warning] Unable to open usb!
+[2025-10-31 20:02:05.764] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.866] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:05.967] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.068] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.139] [warning] Not found camera!
+[2025-10-31 20:02:06.170] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.240] [warning] Unable to open usb!
+[2025-10-31 20:02:06.271] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.373] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.475] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.576] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.678] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.779] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.840] [warning] Not found camera!
+[2025-10-31 20:02:06.881] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:06.941] [warning] Unable to open usb!
+[2025-10-31 20:02:06.983] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.084] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.186] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.287] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.341] [warning] Not found camera!
+[2025-10-31 20:02:07.388] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.442] [warning] Unable to open usb!
+[2025-10-31 20:02:07.490] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.591] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.693] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.794] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.895] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:07.997] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:08.043] [warning] Not found camera!
+[2025-10-31 20:02:08.098] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:08.143] [warning] Unable to open usb!
+[2025-10-31 20:02:08.200] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:08.302] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:08.404] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:08.505] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:08.544] [warning] Not found camera!
+[2025-10-31 20:02:08.607] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:08.644] [warning] Unable to open usb!
+[2025-10-31 20:02:08.708] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:08.810] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:08.912] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.013] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.045] [warning] Not found camera!
+[2025-10-31 20:02:09.115] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.145] [warning] Unable to open usb!
+[2025-10-31 20:02:09.216] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.318] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.419] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.521] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.546] [warning] Not found camera!
+[2025-10-31 20:02:09.623] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.646] [warning] Unable to open usb!
+[2025-10-31 20:02:09.724] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.826] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:09.928] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.030] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.046] [warning] Not found camera!
+[2025-10-31 20:02:10.131] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.146] [warning] Unable to open usb!
+[2025-10-31 20:02:10.233] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.334] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.435] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.537] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.547] [warning] Not found camera!
+[2025-10-31 20:02:10.638] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.647] [warning] Unable to open usb!
+[2025-10-31 20:02:10.740] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.842] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:10.944] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.046] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.048] [warning] Not found camera!
+[2025-10-31 20:02:11.147] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.148] [warning] Unable to open usb!
+[2025-10-31 20:02:11.249] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.350] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.452] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.549] [warning] Not found camera!
+[2025-10-31 20:02:11.553] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.649] [warning] Unable to open usb!
+[2025-10-31 20:02:11.655] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.757] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.858] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:11.960] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.050] [warning] Not found camera!
+[2025-10-31 20:02:12.061] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.150] [warning] Unable to open usb!
+[2025-10-31 20:02:12.163] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.264] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.366] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.467] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.551] [warning] Not found camera!
+[2025-10-31 20:02:12.568] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.651] [warning] Unable to open usb!
+[2025-10-31 20:02:12.670] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.771] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.873] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:12.974] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.052] [warning] Not found camera!
+[2025-10-31 20:02:13.076] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.152] [warning] Unable to open usb!
+[2025-10-31 20:02:13.177] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.278] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.380] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.481] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.553] [warning] Not found camera!
+[2025-10-31 20:02:13.583] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.653] [warning] Unable to open usb!
+[2025-10-31 20:02:13.684] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.786] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.888] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:13.989] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.054] [warning] Not found camera!
+[2025-10-31 20:02:14.091] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.154] [warning] Unable to open usb!
+[2025-10-31 20:02:14.192] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.294] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.395] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.497] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.555] [warning] Not found camera!
+[2025-10-31 20:02:14.598] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.655] [warning] Unable to open usb!
+[2025-10-31 20:02:14.700] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.801] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.856] [warning] Not found camera!
+[2025-10-31 20:02:14.903] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:14.956] [warning] Unable to open usb!
+[2025-10-31 20:02:15.004] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:15.106] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:15.208] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:15.309] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:15.411] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:15.513] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:15.557] [warning] Not found camera!
+[2025-10-31 20:02:15.614] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:15.657] [warning] Unable to open usb!
+[2025-10-31 20:02:15.716] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:15.817] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:15.918] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.020] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.058] [warning] Not found camera!
+[2025-10-31 20:02:16.121] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.158] [warning] Unable to open usb!
+[2025-10-31 20:02:16.223] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.325] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.426] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.527] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.629] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.731] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.759] [warning] Not found camera!
+[2025-10-31 20:02:16.832] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:16.859] [warning] Unable to open usb!
+[2025-10-31 20:02:16.934] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.035] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.137] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.238] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.260] [warning] Not found camera!
+[2025-10-31 20:02:17.340] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.360] [warning] Unable to open usb!
+[2025-10-31 20:02:17.442] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.543] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.644] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.746] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.760] [warning] Not found camera!
+[2025-10-31 20:02:17.847] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:17.860] [warning] Unable to open usb!
+[2025-10-31 20:02:17.949] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.051] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.153] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.254] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.261] [warning] Not found camera!
+[2025-10-31 20:02:18.355] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.361] [warning] Unable to open usb!
+[2025-10-31 20:02:18.457] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.558] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.659] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.761] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.762] [warning] Not found camera!
+[2025-10-31 20:02:18.862] [warning] Unable to open usb!
+[2025-10-31 20:02:18.862] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:18.964] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.066] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.167] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.269] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.371] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.463] [warning] Not found camera!
+[2025-10-31 20:02:19.472] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.563] [warning] Unable to open usb!
+[2025-10-31 20:02:19.574] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.675] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.777] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.878] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:19.964] [warning] Not found camera!
+[2025-10-31 20:02:19.980] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:20.064] [warning] Unable to open usb!
+[2025-10-31 20:02:20.082] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:20.183] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:20.265] [warning] Not found camera!
+[2025-10-31 20:02:20.285] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:20.365] [warning] Unable to open usb!
+[2025-10-31 20:02:20.386] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-31 20:02:20.488] [warning] [Gimbal] read timeout, read 0 / 2 bytes

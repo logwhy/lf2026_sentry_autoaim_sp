@@ -1,0 +1,65 @@
+[2025-12-18 21:02:17.954] [info] 正在初始化相机 1...
+[2025-12-18 21:02:17.954] [info] HikRobot's daemon thread started.
+[2025-12-18 21:02:17.975] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:18.075] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:18.077] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:18.177] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:18.180] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:18.275] [info] [MultiThreadDetector] initialized !
+[2025-12-18 21:02:18.276] [info] 等待 USB 总线稳定 (2s)...
+[2025-12-18 21:02:18.280] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:18.282] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:18.382] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:18.385] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:18.485] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:18.488] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:18.588] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:18.590] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:18.691] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:18.694] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:18.794] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:18.797] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:18.897] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:18.899] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.000] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.002] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.102] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.105] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.205] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.208] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.308] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.311] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.411] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.414] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.514] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.517] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.617] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.619] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.719] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.722] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.822] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.824] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:19.924] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:19.927] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:20.027] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:20.031] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:20.131] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:20.134] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:20.234] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:20.236] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:20.276] [info] 正在初始化相机 2...
+[2025-12-18 21:02:20.277] [info] HikRobot's daemon thread started.
+[2025-12-18 21:02:20.280] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:20.316] [error] 初始化异常: bad conversion
+[2025-12-18 21:02:20.336] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:20.340] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:20.380] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:20.383] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:20.383] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:20.383] [info] HikRobot's daemon thread stopped.
+[2025-12-18 21:02:20.383] [info] HikRobot destructed.
+[2025-12-18 21:02:20.440] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:20.443] [error] 找不到标识符为  的相机!
+[2025-12-18 21:02:20.444] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-12-18 21:02:20.444] [info] HikRobot's daemon thread stopped.
+[2025-12-18 21:02:20.444] [info] HikRobot destructed.

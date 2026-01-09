@@ -1,0 +1,93 @@
+[2026-01-06 21:13:54.009] [info] [Gimbal] read_thread started.
+[2026-01-06 21:13:54.009] [info] [Gimbal] First q received.
+[2026-01-06 21:13:54.179] [info] HikRobot's daemon thread started.
+[2026-01-06 21:13:54.435] [info] HikRobot's capture thread started.
+[2026-01-06 21:13:56.313] [info] HikRobot's daemon thread started.
+[2026-01-06 21:13:56.329] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:56.429] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:56.451] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:56.551] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:56.577] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:56.678] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:56.712] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:56.812] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:56.837] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:56.937] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:56.967] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:57.067] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:57.097] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:57.197] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:57.227] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:57.327] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:57.352] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:57.452] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:57.467] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:57.567] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:57.597] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:57.697] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:57.722] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:57.822] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:57.837] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:57.938] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:57.958] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:58.058] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:58.092] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:58.192] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:58.212] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:58.312] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:58.332] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:58.432] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:58.447] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:58.547] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:58.564] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:58.664] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:58.699] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:58.799] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:58.829] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:58.930] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:58.941] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:59.041] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:59.076] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:59.176] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:59.182] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:59.282] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:59.307] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:59.407] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:59.422] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:59.522] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:59.537] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:59.637] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:59.657] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:59.757] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:59.777] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:13:59.877] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:13:59.902] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:00.002] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:00.018] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:00.118] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:00.129] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:00.229] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:00.259] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:00.359] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:00.394] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:00.494] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:00.524] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:00.624] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:00.659] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:00.759] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:00.794] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:00.894] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:00.934] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:01.034] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:01.064] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:01.164] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:01.204] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:14:01.304] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:14:01.759] [info] HikRobot's capture thread started.
+[2026-01-06 21:14:01.843] [info] HikRobot's capture thread stopped.
+[2026-01-06 21:14:03.495] [info] HikRobot's daemon thread stopped.
+[2026-01-06 21:14:03.496] [info] HikRobot destructed.
+[2026-01-06 21:14:03.561] [info] HikRobot's capture thread stopped.
+[2026-01-06 21:14:03.826] [info] HikRobot's daemon thread stopped.
+[2026-01-06 21:14:03.827] [info] HikRobot destructed.
+[2026-01-06 21:14:03.829] [info] [Gimbal] read_thread stopped.

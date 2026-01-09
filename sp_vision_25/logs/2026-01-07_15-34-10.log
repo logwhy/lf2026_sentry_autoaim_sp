@@ -1,0 +1,46 @@
+[2026-01-07 15:34:10.525] [info] [Gimbal] read_thread started.
+[2026-01-07 15:34:10.526] [info] [Gimbal] First q received.
+[2026-01-07 15:34:10.821] [info] HikRobot's daemon thread started.
+[2026-01-07 15:34:12.090] [info] HikRobot's capture thread started.
+[2026-01-07 15:34:12.959] [info] HikRobot's daemon thread started.
+[2026-01-07 15:34:12.961] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.061] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:13.063] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.163] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:13.168] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.268] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:13.269] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.369] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:13.375] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.475] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:13.476] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.576] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:13.582] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.682] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:13.688] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.788] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:13.789] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.889] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:13.895] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:13.995] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.000] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:14.101] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.102] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:14.202] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.207] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:14.307] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.314] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:14.414] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.416] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:14.516] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.522] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:14.622] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.629] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:14.729] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.735] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:14.835] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.836] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:14.936] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:14.942] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-07 15:34:15.042] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-07 15:34:15.048] [error] 找不到标识符为 00DA5751514 的相机!

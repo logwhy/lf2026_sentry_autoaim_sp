@@ -1,0 +1,18 @@
+[2025-10-27 19:27:17.045] [info] HikRobot's daemon thread started.
+[2025-10-27 19:27:17.127] [warning] Not found camera!
+[2025-10-27 19:27:17.227] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 19:27:17.227] [warning] Unable to open usb!
+[2025-10-27 19:27:17.228] [warning] Not found camera!
+[2025-10-27 19:27:17.328] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 19:27:17.328] [warning] Unable to open usb!
+[2025-10-27 19:27:17.329] [warning] Not found camera!
+[2025-10-27 19:27:17.429] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 19:27:17.429] [warning] Unable to open usb!
+[2025-10-27 19:27:17.430] [warning] Not found camera!
+[2025-10-27 19:27:17.530] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 19:27:17.530] [warning] Unable to open usb!
+[2025-10-27 19:27:17.531] [warning] Not found camera!
+[2025-10-27 19:27:17.631] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2025-10-27 19:27:17.631] [warning] Unable to open usb!
+[2025-10-27 19:27:17.631] [warning] Not found camera!
+[2025-10-27 19:27:17.713] [error] [Gimbal] Failed to open serial: IO Exception (2): No such file or directory, file /home/wheeltec/projects/sp_vision_25-main/io/serial/src/impl/unix.cc, line 151.

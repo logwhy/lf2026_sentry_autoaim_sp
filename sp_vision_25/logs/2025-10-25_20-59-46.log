@@ -1,0 +1,99 @@
+[2025-10-25 20:59:46.281] [info] Mindvision opened.
+[2025-10-25 20:59:46.878] [info] [Gimbal] read_thread started.
+[2025-10-25 20:59:46.980] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.081] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.182] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.283] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.385] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.487] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.588] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.690] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.792] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.893] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:47.994] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:48.096] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:48.197] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:48.299] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:48.401] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:48.502] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:48.604] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:48.705] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:48.807] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:48.908] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.010] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.112] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.213] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.315] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.416] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.518] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.620] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.722] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.823] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:49.925] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.027] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.128] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.230] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.333] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.434] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.536] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.638] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.739] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.841] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:50.943] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.047] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.149] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.250] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.352] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.453] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.555] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.657] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.758] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.860] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:51.961] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.063] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.165] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.267] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.368] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.470] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.571] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.673] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.775] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.876] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:52.978] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:53.080] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:53.182] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:53.283] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:53.385] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:53.487] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:53.589] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:53.691] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:53.792] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 20:59:53.902] [info] [Gimbal] First q received.
+[2025-10-25 20:59:54.145] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-25 20:59:54.145] [info] Write
+[2025-10-25 20:59:54.145] [info] yolo: 93.3ms, tracker: 0.0ms, aimer: 0.2ms
+[2025-10-25 20:59:54.145] [info] Received gimbal angles - yaw: 1.29°, pitch: -1.03°
+[2025-10-25 20:59:54.211] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-25 20:59:54.211] [info] Write
+[2025-10-25 20:59:54.211] [info] yolo: 44.9ms, tracker: 0.0ms, aimer: 0.2ms
+[2025-10-25 20:59:54.211] [info] Received gimbal angles - yaw: 1.35°, pitch: -1.60°
+[2025-10-25 20:59:54.275] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-25 20:59:54.276] [info] Write
+[2025-10-25 20:59:54.276] [info] yolo: 54.8ms, tracker: 0.0ms, aimer: 0.3ms
+[2025-10-25 20:59:54.276] [info] Received gimbal angles - yaw: 1.28°, pitch: -0.85°
+[2025-10-25 20:59:54.336] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-25 20:59:54.336] [info] Write
+[2025-10-25 20:59:54.336] [info] yolo: 57.3ms, tracker: 0.0ms, aimer: 0.3ms
+[2025-10-25 20:59:54.336] [info] Received gimbal angles - yaw: 1.27°, pitch: -0.81°
+[2025-10-25 20:59:54.412] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-25 20:59:54.412] [info] Write
+[2025-10-25 20:59:54.412] [info] yolo: 59.9ms, tracker: 0.0ms, aimer: 0.3ms
+[2025-10-25 20:59:54.412] [info] Received gimbal angles - yaw: 1.25°, pitch: -0.78°
+[2025-10-25 20:59:54.478] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-25 20:59:54.478] [info] Write
+[2025-10-25 20:59:54.478] [info] yolo: 51.5ms, tracker: 0.0ms, aimer: 0.3ms
+[2025-10-25 20:59:54.478] [info] Received gimbal angles - yaw: 1.23°, pitch: -0.70°
+[2025-10-25 20:59:54.541] [info] Sending command - yaw: 0.00°, pitch: 0.00°, shoot: false
+[2025-10-25 20:59:54.541] [info] Write
+[2025-10-25 20:59:54.541] [info] yolo: 38.7ms, tracker: 0.0ms, aimer: 0.3ms
+[2025-10-25 20:59:54.541] [info] Received gimbal angles - yaw: 1.18°, pitch: -0.47°

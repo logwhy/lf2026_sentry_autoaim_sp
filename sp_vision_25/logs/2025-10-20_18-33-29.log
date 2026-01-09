@@ -1,0 +1,4 @@
+[2025-10-20 18:33:29.007] [info] 棋盘格尺寸为6列8行 (内部角点5×7)，30mm方格
+[2025-10-20 18:33:29.007] [info] 测试模式：仅测试相机识别标定板功能
+[2025-10-20 18:33:29.009] [info] HikRobot's daemon thread started.
+[2025-10-20 18:33:29.626] [info] HikRobot's capture thread started.

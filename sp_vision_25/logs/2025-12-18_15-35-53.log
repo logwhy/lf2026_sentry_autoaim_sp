@@ -1,0 +1,24 @@
+[2025-12-18 15:35:53.297] [info] 正在初始化相机 1 (configs/cam1.yaml)...
+[2025-12-18 15:35:53.298] [info] 正在初始化 Solver 1...
+[2025-12-18 15:35:53.298] [info] HikRobot's daemon thread started.
+[2025-12-18 15:35:53.298] [info] 正在初始化 Tracker 1...
+[2025-12-18 15:35:53.298] [info] 正在初始化相机 2 (configs/cam2.yaml)...
+[2025-12-18 15:35:53.298] [info] 正在初始化 Solver 2...
+[2025-12-18 15:35:53.299] [info] HikRobot's daemon thread started.
+[2025-12-18 15:35:53.299] [info] 正在初始化 Tracker 2...
+[2025-12-18 15:35:53.299] [info] 正在从 configs/cam1.yaml 初始化 YOLO...
+[2025-12-18 15:35:53.361] [error] YAML 配置解析异常: bad conversion
+[2025-12-18 15:35:53.480] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 15:35:53.581] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 15:35:53.711] [info] Reset usb successfully :)
+[2025-12-18 15:35:53.714] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2025-12-18 15:35:53.802] [info] HikRobot's capture thread started.
+[2025-12-18 15:35:53.802] [info] HikRobot's capture thread stopped.
+[2025-12-18 15:35:53.811] [info] HikRobot's daemon thread stopped.
+[2025-12-18 15:35:53.812] [info] HikRobot destructed.
+[2025-12-18 15:35:53.814] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2025-12-18 15:35:53.943] [info] Reset usb successfully :)
+[2025-12-18 15:35:54.192] [info] HikRobot's capture thread started.
+[2025-12-18 15:35:54.192] [info] HikRobot's capture thread stopped.
+[2025-12-18 15:35:54.200] [info] HikRobot's daemon thread stopped.
+[2025-12-18 15:35:54.200] [info] HikRobot destructed.

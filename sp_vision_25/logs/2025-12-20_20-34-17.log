@@ -1,0 +1,96 @@
+[2025-12-20 20:34:17.955] [info] [Gimbal] read_thread started.
+[2025-12-20 20:34:17.955] [info] [Gimbal] First q received.
+[2025-12-20 20:34:17.956] [info] HikRobot's daemon thread started.
+[2025-12-20 20:34:18.266] [info] [MultiThreadDetector] initialized !
+[2025-12-20 20:34:18.292] [info] HikRobot's capture thread started.
+[2025-12-20 20:34:20.268] [info] HikRobot's daemon thread started.
+[2025-12-20 20:34:20.550] [info] [MultiThreadDetector] initialized !
+[2025-12-20 20:34:20.553] [info] HikRobot's capture thread started.
+[2025-12-20 20:34:23.561] [info] FPS: 95.0 | Lost: 95 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:24.583] [info] FPS: 100.0 | Lost: 195 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:25.595] [info] FPS: 99.0 | Lost: 294 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:26.595] [info] FPS: 98.0 | Lost: 392 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:27.609] [info] FPS: 95.0 | Lost: 487 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:28.610] [info] FPS: 100.0 | Lost: 587 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:29.619] [info] FPS: 99.0 | Lost: 686 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:30.629] [info] FPS: 98.0 | Lost: 784 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:31.631] [info] FPS: 98.0 | Lost: 882 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:32.641] [info] FPS: 98.0 | Lost: 980 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:33.644] [info] FPS: 98.0 | Lost: 1078 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:34.647] [info] FPS: 96.0 | Lost: 1174 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:35.670] [info] FPS: 99.0 | Lost: 1273 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:36.674] [info] FPS: 100.0 | Lost: 1373 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:37.675] [info] FPS: 95.0 | Lost: 1468 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:38.686] [info] FPS: 100.0 | Lost: 1568 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:39.699] [info] FPS: 98.0 | Lost: 1666 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:40.702] [info] FPS: 100.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:41.707] [info] FPS: 98.0 | Lost: 97 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:42.711] [info] FPS: 95.0 | Lost: 192 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:43.715] [info] FPS: 101.0 | Lost: 293 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:44.741] [info] FPS: 97.0 | Lost: 390 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:45.748] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:45.786] [debug] [Target] r=0.539, l=0.000
+[2025-12-20 20:34:45.786] [debug] [Tracker] Target diverged!
+[2025-12-20 20:34:45.822] [debug] [Target] r=0.829, l=0.000
+[2025-12-20 20:34:45.822] [debug] [Tracker] Target diverged!
+[2025-12-20 20:34:45.890] [debug] [Target] r=1.128, l=0.000
+[2025-12-20 20:34:45.891] [debug] [Tracker] Target diverged!
+[2025-12-20 20:34:46.753] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:47.753] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:48.755] [info] FPS: 96.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:49.758] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:50.765] [info] FPS: 96.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:51.769] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:52.784] [info] FPS: 101.0 | Lost: 39 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:53.788] [info] FPS: 96.0 | Lost: 135 | Stable: false | ActiveCam: false
+[2025-12-20 20:34:54.790] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:55.793] [info] FPS: 97.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:56.793] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:57.797] [info] FPS: 96.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:58.818] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:34:59.309] [debug] [Target] r=0.032, l=0.000
+[2025-12-20 20:34:59.309] [debug] [Tracker] Target diverged!
+[2025-12-20 20:34:59.835] [info] FPS: 101.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:00.836] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:01.840] [info] FPS: 97.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:02.860] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:03.863] [info] FPS: 97.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:04.867] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:05.867] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:06.900] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:07.908] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:08.923] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:09.936] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:10.939] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:11.940] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:12.945] [info] FPS: 97.0 | Lost: 61 | Stable: false | ActiveCam: false
+[2025-12-20 20:35:13.946] [info] FPS: 96.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:14.947] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:15.951] [info] FPS: 97.0 | Lost: 65 | Stable: false | ActiveCam: false
+[2025-12-20 20:35:16.964] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:17.988] [info] FPS: 98.0 | Lost: 2 | Stable: false | ActiveCam: false
+[2025-12-20 20:35:18.502] [debug] [Target] r=0.567, l=0.000
+[2025-12-20 20:35:18.502] [debug] [Tracker] Target diverged!
+[2025-12-20 20:35:18.996] [info] FPS: 100.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:19.728] [debug] [Target] r=0.526, l=0.000
+[2025-12-20 20:35:19.728] [debug] [Tracker] Target diverged!
+[2025-12-20 20:35:19.806] [debug] [Target] r=0.534, l=0.000
+[2025-12-20 20:35:19.806] [debug] [Tracker] Target diverged!
+[2025-12-20 20:35:19.851] [debug] [Target] r=0.571, l=0.000
+[2025-12-20 20:35:19.851] [debug] [Tracker] Target diverged!
+[2025-12-20 20:35:19.932] [debug] [Target] r=-0.018, l=0.000
+[2025-12-20 20:35:19.932] [debug] [Tracker] Target diverged!
+[2025-12-20 20:35:20.001] [info] FPS: 97.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:21.003] [info] FPS: 99.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:22.004] [info] FPS: 98.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:23.008] [info] FPS: 97.0 | Lost: 0 | Stable: true | ActiveCam: true
+[2025-12-20 20:35:24.017] [info] FPS: 98.0 | Lost: 38 | Stable: false | ActiveCam: false
+[2025-12-20 20:35:25.022] [info] FPS: 98.0 | Lost: 136 | Stable: false | ActiveCam: false
+[2025-12-20 20:35:26.022] [info] FPS: 96.0 | Lost: 232 | Stable: false | ActiveCam: false
+[2025-12-20 20:35:27.043] [info] HikRobot's capture thread stopped.
+[2025-12-20 20:35:27.051] [info] HikRobot's daemon thread stopped.
+[2025-12-20 20:35:27.053] [info] HikRobot destructed.
+[2025-12-20 20:35:27.105] [info] HikRobot's capture thread stopped.
+[2025-12-20 20:35:27.114] [info] HikRobot's daemon thread stopped.
+[2025-12-20 20:35:27.116] [info] HikRobot destructed.
+[2025-12-20 20:35:27.122] [info] [Gimbal] read_thread stopped.

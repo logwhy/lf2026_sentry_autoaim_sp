@@ -1,0 +1,985 @@
+[2025-10-19 18:59:25.804] [info] 标定板尺寸为8列5行
+[2025-10-19 18:59:25.809] [info] [Gimbal] read_thread started.
+[2025-10-19 18:59:26.018] [info] [Gimbal] First q received.
+[2025-10-19 18:59:27.838] [info] Mindvision opened.
+[2025-10-19 18:59:27.939] [warning] Camera dropped!
+[2025-10-19 18:59:28.538] [warning] Unable to open usb!
+[2025-10-19 18:59:30.308] [info] Mindvision opened.
+[2025-10-19 18:59:30.409] [warning] Camera dropped!
+[2025-10-19 18:59:31.009] [warning] Unable to open usb!
+[2025-10-19 18:59:32.774] [info] Mindvision opened.
+[2025-10-19 18:59:32.800] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:32.875] [warning] Camera dropped!
+[2025-10-19 18:59:32.902] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.003] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.105] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.207] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.309] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.411] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.474] [warning] Unable to open usb!
+[2025-10-19 18:59:33.513] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.614] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.716] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.817] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:33.919] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.020] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.122] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.224] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.325] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.428] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.529] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.631] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.733] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.835] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:34.936] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.038] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.140] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.242] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.259] [info] Mindvision opened.
+[2025-10-19 18:59:35.344] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.360] [warning] Camera dropped!
+[2025-10-19 18:59:35.446] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.548] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.650] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.751] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.852] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.954] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:35.959] [warning] Unable to open usb!
+[2025-10-19 18:59:36.056] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:36.158] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:36.260] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:36.361] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:36.463] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:36.564] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:36.666] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:36.768] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:36.869] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:36.971] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.073] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.174] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.276] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.377] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.479] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.581] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.682] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.741] [info] Mindvision opened.
+[2025-10-19 18:59:37.784] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.842] [warning] Camera dropped!
+[2025-10-19 18:59:37.886] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:37.988] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:38.089] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:38.191] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:38.293] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:38.395] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:38.442] [warning] Unable to open usb!
+[2025-10-19 18:59:38.497] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:38.598] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:38.700] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:38.802] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:38.903] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.005] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.107] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.208] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.310] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.411] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.513] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.615] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.654] [info] Mindvision opened.
+[2025-10-19 18:59:39.716] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.755] [warning] Camera dropped!
+[2025-10-19 18:59:39.819] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.920] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:39.941] [warning] Unable to open usb!
+[2025-10-19 18:59:40.022] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:40.123] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:40.142] [warning] Not found camera!
+[2025-10-19 18:59:40.225] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:40.242] [warning] Unable to open usb!
+[2025-10-19 18:59:40.326] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:40.428] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:40.530] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:40.631] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:40.643] [warning] Not found camera!
+[2025-10-19 18:59:40.733] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:40.744] [warning] Unable to open usb!
+[2025-10-19 18:59:40.834] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:40.936] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.038] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.139] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.145] [warning] Not found camera!
+[2025-10-19 18:59:41.241] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.245] [warning] Unable to open usb!
+[2025-10-19 18:59:41.342] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.444] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.446] [warning] Not found camera!
+[2025-10-19 18:59:41.545] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.547] [warning] Unable to open usb!
+[2025-10-19 18:59:41.648] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.750] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.852] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:41.948] [warning] Not found camera!
+[2025-10-19 18:59:41.953] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.048] [warning] Unable to open usb!
+[2025-10-19 18:59:42.055] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.157] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.249] [warning] Not found camera!
+[2025-10-19 18:59:42.258] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.349] [warning] Unable to open usb!
+[2025-10-19 18:59:42.360] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.462] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.563] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.664] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.750] [warning] Not found camera!
+[2025-10-19 18:59:42.765] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.851] [warning] Unable to open usb!
+[2025-10-19 18:59:42.867] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:42.969] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.070] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.172] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.273] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.375] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.478] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.579] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.680] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.762] [info] Mindvision opened.
+[2025-10-19 18:59:43.782] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.883] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:43.985] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:44.086] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:44.188] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:44.290] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:44.391] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:44.493] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:44.595] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:44.697] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:44.799] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:44.901] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.003] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.104] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.206] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.308] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.410] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.512] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.614] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.716] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.818] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:45.919] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.020] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.122] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.223] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.325] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.427] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.528] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.630] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.732] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.834] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:46.935] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.037] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.138] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.254] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.356] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.457] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.558] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.660] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.762] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.864] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:47.966] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.067] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.168] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.270] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.372] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.473] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.575] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.677] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.778] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.880] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:48.982] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.084] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.185] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.287] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.389] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.491] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.592] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.693] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.795] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.897] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:49.999] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:50.100] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:50.201] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:50.303] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:50.405] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:50.507] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:50.608] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:50.710] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:50.811] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:50.913] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.015] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.116] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.219] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.320] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.422] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.524] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.625] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.726] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.828] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:51.929] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.032] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.133] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.235] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.336] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.438] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.540] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.641] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.743] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.845] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:52.947] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.049] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.150] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.252] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.353] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.455] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.557] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.659] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.760] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.862] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:53.964] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.066] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.167] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.269] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.371] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.473] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.575] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.677] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.778] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.880] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:54.982] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.084] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.186] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.287] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.388] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.490] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.592] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.693] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.795] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.897] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:55.999] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:56.100] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:56.201] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:56.303] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:56.405] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:56.506] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:56.608] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:56.710] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:56.812] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:56.914] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.016] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.117] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.218] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.320] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.421] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.523] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.624] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.726] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.827] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:57.929] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.031] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.133] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.234] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.336] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.438] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.540] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.641] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.743] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.845] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:58.946] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.048] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.149] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.252] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.353] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.455] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.556] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.658] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.760] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.861] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 18:59:59.963] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.065] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.166] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.268] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.370] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.471] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.573] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.675] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.777] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.879] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:00.980] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.082] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.183] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.285] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.387] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.488] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.590] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.691] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.794] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.895] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:01.997] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:02.099] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:02.200] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:02.302] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:02.403] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:02.505] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:02.607] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:02.709] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:02.811] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:02.912] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.014] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.116] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.218] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.320] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.421] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.523] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.624] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.726] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.828] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:03.930] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.031] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.133] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.234] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.336] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.438] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.539] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.641] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.742] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.844] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:04.946] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.048] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.149] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.251] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.353] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.455] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.556] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.658] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.760] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.861] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:05.962] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.064] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.166] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.267] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.369] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.470] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.572] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.673] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.775] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.877] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:06.979] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.080] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.181] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.284] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.385] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.486] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.588] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.690] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.792] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.894] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:07.995] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:08.097] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:08.199] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:08.266] [warning] Camera dropped!
+[2025-10-19 19:00:08.300] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:08.401] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:08.503] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:08.604] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:08.706] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:08.807] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:08.909] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.011] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.112] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.213] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.283] [warning] Unable to open usb!
+[2025-10-19 19:00:09.315] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.417] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.519] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.620] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.722] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.824] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:09.925] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.027] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.129] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.231] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.332] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.434] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.536] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.638] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.739] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.841] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:10.943] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.044] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.090] [info] Mindvision opened.
+[2025-10-19 19:00:11.146] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.191] [warning] Camera dropped!
+[2025-10-19 19:00:11.248] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.349] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.451] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.553] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.654] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.756] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.790] [warning] Unable to open usb!
+[2025-10-19 19:00:11.857] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:11.959] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.061] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.163] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.265] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.366] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.467] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.569] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.670] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.772] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.873] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:12.974] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.076] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.178] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.279] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.380] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.482] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.584] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.686] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.761] [info] Mindvision opened.
+[2025-10-19 19:00:13.787] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.862] [warning] Camera dropped!
+[2025-10-19 19:00:13.889] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:13.991] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:14.092] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:14.194] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:14.296] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:14.397] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:14.461] [warning] Unable to open usb!
+[2025-10-19 19:00:14.499] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:14.601] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:14.703] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:14.805] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:14.907] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.008] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.110] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.212] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.314] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.416] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.517] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.619] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.721] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.822] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:15.924] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.026] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.128] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.230] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.237] [info] Mindvision opened.
+[2025-10-19 19:00:16.332] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.338] [warning] Camera dropped!
+[2025-10-19 19:00:16.434] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.535] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.637] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.738] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.840] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:16.938] [warning] Unable to open usb!
+[2025-10-19 19:00:16.942] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.043] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.145] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.247] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.349] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.450] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.552] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.654] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.755] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.857] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:17.958] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.060] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.162] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.264] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.366] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.467] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.569] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.670] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.720] [info] Mindvision opened.
+[2025-10-19 19:00:18.772] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.821] [warning] Camera dropped!
+[2025-10-19 19:00:18.874] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:18.975] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.076] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.178] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.280] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.381] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.420] [warning] Unable to open usb!
+[2025-10-19 19:00:19.483] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.585] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.686] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.788] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.889] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:19.991] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:20.092] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:20.194] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:20.296] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:20.398] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:20.499] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:20.601] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:20.702] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:20.803] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:20.905] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.007] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.108] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.211] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.222] [info] Mindvision opened.
+[2025-10-19 19:00:21.313] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.323] [warning] Camera dropped!
+[2025-10-19 19:00:21.414] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.516] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.618] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.719] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.821] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:21.922] [warning] Unable to open usb!
+[2025-10-19 19:00:21.922] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.024] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.125] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.227] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.329] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.431] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.533] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.635] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.736] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.838] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:22.940] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.041] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.143] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.245] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.347] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.449] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.551] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.652] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.697] [info] Mindvision opened.
+[2025-10-19 19:00:23.754] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.798] [warning] Camera dropped!
+[2025-10-19 19:00:23.856] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:23.958] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.059] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.161] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.263] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.364] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.398] [warning] Unable to open usb!
+[2025-10-19 19:00:24.466] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.568] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.670] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.771] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.873] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:24.974] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.076] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.178] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.279] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.381] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.483] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.585] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.686] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.788] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.890] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:25.991] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:26.093] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:26.195] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:26.297] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:26.384] [info] Mindvision opened.
+[2025-10-19 19:00:26.399] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:26.486] [warning] Camera dropped!
+[2025-10-19 19:00:26.500] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:26.602] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:26.703] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:26.805] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:26.906] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.008] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.085] [warning] Unable to open usb!
+[2025-10-19 19:00:27.110] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.211] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.314] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.415] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.517] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.618] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.720] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.822] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:27.924] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.025] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.127] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.228] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.330] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.432] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.533] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.635] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.737] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.839] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.866] [info] Mindvision opened.
+[2025-10-19 19:00:28.940] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:28.968] [warning] Camera dropped!
+[2025-10-19 19:00:29.042] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:29.143] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:29.245] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:29.347] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:29.448] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:29.550] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:29.567] [warning] Unable to open usb!
+[2025-10-19 19:00:29.652] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:29.754] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:29.856] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:29.957] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.059] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.160] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.262] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.364] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.465] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.567] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.668] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.770] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.872] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:30.974] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.075] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.177] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.278] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.350] [info] Mindvision opened.
+[2025-10-19 19:00:31.379] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.451] [warning] Camera dropped!
+[2025-10-19 19:00:31.481] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.583] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.685] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.787] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.889] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:31.991] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:32.050] [warning] Unable to open usb!
+[2025-10-19 19:00:32.093] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:32.194] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:32.296] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:32.398] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:32.500] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:32.602] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:32.703] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:32.805] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:32.906] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.008] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.110] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.212] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.313] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.414] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.516] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.617] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.719] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.821] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.836] [info] Mindvision opened.
+[2025-10-19 19:00:33.924] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:33.938] [warning] Camera dropped!
+[2025-10-19 19:00:34.025] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:34.127] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:34.228] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:34.329] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:34.431] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:34.533] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:34.537] [warning] Unable to open usb!
+[2025-10-19 19:00:34.635] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:34.737] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:34.839] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:34.941] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.043] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.144] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.246] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.347] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.449] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.551] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.653] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.754] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.856] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:35.957] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.059] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.161] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.263] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.324] [info] Mindvision opened.
+[2025-10-19 19:00:36.365] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.425] [warning] Camera dropped!
+[2025-10-19 19:00:36.467] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.568] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.670] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.772] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.873] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:36.974] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.025] [warning] Unable to open usb!
+[2025-10-19 19:00:37.076] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.178] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.279] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.381] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.483] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.584] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.686] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.788] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.889] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:37.991] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.092] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.193] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.295] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.396] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.498] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.600] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.702] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.804] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.807] [info] Mindvision opened.
+[2025-10-19 19:00:38.906] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:38.908] [warning] Camera dropped!
+[2025-10-19 19:00:39.007] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:39.109] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:39.211] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:39.313] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:39.414] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:39.507] [warning] Unable to open usb!
+[2025-10-19 19:00:39.515] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:39.617] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:39.719] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:39.820] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:39.922] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.023] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.125] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.227] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.329] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.431] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.533] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.634] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.736] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.837] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:40.939] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.041] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.144] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.246] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.279] [info] Mindvision opened.
+[2025-10-19 19:00:41.348] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.381] [warning] Camera dropped!
+[2025-10-19 19:00:41.450] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.551] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.653] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.755] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.856] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.958] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:41.980] [warning] Unable to open usb!
+[2025-10-19 19:00:42.059] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:42.161] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:42.263] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:42.365] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:42.467] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:42.569] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:42.671] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:42.772] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:42.875] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:42.976] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.078] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.179] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.281] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.383] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.484] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.586] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.688] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.751] [info] Mindvision opened.
+[2025-10-19 19:00:43.790] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.853] [warning] Camera dropped!
+[2025-10-19 19:00:43.892] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:43.994] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:44.096] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:44.197] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:44.299] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:44.401] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:44.452] [warning] Unable to open usb!
+[2025-10-19 19:00:44.502] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:44.604] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:44.705] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:44.807] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:44.909] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.011] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.112] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.213] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.315] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.417] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.519] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.620] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.722] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.823] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:45.925] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.027] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.128] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.230] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.234] [info] Mindvision opened.
+[2025-10-19 19:00:46.331] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.335] [warning] Camera dropped!
+[2025-10-19 19:00:46.433] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.535] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.637] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.739] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.840] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:46.934] [warning] Unable to open usb!
+[2025-10-19 19:00:46.941] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.042] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.144] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.246] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.348] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.450] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.552] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.654] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.756] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.858] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:47.959] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.061] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.162] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.264] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.366] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.469] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.571] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.673] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.728] [info] Mindvision opened.
+[2025-10-19 19:00:48.774] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.830] [warning] Camera dropped!
+[2025-10-19 19:00:48.876] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:48.978] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.080] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.182] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.284] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.385] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.429] [warning] Unable to open usb!
+[2025-10-19 19:00:49.486] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.588] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.690] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.792] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.894] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:49.995] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:50.097] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:50.198] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:50.300] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:50.402] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:50.504] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:50.606] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:50.707] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:50.809] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:50.910] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.012] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.114] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.216] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.318] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.420] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.423] [info] Mindvision opened.
+[2025-10-19 19:00:51.521] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.525] [warning] Camera dropped!
+[2025-10-19 19:00:51.623] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.725] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.826] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:51.929] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.030] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.124] [warning] Unable to open usb!
+[2025-10-19 19:00:52.160] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.262] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.364] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.466] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.568] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.670] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.771] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.873] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:52.975] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.077] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.179] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.281] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.382] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.484] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.586] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.687] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.788] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.890] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:53.911] [info] Mindvision opened.
+[2025-10-19 19:00:53.991] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:54.013] [warning] Camera dropped!
+[2025-10-19 19:00:54.093] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:54.196] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:54.297] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:54.399] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:54.502] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:54.603] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:54.612] [warning] Unable to open usb!
+[2025-10-19 19:00:54.705] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:54.807] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:54.909] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.010] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.112] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.215] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.316] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.417] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.519] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.621] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.722] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.824] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:55.926] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.027] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.129] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.231] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.333] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.393] [info] Mindvision opened.
+[2025-10-19 19:00:56.434] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.495] [warning] Camera dropped!
+[2025-10-19 19:00:56.536] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.638] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.740] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.842] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:56.944] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.046] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.094] [warning] Unable to open usb!
+[2025-10-19 19:00:57.147] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.249] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.351] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.453] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.555] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.657] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.758] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.860] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:57.961] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.063] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.165] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.267] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.368] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.470] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.572] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.674] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.775] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.877] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:58.979] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.081] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.083] [info] Mindvision opened.
+[2025-10-19 19:00:59.182] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.184] [warning] Camera dropped!
+[2025-10-19 19:00:59.284] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.386] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.487] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.589] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.690] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.784] [warning] Unable to open usb!
+[2025-10-19 19:00:59.792] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.894] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:00:59.996] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:00.098] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:00.200] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:00.302] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:00.403] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:00.505] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:00.610] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:00.712] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:00.814] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:00.915] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.016] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.118] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.220] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.321] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.423] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.524] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.626] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.727] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.775] [info] Mindvision opened.
+[2025-10-19 19:01:01.829] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:01.876] [warning] Camera dropped!
+[2025-10-19 19:01:01.931] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:02.033] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:02.134] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:02.262] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:02.363] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:02.465] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:02.475] [warning] Unable to open usb!
+[2025-10-19 19:01:02.567] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-19 19:01:02.669] [warning] [Gimbal] read timeout, read 0 / 2 bytes

@@ -1,0 +1,22 @@
+[2025-12-20 21:05:22.226] [info] [Gimbal] read_thread started.
+[2025-12-20 21:05:22.226] [info] [Gimbal] First q received.
+[2025-12-20 21:05:22.227] [info] HikRobot's daemon thread started.
+[2025-12-20 21:05:22.546] [info] [MultiThreadDetector] initialized !
+[2025-12-20 21:05:22.547] [info] HikRobot's capture thread started.
+[2025-12-20 21:05:22.547] [info] 初始化相机: FRONT_MAIN (主摄像头: 是)
+[2025-12-20 21:05:24.548] [info] HikRobot's daemon thread started.
+[2025-12-20 21:05:24.836] [info] [MultiThreadDetector] initialized !
+[2025-12-20 21:05:24.837] [info] 初始化相机: BACK_AUX (主摄像头: 否)
+[2025-12-20 21:05:24.840] [info] HikRobot's capture thread started.
+[2025-12-20 21:05:27.851] [info] 主循环FPS: 49.3, 主摄像头检测: 49.330404675344745/s, 辅摄像头检测: 49.330404675344745/s
+[2025-12-20 21:05:28.858] [info] 主循环FPS: 48.7, 主摄像头检测: 48.69020646767056/s, 辅摄像头检测: 48.69020646767056/s
+[2025-12-20 21:05:29.865] [info] 主循环FPS: 48.6, 主摄像头检测: 48.636940366254365/s, 辅摄像头检测: 48.636940366254365/s
+[2025-12-20 21:05:30.866] [info] 主循环FPS: 48.9, 主摄像头检测: 48.93559864794855/s, 辅摄像头检测: 48.93559864794855/s
+[2025-12-20 21:05:31.883] [info] 主循环FPS: 48.2, 主摄像头检测: 48.18380825623635/s, 辅摄像头检测: 48.18380825623635/s
+[2025-12-20 21:05:32.162] [info] HikRobot's capture thread stopped.
+[2025-12-20 21:05:32.169] [info] HikRobot's daemon thread stopped.
+[2025-12-20 21:05:32.169] [info] HikRobot destructed.
+[2025-12-20 21:05:32.246] [info] HikRobot's capture thread stopped.
+[2025-12-20 21:05:32.257] [info] HikRobot's daemon thread stopped.
+[2025-12-20 21:05:32.259] [info] HikRobot destructed.
+[2025-12-20 21:05:32.263] [info] [Gimbal] read_thread stopped.

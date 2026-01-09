@@ -1,0 +1,11 @@
+[2026-01-08 21:24:55.432] [info] 棋盘格尺寸为6列8行 (内部角点5×7)，30mm方格
+[2026-01-08 21:24:55.432] [info] 开始采集标定数据...
+[2026-01-08 21:24:55.447] [info] HikRobot's daemon thread started.
+[2026-01-08 21:24:56.723] [info] HikRobot's capture thread started.
+[2026-01-08 21:24:56.825] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2026-01-08 21:24:56.825] [info] HikRobot's capture thread stopped.
+[2026-01-08 21:24:58.903] [info] Reset usb successfully :)
+[2026-01-08 21:24:59.143] [info] HikRobot's capture thread started.
+[2026-01-08 21:25:26.564] [info] HikRobot's capture thread stopped.
+[2026-01-08 21:25:28.220] [info] HikRobot's daemon thread stopped.
+[2026-01-08 21:25:28.221] [info] HikRobot destructed.

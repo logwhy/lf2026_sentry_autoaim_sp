@@ -1,0 +1,731 @@
+[2025-10-21 20:23:35.531] [info] Mindvision opened.
+[2025-10-21 20:23:35.538] [info] [Gimbal] read_thread started.
+[2025-10-21 20:23:35.639] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:35.741] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:35.843] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:35.945] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.019] [warning] Camera dropped!
+[2025-10-21 20:23:36.047] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.148] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.250] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.352] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.454] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.555] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.657] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.758] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.860] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:36.962] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.065] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.106] [warning] Unable to open usb!
+[2025-10-21 20:23:37.166] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.268] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.369] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.471] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.573] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.675] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.776] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.877] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:37.979] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.080] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.182] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.284] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.385] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.487] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.589] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.690] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.792] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.894] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:38.996] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.098] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.199] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.276] [info] Mindvision opened.
+[2025-10-21 20:23:39.301] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.378] [warning] Camera dropped!
+[2025-10-21 20:23:39.404] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.505] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.607] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.709] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.810] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.911] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:39.985] [warning] Unable to open usb!
+[2025-10-21 20:23:40.013] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:40.115] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:40.216] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:40.318] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:40.419] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:40.521] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:40.622] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:40.725] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:40.826] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:40.928] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.030] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.131] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.233] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.335] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.437] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.538] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.640] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.742] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.844] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.945] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:41.954] [info] Mindvision opened.
+[2025-10-21 20:23:42.047] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:42.055] [warning] Camera dropped!
+[2025-10-21 20:23:42.149] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:42.250] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:42.352] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:42.453] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:42.555] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:42.656] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:42.666] [warning] Unable to open usb!
+[2025-10-21 20:23:42.758] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:42.859] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:42.961] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.063] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.165] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.267] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.368] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.469] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.571] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.673] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.775] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.876] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:43.978] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.079] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.181] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.283] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.385] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.486] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.588] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.690] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.792] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.826] [info] Mindvision opened.
+[2025-10-21 20:23:44.894] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:44.928] [warning] Camera dropped!
+[2025-10-21 20:23:44.996] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:45.097] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:45.199] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:45.300] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:45.402] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:45.503] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:45.540] [warning] Unable to open usb!
+[2025-10-21 20:23:45.605] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:45.706] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:45.808] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:45.910] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.012] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.114] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.216] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.317] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.419] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.521] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.622] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.724] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.825] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:46.927] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.028] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.130] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.232] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.334] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.435] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.503] [info] Mindvision opened.
+[2025-10-21 20:23:47.537] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.604] [warning] Camera dropped!
+[2025-10-21 20:23:47.639] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.740] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.842] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:47.943] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.045] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.147] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.216] [warning] Unable to open usb!
+[2025-10-21 20:23:48.249] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.351] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.452] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.554] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.656] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.758] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.859] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:48.961] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.063] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.164] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.265] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.367] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.469] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.571] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.673] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.775] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.876] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:49.978] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.080] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.181] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.283] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.384] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.388] [info] Mindvision opened.
+[2025-10-21 20:23:50.486] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.490] [warning] Camera dropped!
+[2025-10-21 20:23:50.588] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.690] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.791] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.893] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:50.995] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:51.097] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:51.098] [warning] Unable to open usb!
+[2025-10-21 20:23:51.198] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:51.300] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:51.402] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:51.504] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:51.606] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:51.707] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:51.809] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:51.911] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.012] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.114] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.215] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.317] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.418] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.520] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.622] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.724] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.826] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:52.928] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.030] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.080] [info] Mindvision opened.
+[2025-10-21 20:23:53.132] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.181] [warning] Camera dropped!
+[2025-10-21 20:23:53.233] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.336] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.438] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.539] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.641] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.743] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.781] [warning] Unable to open usb!
+[2025-10-21 20:23:53.844] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:53.946] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.048] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.149] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.251] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.352] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.454] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.556] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.658] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.759] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.861] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:54.962] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.063] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.165] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.266] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.368] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.469] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.571] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.673] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.753] [info] Mindvision opened.
+[2025-10-21 20:23:55.774] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.854] [warning] Camera dropped!
+[2025-10-21 20:23:55.877] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:55.978] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.080] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.182] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.283] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.384] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.465] [warning] Unable to open usb!
+[2025-10-21 20:23:56.486] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.588] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.690] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.792] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.893] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:56.995] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:57.096] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:57.198] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:57.300] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:57.401] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:57.502] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:57.604] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:57.706] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:57.808] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:57.909] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.011] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.113] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.214] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.316] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.417] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.430] [info] Mindvision opened.
+[2025-10-21 20:23:58.519] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.531] [warning] Camera dropped!
+[2025-10-21 20:23:58.620] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.722] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.823] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:58.924] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.026] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.128] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.144] [warning] Unable to open usb!
+[2025-10-21 20:23:59.229] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.331] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.433] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.535] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.636] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.738] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.840] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:23:59.941] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.043] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.145] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.247] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.348] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.450] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.551] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.653] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.754] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.856] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:00.957] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:01.059] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:01.161] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:01.262] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:01.303] [info] Mindvision opened.
+[2025-10-21 20:24:01.364] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:01.404] [warning] Camera dropped!
+[2025-10-21 20:24:01.466] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:01.568] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:01.669] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:01.708] [info] [Gimbal] First q received.
+[2025-10-21 20:24:02.018] [warning] Unable to open usb!
+[2025-10-21 20:24:02.794] [info] [MultiThreadDetector] initialized !
+[2025-10-21 20:24:02.841] [info] Write
+[2025-10-21 20:24:03.997] [info] Mindvision opened.
+[2025-10-21 20:24:04.098] [warning] Camera dropped!
+[2025-10-21 20:24:04.613] [warning] Unable to open usb!
+[2025-10-21 20:24:06.202] [warning] [Gimbal] read timeout, read 38 / 41 bytes
+[2025-10-21 20:24:06.303] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:06.405] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:06.506] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:06.565] [info] Mindvision opened.
+[2025-10-21 20:24:06.608] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:06.666] [warning] Camera dropped!
+[2025-10-21 20:24:06.710] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:06.811] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:06.913] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.014] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.116] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.218] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.280] [warning] Unable to open usb!
+[2025-10-21 20:24:07.319] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.421] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.522] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.623] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.725] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.826] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:07.928] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.030] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.132] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.235] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.337] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.438] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.540] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.641] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.743] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.845] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:08.947] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.049] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.151] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.235] [info] Mindvision opened.
+[2025-10-21 20:24:09.253] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.336] [warning] Camera dropped!
+[2025-10-21 20:24:09.354] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.456] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.558] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.659] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.761] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.864] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:09.947] [warning] Unable to open usb!
+[2025-10-21 20:24:09.965] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.066] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.168] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.270] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.373] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.474] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.576] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.679] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.780] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.882] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:10.983] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:11.085] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:11.187] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:11.288] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:11.391] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:11.493] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:11.595] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:11.697] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:11.798] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:11.899] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:12.002] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:12.103] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:12.138] [info] Mindvision opened.
+[2025-10-21 20:24:12.205] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:12.239] [warning] Camera dropped!
+[2025-10-21 20:24:12.306] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-21 20:24:12.833] [warning] Unable to open usb!
+[2025-10-21 20:24:14.784] [info] Mindvision opened.
+[2025-10-21 20:24:14.886] [warning] Camera dropped!
+[2025-10-21 20:24:15.403] [warning] Unable to open usb!
+[2025-10-21 20:24:17.358] [info] Mindvision opened.
+[2025-10-21 20:24:17.459] [warning] Camera dropped!
+[2025-10-21 20:24:18.073] [warning] Unable to open usb!
+[2025-10-21 20:24:20.228] [info] Mindvision opened.
+[2025-10-21 20:24:20.329] [warning] Camera dropped!
+[2025-10-21 20:24:20.943] [warning] Unable to open usb!
+[2025-10-21 20:24:22.897] [info] Mindvision opened.
+[2025-10-21 20:24:22.998] [warning] Camera dropped!
+[2025-10-21 20:24:23.517] [warning] Unable to open usb!
+[2025-10-21 20:24:25.674] [info] Mindvision opened.
+[2025-10-21 20:24:25.775] [warning] Camera dropped!
+[2025-10-21 20:24:25.994] [warning] Unable to open usb!
+[2025-10-21 20:24:26.195] [warning] Not found camera!
+[2025-10-21 20:24:26.295] [warning] Unable to open usb!
+[2025-10-21 20:24:26.496] [warning] Not found camera!
+[2025-10-21 20:24:26.596] [warning] Unable to open usb!
+[2025-10-21 20:24:26.997] [warning] Not found camera!
+[2025-10-21 20:24:27.097] [warning] Unable to open usb!
+[2025-10-21 20:24:27.498] [warning] Not found camera!
+[2025-10-21 20:24:27.599] [warning] Unable to open usb!
+[2025-10-21 20:24:27.800] [warning] Not found camera!
+[2025-10-21 20:24:27.900] [warning] Unable to open usb!
+[2025-10-21 20:24:28.101] [warning] Not found camera!
+[2025-10-21 20:24:28.201] [warning] Unable to open usb!
+[2025-10-21 20:24:28.402] [warning] Not found camera!
+[2025-10-21 20:24:28.502] [warning] Unable to open usb!
+[2025-10-21 20:24:28.904] [warning] Not found camera!
+[2025-10-21 20:24:29.004] [warning] Unable to open usb!
+[2025-10-21 20:24:29.747] [info] Mindvision opened.
+[2025-10-21 20:24:29.832] [info] Write
+[2025-10-21 20:24:29.907] [info] Write
+[2025-10-21 20:24:29.982] [info] Write
+[2025-10-21 20:24:30.061] [info] Write
+[2025-10-21 20:24:30.134] [info] Write
+[2025-10-21 20:24:30.207] [info] Write
+[2025-10-21 20:24:30.282] [info] Write
+[2025-10-21 20:24:30.357] [info] Write
+[2025-10-21 20:24:30.433] [info] Write
+[2025-10-21 20:24:30.508] [info] Write
+[2025-10-21 20:24:30.582] [info] Write
+[2025-10-21 20:24:30.657] [info] Write
+[2025-10-21 20:24:30.733] [info] Write
+[2025-10-21 20:24:30.808] [info] Write
+[2025-10-21 20:24:30.882] [info] Write
+[2025-10-21 20:24:30.957] [info] Write
+[2025-10-21 20:24:31.030] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.032] [info] Write
+[2025-10-21 20:24:31.107] [info] Write
+[2025-10-21 20:24:31.143] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.180] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.182] [info] Write
+[2025-10-21 20:24:31.246] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.257] [info] Write
+[2025-10-21 20:24:31.332] [info] Write
+[2025-10-21 20:24:31.407] [info] Write
+[2025-10-21 20:24:31.412] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.478] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.482] [info] Write
+[2025-10-21 20:24:31.557] [info] Write
+[2025-10-21 20:24:31.588] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.632] [info] Write
+[2025-10-21 20:24:31.704] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.708] [info] Write
+[2025-10-21 20:24:31.782] [info] Write
+[2025-10-21 20:24:31.797] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.857] [info] Write
+[2025-10-21 20:24:31.877] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:31.932] [info] Write
+[2025-10-21 20:24:32.000] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.007] [info] Write
+[2025-10-21 20:24:32.082] [info] Write
+[2025-10-21 20:24:32.088] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.149] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.157] [info] Write
+[2025-10-21 20:24:32.232] [info] Write
+[2025-10-21 20:24:32.299] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.307] [info] Write
+[2025-10-21 20:24:32.382] [info] Write
+[2025-10-21 20:24:32.417] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.457] [info] Write
+[2025-10-21 20:24:32.527] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.531] [info] Write
+[2025-10-21 20:24:32.607] [info] Write
+[2025-10-21 20:24:32.627] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.683] [info] Write
+[2025-10-21 20:24:32.717] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.757] [info] Write
+[2025-10-21 20:24:32.816] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.832] [info] Write
+[2025-10-21 20:24:32.896] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:32.907] [info] Write
+[2025-10-21 20:24:32.983] [info] Write
+[2025-10-21 20:24:33.057] [info] Write
+[2025-10-21 20:24:33.065] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:33.132] [info] Write
+[2025-10-21 20:24:33.166] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:33.207] [info] Write
+[2025-10-21 20:24:33.259] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:33.282] [info] Write
+[2025-10-21 20:24:33.357] [info] Write
+[2025-10-21 20:24:33.432] [info] Write
+[2025-10-21 20:24:33.475] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:33.507] [info] Write
+[2025-10-21 20:24:33.582] [info] Write
+[2025-10-21 20:24:33.657] [info] Write
+[2025-10-21 20:24:33.664] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:33.725] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:33.732] [info] Write
+[2025-10-21 20:24:33.797] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:33.807] [info] Write
+[2025-10-21 20:24:33.858] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:33.882] [info] Write
+[2025-10-21 20:24:33.956] [info] Write
+[2025-10-21 20:24:34.032] [info] Write
+[2025-10-21 20:24:34.041] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.104] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.107] [info] Write
+[2025-10-21 20:24:34.182] [info] Write
+[2025-10-21 20:24:34.232] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.258] [info] Write
+[2025-10-21 20:24:34.310] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.332] [info] Write
+[2025-10-21 20:24:34.397] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.409] [info] Write
+[2025-10-21 20:24:34.482] [info] Write
+[2025-10-21 20:24:34.557] [info] Write
+[2025-10-21 20:24:34.567] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.631] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.632] [info] Write
+[2025-10-21 20:24:34.699] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.707] [info] Write
+[2025-10-21 20:24:34.782] [info] Write
+[2025-10-21 20:24:34.846] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.857] [info] Write
+[2025-10-21 20:24:34.933] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:34.933] [info] Write
+[2025-10-21 20:24:35.007] [info] Write
+[2025-10-21 20:24:35.041] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:35.082] [info] Write
+[2025-10-21 20:24:35.116] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:35.157] [info] Write
+[2025-10-21 20:24:35.208] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:35.232] [info] Write
+[2025-10-21 20:24:35.298] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:35.307] [info] Write
+[2025-10-21 20:24:35.382] [info] Write
+[2025-10-21 20:24:35.457] [info] Write
+[2025-10-21 20:24:35.469] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:35.532] [info] Write
+[2025-10-21 20:24:35.570] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:35.607] [info] Write
+[2025-10-21 20:24:35.657] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:35.685] [info] Write
+[2025-10-21 20:24:35.747] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:35.757] [info] Write
+[2025-10-21 20:24:35.832] [info] Write
+[2025-10-21 20:24:35.906] [info] Write
+[2025-10-21 20:24:35.958] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:35.982] [info] Write
+[2025-10-21 20:24:36.049] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:36.057] [info] Write
+[2025-10-21 20:24:36.131] [info] Write
+[2025-10-21 20:24:36.202] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:36.207] [info] Write
+[2025-10-21 20:24:36.281] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:36.282] [info] Write
+[2025-10-21 20:24:36.357] [info] Write
+[2025-10-21 20:24:36.383] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:36.431] [info] Write
+[2025-10-21 20:24:36.493] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:36.506] [info] Write
+[2025-10-21 20:24:36.581] [info] Write
+[2025-10-21 20:24:36.610] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:36.657] [info] Write
+[2025-10-21 20:24:36.732] [info] Write
+[2025-10-21 20:24:36.742] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:36.806] [info] Write
+[2025-10-21 20:24:36.829] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:36.882] [info] Write
+[2025-10-21 20:24:36.919] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:36.957] [info] Write
+[2025-10-21 20:24:37.008] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.032] [info] Write
+[2025-10-21 20:24:37.099] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.107] [info] Write
+[2025-10-21 20:24:37.159] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.186] [info] Write
+[2025-10-21 20:24:37.219] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.256] [info] Write
+[2025-10-21 20:24:37.308] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.332] [info] Write
+[2025-10-21 20:24:37.397] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.406] [info] Write
+[2025-10-21 20:24:37.481] [info] Write
+[2025-10-21 20:24:37.546] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.556] [info] Write
+[2025-10-21 20:24:37.635] [info] Write
+[2025-10-21 20:24:37.652] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.706] [info] Write
+[2025-10-21 20:24:37.758] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.782] [info] Write
+[2025-10-21 20:24:37.818] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.857] [info] Write
+[2025-10-21 20:24:37.908] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:37.931] [info] Write
+[2025-10-21 20:24:37.998] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:38.007] [info] Write
+[2025-10-21 20:24:38.082] [info] Write
+[2025-10-21 20:24:38.152] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:38.157] [info] Write
+[2025-10-21 20:24:38.232] [info] Write
+[2025-10-21 20:24:38.269] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:38.307] [info] Write
+[2025-10-21 20:24:38.358] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:38.382] [info] Write
+[2025-10-21 20:24:38.457] [info] Write
+[2025-10-21 20:24:38.462] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:38.521] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:38.531] [info] Write
+[2025-10-21 20:24:38.599] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:38.609] [info] Write
+[2025-10-21 20:24:38.681] [info] Write
+[2025-10-21 20:24:38.751] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:38.756] [info] Write
+[2025-10-21 20:24:38.833] [info] Write
+[2025-10-21 20:24:38.907] [info] Write
+[2025-10-21 20:24:38.908] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:38.981] [info] Write
+[2025-10-21 20:24:39.006] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.057] [info] Write
+[2025-10-21 20:24:39.111] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.133] [info] Write
+[2025-10-21 20:24:39.169] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.207] [info] Write
+[2025-10-21 20:24:39.257] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.282] [info] Write
+[2025-10-21 20:24:39.351] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.357] [info] Write
+[2025-10-21 20:24:39.432] [info] Write
+[2025-10-21 20:24:39.504] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.507] [info] Write
+[2025-10-21 20:24:39.581] [info] Write
+[2025-10-21 20:24:39.620] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.657] [info] Write
+[2025-10-21 20:24:39.709] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.732] [info] Write
+[2025-10-21 20:24:39.769] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.806] [info] Write
+[2025-10-21 20:24:39.858] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.881] [info] Write
+[2025-10-21 20:24:39.948] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:39.957] [info] Write
+[2025-10-21 20:24:40.032] [info] Write
+[2025-10-21 20:24:40.109] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:40.109] [info] Write
+[2025-10-21 20:24:40.182] [info] Write
+[2025-10-21 20:24:40.212] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:40.256] [info] Write
+[2025-10-21 20:24:40.307] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:40.332] [info] Write
+[2025-10-21 20:24:40.407] [info] Write
+[2025-10-21 20:24:40.481] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:40.482] [info] Write
+[2025-10-21 20:24:40.557] [info] Write
+[2025-10-21 20:24:40.601] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:40.634] [info] Write
+[2025-10-21 20:24:40.707] [info] Write
+[2025-10-21 20:24:40.746] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:40.782] [info] Write
+[2025-10-21 20:24:40.849] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:40.857] [info] Write
+[2025-10-21 20:24:40.932] [info] Write
+[2025-10-21 20:24:41.006] [info] Write
+[2025-10-21 20:24:41.075] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:41.086] [info] Write
+[2025-10-21 20:24:41.157] [info] Write
+[2025-10-21 20:24:41.233] [info] Write
+[2025-10-21 20:24:41.292] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:41.306] [info] Write
+[2025-10-21 20:24:41.382] [info] Write
+[2025-10-21 20:24:41.434] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:41.457] [info] Write
+[2025-10-21 20:24:41.532] [info] Write
+[2025-10-21 20:24:41.607] [info] Write
+[2025-10-21 20:24:41.677] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:41.682] [info] Write
+[2025-10-21 20:24:41.720] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:41.756] [info] Write
+[2025-10-21 20:24:41.795] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:41.832] [info] Write
+[2025-10-21 20:24:41.906] [info] Write
+[2025-10-21 20:24:41.930] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:41.981] [info] Write
+[2025-10-21 20:24:42.018] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:42.057] [info] Write
+[2025-10-21 20:24:42.111] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:42.132] [info] Write
+[2025-10-21 20:24:42.198] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:42.206] [info] Write
+[2025-10-21 20:24:42.281] [info] Write
+[2025-10-21 20:24:42.356] [info] Write
+[2025-10-21 20:24:42.380] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:42.432] [info] Write
+[2025-10-21 20:24:42.468] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:42.507] [info] Write
+[2025-10-21 20:24:42.561] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:42.582] [info] Write
+[2025-10-21 20:24:42.649] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:42.656] [info] Write
+[2025-10-21 20:24:42.732] [info] Write
+[2025-10-21 20:24:42.806] [info] Write
+[2025-10-21 20:24:42.806] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:42.882] [info] Write
+[2025-10-21 20:24:42.919] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:42.958] [info] Write
+[2025-10-21 20:24:43.008] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:43.032] [info] Write
+[2025-10-21 20:24:43.107] [info] Write
+[2025-10-21 20:24:43.181] [info] Write
+[2025-10-21 20:24:43.203] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:43.256] [info] Write
+[2025-10-21 20:24:43.332] [info] Write
+[2025-10-21 20:24:43.341] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:43.400] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:43.408] [info] Write
+[2025-10-21 20:24:43.458] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:43.484] [info] Write
+[2025-10-21 20:24:43.548] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:43.557] [info] Write
+[2025-10-21 20:24:43.632] [info] Write
+[2025-10-21 20:24:43.697] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:43.708] [info] Write
+[2025-10-21 20:24:43.784] [info] Write
+[2025-10-21 20:24:43.822] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:43.856] [info] Write
+[2025-10-21 20:24:43.909] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:43.932] [info] Write
+[2025-10-21 20:24:43.999] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.007] [info] Write
+[2025-10-21 20:24:44.059] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.082] [info] Write
+[2025-10-21 20:24:44.149] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.156] [info] Write
+[2025-10-21 20:24:44.232] [info] Write
+[2025-10-21 20:24:44.285] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.307] [info] Write
+[2025-10-21 20:24:44.382] [info] Write
+[2025-10-21 20:24:44.400] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.457] [info] Write
+[2025-10-21 20:24:44.531] [info] Write
+[2025-10-21 20:24:44.576] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.607] [info] Write
+[2025-10-21 20:24:44.660] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.682] [info] Write
+[2025-10-21 20:24:44.751] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.756] [info] Write
+[2025-10-21 20:24:44.832] [info] Write
+[2025-10-21 20:24:44.894] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.907] [info] Write
+[2025-10-21 20:24:44.959] [debug] [MultiThreadDetector] queue is full!
+[2025-10-21 20:24:44.982] [info] Write
+[2025-10-21 20:24:45.058] [info] Write
+[2025-10-21 20:24:45.206] [info] [Gimbal] read_thread stopped.
+[2025-10-21 20:24:45.331] [info] Mindvision destructed.

@@ -1,0 +1,618 @@
+[2026-01-06 21:12:06.590] [info] [Gimbal] read_thread started.
+[2026-01-06 21:12:06.590] [info] [Gimbal] First q received.
+[2026-01-06 21:12:06.760] [info] HikRobot's daemon thread started.
+[2026-01-06 21:12:06.791] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:06.901] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:07.908] [info] Reset usb successfully :)
+[2026-01-06 21:12:08.151] [info] HikRobot's capture thread started.
+[2026-01-06 21:12:08.896] [info] HikRobot's daemon thread started.
+[2026-01-06 21:12:08.919] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:09.029] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:09.127] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2026-01-06 21:12:09.127] [info] HikRobot's capture thread stopped.
+[2026-01-06 21:12:10.036] [info] Reset usb successfully :)
+[2026-01-06 21:12:10.042] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:10.152] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:10.283] [info] Reset usb successfully :)
+[2026-01-06 21:12:10.286] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:10.396] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:10.526] [info] Reset usb successfully :)
+[2026-01-06 21:12:10.528] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:10.639] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:10.769] [info] Reset usb successfully :)
+[2026-01-06 21:12:10.772] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:10.882] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:11.013] [info] Reset usb successfully :)
+[2026-01-06 21:12:11.018] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:11.128] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:11.259] [info] Reset usb successfully :)
+[2026-01-06 21:12:11.261] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:11.371] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:11.518] [info] Reset usb successfully :)
+[2026-01-06 21:12:11.648] [info] Reset usb successfully :)
+[2026-01-06 21:12:11.659] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:11.769] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:11.902] [info] Reset usb successfully :)
+[2026-01-06 21:12:11.906] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:12.016] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:12.146] [info] Reset usb successfully :)
+[2026-01-06 21:12:12.149] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:12.259] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:12.390] [info] Reset usb successfully :)
+[2026-01-06 21:12:12.392] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:12.502] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:12.633] [info] Reset usb successfully :)
+[2026-01-06 21:12:12.637] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:12.726] [info] HikRobot's capture thread started.
+[2026-01-06 21:12:12.747] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:12.858] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2026-01-06 21:12:12.858] [info] HikRobot's capture thread stopped.
+[2026-01-06 21:12:13.754] [info] Reset usb successfully :)
+[2026-01-06 21:12:13.761] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:13.871] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:14.001] [info] Reset usb successfully :)
+[2026-01-06 21:12:14.004] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:14.115] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:14.246] [info] Reset usb successfully :)
+[2026-01-06 21:12:14.250] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:14.360] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:14.491] [info] Reset usb successfully :)
+[2026-01-06 21:12:14.493] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:14.603] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:14.735] [info] Reset usb successfully :)
+[2026-01-06 21:12:14.737] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:14.847] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:14.979] [info] Reset usb successfully :)
+[2026-01-06 21:12:15.126] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:15.237] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:15.241] [info] Reset usb successfully :)
+[2026-01-06 21:12:15.546] [info] Reset usb successfully :)
+[2026-01-06 21:12:15.548] [error] 找不到标识符为 00DA5751516 的相机!
+[2026-01-06 21:12:15.563] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:15.648] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:15.673] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:15.778] [info] Reset usb successfully :)
+[2026-01-06 21:12:15.907] [info] Reset usb successfully :)
+[2026-01-06 21:12:15.922] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:16.032] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:16.164] [info] Reset usb successfully :)
+[2026-01-06 21:12:16.168] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:16.278] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:16.409] [info] Reset usb successfully :)
+[2026-01-06 21:12:16.412] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:16.503] [info] HikRobot's capture thread started.
+[2026-01-06 21:12:16.522] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:16.619] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2026-01-06 21:12:16.620] [info] HikRobot's capture thread stopped.
+[2026-01-06 21:12:17.529] [info] Reset usb successfully :)
+[2026-01-06 21:12:17.536] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:17.646] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:17.777] [info] Reset usb successfully :)
+[2026-01-06 21:12:17.780] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:17.890] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:18.020] [info] Reset usb successfully :)
+[2026-01-06 21:12:18.023] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:18.133] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:18.264] [info] Reset usb successfully :)
+[2026-01-06 21:12:18.268] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:18.378] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:18.508] [info] Reset usb successfully :)
+[2026-01-06 21:12:18.512] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:18.622] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:18.752] [info] Reset usb successfully :)
+[2026-01-06 21:12:18.904] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:19.014] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:19.016] [info] Reset usb successfully :)
+[2026-01-06 21:12:19.146] [info] Reset usb successfully :)
+[2026-01-06 21:12:19.148] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:19.162] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:19.249] [warning] MV_CC_StopGrabbing failed: 0x80000004
+[2026-01-06 21:12:19.272] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:19.378] [info] Reset usb successfully :)
+[2026-01-06 21:12:19.508] [info] Reset usb successfully :)
+[2026-01-06 21:12:19.522] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:19.632] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:19.763] [info] Reset usb successfully :)
+[2026-01-06 21:12:19.767] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:19.877] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:20.007] [info] Reset usb successfully :)
+[2026-01-06 21:12:20.010] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:20.101] [info] HikRobot's capture thread started.
+[2026-01-06 21:12:20.120] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:20.218] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2026-01-06 21:12:20.218] [info] HikRobot's capture thread stopped.
+[2026-01-06 21:12:21.127] [info] Reset usb successfully :)
+[2026-01-06 21:12:21.131] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:21.242] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:21.371] [info] Reset usb successfully :)
+[2026-01-06 21:12:21.373] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:21.484] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:21.614] [info] Reset usb successfully :)
+[2026-01-06 21:12:21.617] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:21.728] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:21.858] [info] Reset usb successfully :)
+[2026-01-06 21:12:21.861] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:21.971] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:22.102] [info] Reset usb successfully :)
+[2026-01-06 21:12:22.105] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:22.215] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:22.345] [info] Reset usb successfully :)
+[2026-01-06 21:12:22.496] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:22.606] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:22.611] [info] Reset usb successfully :)
+[2026-01-06 21:12:22.741] [info] Reset usb successfully :)
+[2026-01-06 21:12:22.743] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:22.762] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:22.843] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:22.872] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:22.973] [info] Reset usb successfully :)
+[2026-01-06 21:12:23.102] [info] Reset usb successfully :)
+[2026-01-06 21:12:23.104] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:23.121] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:23.204] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:23.231] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:23.335] [info] Reset usb successfully :)
+[2026-01-06 21:12:23.464] [info] Reset usb successfully :)
+[2026-01-06 21:12:23.466] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:23.484] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:23.566] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:23.594] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:23.696] [info] Reset usb successfully :)
+[2026-01-06 21:12:23.826] [info] Reset usb successfully :)
+[2026-01-06 21:12:23.837] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:23.947] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:24.078] [info] Reset usb successfully :)
+[2026-01-06 21:12:24.082] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:24.192] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:24.322] [info] Reset usb successfully :)
+[2026-01-06 21:12:24.326] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:24.415] [info] HikRobot's capture thread started.
+[2026-01-06 21:12:24.436] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:24.532] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2026-01-06 21:12:24.532] [info] HikRobot's capture thread stopped.
+[2026-01-06 21:12:25.443] [info] Reset usb successfully :)
+[2026-01-06 21:12:25.446] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:25.557] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:25.686] [info] Reset usb successfully :)
+[2026-01-06 21:12:25.689] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:25.800] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:25.931] [info] Reset usb successfully :)
+[2026-01-06 21:12:25.934] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:26.044] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:26.174] [info] Reset usb successfully :)
+[2026-01-06 21:12:26.176] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:26.287] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:26.419] [info] Reset usb successfully :)
+[2026-01-06 21:12:26.421] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:26.531] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:26.664] [info] Reset usb successfully :)
+[2026-01-06 21:12:26.814] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:26.924] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:26.934] [info] Reset usb successfully :)
+[2026-01-06 21:12:27.063] [info] Reset usb successfully :)
+[2026-01-06 21:12:27.065] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:27.085] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:27.165] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:27.195] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:27.295] [info] Reset usb successfully :)
+[2026-01-06 21:12:27.424] [info] Reset usb successfully :)
+[2026-01-06 21:12:27.438] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:27.548] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:27.679] [info] Reset usb successfully :)
+[2026-01-06 21:12:27.681] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:27.791] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:27.923] [info] Reset usb successfully :)
+[2026-01-06 21:12:27.926] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:28.016] [info] HikRobot's capture thread started.
+[2026-01-06 21:12:28.036] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:28.133] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2026-01-06 21:12:28.133] [info] HikRobot's capture thread stopped.
+[2026-01-06 21:12:29.043] [info] Reset usb successfully :)
+[2026-01-06 21:12:29.047] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:29.158] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:29.288] [info] Reset usb successfully :)
+[2026-01-06 21:12:29.291] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:29.401] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:29.531] [info] Reset usb successfully :)
+[2026-01-06 21:12:29.535] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:29.645] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:29.777] [info] Reset usb successfully :)
+[2026-01-06 21:12:29.781] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:29.891] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:30.021] [info] Reset usb successfully :)
+[2026-01-06 21:12:30.025] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:30.135] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:30.265] [info] Reset usb successfully :)
+[2026-01-06 21:12:30.414] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:30.524] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:30.534] [info] Reset usb successfully :)
+[2026-01-06 21:12:30.663] [info] Reset usb successfully :)
+[2026-01-06 21:12:30.665] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:30.688] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:30.765] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:30.798] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:30.895] [info] Reset usb successfully :)
+[2026-01-06 21:12:31.026] [info] Reset usb successfully :)
+[2026-01-06 21:12:31.042] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:31.152] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:31.284] [info] Reset usb successfully :)
+[2026-01-06 21:12:31.287] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:31.398] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:31.528] [info] Reset usb successfully :)
+[2026-01-06 21:12:31.530] [warning] MV_CC_OpenDevice failed: 0x80000203
+[2026-01-06 21:12:31.622] [info] HikRobot's capture thread started.
+[2026-01-06 21:12:31.640] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:31.739] [warning] MV_CC_GetImageBuffer failed: 0x80000007
+[2026-01-06 21:12:31.739] [info] HikRobot's capture thread stopped.
+[2026-01-06 21:12:32.648] [info] Reset usb successfully :)
+[2026-01-06 21:12:32.650] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:32.760] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:32.892] [info] Reset usb successfully :)
+[2026-01-06 21:12:32.893] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:33.003] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:33.134] [info] Reset usb successfully :)
+[2026-01-06 21:12:33.135] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:33.246] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:33.376] [info] Reset usb successfully :)
+[2026-01-06 21:12:33.378] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:33.488] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:33.617] [info] Reset usb successfully :)
+[2026-01-06 21:12:33.619] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:33.730] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:33.860] [info] Reset usb successfully :)
+[2026-01-06 21:12:34.167] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:34.277] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:34.301] [info] Reset usb successfully :)
+[2026-01-06 21:12:34.431] [info] Reset usb successfully :)
+[2026-01-06 21:12:34.432] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:34.433] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:34.532] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:34.543] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:34.661] [info] Reset usb successfully :)
+[2026-01-06 21:12:34.791] [info] Reset usb successfully :)
+[2026-01-06 21:12:34.792] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:34.793] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:34.892] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:34.903] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:35.022] [info] Reset usb successfully :)
+[2026-01-06 21:12:35.154] [info] Reset usb successfully :)
+[2026-01-06 21:12:35.155] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:35.156] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:35.255] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:35.266] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:35.385] [info] Reset usb successfully :)
+[2026-01-06 21:12:35.514] [info] Reset usb successfully :)
+[2026-01-06 21:12:35.515] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:35.516] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:35.615] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:35.626] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:35.745] [info] Reset usb successfully :)
+[2026-01-06 21:12:35.875] [info] Reset usb successfully :)
+[2026-01-06 21:12:35.876] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:35.877] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:35.976] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:35.987] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:36.105] [info] Reset usb successfully :)
+[2026-01-06 21:12:36.236] [info] Reset usb successfully :)
+[2026-01-06 21:12:36.237] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:36.238] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:36.337] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:36.348] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:36.467] [info] Reset usb successfully :)
+[2026-01-06 21:12:36.596] [info] Reset usb successfully :)
+[2026-01-06 21:12:36.597] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:36.598] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:36.697] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:36.708] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:36.828] [info] Reset usb successfully :)
+[2026-01-06 21:12:36.957] [info] Reset usb successfully :)
+[2026-01-06 21:12:36.958] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:36.959] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:37.058] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:37.069] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:37.187] [info] Reset usb successfully :)
+[2026-01-06 21:12:37.318] [info] Reset usb successfully :)
+[2026-01-06 21:12:37.319] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:37.320] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:37.419] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:37.430] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:37.549] [info] Reset usb successfully :)
+[2026-01-06 21:12:37.678] [info] Reset usb successfully :)
+[2026-01-06 21:12:37.679] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:37.680] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:37.779] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:37.790] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:37.909] [info] Reset usb successfully :)
+[2026-01-06 21:12:38.038] [info] Reset usb successfully :)
+[2026-01-06 21:12:38.039] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:38.040] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:38.139] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:38.150] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:38.271] [info] Reset usb successfully :)
+[2026-01-06 21:12:38.402] [info] Reset usb successfully :)
+[2026-01-06 21:12:38.403] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:38.404] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:38.503] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:38.514] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:38.635] [info] Reset usb successfully :)
+[2026-01-06 21:12:38.767] [info] Reset usb successfully :)
+[2026-01-06 21:12:38.768] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:38.769] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:38.868] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:38.879] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:38.997] [info] Reset usb successfully :)
+[2026-01-06 21:12:39.126] [info] Reset usb successfully :)
+[2026-01-06 21:12:39.127] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:39.128] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:39.227] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:39.238] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:39.360] [info] Reset usb successfully :)
+[2026-01-06 21:12:39.665] [info] Reset usb successfully :)
+[2026-01-06 21:12:39.665] [warning] Not found camera!
+[2026-01-06 21:12:39.666] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:39.765] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:39.776] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:39.895] [info] Reset usb successfully :)
+[2026-01-06 21:12:40.025] [info] Reset usb successfully :)
+[2026-01-06 21:12:40.026] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:40.027] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:40.126] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:40.137] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:40.256] [info] Reset usb successfully :)
+[2026-01-06 21:12:40.385] [info] Reset usb successfully :)
+[2026-01-06 21:12:40.386] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:40.387] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:40.486] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:40.497] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:40.618] [info] Reset usb successfully :)
+[2026-01-06 21:12:40.747] [info] Reset usb successfully :)
+[2026-01-06 21:12:40.748] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:40.749] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:40.848] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:40.859] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:40.980] [info] Reset usb successfully :)
+[2026-01-06 21:12:41.109] [info] Reset usb successfully :)
+[2026-01-06 21:12:41.110] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:41.111] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:41.210] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:41.221] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:41.340] [info] Reset usb successfully :)
+[2026-01-06 21:12:41.470] [info] Reset usb successfully :)
+[2026-01-06 21:12:41.471] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:41.472] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:41.571] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:41.582] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:41.701] [info] Reset usb successfully :)
+[2026-01-06 21:12:41.831] [info] Reset usb successfully :)
+[2026-01-06 21:12:41.832] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:41.833] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:41.932] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:41.943] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:42.063] [info] Reset usb successfully :)
+[2026-01-06 21:12:42.192] [info] Reset usb successfully :)
+[2026-01-06 21:12:42.193] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:42.194] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:42.293] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:42.304] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:42.423] [info] Reset usb successfully :)
+[2026-01-06 21:12:42.552] [info] Reset usb successfully :)
+[2026-01-06 21:12:42.553] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:42.554] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:42.653] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:42.664] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:42.784] [info] Reset usb successfully :)
+[2026-01-06 21:12:42.913] [info] Reset usb successfully :)
+[2026-01-06 21:12:42.914] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:42.915] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:43.014] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:43.025] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:43.144] [info] Reset usb successfully :)
+[2026-01-06 21:12:43.276] [info] Reset usb successfully :)
+[2026-01-06 21:12:43.277] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:43.278] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:43.377] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:43.388] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:43.507] [info] Reset usb successfully :)
+[2026-01-06 21:12:43.637] [info] Reset usb successfully :)
+[2026-01-06 21:12:43.638] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:43.639] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:43.738] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:43.749] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:43.868] [info] Reset usb successfully :)
+[2026-01-06 21:12:43.999] [info] Reset usb successfully :)
+[2026-01-06 21:12:44.000] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:44.001] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:44.100] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:44.111] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:44.231] [info] Reset usb successfully :)
+[2026-01-06 21:12:44.361] [info] Reset usb successfully :)
+[2026-01-06 21:12:44.362] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:44.363] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:44.462] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:44.473] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:44.591] [info] Reset usb successfully :)
+[2026-01-06 21:12:44.721] [info] Reset usb successfully :)
+[2026-01-06 21:12:44.722] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:44.723] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:44.822] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:44.833] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:44.951] [info] Reset usb successfully :)
+[2026-01-06 21:12:45.080] [info] Reset usb successfully :)
+[2026-01-06 21:12:45.081] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:45.081] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:45.181] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:45.192] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:45.310] [info] Reset usb successfully :)
+[2026-01-06 21:12:45.439] [info] Reset usb successfully :)
+[2026-01-06 21:12:45.440] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:45.441] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:45.540] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:45.551] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:45.670] [info] Reset usb successfully :)
+[2026-01-06 21:12:45.799] [info] Reset usb successfully :)
+[2026-01-06 21:12:45.800] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:45.801] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:45.900] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:45.911] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:46.032] [info] Reset usb successfully :)
+[2026-01-06 21:12:46.163] [info] Reset usb successfully :)
+[2026-01-06 21:12:46.165] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:46.166] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:46.265] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:46.276] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:46.395] [info] Reset usb successfully :)
+[2026-01-06 21:12:46.526] [info] Reset usb successfully :)
+[2026-01-06 21:12:46.527] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:46.528] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:46.627] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:46.638] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:46.758] [info] Reset usb successfully :)
+[2026-01-06 21:12:46.887] [info] Reset usb successfully :)
+[2026-01-06 21:12:46.888] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:46.889] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:46.988] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:46.999] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:47.120] [info] Reset usb successfully :)
+[2026-01-06 21:12:47.250] [info] Reset usb successfully :)
+[2026-01-06 21:12:47.251] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:47.252] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:47.351] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:47.362] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:47.480] [info] Reset usb successfully :)
+[2026-01-06 21:12:47.609] [info] Reset usb successfully :)
+[2026-01-06 21:12:47.610] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:47.611] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:47.710] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:47.721] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:47.840] [info] Reset usb successfully :)
+[2026-01-06 21:12:47.972] [info] Reset usb successfully :)
+[2026-01-06 21:12:47.973] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:47.974] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:48.073] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:48.084] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:48.205] [info] Reset usb successfully :)
+[2026-01-06 21:12:48.336] [info] Reset usb successfully :)
+[2026-01-06 21:12:48.337] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:48.338] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:48.437] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:48.448] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:48.567] [info] Reset usb successfully :)
+[2026-01-06 21:12:48.697] [info] Reset usb successfully :)
+[2026-01-06 21:12:48.698] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:48.699] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:48.798] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:48.809] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:48.928] [info] Reset usb successfully :)
+[2026-01-06 21:12:49.057] [info] Reset usb successfully :)
+[2026-01-06 21:12:49.058] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:49.059] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:49.158] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:49.169] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:49.287] [info] Reset usb successfully :)
+[2026-01-06 21:12:49.416] [info] Reset usb successfully :)
+[2026-01-06 21:12:49.417] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:49.418] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:49.517] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:49.528] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:49.648] [info] Reset usb successfully :)
+[2026-01-06 21:12:49.777] [info] Reset usb successfully :)
+[2026-01-06 21:12:49.778] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:49.779] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:49.878] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:49.889] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:50.009] [info] Reset usb successfully :)
+[2026-01-06 21:12:50.139] [info] Reset usb successfully :)
+[2026-01-06 21:12:50.140] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:50.141] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:50.240] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:50.251] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:50.371] [info] Reset usb successfully :)
+[2026-01-06 21:12:50.501] [info] Reset usb successfully :)
+[2026-01-06 21:12:50.502] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:50.503] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:50.602] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:50.613] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:50.733] [info] Reset usb successfully :)
+[2026-01-06 21:12:50.864] [info] Reset usb successfully :)
+[2026-01-06 21:12:50.865] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:50.866] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:50.965] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:50.976] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:51.095] [info] Reset usb successfully :)
+[2026-01-06 21:12:51.226] [info] Reset usb successfully :)
+[2026-01-06 21:12:51.227] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:51.228] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:51.327] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:51.338] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:51.458] [info] Reset usb successfully :)
+[2026-01-06 21:12:51.590] [info] Reset usb successfully :)
+[2026-01-06 21:12:51.591] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:51.592] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:51.691] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:51.702] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:51.823] [info] Reset usb successfully :)
+[2026-01-06 21:12:51.954] [info] Reset usb successfully :)
+[2026-01-06 21:12:51.955] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:51.956] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:52.055] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:52.066] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:52.186] [info] Reset usb successfully :)
+[2026-01-06 21:12:52.315] [info] Reset usb successfully :)
+[2026-01-06 21:12:52.316] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:52.317] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:52.416] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:52.427] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:52.545] [info] Reset usb successfully :)
+[2026-01-06 21:12:52.674] [info] Reset usb successfully :)
+[2026-01-06 21:12:52.677] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:52.677] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:52.777] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:52.787] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:52.907] [info] Reset usb successfully :)
+[2026-01-06 21:12:53.036] [info] Reset usb successfully :)
+[2026-01-06 21:12:53.037] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:53.038] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:53.137] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:53.148] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:53.268] [info] Reset usb successfully :)
+[2026-01-06 21:12:53.397] [info] Reset usb successfully :)
+[2026-01-06 21:12:53.398] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:53.399] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:53.498] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:53.509] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:53.628] [info] Reset usb successfully :)
+[2026-01-06 21:12:53.757] [info] Reset usb successfully :)
+[2026-01-06 21:12:53.758] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:53.759] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:53.858] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:53.869] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:53.988] [info] Reset usb successfully :)
+[2026-01-06 21:12:54.118] [info] Reset usb successfully :)
+[2026-01-06 21:12:54.119] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:54.120] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:54.219] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:54.230] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:54.350] [info] Reset usb successfully :)
+[2026-01-06 21:12:54.480] [info] Reset usb successfully :)
+[2026-01-06 21:12:54.481] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:54.482] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:54.581] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:54.592] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:54.712] [info] Reset usb successfully :)
+[2026-01-06 21:12:54.842] [info] Reset usb successfully :)
+[2026-01-06 21:12:54.843] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:54.844] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:54.943] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:54.954] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:55.075] [info] Reset usb successfully :)
+[2026-01-06 21:12:55.204] [info] Reset usb successfully :)
+[2026-01-06 21:12:55.205] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:55.206] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:55.305] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:55.316] [warning] MV_CC_StopGrabbing failed: 0x80000003
+[2026-01-06 21:12:55.435] [info] Reset usb successfully :)
+[2026-01-06 21:12:55.564] [info] Reset usb successfully :)
+[2026-01-06 21:12:55.566] [warning] MV_CC_CreateHandle failed: 0x80000004
+[2026-01-06 21:12:55.567] [error] 找不到标识符为 00DA5751514 的相机!
+[2026-01-06 21:12:55.666] [warning] MV_CC_StopGrabbing failed: 0x80000000
+[2026-01-06 21:12:55.678] [warning] MV_CC_StopGrabbing failed: 0x80000003

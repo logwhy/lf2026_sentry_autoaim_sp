@@ -1,0 +1,2 @@
+[2025-10-24 20:50:59.439] [warning] Not found camera!
+[2025-10-24 20:50:59.441] [error] [Gimbal] Failed to open serial: IO Exception (2): No such file or directory, file /home/wheeltec/projects/sp_vision_25-main/io/serial/src/impl/unix.cc, line 151.

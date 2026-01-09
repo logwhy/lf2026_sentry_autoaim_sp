@@ -1,0 +1,109 @@
+[2025-10-28 18:50:30.997] [info] Mindvision opened.
+[2025-10-28 18:50:31.099] [warning] Camera dropped!
+[2025-10-28 18:50:31.166] [info] [Gimbal] read_thread started.
+[2025-10-28 18:50:31.239] [info] [Gimbal] First q received.
+[2025-10-28 18:50:31.351] [warning] Unable to open usb!
+[2025-10-28 18:50:32.814] [info] Mindvision opened.
+[2025-10-28 18:50:32.915] [warning] Camera dropped!
+[2025-10-28 18:50:33.164] [warning] Unable to open usb!
+[2025-10-28 18:50:34.630] [info] Mindvision opened.
+[2025-10-28 18:50:34.731] [warning] Camera dropped!
+[2025-10-28 18:50:34.981] [warning] Unable to open usb!
+[2025-10-28 18:50:36.443] [info] Mindvision opened.
+[2025-10-28 18:50:36.544] [warning] Camera dropped!
+[2025-10-28 18:50:36.794] [warning] Unable to open usb!
+[2025-10-28 18:50:38.256] [info] Mindvision opened.
+[2025-10-28 18:50:38.357] [warning] Camera dropped!
+[2025-10-28 18:50:38.607] [warning] Unable to open usb!
+[2025-10-28 18:50:40.073] [info] Mindvision opened.
+[2025-10-28 18:50:40.174] [warning] Camera dropped!
+[2025-10-28 18:50:40.426] [warning] Unable to open usb!
+[2025-10-28 18:50:41.892] [info] Mindvision opened.
+[2025-10-28 18:50:41.993] [warning] Camera dropped!
+[2025-10-28 18:50:42.243] [warning] Unable to open usb!
+[2025-10-28 18:50:43.720] [info] Mindvision opened.
+[2025-10-28 18:50:43.822] [warning] Camera dropped!
+[2025-10-28 18:50:44.072] [warning] Unable to open usb!
+[2025-10-28 18:50:45.536] [info] Mindvision opened.
+[2025-10-28 18:50:45.637] [warning] Camera dropped!
+[2025-10-28 18:50:45.887] [warning] Unable to open usb!
+[2025-10-28 18:50:46.190] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:46.291] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:46.393] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:46.495] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:46.596] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:46.698] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:46.799] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:46.900] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:47.002] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:47.103] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:47.204] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:47.306] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:47.351] [info] Mindvision opened.
+[2025-10-28 18:50:47.408] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:47.452] [warning] Camera dropped!
+[2025-10-28 18:50:47.509] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:47.610] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-28 18:50:47.702] [warning] Unable to open usb!
+[2025-10-28 18:50:49.159] [info] Mindvision opened.
+[2025-10-28 18:50:49.260] [warning] Camera dropped!
+[2025-10-28 18:50:49.509] [warning] Unable to open usb!
+[2025-10-28 18:50:50.877] [info] Mindvision opened.
+[2025-10-28 18:50:50.978] [warning] Camera dropped!
+[2025-10-28 18:50:51.199] [warning] Unable to open usb!
+[2025-10-28 18:50:51.600] [warning] Not found camera!
+[2025-10-28 18:50:51.700] [warning] Unable to open usb!
+[2025-10-28 18:50:52.101] [warning] Not found camera!
+[2025-10-28 18:50:52.201] [warning] Unable to open usb!
+[2025-10-28 18:50:52.602] [warning] Not found camera!
+[2025-10-28 18:50:52.702] [warning] Unable to open usb!
+[2025-10-28 18:50:53.103] [warning] Not found camera!
+[2025-10-28 18:50:53.203] [warning] Unable to open usb!
+[2025-10-28 18:50:53.604] [warning] Not found camera!
+[2025-10-28 18:50:53.704] [warning] Unable to open usb!
+[2025-10-28 18:50:54.105] [warning] Not found camera!
+[2025-10-28 18:50:54.205] [warning] Unable to open usb!
+[2025-10-28 18:50:54.605] [warning] Not found camera!
+[2025-10-28 18:50:54.705] [warning] Unable to open usb!
+[2025-10-28 18:50:55.106] [warning] Not found camera!
+[2025-10-28 18:50:55.206] [warning] Unable to open usb!
+[2025-10-28 18:50:55.607] [warning] Not found camera!
+[2025-10-28 18:50:55.707] [warning] Unable to open usb!
+[2025-10-28 18:50:56.108] [warning] Not found camera!
+[2025-10-28 18:50:56.208] [warning] Unable to open usb!
+[2025-10-28 18:50:56.609] [warning] Not found camera!
+[2025-10-28 18:50:56.709] [warning] Unable to open usb!
+[2025-10-28 18:50:57.110] [warning] Not found camera!
+[2025-10-28 18:50:57.210] [warning] Unable to open usb!
+[2025-10-28 18:50:57.611] [warning] Not found camera!
+[2025-10-28 18:50:57.711] [warning] Unable to open usb!
+[2025-10-28 18:50:58.112] [warning] Not found camera!
+[2025-10-28 18:50:58.212] [warning] Unable to open usb!
+[2025-10-28 18:50:58.612] [warning] Not found camera!
+[2025-10-28 18:50:58.713] [warning] Unable to open usb!
+[2025-10-28 18:50:59.113] [warning] Not found camera!
+[2025-10-28 18:50:59.214] [warning] Unable to open usb!
+[2025-10-28 18:51:00.828] [info] Mindvision opened.
+[2025-10-28 18:51:00.929] [warning] Camera dropped!
+[2025-10-28 18:51:01.179] [warning] Unable to open usb!
+[2025-10-28 18:51:02.845] [info] Mindvision opened.
+[2025-10-28 18:51:02.946] [warning] Camera dropped!
+[2025-10-28 18:51:03.196] [warning] Unable to open usb!
+[2025-10-28 18:51:04.659] [info] Mindvision opened.
+[2025-10-28 18:51:04.760] [warning] Camera dropped!
+[2025-10-28 18:51:05.010] [warning] Unable to open usb!
+[2025-10-28 18:51:06.674] [info] Mindvision opened.
+[2025-10-28 18:51:06.776] [warning] Camera dropped!
+[2025-10-28 18:51:07.026] [warning] Unable to open usb!
+[2025-10-28 18:51:08.689] [info] Mindvision opened.
+[2025-10-28 18:51:08.790] [warning] Camera dropped!
+[2025-10-28 18:51:09.040] [warning] Unable to open usb!
+[2025-10-28 18:51:10.502] [info] Mindvision opened.
+[2025-10-28 18:51:10.604] [warning] Camera dropped!
+[2025-10-28 18:51:10.853] [warning] Unable to open usb!
+[2025-10-28 18:51:12.317] [info] Mindvision opened.
+[2025-10-28 18:51:12.418] [warning] Camera dropped!
+[2025-10-28 18:51:12.668] [warning] Unable to open usb!
+[2025-10-28 18:51:14.132] [info] Mindvision opened.
+[2025-10-28 18:51:14.233] [warning] Camera dropped!
+[2025-10-28 18:51:14.483] [warning] Unable to open usb!

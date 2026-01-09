@@ -1,0 +1,23 @@
+[2025-10-25 14:32:24.425] [info] 棋盘格尺寸为6列8行 (内部角点5×7)，30mm方格
+[2025-10-25 14:32:24.425] [info] 开始采集标定数据...
+[2025-10-25 14:32:24.430] [info] [Gimbal] read_thread started.
+[2025-10-25 14:32:24.513] [info] [Gimbal] First q received.
+[2025-10-25 14:32:25.252] [info] Mindvision opened.
+[2025-10-25 14:34:25.392] [info] [1] Saved in assets/img_with_q
+[2025-10-25 14:34:34.236] [info] [2] Saved in assets/img_with_q
+[2025-10-25 14:34:38.894] [info] [3] Saved in assets/img_with_q
+[2025-10-25 14:34:56.217] [info] [4] Saved in assets/img_with_q
+[2025-10-25 14:35:10.321] [info] [5] Saved in assets/img_with_q
+[2025-10-25 14:35:18.478] [info] [6] Saved in assets/img_with_q
+[2025-10-25 14:35:22.461] [info] [7] Saved in assets/img_with_q
+[2025-10-25 14:35:46.164] [info] [8] Saved in assets/img_with_q
+[2025-10-25 14:35:51.651] [info] [9] Saved in assets/img_with_q
+[2025-10-25 14:35:59.740] [info] [10] Saved in assets/img_with_q
+[2025-10-25 14:36:07.294] [info] [11] Saved in assets/img_with_q
+[2025-10-25 14:36:21.643] [info] [12] Saved in assets/img_with_q
+[2025-10-25 14:36:35.592] [info] [13] Saved in assets/img_with_q
+[2025-10-25 14:36:45.564] [info] [14] Saved in assets/img_with_q
+[2025-10-25 14:36:56.249] [info] Mindvision destructed.
+[2025-10-25 14:36:56.314] [info] [Gimbal] read_thread stopped.
+[2025-10-25 14:36:56.316] [warning] 注意四元数输出顺序为wxyz
+[2025-10-25 14:36:56.316] [info] 程序结束

@@ -1,0 +1,44 @@
+[2025-10-25 15:18:39.282] [info] 棋盘格尺寸为6列8行 (内部角点5×7)，30mm方格
+[2025-10-25 15:18:39.282] [info] 开始采集标定数据...
+[2025-10-25 15:18:39.287] [info] [Gimbal] read_thread started.
+[2025-10-25 15:18:39.389] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:39.491] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:39.592] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:39.693] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:39.795] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:39.897] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:39.999] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:40.101] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:40.202] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:40.303] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:40.405] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:40.507] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:40.608] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:40.709] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:40.811] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:40.913] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.015] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.117] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.218] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.320] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.422] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.523] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.625] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.727] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.830] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:41.932] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.034] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.136] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.238] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.339] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.440] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.542] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.643] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.745] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.848] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:42.950] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:43.051] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:43.153] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:43.255] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:43.357] [warning] [Gimbal] read timeout, read 0 / 2 bytes
+[2025-10-25 15:18:43.459] [warning] [Gimbal] read timeout, read 0 / 2 bytes
