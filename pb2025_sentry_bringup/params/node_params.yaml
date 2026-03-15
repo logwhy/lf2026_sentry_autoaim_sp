@@ -36,35 +36,35 @@ hik_camera_ros2_driver:
     exposure_time: 2000             # Unit: us
     gain: 12.0                      # Range: 0.0 ~ 16.9, Unit: dB
 
-armor_detector_opencv:
-  ros__parameters:
-    use_sim_time: False
-    debug: true
-    camera_name: "front_industrial_camera"
+#armor_detector_opencv:
+#  ros__parameters:
+#    use_sim_time: False
+#    debug: true
+#    camera_name: "front_industrial_camera"
 
-    detect_color: 0
-    binary_thres: 80
+#    detect_color: 0
+#    binary_thres: 80
 
-    light.min_ratio: 0.1
-    armor.min_light_ratio: 0.8
+#    light.min_ratio: 0.1
+#    armor.min_light_ratio: 0.8
+#
+#    classifier_threshold: 0.25
+#    ignore_classes: ["negative"]
 
-    classifier_threshold: 0.25
-    ignore_classes: ["negative"]
-
-armor_detector_openvino:
-  ros__parameters:
-    use_sim_time: False
-    use_sensor_data_qos: true
-    debug_mode: true
-    detect_color: 0
-    detector:
-      camera_name: "front_industrial_camera"
-      subscribe_compressed: false
-      model_path: $(find-pkg-share armor_detector_openvino)/model/opt-1208-001.onnx
-      device_type: "AUTO"
-      confidence_threshold: 0.25
-      top_k: 128
-      nms_threshold: 0.3
+#armor_detector_openvino:
+#  ros__parameters:
+#    use_sim_time: False
+#    use_sensor_data_qos: true
+#    debug_mode: true
+#    detect_color: 0
+#    detector:
+#      camera_name: "front_industrial_camera"
+#      subscribe_compressed: false
+#      model_path: $(find-pkg-share armor_detector_openvino)/model/opt-1208-001.onnx
+#      device_type: "AUTO"
+#      confidence_threshold: 0.25
+#      top_k: 128
+#      nms_threshold: 0.3
 
 armor_tracker:
   ros__parameters:

@@ -10,7 +10,7 @@ R_gimbal2imubody: [1, 0, 0, 0, 1, 0,  0, 0, 1]
 # ROS格式相机参数文件路径
 camera_params_path: "configs/camera_info.yaml"
 camera_name: "hikrobot"
-exposure_ms: 5
+exposure_ms: 20
 gain: 10.0
 vid_pid: "2bdf:0001"
 

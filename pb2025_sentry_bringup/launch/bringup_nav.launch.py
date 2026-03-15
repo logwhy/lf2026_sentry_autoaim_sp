@@ -74,7 +74,7 @@ def generate_launch_description():
         ),
         DeclareLaunchArgument(
             "slam",
-            default_value="False",
+            default_value="True",
         ),
         DeclareLaunchArgument(
             "world",

@@ -24,7 +24,7 @@ const std::string keys =
   "{@input-path    |                        | avi文件的路径(不需要txt)}";
 
 // 默认帧率，用于模拟时间流逝
-int fps = 40;
+int fps = 30;
 int wait_time = 1000 / fps;
 
 int main(int argc, char * argv[])

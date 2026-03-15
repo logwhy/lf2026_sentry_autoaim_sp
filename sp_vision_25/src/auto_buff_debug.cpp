@@ -3,7 +3,6 @@
 #include <string>
 
 #include "io/camera.hpp"
-#include "io/cboard.hpp"
 #include "tasks/auto_buff/buff_aimer.hpp"
 #include "tasks/auto_buff/buff_detector.hpp"
 #include "tasks/auto_buff/buff_solver.hpp"
@@ -17,10 +16,14 @@
 #include "tools/recorder.hpp"
 #include "tools/trajectory.hpp"
 
+#define GimbalState GimbalState_ROS // 将第二个定义的名称重定向
+#include "io/ros2/gimbal_ros.hpp"
+#undef GimbalState
+
 // 定义命令行参数
 const std::string keys =
-  "{help h usage ? | | 输出命令行参数说明}"
-  "{@config-path   | | yaml配置文件路径 }";
+  "{help h usage ? |                   | 输出命令行参数说明 }"
+  "{@config-path   | configs/demo.yaml | yaml配置文件路径}";
 
 int main(int argc, char * argv[])
 {
@@ -38,7 +41,8 @@ int main(int argc, char * argv[])
   tools::Exiter exiter;
 
   // 初始化C板、相机
-  io::CBoard cboard(config_path);
+  auto gimbal = std::make_shared<io::GimbalROS>();
+  gimbal->start_spin();
   io::Camera camera(config_path);
 
   // 初始化识别器、解算器、追踪器、瞄准器
@@ -49,17 +53,17 @@ int main(int argc, char * argv[])
   auto_buff::Aimer aimer(config_path);
 
   cv::Mat img;
-  Eigen::Quaterniond q;
+  Eigen::Quaterniond gimbal_q;
   std::chrono::steady_clock::time_point t;
 
   while (!exiter.exit()) {
     camera.read(img, t);
-    q = cboard.imu_at(t);
+    gimbal_q = gimbal->q(t);
     // recorder.record(img, q, t);
 
     // -------------- 打符核心逻辑 --------------
 
-    solver.set_R_gimbal2world(q);
+    solver.set_R_gimbal2world(gimbal_q);
 
     auto power_runes = detector.detect(img);
 
@@ -69,10 +73,11 @@ int main(int argc, char * argv[])
 
     auto target_copy = target;
 
-    auto command = aimer.aim(target_copy, t, cboard.bullet_speed, true);
+    auto command = aimer.aim(target_copy, t, 21.5, true);
 
-    cboard.send(command);
-
+    if(command.control){
+      gimbal->send(command.control, command.shoot, command.yaw, 0, 0, command.pitch, 0, 0);
+    }
     // -------------- 调试输出 --------------
 
     nlohmann::json data;
@@ -154,5 +159,6 @@ int main(int argc, char * argv[])
     if (key == 'q') break;
   }
 
+  rclcpp::shutdown();
   return 0;
 }

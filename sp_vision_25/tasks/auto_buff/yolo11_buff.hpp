@@ -18,8 +18,8 @@ public:
   struct Object
   {
     cv::Rect_<float> rect;
-    int label;
-    float prob;
+    int label = 0;
+    float prob = 0.f;
     std::vector<cv::Point2f> kpt;
   };
 
@@ -37,7 +37,7 @@ private:
   ov::CompiledModel compiled_model;
   ov::InferRequest infer_request;
   ov::Tensor input_tensor;
-  const int NUM_POINTS = 6;
+  const int NUM_POINTS = 10;
 
   // 转换图像数据: 先转换元素类型, (可选)然后归一化到[0, 1], (可选)然后交换RB通道
   void convert(

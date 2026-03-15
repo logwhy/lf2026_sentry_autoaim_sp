@@ -22,7 +22,7 @@ use_roi: false
 #####-----硬件参数 (相机 1 专属) -----#####
 camera_name: "hikrobot"
 serial_number: "00DA5751516"
-exposure_ms: 3
+exposure_ms: 2
 gain: 10
 image_width: 1440
 image_height: 1080
@@ -63,8 +63,8 @@ left_yaw_offset: -1
 right_yaw_offset: -0.6
 
 #####-----标定参数 (相机 1 专属) -----#####
-camera_matrix: [1729.6437, 0.0, 716.45785, 0.0, 1717.31823, 536.69867, 0.0, 0.0, 1.0]
-distort_coeffs: [-0.119448, 0.121570, -0.002429, -0.005404, 0.0]
+camera_matrix: [1759.68866, 0, 733.10365, 0, 1744.21692, 545.62975, 0, 0, 1]
+distort_coeffs: [-0.101461, 0.183015, -0.001380, 0.000832, 0]
 R_camera2gimbal: [1, 0, 0, 0, 1, 0, 0, 0, 1]
 t_camera2gimbal: [0.0, 0.0, 0.0]
 R_gimbal2imubody: [1, 0, 0, 0, 1, 0, 0, 0, 1]

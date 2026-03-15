@@ -80,7 +80,7 @@ int main(int argc, char * argv[])
     auto targets = tracker.track(armors, timestamp);
 
     auto aimer_start = std::chrono::steady_clock::now();
-    auto command = aimer.aim(targets, timestamp, 27, false);
+    auto command = aimer.aim(targets, timestamp, 24.6, false);
 
     // ==================== 添加防丢帧逻辑 ====================
     std::string tracker_state = tracker.state();
@@ -145,21 +145,46 @@ int main(int argc, char * argv[])
       command.shoot = false;  // 确保在预测或丢失时不射击
     }
 
-    // -------------------- 串口发送控制命令 --------------------
-    if (command.control) {
-      // 更新用于射击判断的last_command
-      last_valid_command = command;
-      
-      tools::logger()->info(
-        "Sending command - yaw: {:.2f}°, pitch: {:.2f}°, shoot: {}, state: {}, lost: {}/{}", 
-        command.yaw * 57.3, command.pitch * 57.3, command.shoot, tracker_state,
-        consecutive_lost_frames, MAX_LOST_FRAMES);
-    } else {
-      tools::logger()->info("No control - state: {}, lost: {}/{}", 
-                           tracker_state, consecutive_lost_frames, MAX_LOST_FRAMES);
+    // -------------------- 串口发送控制命令 -----------------
+    const bool locked = (has_valid_target && target_stable); 
+
+    Eigen::Vector3d pnp_xyz_cam(0, 0, 0);
+    Eigen::Vector3d pnp_xyz_gimbal(0, 0, 0);
+    bool pnp_valid = false;
+
+    if (locked && !armors.empty()) {
+      // 获取当前帧最匹配的装甲板并进行解算
+      auto best_armor = armors.front();
+      solver.solve(best_armor);  // 该函数内部会填充 best_armor.xyz_in_gimbal [cite: 11]
+
+      // 修复报错：通过逆变换计算相机系坐标
+      // xyz_cam = R_camera2gimbal^T * (xyz_gimbal - t_camera2gimbal)
+      pnp_xyz_cam = solver.R_camera2gimbal().transpose() * (best_armor.xyz_in_gimbal - solver.t_camera2gimbal());
+      pnp_xyz_gimbal = best_armor.xyz_in_gimbal;
+      pnp_valid = true;
     }
 
-    gimbal->send(command.control, command.shoot, command.yaw, 0, 0, command.pitch, 0, 0);
+    if (command.control) {
+      // 更新用于射击判断的 last_command
+      last_valid_command = command;
+
+      tools::logger()->info(
+        "Sending command - yaw: {:.2f}°, pitch: {:.2f}°, shoot: {}, state: {}, lost: {}/{}",
+        command.yaw * 57.3, command.pitch * 57.3, command.shoot, tracker_state,
+        consecutive_lost_frames, MAX_LOST_FRAMES);
+
+      // 先 send
+      gimbal->send(command.control, command.shoot, command.yaw, 0, 0, command.pitch, 0, 0);
+
+      // 再广播（严格满足：锁定目标 + send() 之后）
+      if (locked && pnp_valid) {
+        gimbal->publish_target_xyz(pnp_xyz_cam, pnp_xyz_gimbal, gimbal->now());
+      }
+
+    } else {
+      tools::logger()->info("No control - state: {}, lost: {}/{}",
+                           tracker_state, consecutive_lost_frames, MAX_LOST_FRAMES);
+    }
 
     // -------------------- 帧率计算 --------------------
     auto frame_end = std::chrono::steady_clock::now();

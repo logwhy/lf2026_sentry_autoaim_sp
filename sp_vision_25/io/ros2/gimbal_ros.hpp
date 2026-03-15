@@ -5,6 +5,11 @@
 #include <sensor_msgs/msg/imu.hpp>
 #include <sensor_msgs/msg/joint_state.hpp>
 #include <example_interfaces/msg/u_int8.hpp>
+
+#include <geometry_msgs/msg/point_stamped.hpp>
+#include <geometry_msgs/msg/transform_stamped.hpp>
+#include <tf2_ros/transform_broadcaster.h>
+
 #include "pb_rm_interfaces/msg/gimbal_cmd.hpp"
 #include "pb_rm_interfaces/msg/gimbal.hpp"
 
@@ -43,6 +48,12 @@ public:
   void send(bool control, bool fire, float yaw, float yaw_vel, float yaw_acc, 
             float pitch, float pitch_vel, float pitch_acc);
 
+    // 广播目标位置：camera系 & gimbal系（单位：米）
+  void publish_target_xyz(
+    const Eigen::Vector3d & xyz_camera,
+    const Eigen::Vector3d & xyz_gimbal,
+    const rclcpp::Time & stamp);
+
 private:
   // 回调函数
   void imu_callback(const sensor_msgs::msg::Imu::SharedPtr msg);
@@ -66,6 +77,14 @@ private:
   std::thread spin_thread_;
   std::atomic_bool spinning_{false};
   std::unique_ptr<rclcpp::executors::MultiThreadedExecutor> executor_;
+
+    // TF broadcaster
+  std::unique_ptr<tf2_ros::TransformBroadcaster> tf_broadcaster_;
+
+  // Topics for nav usage
+  rclcpp::Publisher<geometry_msgs::msg::PointStamped>::SharedPtr target_cam_pub_;
+  rclcpp::Publisher<geometry_msgs::msg::PointStamped>::SharedPtr target_gimbal_pub_;
+
 };
 } 
 

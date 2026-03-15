@@ -24,6 +24,15 @@ GimbalROS::GimbalROS() : Node("gimbal_ros_node")
 
   cmd_pub_ = this->create_publisher<pb_rm_interfaces::msg::GimbalCmd>("cmd_gimbal", 10);
   shoot_pub_ = this->create_publisher<example_interfaces::msg::UInt8>("cmd_shoot", 10);
+
+  tf_broadcaster_ = std::make_unique<tf2_ros::TransformBroadcaster>(this);
+
+  target_cam_pub_ = this->create_publisher<geometry_msgs::msg::PointStamped>(
+    "/target_xyz_camera", 10);
+
+  target_gimbal_pub_ = this->create_publisher<geometry_msgs::msg::PointStamped>(
+    "/target_xyz_gimbal", 10);
+
 }
 
 GimbalROS::~GimbalROS()
@@ -132,6 +141,57 @@ void GimbalROS::send(bool control, bool fire, float yaw, float yaw_vel, float ya
   auto shoot_msg = example_interfaces::msg::UInt8();
   shoot_msg.data = fire ? 1 : 0;
   shoot_pub_->publish(shoot_msg);
+}
+void GimbalROS::publish_target_xyz(
+  const Eigen::Vector3d & xyz_camera,
+  const Eigen::Vector3d & xyz_gimbal,
+  const rclcpp::Time & stamp)
+{
+  // -------- PointStamped: camera --------
+  geometry_msgs::msg::PointStamped cam_msg;
+  cam_msg.header.stamp = stamp;
+  cam_msg.header.frame_id = "camera_link";
+  cam_msg.point.x = xyz_camera.x();
+  cam_msg.point.y = xyz_camera.y();
+  cam_msg.point.z = xyz_camera.z();
+  target_cam_pub_->publish(cam_msg);
+
+  // -------- PointStamped: gimbal --------
+  geometry_msgs::msg::PointStamped gimbal_msg;
+  gimbal_msg.header.stamp = stamp;
+  gimbal_msg.header.frame_id = "gimbal_link";
+  gimbal_msg.point.x = xyz_gimbal.x();
+  gimbal_msg.point.y = xyz_gimbal.y();
+  gimbal_msg.point.z = xyz_gimbal.z();
+  target_gimbal_pub_->publish(gimbal_msg);
+
+  // -------- TF: camera_link -> target_camera --------
+  geometry_msgs::msg::TransformStamped tf_cam;
+  tf_cam.header.stamp = stamp;
+  tf_cam.header.frame_id = "camera_link";
+  tf_cam.child_frame_id = "target_camera";
+  tf_cam.transform.translation.x = xyz_camera.x();
+  tf_cam.transform.translation.y = xyz_camera.y();
+  tf_cam.transform.translation.z = xyz_camera.z();
+  tf_cam.transform.rotation.x = 0.0;
+  tf_cam.transform.rotation.y = 0.0;
+  tf_cam.transform.rotation.z = 0.0;
+  tf_cam.transform.rotation.w = 1.0;
+  tf_broadcaster_->sendTransform(tf_cam);
+
+  // -------- TF: gimbal_link -> target_gimbal --------
+  geometry_msgs::msg::TransformStamped tf_gimbal;
+  tf_gimbal.header.stamp = stamp;
+  tf_gimbal.header.frame_id = "gimbal_link";
+  tf_gimbal.child_frame_id = "target_gimbal";
+  tf_gimbal.transform.translation.x = xyz_gimbal.x();
+  tf_gimbal.transform.translation.y = xyz_gimbal.y();
+  tf_gimbal.transform.translation.z = xyz_gimbal.z();
+  tf_gimbal.transform.rotation.x = 0.0;
+  tf_gimbal.transform.rotation.y = 0.0;
+  tf_gimbal.transform.rotation.z = 0.0;
+  tf_gimbal.transform.rotation.w = 1.0;
+  tf_broadcaster_->sendTransform(tf_gimbal);
 }
 
 } // namespace io

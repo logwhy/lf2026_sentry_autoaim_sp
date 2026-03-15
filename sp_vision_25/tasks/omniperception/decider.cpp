@@ -69,11 +69,11 @@ io::Command Decider::decide(
 }
 
 io::Command Decider::decide(
-  auto_aim::YOLO & yolo, const Eigen::Vector3d & gimbal_pos, io::Camera & back_cammera)
+  auto_aim::YOLO & yolo, const Eigen::Vector3d & gimbal_pos, io::Camera & back_camera)
 {
   cv::Mat img;
   std::chrono::steady_clock::time_point timestamp;
-  back_cammera.read(img, timestamp);
+  back_camera.read(img, timestamp);
   auto armors = yolo.detect(img);
   auto empty = armor_filter(armors);
 
@@ -83,8 +83,59 @@ io::Command Decider::decide(
       "[back camera] delta yaw:{:.2f},target pitch:{:.2f},armor number:{},armor name:{}",
       delta_angle[0], delta_angle[1], armors.size(), auto_aim::ARMOR_NAMES[armors.front().name]);
 
+    // 1. 计算目标弧度 (gimbal_pos 为弧度，delta_angle 为角度，除以 57.3 转弧度)
+    double target_yaw = gimbal_pos[0] + delta_angle[0] / 57.3;
+
+    // 2. 显式归一化处理：确保角度在 [-PI, PI] 之间 (对应 [-180, 180] 度)
+    // 57.3 约等于 180/PI，这里使用更精确的 PI 值进行回环判断
+    const double PI = 3.14159265358979323846;
+    while (target_yaw > PI) target_yaw -= 2 * PI;
+    while (target_yaw < -PI) target_yaw += 2 * PI;
+
     return io::Command{
-      true, false, tools::limit_rad(gimbal_pos[0] + delta_angle[0] / 57.3),
+      true, 
+      false, 
+      target_yaw, // 使用归一化后的 yaw
+      tools::limit_rad(delta_angle[1] / 57.3)};
+  }
+
+  return io::Command{false, false, 0, 0};
+}
+
+io::Command Decider::decide(
+  auto_aim::YOLO & yolo, const Eigen::Vector3d & gimbal_pos, io::SNCamera & back_camera)
+{
+  cv::Mat img;
+  std::chrono::steady_clock::time_point timestamp;
+  
+  // SNCamera 也有 read 接口，直接调用
+  back_camera.read(img, timestamp);
+  
+  auto armors = yolo.detect(img);
+  auto empty = armor_filter(armors);
+
+  if (!empty) {
+    auto delta_angle = this->delta_angle(armors, "back");
+
+    // 1. 计算目标弧度
+    double target_yaw = gimbal_pos[0] + delta_angle[0] / 57.3;
+
+    // 2. 显式归一化处理
+    const double PI = 3.14159265358979323846;
+    while (target_yaw > PI) target_yaw -= 2 * PI;
+    while (target_yaw < -PI) target_yaw += 2 * PI;
+
+    if(delta_angle[0] > 180.0) {
+      delta_angle[0] -= 360.0; // 将偏航角调整到 [-180, 180] 范围内
+    }
+    tools::logger()->debug(
+      "[SNCamera] delta yaw:{:.2f},target pitch:{:.2f},armor number:{},armor name:{}",
+      delta_angle[0], delta_angle[1], armors.size(), auto_aim::ARMOR_NAMES[armors.front().name]);
+
+    return io::Command{
+      true, 
+      false, 
+      target_yaw, // 使用归一化后的 yaw
       tools::limit_rad(delta_angle[1] / 57.3)};
   }
 
@@ -105,6 +156,39 @@ io::Command Decider::decide(const std::vector<DetectionResult> & detection_queue
 
   return io::Command{true, false, dr.delta_yaw, dr.delta_pitch};
 };
+io::Command Decider::decide_by_armors(
+  std::list<auto_aim::Armor> & armors, 
+  const Eigen::Vector3d & gimbal_pos, 
+  const std::string & camera_name)
+{
+  // 1. 过滤与优先级排序
+  bool empty = armor_filter(armors);
+
+  if (!empty) {
+    // 2. 计算角度偏差
+    auto delta = this->delta_angle(armors, camera_name);
+    
+    // 3. 计算目标 Yaw (弧度)
+    double target_yaw = gimbal_pos[0] + delta[0] / 57.3;
+
+    // 4. 角度归一化 (-PI ~ PI)
+    const double PI = 3.14159265358979323846;
+    while (target_yaw > PI) target_yaw -= 2 * PI;
+    while (target_yaw < -PI) target_yaw += 2 * PI;
+
+    // 5. 日志调试 (可选，为了性能可以注释掉)
+    // tools::logger()->debug("[{}] delta yaw:{:.2f}", camera_name, delta[0]);
+
+    return io::Command{
+      true, 
+      false, 
+      target_yaw, 
+      tools::limit_rad(delta[1] / 57.3)};
+  }
+
+  // 没找到目标
+  return io::Command{false, false, 0, 0};
+}
 
 Eigen::Vector2d Decider::delta_angle(
   const std::list<auto_aim::Armor> & armors, const std::string & camera)

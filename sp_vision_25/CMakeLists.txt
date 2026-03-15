@@ -23,6 +23,8 @@ set(pb_rm_interfaces_DIR
 find_package(pb_rm_interfaces REQUIRED)          # 自定义消息
 find_package(tf2 REQUIRED)              # 用于四元数与欧拉角转换
 find_package(tf2_geometry_msgs REQUIRED)
+find_package(tf2_ros REQUIRED)
+find_package(geometry_msgs REQUIRED)
 find_package(std_msgs REQUIRED)
 find_package(rosidl_typesupport_cpp REQUIRED)
 find_package(rosidl_cmake REQUIRED)
@@ -45,7 +47,35 @@ add_executable(mt_standard src/mt_standard.cpp)
 add_executable(standard_mpc src/standard_mpc.cpp)
 add_executable(auto_aim_debug_mpc src/auto_aim_debug_mpc.cpp)
 add_executable(mt_auto_aim_debug src/mt_auto_aim_debug.cpp)
-add_executable(auto_buff_debug src/auto_buff_debug.cpp)
+add_executable(auto_buff_debug 
+    src/auto_buff_debug.cpp
+    io/ros2/gimbal_ros.cpp                  # 添加新的 ROS 包装类源文件
+)
+target_link_libraries(auto_buff_debug
+    ${OpenCV_LIBS}
+    ${CERES_LIBRARIES}
+    glog
+    gflags
+    fmt::fmt
+    yaml-cpp
+    tools
+    io
+    auto_buff
+    # --- 新增 ROS 2 相关库链接 ---
+    rclcpp::rclcpp
+    tf2::tf2
+    tf2_geometry_msgs::tf2_geometry_msgs
+    pb_rm_interfaces::pb_rm_interfaces__rosidl_typesupport_cpp
+)
+ament_target_dependencies(auto_buff_debug
+    rclcpp
+    sensor_msgs
+    std_msgs
+    tf2
+    tf2_geometry_msgs
+    example_interfaces
+    pb_rm_interfaces
+)
 add_executable(auto_buff_debug_mpc src/auto_buff_debug_mpc.cpp)
 add_executable(uav src/uav.cpp)
 add_executable(uav_debug src/uav_debug.cpp)
@@ -109,6 +139,7 @@ target_link_libraries(sentry_dual_cameras_ros
     rclcpp::rclcpp
     tf2::tf2
     tf2_geometry_msgs::tf2_geometry_msgs
+    tf2_ros::tf2_ros
 )
 ament_target_dependencies(sentry_dual_cameras_ros
   rclcpp
@@ -117,6 +148,7 @@ ament_target_dependencies(sentry_dual_cameras_ros
   std_msgs
   tf2
   tf2_geometry_msgs
+  tf2_ros
   example_interfaces
 )
 
@@ -229,7 +261,8 @@ target_link_libraries(auto_aim_test_all_ros
     # --- 新增 ROS 2 相关库链接 ---
     rclcpp::rclcpp
     tf2::tf2
-    tf2_geometry_msgs::tf2_geometry_msgs
+    tf2_geometry_msgs::tf2_geometry_msgs    
+    tf2_ros::tf2_ros
     pb_rm_interfaces::pb_rm_interfaces__rosidl_typesupport_cpp
 )
 ament_target_dependencies(auto_aim_test_all_ros
@@ -237,7 +270,8 @@ ament_target_dependencies(auto_aim_test_all_ros
     sensor_msgs
     std_msgs
     tf2
-    tf2_geometry_msgs
+    tf2_geometry_msgs    
+    tf2_ros
     example_interfaces
     pb_rm_interfaces
 )
@@ -292,7 +326,8 @@ target_link_libraries(sentry_dual_sn_ros
     io
     rclcpp::rclcpp
     tf2::tf2
-    tf2_geometry_msgs::tf2_geometry_msgs
+    tf2_geometry_msgs::tf2_geometry_msgs    
+    tf2_ros::tf2_ros
     pb_rm_interfaces::pb_rm_interfaces__rosidl_typesupport_cpp  # 处理之前报错的自定义消息
 )
 
@@ -301,7 +336,8 @@ ament_target_dependencies(sentry_dual_sn_ros
     sensor_msgs
     std_msgs
     tf2
-    tf2_geometry_msgs
+    tf2_geometry_msgs    
+    tf2_ros
     pb_rm_interfaces
     example_interfaces
 )

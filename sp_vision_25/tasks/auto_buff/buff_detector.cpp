@@ -39,7 +39,7 @@ cv::Point2f Buff_Detector::get_r_center(std::vector<FanBlade> & fanblades, cv::M
   for (auto & fanblade : fanblades) {
     auto point5 = fanblade.points[4];  // point5是扇叶的中心
     auto point6 = fanblade.points[5];
-    r_center_t += (point6 - point5) * 1.4 + point5;  // TODO
+    r_center_t += (point6 - point5) * 1.6 + point5;  // TODO
     // r_center_t += 4.7 * point - (4.7 - 1) * fanblade.center;
   }
   r_center_t /= float(fanblades.size());
