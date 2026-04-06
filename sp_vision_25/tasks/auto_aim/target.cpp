@@ -138,7 +138,7 @@ void Target::predict(double dt)
 void Target::update(const Armor & armor)
 {
   // 装甲板匹配
-  int id;
+  int id = 0;
   auto min_angle_error = 1e10;
   const std::vector<Eigen::Vector4d> & xyza_list = armor_xyza_list();
 
@@ -156,8 +156,9 @@ void Target::update(const Armor & armor)
     });
 
   // 取前3个distance最小的装甲板
-  for (int i = 0; i < 3; i++) {
-    const auto & xyza = xyza_i_list[i].first;
+
+  const int candidate_num = std::min(3, static_cast<int>(xyza_i_list.size()));
+  for (int i = 0; i < candidate_num; i++) {    const auto & xyza = xyza_i_list[i].first;
     Eigen::Vector3d ypd = tools::xyz2ypd(xyza.head(3));
     auto angle_error = std::abs(tools::limit_rad(armor.ypr_in_world[0] - xyza[3])) +
                        std::abs(tools::limit_rad(armor.ypd_in_world[0] - ypd[0]));
@@ -170,9 +171,10 @@ void Target::update(const Armor & armor)
 
   if (id != 0) jumped = true;
 
-  if (id != last_id) {
-    is_switch_ = true;
-  } else {
+  is_switch_ = (id != last_id);
+  if (is_switch_ && std::abs(ekf_.x[7]) < 0.8) {
+    // 低角速度时尽量不轻易认定为切板
+    id = last_id;
     is_switch_ = false;
   }
 

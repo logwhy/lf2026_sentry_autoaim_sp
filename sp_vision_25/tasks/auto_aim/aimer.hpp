@@ -22,6 +22,8 @@ class Aimer
 {
 public:
   AimPoint debug_aim_point;
+  double debug_selected_delta_angle = 999.0;
+  int debug_selected_armor_id = -1;
   explicit Aimer(const std::string & config_path);
   io::Command aim(
     std::list<Target> targets, std::chrono::steady_clock::time_point timestamp, double bullet_speed,

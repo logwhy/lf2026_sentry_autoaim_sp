@@ -37,8 +37,11 @@ io::Command Aimer::aim(
   auto target = targets.front();
 
   auto ekf = target.ekf();
+
+  double angular_speed = std::abs(target.ekf_x()[7]);
+  
   double delay_time =
-    target.ekf_x()[7] > decision_speed_ ? high_speed_delay_time_ : low_speed_delay_time_;
+    angular_speed > decision_speed_ ? high_speed_delay_time_ : low_speed_delay_time_;
 
   if (bullet_speed < 14) bullet_speed = 23;
 
@@ -146,8 +149,6 @@ AimPoint Aimer::choose_aim_point(const Target & target)
   Eigen::VectorXd ekf_x = target.ekf_x();
   std::vector<Eigen::Vector4d> armor_xyza_list = target.armor_xyza_list();
   auto armor_num = armor_xyza_list.size();
-  // 如果装甲板未发生过跳变，则只有当前装甲板的位置已知
-  if (!target.jumped) return {true, armor_xyza_list[0]};
 
   // 整车旋转中心的球坐标yaw
   auto center_yaw = std::atan2(ekf_x[2], ekf_x[0]);
@@ -159,12 +160,23 @@ AimPoint Aimer::choose_aim_point(const Target & target)
     delta_angle_list.emplace_back(delta_angle);
   }
 
+  debug_selected_delta_angle = 999.0;
+  debug_selected_armor_id = -1;
+
+  // 如果装甲板未发生过跳变，则只有当前装甲板的位置已知
+  if (!target.jumped) {
+    debug_selected_delta_angle = delta_angle_list[0];
+    debug_selected_armor_id = 0;
+    return {true, armor_xyza_list[0]};
+  }
+
   // 不考虑小陀螺
-  if (std::abs(target.ekf_x()[7]) <= 0 && target.name != ArmorName::outpost) {
+  constexpr double SPIN_THRESHOLD = 2;
+  if (std::abs(target.ekf_x()[7]) < SPIN_THRESHOLD && target.name != ArmorName::outpost) {
     // 选择在可射击范围内的装甲板
     std::vector<int> id_list;
     for (int i = 0; i < armor_num; i++) {
-      if (std::abs(delta_angle_list[i]) > 60 / 57.3) continue;
+      if (std::abs(delta_angle_list[i]) > 50 / 57.3) continue;
       id_list.push_back(i);
     }
     // 绝无可能
@@ -177,15 +189,30 @@ AimPoint Aimer::choose_aim_point(const Target & target)
     if (id_list.size() > 1) {
       int id0 = id_list[0], id1 = id_list[1];
 
-      // 未处于锁定模式时，选择delta_angle绝对值较小的装甲板，进入锁定模式
-      if (lock_id_ != id0 && lock_id_ != id1)
+      // 初次进入锁定：选绝对角度更小的那块
+      if (lock_id_ != id0 && lock_id_ != id1) {
         lock_id_ = (std::abs(delta_angle_list[id0]) < std::abs(delta_angle_list[id1])) ? id0 : id1;
+      } else {
+        // 已经锁定时，只有另一块明显更优才允许切换
+        int other_id = (lock_id_ == id0) ? id1 : id0;
+        double locked_abs = std::abs(delta_angle_list[lock_id_]);
+        double other_abs  = std::abs(delta_angle_list[other_id]);
 
+        constexpr double SWITCH_HYSTERESIS = 8.0 / 57.3;  // 8度迟滞
+        if (other_abs + SWITCH_HYSTERESIS < locked_abs) {
+          lock_id_ = other_id;
+        }
+      }
+
+      debug_selected_delta_angle = delta_angle_list[lock_id_];
+      debug_selected_armor_id = lock_id_;
       return {true, armor_xyza_list[lock_id_]};
     }
 
     // 只有一个装甲板在可射击范围内时，退出锁定模式
     lock_id_ = -1;
+    debug_selected_delta_angle = delta_angle_list[id_list[0]];
+    debug_selected_armor_id = id_list[0];
     return {true, armor_xyza_list[id_list[0]]};
   }
 
@@ -201,8 +228,18 @@ AimPoint Aimer::choose_aim_point(const Target & target)
   // 在小陀螺时，一侧的装甲板不断出现，另一侧的装甲板不断消失，显然前者被打中的概率更高
   for (int i = 0; i < armor_num; i++) {
     if (std::abs(delta_angle_list[i]) > coming_angle) continue;
-    if (ekf_x[7] > 0 && delta_angle_list[i] < leaving_angle) return {true, armor_xyza_list[i]};
-    if (ekf_x[7] < 0 && delta_angle_list[i] > -leaving_angle) return {true, armor_xyza_list[i]};
+
+    if (ekf_x[7] > 0 && delta_angle_list[i] < leaving_angle) {
+      debug_selected_delta_angle = delta_angle_list[i];
+      debug_selected_armor_id = i;
+      return {true, armor_xyza_list[i]};
+    }
+
+    if (ekf_x[7] < 0 && delta_angle_list[i] > -leaving_angle) {
+      debug_selected_delta_angle = delta_angle_list[i];
+      debug_selected_armor_id = i;
+      return {true, armor_xyza_list[i]};
+    }
   }
 
   return {false, armor_xyza_list[0]};

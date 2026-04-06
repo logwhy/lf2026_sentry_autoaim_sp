@@ -75,17 +75,17 @@ void Solver::solve(Armor & armor) const
   armor.xyz_in_world = R_gimbal2world_ * armor.xyz_in_gimbal;
 
   // ===== 打印PnP解算结果 =====
-  tools::logger()->info(
-    "[PnP] xyz_in_camera(m): x={:.4f}, y={:.4f}, z={:.4f}",
-    xyz_in_camera.x(), xyz_in_camera.y(), xyz_in_camera.z());
+  // tools::logger()->info(
+  //   "[PnP] xyz_in_camera(m): x={:.4f}, y={:.4f}, z={:.4f}",
+  //   xyz_in_camera.x(), xyz_in_camera.y(), xyz_in_camera.z());
 
-  tools::logger()->info(
-    "[PnP] xyz_in_gimbal(m): x={:.4f}, y={:.4f}, z={:.4f}",
-    armor.xyz_in_gimbal.x(), armor.xyz_in_gimbal.y(), armor.xyz_in_gimbal.z());
+  // tools::logger()->info(
+  //   "[PnP] xyz_in_gimbal(m): x={:.4f}, y={:.4f}, z={:.4f}",
+  //   armor.xyz_in_gimbal.x(), armor.xyz_in_gimbal.y(), armor.xyz_in_gimbal.z());
 
-  tools::logger()->info(
-    "[PnP] xyz_in_world(m): x={:.4f}, y={:.4f}, z={:.4f}",
-    armor.xyz_in_world.x(), armor.xyz_in_world.y(), armor.xyz_in_world.z());
+  // tools::logger()->info(
+  //   "[PnP] xyz_in_world(m): x={:.4f}, y={:.4f}, z={:.4f}",
+  //   armor.xyz_in_world.x(), armor.xyz_in_world.y(), armor.xyz_in_world.z());
   
   cv::Mat rmat;
   cv::Rodrigues(rvec, rmat);

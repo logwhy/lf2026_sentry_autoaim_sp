@@ -26,7 +26,7 @@ struct GimbalState {
   float pitch = 0.0f;
   float yaw_vel = 0.0f;
   float pitch_vel = 0.0f;
-  float bullet_speed = 25.0f; // 默认值 [cite: 1]
+  float bullet_speed = 19.6f; // 默认值 [cite: 1]
   uint16_t bullet_count = 0;
 };
 

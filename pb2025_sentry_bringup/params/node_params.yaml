@@ -5,8 +5,8 @@ standard_robot_pp_ros2:
     flow_control: none
     parity: none
     stop_bits: "1"
-    set_detector_color: true
-    record_rosbag: true
+    set_detector_color: false
+    record_rosbag: false
     debug: false
 
 joint_state_publisher:
@@ -105,7 +105,7 @@ projectile_motion:
 livox_ros_driver2:
   ros__parameters:
     xfer_format: 4                                      # 0-PointCloud2Msg(PointXYZRTL), 1-LivoxCustomMsg, 2-PclPxyziMsg, 3-LivoxImuMsg, 4-AllMsg
-    multi_topic: 0                                      # 0-All LiDARs share the same topic, 1-One LiDAR one topic
+    multi_topic: 1                                      # 0-All LiDARs share the same topic, 1-One LiDAR one topic
     data_src: 0                                         # 0-lidar, others-Invalid data src
     publish_freq: 20.0                                  # frequency of publish, 5.0, 10.0, 20.0, 50.0, etc.
     output_data_type: 0
@@ -120,16 +120,16 @@ point_lio:
     prop_at_freq_of_imu: True
     check_satu: True
     init_map_size: 10
-    point_filter_num: 8                                 # Options: 4, 3
+    point_filter_num: 5                                 # Options: 4, 3
     space_down_sample: True
-    filter_size_surf: 0.2                               # Options: 0.5, 0.3, 0.2, 0.15, 0.1
+    filter_size_surf: 0.15                               # Options: 0.5, 0.3, 0.2, 0.15, 0.1
     filter_size_map: 0.2                                # Options: 0.5, 0.3, 0.15, 0.1
     ivox_nearby_type: 18                                # Options: 0, 6, 18, 26
-    runtime_pos_log_enable: False                       # Option: True
+    runtime_pos_log_enable: True                        # Option: True
 
     common:
-      lid_topic: "livox/lidar"
-      imu_topic: "livox/imu"
+      lid_topic: "merged_cloud"
+      imu_topic: "/livox/imu_192_168_1_131"
       con_frame: False                                  # True: if you need to combine several LiDAR frames into one
       con_frame_num: 1                                  # the number of frames combined
       cut_frame: False                                  # True: if you need to cut one LiDAR frame into several subframes
@@ -156,7 +156,7 @@ point_lio:
       satu_acc: 4.0                                     # the saturation value of IMU's acceleration. not related to the units
       satu_gyro: 35.0                                   # the saturation value of IMU's angular velocity. not related to the units
       acc_norm: 1.0                                     # 1.0 for g as unit, 9.81 for m/s^2 as unit of the IMU's acceleration
-      lidar_meas_cov: 0.01                              # 0.001
+      lidar_meas_cov: 0.01                             # 0.001
       acc_cov_output: 500.0
       gyr_cov_output: 1000.0
       b_acc_cov: 0.0001
@@ -165,11 +165,11 @@ point_lio:
       imu_meas_omg_cov: 0.1
       gyr_cov_input: 0.1                                # for IMU as input model
       acc_cov_input: 0.1                                # for IMU as input model
-      plane_thr: 0.1                                    # 0.05, the threshold for plane criteria, the smaller, the flatter a plane
+      plane_thr: 0.01                                   # 0.05, the threshold for plane criteria, the smaller, the flatter a plane
       match_s: 81.0
       ivox_grid_resolution: 0.5
-      gravity: [0.0042076725512743, 0.1636447161436081, -0.9803755283355713]                         # gravity to be aligned
-      gravity_init: [0.0042076725512743, 0.1636447161436081, -0.9803755283355713]                     # preknown gravity in the first IMU body frame, use when imu_en is False or start from a non-stationary state
+      gravity: [-0.020560257136821747, -0.7096359729766846, -0.6930065751075745]            # gravity to be aligned
+      gravity_init: [-0.020560257136821747, -0.7096359729766846, -0.6930065751075745]       # preknown gravity in the first IMU body frame, use when imu_en is False or start from a non-stationary state
       extrinsic_T: [ -0.011, -0.02329, 0.04412 ]
       extrinsic_R: [ 1.0, 0.0, 0.0,
                      0.0, 1.0, 0.0,
@@ -179,7 +179,7 @@ point_lio:
       publish_odometry_without_downsample: True
 
     publish:
-      path_en: False                                    # False: close the path output
+      path_en: True                                     # False: close the path output
       scan_publish_en: True                             # False: close all the point cloud output
       scan_bodyframe_pub_en: False                      # True: output the point cloud scans in IMU-body-frame
       tf_send_en: False                                 # True: send transform from 'camera_init' to 'aft_mapped'
@@ -263,7 +263,7 @@ fake_vel_transform:
     input_cmd_vel_topic: "cmd_vel_nav2_result"
     output_cmd_vel_topic: "cmd_vel"
     cmd_spin_topic: "cmd_spin"
-    init_spin_speed: 0.0
+    init_spin_speed: 3.14
 
 small_gicp_relocalization:
   ros__parameters:
@@ -326,7 +326,7 @@ slam_toolbox:
     throttle_scans: 1
     scan_queue_size: 10
     transform_publish_period: 0.0                # if 0 never publishes odometry
-    map_update_interval: 0.2
+    map_update_interval: 0.5
     resolution: 0.05
     min_laser_range: 0.3                         # for rastering images
     max_laser_range: 10.0                         # for rastering images
@@ -476,11 +476,11 @@ controller_server:
       min_approach_linear_velocity: 0.5
       approach_velocity_scaling_dist: 1.0
       v_linear_min: -2.5
-      v_linear_max: 2.5
+      v_linear_max: 10.0
       v_angular_min: -3.0
-      v_angular_max: 3.0
-      curvature_min: 0.4                                # 低曲率阈值，低于此值不减速。
-      curvature_max: 0.7                                # 高曲率阈值，高于此值大幅减速。
+      v_angular_max: 10.0
+      curvature_min: 0.5                                # 低曲率阈值，低于此值不减速。
+      curvature_max: 1.5                                # 高曲率阈值，高于此值大幅减速。
       reduction_ratio_at_high_curvature: 0.5            # 高曲率时的速度降低比例。 0.5 (即减速 50%)
       curvature_forward_dist: 0.7                       # 前向距离，用于曲率计算
       curvature_backward_dist: 0.3                      # 后向距离，用于曲率计算
@@ -512,7 +512,7 @@ local_costmap:
         unknown_threshold: 5
         z_resolution: 0.05
         z_voxels: 16
-        min_obstacle_height: 0.0
+        min_obstacle_height: -0.1
         max_obstacle_height: 2.0
         min_obstacle_intensity: 0.1
         max_obstacle_intensity: 2.0
@@ -526,14 +526,14 @@ local_costmap:
           min_obstacle_height: 0.0
           max_obstacle_height: 2.0
           obstacle_max_range: 5.0
-          obstacle_min_range: 0.2
+          obstacle_min_range: 0.25
       static_layer:
         plugin: "nav2_costmap_2d::StaticLayer"
         map_subscribe_transient_local: True
       inflation_layer:
         plugin: "nav2_costmap_2d::InflationLayer"
         cost_scaling_factor: 4.0
-        inflation_radius: 0.7
+        inflation_radius: 0.45
       always_send_full_costmap: False
 
 global_costmap:
@@ -699,12 +699,12 @@ pb2025_sentry_behavior_server:
       num_sectors: 36                           # 扇区划分数量
       cost_threshold: 50                        # 栅格的占用概率，大于该值将被视为障碍物 [0, 100]
       robot_base_frame: chassis
-      visualize: true
+      visualize: false
 
 pb2025_sentry_behavior_client:
   ros__parameters:
     use_sim_time: False
-    target_tree: rmul_2025
+    target_tree: rmul_2026
 
 pb_teleop_twist_joy_node:
   ros__parameters:
@@ -741,7 +741,6 @@ pb_teleop_twist_joy_node:
       roll: 0.0
       pitch: -1.5
       yaw: 3.5
-
 
 rosbag_recorder:
   ros__parameters:

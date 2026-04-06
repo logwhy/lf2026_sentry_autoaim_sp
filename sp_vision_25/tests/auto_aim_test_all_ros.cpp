@@ -1,10 +1,13 @@
 #include <fmt/core.h>
+
 #include <chrono>
 #include <nlohmann/json.hpp>
 #include <opencv2/opencv.hpp>
 
 #include "io/camera.hpp"
+#include "io/ros2/gimbal_ros.hpp"
 #include "tasks/auto_aim/aimer.hpp"
+#include "tasks/auto_aim/shooter.hpp"
 #include "tasks/auto_aim/solver.hpp"
 #include "tasks/auto_aim/tracker.hpp"
 #include "tasks/auto_aim/yolo.hpp"
@@ -13,7 +16,8 @@
 #include "tools/logger.hpp"
 #include "tools/math_tools.hpp"
 #include "tools/plotter.hpp"
-#include "io/ros2/gimbal_ros.hpp"
+
+using namespace std::chrono_literals;
 
 const std::string keys =
   "{help h usage ? |                   | 输出命令行参数说明 }"
@@ -35,260 +39,215 @@ int main(int argc, char * argv[])
   rclcpp::init(argc, argv);
 
   // -------------------- 模块初始化 --------------------
-  io::Camera camera(config_path);  //  工业相机
+  io::Camera camera(config_path);
   auto_aim::YOLO yolo(config_path);
   auto_aim::Solver solver(config_path);
   auto_aim::Tracker tracker(config_path, solver);
   auto_aim::Aimer aimer(config_path);
+  auto_aim::Shooter shooter(config_path);
   auto gimbal = std::make_shared<io::GimbalROS>();
   gimbal->start_spin();
-  cv::Mat img;
-  auto_aim::Target last_target;
-  
-  // ==================== 添加防丢帧变量 ====================
-  io::Command last_valid_command{};           // 保存最后一次有效命令
-  int consecutive_lost_frames = 0;            // 连续丢失帧数
-  constexpr int MAX_LOST_FRAMES = 8;          // 最大允许丢失帧数
-  bool target_stable = false;                 // 目标稳定标志
-  int stable_frame_count = 0;                 // 稳定帧计数
-  
-  double last_t = -1;
-  std::chrono::steady_clock::time_point timestamp;
 
+  cv::Mat img;
+
+  // -------------------- FPS 统计 --------------------
   double fps = 0.0;
-  auto last_frame_time = std::chrono::steady_clock::now();
+  auto last_fps_time = std::chrono::steady_clock::now();
   int frame_count = 0;
   constexpr double fps_update_interval = 1.0;
+
+  // -------------------- 发送状态缓存 --------------------
+  bool last_frame_detected_target = false;  // 上一帧是否检测到目标
+  double last_sent_yaw = 0.0;               // 上一次实际发送的 yaw
+  double last_sent_pitch = 0.0;             // 上一次实际发送的 pitch
 
   // -------------------- 主循环 --------------------
   while (!exiter.exit()) {
     auto frame_start = std::chrono::steady_clock::now();
 
-    camera.read(img, timestamp);  //  从工业相机读取图像和时间戳
+    camera.read(img, frame_start);
+    if (img.empty()) {
+      break;
+    }
 
-    if (img.empty()) break;
-
-    //  从下位机读取云台姿态四元数
-    Eigen::Quaterniond gimbal_q = gimbal->q(timestamp);
+    // -------------------- 云台姿态 --------------------
+    constexpr auto IMU_DELAY = 2ms;
+    Eigen::Quaterniond gimbal_q = gimbal->q(frame_start - IMU_DELAY);
     solver.set_R_gimbal2world(gimbal_q);
+    Eigen::Vector3d ypr = tools::eulers(gimbal_q.toRotationMatrix(), 2, 1, 0);
 
-    // -------------------- 自瞄核心 --------------------
-    auto yolo_start = std::chrono::steady_clock::now();
+    // -------------------- 自瞄主流程 --------------------
     auto armors = yolo.detect(img, 0);
+    auto targets = tracker.track(armors, frame_start);
+    auto command = aimer.aim(targets, frame_start, 20, true);
+    command.shoot = shooter.shoot(command, aimer, targets, ypr);
 
-    auto tracker_start = std::chrono::steady_clock::now();
-    auto targets = tracker.track(armors, timestamp);
+    // -------------------- 串口发送 --------------------
+    // 这里严格按“当前帧是否检测到装甲板”判断，不用 targets，
+    // 因为 tracker 在 temp_lost 时可能仍保留预测目标
+    bool detected_target = !armors.empty();
 
-    auto aimer_start = std::chrono::steady_clock::now();
-    auto command = aimer.aim(targets, timestamp, 24.6, false);
-
-    // ==================== 添加防丢帧逻辑 ====================
-    std::string tracker_state = tracker.state();
-    
-    // 更新目标稳定性
-    bool has_valid_target = !targets.empty() && command.control;
-    if (has_valid_target) {
-      consecutive_lost_frames = 0;
-      stable_frame_count++;
-      
-      // 连续3帧检测到目标认为稳定
-      if (stable_frame_count >= 3) {
-        target_stable = true;
-      }
-      
-      // 更新有效命令
-      if (std::isfinite(command.yaw) && std::isfinite(command.pitch)) {
-        last_valid_command = command;
-      }
-    } else {
-      consecutive_lost_frames++;
-      stable_frame_count = 0;
-      target_stable = false;
-    }
-    
-    // 根据跟踪器状态和丢失情况调整命令
-    bool should_control = (tracker_state != "lost");
-    
-    if (should_control) {
-      // 跟踪器认为应该控制（包括预测状态）
-      command.control = true;
-      
-      // 如果当前命令无效，使用历史命令
-      if (!std::isfinite(command.yaw) || !std::isfinite(command.pitch)) {
-        command = last_valid_command;
-        tools::logger()->warn("Invalid command, using last valid command");
-      }
-    } else {
-      // 跟踪器认为完全丢失
-      consecutive_lost_frames++;
-      
-      if (consecutive_lost_frames <= MAX_LOST_FRAMES) {
-        // 使用历史命令继续控制一段时间
-        command = last_valid_command;
-        command.control = true;
-        tools::logger()->info("Target lost {}/{}, using prediction", 
-                             consecutive_lost_frames, MAX_LOST_FRAMES);
-      } else {
-        // 完全停止
-        command.control = false;
-        command.yaw = 0;
-        command.pitch = 0;
-        tools::logger()->warn("Target completely lost, stopping control");
-      }
-    }
-
-    // 连续帧目标平稳时自动开火（只在稳定跟踪时）
-    if (target_stable && !targets.empty() && aimer.debug_aim_point.valid &&
-        std::abs(command.yaw - last_valid_command.yaw) * 57.3 < 2) {
-      command.shoot = true;
-    } else {
-      command.shoot = false;  // 确保在预测或丢失时不射击
-    }
-
-    // -------------------- 串口发送控制命令 -----------------
-    const bool locked = (has_valid_target && target_stable); 
-
-    Eigen::Vector3d pnp_xyz_cam(0, 0, 0);
-    Eigen::Vector3d pnp_xyz_gimbal(0, 0, 0);
-    bool pnp_valid = false;
-
-    if (locked && !armors.empty()) {
-      // 获取当前帧最匹配的装甲板并进行解算
-      auto best_armor = armors.front();
-      solver.solve(best_armor);  // 该函数内部会填充 best_armor.xyz_in_gimbal [cite: 11]
-
-      // 修复报错：通过逆变换计算相机系坐标
-      // xyz_cam = R_camera2gimbal^T * (xyz_gimbal - t_camera2gimbal)
-      pnp_xyz_cam = solver.R_camera2gimbal().transpose() * (best_armor.xyz_in_gimbal - solver.t_camera2gimbal());
-      pnp_xyz_gimbal = best_armor.xyz_in_gimbal;
-      pnp_valid = true;
-    }
-
-    if (command.control) {
-      // 更新用于射击判断的 last_command
-      last_valid_command = command;
-
-      tools::logger()->info(
-        "Sending command - yaw: {:.2f}°, pitch: {:.2f}°, shoot: {}, state: {}, lost: {}/{}",
-        command.yaw * 57.3, command.pitch * 57.3, command.shoot, tracker_state,
-        consecutive_lost_frames, MAX_LOST_FRAMES);
-
-      // 先 send
+    if (detected_target) {
+      // 有目标：正常发送
       gimbal->send(command.control, command.shoot, command.yaw, 0, 0, command.pitch, 0, 0);
 
-      // 再广播（严格满足：锁定目标 + send() 之后）
-      if (locked && pnp_valid) {
-        gimbal->publish_target_xyz(pnp_xyz_cam, pnp_xyz_gimbal, gimbal->now());
-      }
+      // 缓存本次真正发出的角度
+      last_sent_yaw = command.yaw;
+      last_sent_pitch = command.pitch;
+      last_frame_detected_target = true;
+    } else if (last_frame_detected_target) {
+      // 刚丢失目标：只补发最后一次
+      // 要求：不发弹，角度保持上一帧
+      gimbal->send(true, false, last_sent_yaw, 0, 0, last_sent_pitch, 0, 0);
 
-    } else {
-      tools::logger()->info("No control - state: {}, lost: {}/{}",
-                           tracker_state, consecutive_lost_frames, MAX_LOST_FRAMES);
+      // 让显示 / plotter 也和最后一次实际发送一致
+      command.yaw = last_sent_yaw;
+      command.pitch = last_sent_pitch;
+      command.shoot = false;
+      command.control = true;
+
+      // 只补发一次，后续持续无目标时不再发送任何消息
+      last_frame_detected_target = false;
     }
 
-    // -------------------- 帧率计算 --------------------
-    auto frame_end = std::chrono::steady_clock::now();
-    double frame_time = tools::delta_time(frame_end, frame_start);
-
-    // 更新帧率计数器
+    // -------------------- FPS 计算 --------------------
     frame_count++;
-    double elapsed_time = tools::delta_time(frame_end, last_frame_time);
+    auto now = std::chrono::steady_clock::now();
+    double elapsed = tools::delta_time(now, last_fps_time);
 
-    // 每秒更新一次FPS
-    if (elapsed_time >= fps_update_interval) {
-      fps = frame_count / elapsed_time;
+    if (elapsed >= fps_update_interval) {
+      fps = frame_count / elapsed;
       frame_count = 0;
-      last_frame_time = frame_end;
+      last_fps_time = now;
 
-      // 输出当前帧率
-      tools::logger()->info("Current FPS: {:.1f}, State: {}", fps, tracker_state);
+      tools::logger()->info("FPS: {:.1f}, Tracker State: {}", fps, tracker.state());
     }
 
-    // ==================== 增强的可视化 ====================
-    auto finish = std::chrono::steady_clock::now();
-
-    // 减少性能日志频率避免影响性能
-    static int perf_log_counter = 0;
-    if (perf_log_counter++ % 5 == 0) {
-      tools::logger()->info(
-        "yolo: {:.1f}ms, tracker: {:.1f}ms, aimer: {:.1f}ms",
-        tools::delta_time(tracker_start, yolo_start) * 1e3,
-        tools::delta_time(aimer_start, tracker_start) * 1e3,
-        tools::delta_time(finish, aimer_start) * 1e3);
-    }
-
+    // -------------------- 基础文字信息 --------------------
     Eigen::Vector3d euler = tools::eulers(gimbal_q.toRotationMatrix(), 2, 1, 0) * 57.3;
-    
-    // 显示跟踪状态（不同颜色）
+
+    std::string tracker_state = tracker.state();
     cv::Scalar state_color;
-    if (tracker_state == "tracking") state_color = {0, 255, 0};        // 绿色
-    else if (tracker_state == "temp_lost") state_color = {0, 255, 255}; // 黄色
-    else if (tracker_state == "detecting") state_color = {255, 255, 0}; // 青色
-    else state_color = {0, 0, 255};                                    // 红色
-    
+    if (tracker_state == "tracking")
+      state_color = {0, 255, 0};
+    else if (tracker_state == "temp_lost")
+      state_color = {0, 255, 255};
+    else if (tracker_state == "detecting")
+      state_color = {255, 255, 0};
+    else
+      state_color = {0, 0, 255};
+
+    tools::draw_text(img, fmt::format("State: {}", tracker_state), {10, 30}, state_color);
     tools::draw_text(
-      img, 
-      fmt::format("State: {} [{}/{}]", tracker_state, consecutive_lost_frames, MAX_LOST_FRAMES), 
-      {10, 30}, state_color);
-    
-    tools::draw_text(
-      img, fmt::format("gimbal yaw:{:.2f}, pitch:{:.2f}", euler[0], euler[2]), {10, 60},
+      img, fmt::format("Gimbal yaw:{:.2f}, pitch:{:.2f}", euler[0], euler[2]), {10, 60},
       {255, 255, 255});
     tools::draw_text(
-      img,
-      fmt::format(
-        "cmd yaw:{:.2f}, pitch:{:.2f}, shoot:{}", command.yaw * 57.3, command.pitch * 57.3,
-        command.shoot),
+      img, fmt::format("Cmd yaw:{:.2f}, pitch:{:.2f}", command.yaw * 57.3, command.pitch * 57.3),
       {10, 90}, {154, 50, 205});
-      
-    // 显示目标稳定性
-    if (target_stable) {
-      tools::draw_text(img, "STABLE", {10, 120}, {0, 255, 0});
-    } else if (has_valid_target) {
-      tools::draw_text(img, "ACQUIRING", {10, 120}, {0, 255, 255});
+
+    if (command.shoot && command.control) {
+      tools::draw_text(img, "FIRE", {10, 120}, cv::Scalar(0, 0, 255), 1.2);
+    } else {
+      tools::draw_text(img, "HOLD", {10, 120}, cv::Scalar(200, 200, 200));
     }
 
-    // -------------------- 绘制 debug aim point --------------------
-    if (!targets.empty() && aimer.debug_aim_point.valid) {
-      auto & aim_point = aimer.debug_aim_point;
-      Eigen::Vector4d aim_xyza;
-      for (int i = 0; i < 4; ++i) {
-        aim_xyza[i] = static_cast<double>(aim_point.xyza[i]);
-      }
+    // for (const auto & target : targets) {
+    //   const auto & armor_xyza_list = target.armor_xyza_list();
 
-      auto & first_target = targets.front();
-      auto image_points = solver.reproject_armor(
-        aim_xyza.head<3>(), aim_xyza[3], first_target.armor_type, first_target.name);
-        
-      // 根据稳定性改变颜色
-      cv::Scalar point_color = target_stable ? cv::Scalar(0, 255, 0) : cv::Scalar(0, 165, 255);
-      tools::draw_points(img, image_points, point_color);
-    }
-    
-    // 在预测状态显示提示
-    if (tracker_state == "temp_lost") {
-      tools::draw_text(img, "PREDICTING...", {10, 150}, {255, 255, 0});
-    }
+    //   for (size_t i = 0; i < armor_xyza_list.size(); ++i) {
+    //     const Eigen::Vector4d & xyza = armor_xyza_list[i];
 
-    // -------------------- 观测与绘图 --------------------
+    //     // 1. 画装甲板（绿色）
+    //     auto image_points =
+    //       solver.reproject_armor(xyza.head<3>(), xyza[3], target.armor_type, target.name);
+    //     tools::draw_points(img, image_points, {0, 255, 0});
+
+    //     // 2. 装甲板中心 → 像素坐标
+    //     std::vector<cv::Point3f> world_pts = {cv::Point3f(
+    //       static_cast<float>(xyza[0]), static_cast<float>(xyza[1]), static_cast<float>(xyza[2]))};
+
+    //     auto pixel_pts = solver.world2pixel(world_pts);
+    //     if (pixel_pts.empty()) continue;
+
+    //     cv::Point2f center_pt = pixel_pts[0];
+
+    //     // 3. 画 id（红字）
+    //     cv::putText(
+    //       img, fmt::format("id={}", i), center_pt + cv::Point2f(5, -5), cv::FONT_HERSHEY_SIMPLEX,
+    //       0.6, cv::Scalar(0, 0, 255), 2);
+    //   }
+    // }
+
+    // // 绘制瞄准点
+    // if (!targets.empty() && aimer.debug_aim_point.valid) {
+    //   Eigen::Vector3d aim_xyz(
+    //     aimer.debug_aim_point.xyza[0], aimer.debug_aim_point.xyza[1],
+    //     aimer.debug_aim_point.xyza[2]);
+
+    //   std::vector<cv::Point3f> world_pts = {cv::Point3f(
+    //     static_cast<float>(aim_xyz.x()), static_cast<float>(aim_xyz.y()),
+    //     static_cast<float>(aim_xyz.z()))};
+
+    //   // 投影到图像平面
+    //   auto pixel_pts = solver.world2pixel(world_pts);
+
+    //   if (!pixel_pts.empty()) {
+    //     cv::Point2f pt = pixel_pts[0];
+    //     // 实心红圆 + 白边（更醒目）
+    //     cv::circle(img, pt, 5, cv::Scalar(0, 0, 255), -1);     // 红色填充
+    //     cv::circle(img, pt, 6, cv::Scalar(255, 255, 255), 1);  // 白色轮廓
+    //   }
+    // }
+
+    // ==================== 【End 可视化】====================
+
+    // -------------------- Plotter --------------------
     nlohmann::json data;
+    if (!targets.empty()) {
+      auto target = targets.front();
+      Eigen::VectorXd x = target.ekf_x();
+      data["x"] = x[0];
+      data["vx"] = x[1];
+      data["y"] = x[2];
+      data["vy"] = x[3];
+      data["z"] = x[4];
+      data["vz"] = x[5];
+      data["a"] = x[6] * 57.3;
+      data["w"] = x[7];
+      data["r"] = x[8];
+      data["l"] = x[9];
+      data["h"] = x[10];
+      data["last_id"] = target.last_id;
+      // 卡方检验数据
+      data["residual_yaw"] = target.ekf().data.at("residual_yaw");
+      data["residual_pitch"] = target.ekf().data.at("residual_pitch");
+      data["residual_distance"] = target.ekf().data.at("residual_distance");
+      data["residual_angle"] = target.ekf().data.at("residual_angle");
+      data["nis"] = target.ekf().data.at("nis");
+      data["nees"] = target.ekf().data.at("nees");
+      data["nis_fail"] = target.ekf().data.at("nis_fail");
+      data["nees_fail"] = target.ekf().data.at("nees_fail");
+      data["recent_nis_failures"] = target.ekf().data.at("recent_nis_failures");
+    }
+    data["fps"] = fps;
     data["gimbal_yaw"] = euler[0];
-    data["cmd_yaw"] = command.yaw * 57.3;
-    data["shoot"] = command.shoot;
     data["gimbal_pitch"] = euler[2];
+    data["cmd_yaw"] = command.yaw * 57.3;
     data["cmd_pitch"] = command.pitch * 57.3;
     data["track_state"] = tracker_state;
-    data["lost_frames"] = consecutive_lost_frames;
-    data["stable"] = target_stable;
     data["control"] = command.control;
+    data["shoot"] = command.shoot;
 
     plotter.plot(data);
 
-    cv::resize(img, img, {}, 0.5, 0.5);
-    cv::imshow("reprojection", img);
-    if (cv::waitKey(1) == 'q') break;
+    // -------------------- 显示 --------------------
+    cv::resize(img, img, {}, 0.01, 0.01);
+    cv::imshow("auto_aim", img);
+    if (cv::waitKey(1) == 'q') {
+      break;
+    }
   }
-  
+
   rclcpp::shutdown();
   return 0;
 }

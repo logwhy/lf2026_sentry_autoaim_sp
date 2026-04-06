@@ -24,6 +24,9 @@ YOLO::YOLO(const std::string & config_path, bool debug)
   else if (yolo_name == "yolov5") {
     yolo_ = std::make_unique<YOLOV5>(config_path, debug);
   }
+  else if (yolo_name == "0526") {
+    yolo_ = std::make_unique<YOLOV5>(config_path, debug);
+  }
 
   else {
     throw std::runtime_error("Unknown yolo name: " + yolo_name + "!");
